@@ -1,0 +1,1318 @@
+{
+  "sources": [
+    {
+      "store": "פוקס",
+      "aliases": [
+        "FOX",
+        "פוקס"
+      ],
+      "sourceUrl": "https://fox.co.il/pages/branches",
+      "checkedAt": "2026-09-20",
+      "examined": 80,
+      "included": 21,
+      "coverage": "partial",
+      "note": "Only reviewed navigation links are included. Venue-level addresses are preserved as supplied; voucher eligibility is determined separately from the voucher catalog.",
+      "skipped": [
+        {
+          "city": "בני ברק",
+          "name": "בני ברק",
+          "reason": "missing-navigation-link"
+        },
+        {
+          "city": "טמרה",
+          "name": "SEVEN מתחם טמרה",
+          "reason": "missing-navigation-link"
+        },
+        {
+          "city": "מודיעין מכבים רעות",
+          "name": "קניון מוריה מודיעין",
+          "reason": "missing-navigation-link"
+        },
+        {
+          "city": "קריית ביאליק",
+          "name": "פארק אפקה קריית ביאליק",
+          "reason": "needs-review"
+        },
+        {
+          "city": "גדרה",
+          "name": "ביג גדרה",
+          "reason": "needs-review"
+        },
+        {
+          "city": "מגדל העמק",
+          "name": "ביג מגדל העמק",
+          "reason": "needs-review"
+        },
+        {
+          "city": "עפולה",
+          "name": "קניון העמקים",
+          "reason": "needs-review"
+        },
+        {
+          "city": "אור עקיבא",
+          "name": "ביג אור עקיבא",
+          "reason": "needs-review"
+        },
+        {
+          "city": "אילת",
+          "name": "שבעת הכוכבים אילת",
+          "reason": "needs-review"
+        },
+        {
+          "city": "תל אביב",
+          "name": "נמל תל אביב",
+          "reason": "needs-review"
+        },
+        {
+          "city": "איירפורט סיטי",
+          "name": "מתחם איירפורט סיטי",
+          "reason": "needs-review"
+        },
+        {
+          "city": "אשקלון",
+          "name": "צומת סילבר",
+          "reason": "needs-review"
+        },
+        {
+          "city": "אילת",
+          "name": "ביג אילת",
+          "reason": "needs-review"
+        },
+        {
+          "city": "נצרת",
+          "name": "מתחם דודג סנטר נצרת",
+          "reason": "needs-review"
+        },
+        {
+          "city": "מגדל העמק",
+          "name": "מגדל העמק פרץ סנטר",
+          "reason": "needs-review"
+        },
+        {
+          "city": "רמת ישי",
+          "name": "קניון סטריט מול רמת ישי",
+          "reason": "needs-review"
+        },
+        {
+          "city": "נהריה",
+          "name": "קניון ארנה נהריה",
+          "reason": "needs-review"
+        },
+        {
+          "city": "רחובות",
+          "name": "קניוני עופר בילו סנטר",
+          "reason": "needs-review"
+        },
+        {
+          "city": "שדרות",
+          "name": "מתחם פרץ סנטר שדרות",
+          "reason": "needs-review"
+        },
+        {
+          "city": "דימונה",
+          "name": "מתחם דמרי",
+          "reason": "needs-review"
+        },
+        {
+          "city": "אשדוד",
+          "name": "סטאר אשדוד",
+          "reason": "needs-review"
+        },
+        {
+          "city": "קרית גת",
+          "name": "ביג קרית גת",
+          "reason": "needs-review"
+        },
+        {
+          "city": "אשדוד",
+          "name": "ביג פאשן אשדוד",
+          "reason": "needs-review"
+        },
+        {
+          "city": "באר שבע",
+          "name": "ביג ב\"ש",
+          "reason": "needs-review"
+        },
+        {
+          "city": "כפר יונה",
+          "name": "קניון כפר יונה",
+          "reason": "needs-review"
+        },
+        {
+          "city": "נתניה",
+          "name": "ביג פולג נתניה",
+          "reason": "needs-review"
+        },
+        {
+          "city": "חיפה",
+          "name": "קניון גרנד חיפה",
+          "reason": "needs-review"
+        },
+        {
+          "city": "נתיבות",
+          "name": "מרכז מסחרי גלובס",
+          "reason": "needs-review"
+        },
+        {
+          "city": "קרית אונו",
+          "name": "קניון קרית אונו",
+          "reason": "needs-review"
+        },
+        {
+          "city": "בת ים",
+          "name": "קניון בת ים",
+          "reason": "needs-review"
+        },
+        {
+          "city": "יהוד",
+          "name": "ביג יהוד",
+          "reason": "needs-review"
+        },
+        {
+          "city": "קרית שמונה",
+          "name": "ביג קרית שמונה",
+          "reason": "needs-review"
+        },
+        {
+          "city": "קרית ביאליק",
+          "name": "קניון הקריון",
+          "reason": "needs-review"
+        },
+        {
+          "city": "חיפה",
+          "name": "חוצות המפרץ אאוטלט",
+          "reason": "needs-review"
+        },
+        {
+          "city": "חיפה",
+          "name": "ביג צ'ק פוסט",
+          "reason": "needs-review"
+        },
+        {
+          "city": "קרית אתא",
+          "name": "ביג קריות",
+          "reason": "needs-review"
+        },
+        {
+          "city": "קרית אתא",
+          "name": "קניון שער הצפון איקאה",
+          "reason": "needs-review"
+        },
+        {
+          "city": "כרמיאל",
+          "name": "ביג כרמיאל",
+          "reason": "needs-review"
+        },
+        {
+          "city": "ראש פינה",
+          "name": "סנטר ראש פינה",
+          "reason": "needs-review"
+        },
+        {
+          "city": "ירושלים",
+          "name": "יפו 37",
+          "reason": "needs-review"
+        },
+        {
+          "city": "ירושלים",
+          "name": "קניון מלחה",
+          "reason": "needs-review"
+        },
+        {
+          "city": "רעננה",
+          "name": "קניון רננים",
+          "reason": "needs-review"
+        },
+        {
+          "city": "ראש העין",
+          "name": "קניון לב אפק",
+          "reason": "needs-review"
+        },
+        {
+          "city": "אריאל",
+          "name": "קניון אריאל",
+          "reason": "needs-review"
+        },
+        {
+          "city": "כפר סבא",
+          "name": "קניון ערים",
+          "reason": "needs-review"
+        },
+        {
+          "city": "כפר סבא",
+          "name": "קניון הירוקה",
+          "reason": "needs-review"
+        },
+        {
+          "city": "כפר סבא",
+          "name": "קניון G",
+          "reason": "needs-review"
+        },
+        {
+          "city": "פתח תקווה",
+          "name": "עופר הקניון הגדול",
+          "reason": "needs-review"
+        },
+        {
+          "city": "זכרון יעקב",
+          "name": "מתחם מול זיכרון",
+          "reason": "needs-review"
+        },
+        {
+          "city": "פרדס חנה",
+          "name": "ביג פרדס חנה",
+          "reason": "needs-review"
+        },
+        {
+          "city": "יוקנעם",
+          "name": "ביג יוקנעם",
+          "reason": "needs-review"
+        },
+        {
+          "city": "טבריה",
+          "name": "ביג פוריה",
+          "reason": "needs-review"
+        },
+        {
+          "city": "חדרה",
+          "name": "מתחם מיקס חדרה",
+          "reason": "needs-review"
+        },
+        {
+          "city": "אשקלון",
+          "name": "מתחם ברנע",
+          "reason": "needs-review"
+        },
+        {
+          "city": "אום אל פאחם",
+          "name": "מתחן SEVEN אום א.פ.",
+          "reason": "needs-review"
+        },
+        {
+          "city": "עין שמר",
+          "name": "מתחם אלון עין שמר",
+          "reason": "needs-review"
+        },
+        {
+          "city": "רחובות",
+          "name": "קניון רחובות",
+          "reason": "needs-review"
+        },
+        {
+          "city": "תל אביב",
+          "name": "קניון עזריאלי",
+          "reason": "needs-review"
+        },
+        {
+          "city": "תל אביב",
+          "name": "דיזנגוף סנטר",
+          "reason": "needs-review"
+        }
+      ]
+    },
+    {
+      "store": "נייק",
+      "aliases": [
+        "נייק",
+        "NIKE"
+      ],
+      "sourceUrl": "https://www.nike.com/il/retail/directory/israel/tel-aviv",
+      "checkedAt": "2026-09-20",
+      "examined": 10,
+      "included": 5,
+      "coverage": "partial",
+      "note": "נבדק אזור תל אביב בלבד. סניפי עודפים ומיקומים סותרים הושמטו; יתר הארץ טרם נבדקה.",
+      "skipped": [
+        {
+          "city": "",
+          "name": "Holon Nike Factory Store",
+          "reason": "outlet-or-temporarily-closed"
+        },
+        {
+          "city": "",
+          "name": "Nike Sarona (Partnered)",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "",
+          "name": "Nike Store Glilot (Partnered)",
+          "reason": "source-coordinate-mismatch"
+        },
+        {
+          "city": "",
+          "name": "Nike Store Ramat Aviv (Partnered)",
+          "reason": "source-coordinate-mismatch"
+        },
+        {
+          "city": "",
+          "name": "NSP Gindi TLV (Partnered)",
+          "reason": "source-coordinate-mismatch"
+        }
+      ]
+    },
+    {
+      "store": "MANGO",
+      "aliases": [
+        "MANGO",
+        "מנגו"
+      ],
+      "sourceUrl": "https://shop.mango.com/il/en/stores/tel-aviv/ramat-aviv-mall/2807",
+      "checkedAt": "2026-09-20",
+      "examined": 1,
+      "included": 0,
+      "coverage": "blocked",
+      "note": "האתר חסם גישה אוטומטית. זוהה סניף רמת אביב, אך טרם אומת מיקום מדויק.",
+      "skipped": [
+        {
+          "city": "תל אביב",
+          "name": "רמת אביב",
+          "reason": "coordinates-not-verified"
+        }
+      ]
+    },
+    {
+      "store": "פוקס הום",
+      "aliases": [
+        "פוקס הום",
+        "FOX HOME"
+      ],
+      "sourceUrl": "https://www.foxhome.co.il/pages/branches",
+      "checkedAt": "2026-09-20",
+      "examined": 106,
+      "included": 10,
+      "coverage": "partial",
+      "note": "נכללו רק קישורי ניווט שנבדקו. מיקום מתחם מסחרי אינו מציין קומה או כניסה; יתר הסניפים ממתינים לאימות.",
+      "skipped": [
+        {
+          "city": "באר שבע",
+          "name": "באר שבע עודפים",
+          "reason": "outlet-or-temporarily-closed"
+        },
+        {
+          "city": "תל אביב",
+          "name": "נמל תל אביב",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "ראשון לציון",
+          "name": "ראשון לציון",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "רגבה",
+          "name": "רגבה",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "אום אל פחם",
+          "name": "אום אל פחם",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "אשדוד",
+          "name": "אשדוד",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "ירושלים",
+          "name": "ירושלים",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "ירושלים",
+          "name": "ירושלים",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "נתניה",
+          "name": "נתניה",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "ראש העין",
+          "name": "ראש העין",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "כרמיאל",
+          "name": "כרמיאל",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "תל אביב",
+          "name": "תל אביב",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "רמלה",
+          "name": "רמלה",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "חולון",
+          "name": "חולון",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "בית שאן",
+          "name": "בית שאן",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "מודיעין",
+          "name": "מודיעין",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "אשקלון",
+          "name": "אשקלון",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "כפר סבא",
+          "name": "כפר סבא",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "טבריה",
+          "name": "טבריה",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "בת ים",
+          "name": "בת ים",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "גבעתיים",
+          "name": "גבעתיים",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "אריאל",
+          "name": "אריאל",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "שדרות",
+          "name": "שדרות",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "גוש עציון",
+          "name": "גוש עציון",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "נתיבות",
+          "name": "נתיבות",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "גן יבנה",
+          "name": "גן יבנה",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "חריש",
+          "name": "חריש",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "שוהם",
+          "name": "שוהם",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "אשדוד",
+          "name": "אשדוד",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "אשקלון",
+          "name": "אשקלון",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "דימונה",
+          "name": "דימונה",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "מודיעין",
+          "name": "מודיעין",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "אילת",
+          "name": "אילת",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "פרדס חנה",
+          "name": "פרדס חנה",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "קרית ביאליק",
+          "name": "קרית ביאליק",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "קרית גת",
+          "name": "קרית גת",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "קרית אונו",
+          "name": "קרית אונו",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "ירכא",
+          "name": "ירכא",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "אופקים",
+          "name": "אופקים",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "זכרון יעקב",
+          "name": "זכרון יעקב",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "אשקלון",
+          "name": "אשקלון",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "שפרעם",
+          "name": "שפרעם",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "רחובות",
+          "name": "רחובות",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "נתניה",
+          "name": "נתניה",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "גני תקווה",
+          "name": "גני תקווה",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "חדרה",
+          "name": "חדרה",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "דלית אל כרמל",
+          "name": "דלית אל כרמל",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "חדרה",
+          "name": "חדרה",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "הוד השרון",
+          "name": "הוד השרון",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "טירה",
+          "name": "טירה",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "פתח תקווה",
+          "name": "פתח תקווה",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "רעננה",
+          "name": "רעננה",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "חיפה",
+          "name": "חיפה",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "ראש פינה",
+          "name": "ראש פינה",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "באר שבע",
+          "name": "באר שבע",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "כפר תבור",
+          "name": "כפר תבור",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "ירושלים",
+          "name": "ירושלים",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "תל אביב",
+          "name": "תל אביב",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "כפר סבא",
+          "name": "כפר סבא",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "עכו",
+          "name": "עכו",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "פתח תקווה",
+          "name": "פתח תקווה",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "אשדוד",
+          "name": "אשדוד",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "חולון",
+          "name": "חולון",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "מעלה אדומים",
+          "name": "מעלה אדומים",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "גבעת שמואל",
+          "name": "גבעת שמואל",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "דלית אל כרמל",
+          "name": "דלית אל כרמל",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "יהוד",
+          "name": "יהוד",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "תל אביב",
+          "name": "תל אביב",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "ראשון לציון",
+          "name": "ראשון לציון",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "סכנין",
+          "name": "סכנין",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "רמת גן",
+          "name": "רמת גן",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "באר שבע",
+          "name": "באר שבע",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "קרית עקרון",
+          "name": "קרית עקרון",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "ירושלים",
+          "name": "ירושלים",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "בית שמש",
+          "name": "בית שמש",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "יבנה",
+          "name": "יבנה",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "נהריה",
+          "name": "נהריה",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "חיפה",
+          "name": "חיפה",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "יקנעם",
+          "name": "יקנעם",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "באקה אל גרבייה",
+          "name": "באקה אל גרבייה",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "באר שבע",
+          "name": "קניון עזריאלי הנגב",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "כפר יונה",
+          "name": "כפר יונה",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "כפר סבא",
+          "name": "כפר סבא",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "קדימה-צורן",
+          "name": "קדימה-צורן",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "עפולה",
+          "name": "עפולה",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "חיפה",
+          "name": "חיפה",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "קרית שמונה",
+          "name": "קרית שמונה",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "גדרה",
+          "name": "ביג גדרה",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "רמת השרון",
+          "name": "Big fashion גלילות",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "פתח תקווה",
+          "name": "כפר גנים פתח תקווה",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "מגדל העמק",
+          "name": "ביג מגדל העמק",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "נצרת",
+          "name": "נצרת",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "אור עקיבא",
+          "name": "ביג אור עקיבא",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "עפולה",
+          "name": "אאוטלט עפולה העמקים",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "רהט",
+          "name": "רהט",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "רמת גן",
+          "name": "תל השומר שיבא",
+          "reason": "needs-coordinate-review"
+        }
+      ]
+    },
+    {
+      "store": "שילב",
+      "aliases": [
+        "שילב"
+      ],
+      "sourceUrl": "https://www.shilav.co.il/pages/סניפים",
+      "checkedAt": "2026-09-20",
+      "examined": 91,
+      "included": 4,
+      "coverage": "partial",
+      "note": "נכללו רק קישורי ניווט שנבדקו. מיקום מתחם מסחרי אינו מציין קומה או כניסה; יתר הסניפים ממתינים לאימות.",
+      "skipped": [
+        {
+          "city": "נהריה",
+          "name": "ארנה נהריה",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "דימונה",
+          "name": "מתחם דימרי דימונה",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "מתחם פארק הצפון ציפורי",
+          "name": "נצרת פארק הצפון ציפורי",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "עפולה",
+          "name": "עפולה - רכבת צפון",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "איירפורט סיטי (לוד)",
+          "name": "איירפורט סיטי",
+          "reason": "outlet-or-temporarily-closed"
+        },
+        {
+          "city": "כפר-סבא",
+          "name": "קניון ערים כ\"ס",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "באר יעקב",
+          "name": "בי\"ח אסף הרופא",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "אשדוד",
+          "name": "בי\"ח אסותא אשדוד",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "פתח-תקווה",
+          "name": "אבנת פתח-תקווה",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "חיפה",
+          "name": "קניון עזריאלי מבואות חיפה",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "תל-אביב יפו",
+          "name": "קניון עזריאלי ת\"א",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "אשקלון",
+          "name": "בי\"ח ברזילי",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "בת-ים",
+          "name": "קניון בת-ים",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "פתח-תקווה",
+          "name": "בלינסון פתח-תקווה",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "באר-שבע",
+          "name": "ביג באר שבע",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "אשדוד",
+          "name": "ביג פאשן אשדוד",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "בית שמש",
+          "name": "ביג פאשן בית שמש",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "נהריה",
+          "name": "ביג רגבה, נהריה",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "יהוד",
+          "name": "יהוד מתחם BIG",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "בני-ברק",
+          "name": "בית שילב - בני ברק",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "דיר אל-אסד",
+          "name": "דיר אל-אסד",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "תל-אביב יפו",
+          "name": "דיזנגוף סנטר",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "אילת",
+          "name": "מתחם ביג אילת",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "תל-אביב יפו",
+          "name": "גן העיר ת\"א",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "גן שמואל",
+          "name": "גן שמואל",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "גדרה",
+          "name": "ביג גדרה",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "גבעתיים",
+          "name": "קניון גבעתיים",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "רמת השרון",
+          "name": "ביג גלילות",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "פתח-תקווה",
+          "name": "גלובל פתח-תקווה",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "אשקלון",
+          "name": "גלובוס סנטר אשקלון",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "כפר-סבא",
+          "name": "קניון G כפר סבא",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "חיפה",
+          "name": "גרנד קניון חיפה",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "באר-שבע",
+          "name": "גרנד קניון ב\"ש",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "ירושלים",
+          "name": "בי\"ח הדסה עין כרם",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "הרצליה",
+          "name": "שבעת הכוכבים",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "חדרה",
+          "name": "בי\"ח הלל יפה",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "חולון",
+          "name": "קניון חולון",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "חיפה",
+          "name": "חוצות המפרץ חיפה",
+          "reason": "outlet-or-temporarily-closed"
+        },
+        {
+          "city": "תל-אביב יפו",
+          "name": "בי\"ח איכילוב",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "נתניה",
+          "name": "קניון עיר ימים",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "ראשון-לציון",
+          "name": "קניון הזהב ראשל\"צ",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "קרית-גת",
+          "name": "ביג כרמי גת",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "כרמיאל",
+          "name": "MY CENTER כרמיאל",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "נס-ציונה",
+          "name": "קניותר נס ציונה",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "קריית אתא",
+          "name": "קריית אתא - שער הצפון",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "קרית ביאליק",
+          "name": "קרית ביאליק קריון",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "באר-שבע",
+          "name": "קרית הממשלה ב\"ש",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "קרית שמונה",
+          "name": "ביג קרית שמונה",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "קריית אונו",
+          "name": "קניון קריית אונו",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "מעלות",
+          "name": "מעלות- צים סנטר",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "ירושלים",
+          "name": "קניון מלחה (וואטסאפ עסקי בלבד)",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "כפר-סבא",
+          "name": "בי\"ח מאיר",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "מבשרת ציון",
+          "name": "קניון מבשרת",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "מודיעין",
+          "name": "עזריאלי מודיעין",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "נהריה",
+          "name": "בי\"ח ממשלתי נהריה",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "נצרת",
+          "name": "נצרת - דודג' סנטר",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "נתיבות",
+          "name": "נתיבות",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "אור עקיבא",
+          "name": "ביג אור עקיבא",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "נתניה",
+          "name": "פולג נתניה",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "תל-אביב יפו",
+          "name": "קניון רמת אביב",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "רמת ישי",
+          "name": "רמת ישי",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "חיפה",
+          "name": "בי\"ח רמב\"ם",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "רמלה",
+          "name": "עזריאלי רמלה",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "רחובות",
+          "name": "קניון רחובות",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "רעננה",
+          "name": "קניון רננים",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "ראשון-לציון",
+          "name": "ראשון G",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "ראשון-לציון",
+          "name": "קניון ראשונים",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "ראש פינה",
+          "name": "ראש פינה",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "שדרות",
+          "name": "פרץ סנטר שדרות",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "ירושלים",
+          "name": "בי\"ח שערי צדק",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "ראשון-לציון",
+          "name": "קניון שער ראשון",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "הוד השרון",
+          "name": "קניון שרונים",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "פתח-תקווה",
+          "name": "שפיגל פתח-תקווה",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "אשקלון",
+          "name": "סילבר אשקלון",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "באר-שבע",
+          "name": "בי\"ח סורוקה",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "אשדוד",
+          "name": "סטאר אשדוד",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "תל-אביב יפו",
+          "name": "נמל ת\"א",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "ירושלים",
+          "name": "תלפיות",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "טייבה",
+          "name": "טייבה",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "רמת גן",
+          "name": "ביה\"ח שיבא תל השומר",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "טבריה",
+          "name": "טבריה",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "אום אל פאחם",
+          "name": "אום אל פאחם",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "חדרה",
+          "name": "קניון וילג' חדרה",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "ירכא",
+          "name": "ירכא אזה\"ת",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "יוקנעם",
+          "name": "יוקנעם G",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "זכרון יעקב",
+          "name": "זכרון יעקב",
+          "reason": "needs-coordinate-review"
+        },
+        {
+          "city": "יבנה",
+          "name": "סניף גן יבנה",
+          "reason": "needs-coordinate-review"
+        }
+      ]
+    }
+  ]
+}

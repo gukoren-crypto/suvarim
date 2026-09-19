@@ -1,0 +1,6296 @@
+{
+  "productId": "swish-premium",
+  "sourceUrl": "https://swish.co.il/home/family-time-giftcard/product-104068?isInformative=true",
+  "checkedAt": "2026-09-19T20:22:31.656Z",
+  "scope": "Public product directory; no branch addresses or individual-card verification.",
+  "merchants": [
+    {
+      "id": "chain-1003565",
+      "name": "שפע ברכת השם",
+      "category": "רשתות שיווק מזון ופארמה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004090",
+      "name": "שוק העיר",
+      "category": "רשתות שיווק מזון ופארמה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004124",
+      "name": "קינג סטור",
+      "category": "רשתות שיווק מזון ופארמה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004548",
+      "name": "רשת אניס",
+      "category": "רשתות שיווק מזון ופארמה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004581",
+      "name": "ניצת הדובדבן",
+      "category": "רשתות שיווק מזון ופארמה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004726",
+      "name": "קרפור היפר",
+      "category": "רשתות שיווק מזון ופארמה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004727",
+      "name": "קרפור סיטי",
+      "category": "רשתות שיווק מזון ופארמה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004795",
+      "name": "קרפור מרקט",
+      "category": "רשתות שיווק מזון ופארמה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004960",
+      "name": "סופר פארם",
+      "category": "רשתות שיווק מזון ופארמה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005784",
+      "name": "שוקיט- shookit",
+      "category": "רשתות שיווק מזון ופארמה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006014",
+      "name": "יום ביום",
+      "category": "רשתות שיווק מזון ופארמה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006097",
+      "name": "סופר ספיר",
+      "category": "רשתות שיווק מזון ופארמה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006137",
+      "name": "טיב טעם",
+      "category": "רשתות שיווק מזון ופארמה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006454",
+      "name": "מחסני השוק",
+      "category": "רשתות שיווק מזון ופארמה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006913",
+      "name": "רשת רוסמן מרקט",
+      "category": "רשתות שיווק מזון ופארמה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006934",
+      "name": "גרעיני עפולה",
+      "category": "רשתות שיווק מזון ופארמה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006140",
+      "name": "שילב אונליין",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1004571",
+      "name": "terminal x",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1004801",
+      "name": "פוקס הום אונליין",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1004824",
+      "name": "oh my box",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1005049",
+      "name": "משלוחה",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1005218",
+      "name": "נאוטיקה הום אונליין",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1005267",
+      "name": "מועדון הכותנה",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1005424",
+      "name": "H&O און ליין",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1005768",
+      "name": "דיל תאורה אונליין",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1005919",
+      "name": "מוזה קוקטיילים אונליין",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1005946",
+      "name": "Carter's online",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1005948",
+      "name": "מיננה אונליין",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1005978",
+      "name": "סנו עד הבית אונליין",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1005979",
+      "name": "קרליין אונליין",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1006004",
+      "name": "SWEETWEET",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1006032",
+      "name": "מגה ספורט אונליין",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1006080",
+      "name": "Lenovo",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1006091",
+      "name": "פוד אפיל אונליין",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1006241",
+      "name": "קרביץ אונליין",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1006257",
+      "name": "YOOZ",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1006303",
+      "name": "ATIA",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1006340",
+      "name": "פוקס אונליין",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1006354",
+      "name": "לסטר אונליין",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1006395",
+      "name": "Take a nap online",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1006402",
+      "name": "פוט לוקר אונליין",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1006489",
+      "name": "The beauty intelligence",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1006492",
+      "name": "BEENY ONLINE",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1006499",
+      "name": "ללין אונליין",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1006504",
+      "name": "ESTHER אונליין",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1006552",
+      "name": "מינוס 417 אונליין",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1006573",
+      "name": "ליאור מוצרי חשמל אונליין",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1006579",
+      "name": "NOAM LIVING",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1006824",
+      "name": "היליס מוצרים לילדים ותינוקות בעמ",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1006839",
+      "name": "נעמן ורדינון אונליין",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1006862",
+      "name": "מוצצים אונליין",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1006870",
+      "name": "byneta online",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1006882",
+      "name": "GABY'S online",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1006916",
+      "name": "The North Face online",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1006917",
+      "name": "JANSPORT online",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1006919",
+      "name": "altra online",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1006937",
+      "name": "סנדלי שורש אונליין",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1006982",
+      "name": "simmons online",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1006986",
+      "name": "KUNI online",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1006991",
+      "name": "אימהות אונליין",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1007002",
+      "name": "caprice diamonds",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1007006",
+      "name": "מקדונלדס אונליין",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1007016",
+      "name": "בואנו קאזה אונליין",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1007018",
+      "name": "vans online",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1007021",
+      "name": "תיק התיקים אונליין",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1007034",
+      "name": "מקימי אונליין",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1007040",
+      "name": "שייקשוק אונליין",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1007086",
+      "name": "לינרה ליווינג אונליין",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1007087",
+      "name": "ג'רוזלם ננו בייבל אונליין",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1007097",
+      "name": "LEE אונליין",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1007098",
+      "name": "NEW ERA אונליין",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1007099",
+      "name": "Wrangler אונליין",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1007100",
+      "name": "bumpers online",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1007113",
+      "name": "קולומביה אונליין",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-7001905",
+      "name": "שר ספא אונליין",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1006652",
+      "name": "קאזה בלה אונליין",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1006791",
+      "name": "LOOPI online",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1006809",
+      "name": "עדה לזורגן אונליין",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1006816",
+      "name": "happy empy אונליין",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1006141",
+      "name": "טיב טעם אונליין",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1006192",
+      "name": "עגליס אונליין",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1003715",
+      "name": "GA-DE אונליין",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1004205",
+      "name": "דומינוס פיצה אונליין",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1006126",
+      "name": "פיקניק אונליין",
+      "category": "רכישה אונליין",
+      "channel": "online"
+    },
+    {
+      "id": "chain-1001352",
+      "name": "אפרודיטה",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1001446",
+      "name": "נאוטיקה",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1001447",
+      "name": "טימברלנד",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1001489",
+      "name": "סבון",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1001679",
+      "name": "אופטיקה הלפרין",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1001798",
+      "name": "לי קופר",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1002291",
+      "name": "אירוקה ביי סופר-פארם",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003193",
+      "name": "א.א. אורטופדיה",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003258",
+      "name": "ללין",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003768",
+      "name": "גולף",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003770",
+      "name": "GOLF KIDS",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003791",
+      "name": "אינטימה",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003792",
+      "name": "גלי",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003793",
+      "name": "סולוג",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003794",
+      "name": "ניין ווסט",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003795",
+      "name": "מגה ספורט",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003797",
+      "name": "פפאיה",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003807",
+      "name": "סקצ'רס",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003826",
+      "name": "פולגת",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003896",
+      "name": "פוקס",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003901",
+      "name": "אמריקן איגל",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003902",
+      "name": "בילבונג",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003903",
+      "name": "מנגו",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003904",
+      "name": "The Childrens Place",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003948",
+      "name": "פמינה",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003955",
+      "name": "Nimrod and More",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003978",
+      "name": "מיננה",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004040",
+      "name": "ג'ק קובה",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004042",
+      "name": "פקטורי 54",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004048",
+      "name": "ראלף לורן",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004049",
+      "name": "ARMANI EXCHANGE",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004050",
+      "name": "paul&shark",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004051",
+      "name": "מייקל קורס",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004053",
+      "name": "אמפוריו ארמאני",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004054",
+      "name": "בוס",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004057",
+      "name": "טומי הילפיגר",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004058",
+      "name": "קלווין קליין",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004059",
+      "name": "תכשיק",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004080",
+      "name": "NYOU",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004084",
+      "name": "ריפליי",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004087",
+      "name": "סטיב מאדן",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004096",
+      "name": "H&O",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004105",
+      "name": "ליוויס",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004110",
+      "name": "שילב",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004114",
+      "name": "פוט לוקר",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004122",
+      "name": "לחייל ולטייל",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004128",
+      "name": "בוניטה דה מאס",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004161",
+      "name": "ריקושט",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004185",
+      "name": "לבידו",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004195",
+      "name": "אייס קיוב",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004213",
+      "name": "קרייזי ליין",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004386",
+      "name": "אלקטרה זכיין אדידס",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004388",
+      "name": "אופטיקנה",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004414",
+      "name": "דיזל",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004512",
+      "name": "ספידו",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004563",
+      "name": "אליסיום",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004680",
+      "name": "לסטר",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004686",
+      "name": "אמפוריום",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004702",
+      "name": "קולומביה",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004703",
+      "name": "Outsiders",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004704",
+      "name": "שבילים",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004851",
+      "name": "לי קופר קידס",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004857",
+      "name": "פומה",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004858",
+      "name": "פטיט באטו",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004859",
+      "name": "לקוסט",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004866",
+      "name": "SHOWOFF",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004878",
+      "name": "Carter's",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004899",
+      "name": "מגה ספורט קידס",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004918",
+      "name": "JUMP & ONOT",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004995",
+      "name": "The North Face",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004998",
+      "name": "VANS",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005000",
+      "name": "נאטורפיל",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005103",
+      "name": "איל מקיאג'",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005170",
+      "name": "בייביסטאר",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005174",
+      "name": "G CONCEPT STORE",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005175",
+      "name": "DKNY",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005176",
+      "name": "GUESS",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005189",
+      "name": "סם אדלמן",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005208",
+      "name": "בודי שופ",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005270",
+      "name": "סאקוני",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005617",
+      "name": "סאן גלס",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005688",
+      "name": "XRAY",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005731",
+      "name": "Ruby Bay",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005733",
+      "name": "ברוקס",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005735",
+      "name": "עגליס",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005810",
+      "name": "וילברקווין",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005811",
+      "name": "קונברס",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005820",
+      "name": "אלדו",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005827",
+      "name": "בי יוניק",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005894",
+      "name": "דסיגואל",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005895",
+      "name": "TOUS",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005896",
+      "name": "LONGCHAMP",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005897",
+      "name": "BROWNIE - בראוני",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005898",
+      "name": "SUPERDRY",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005899",
+      "name": "BIMBA Y LOLA",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006013",
+      "name": "קליניק",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006015",
+      "name": "בובי בראון",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006016",
+      "name": "mac - מאק",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006018",
+      "name": "אסתי לאודר",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006033",
+      "name": "Rip Curl",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006121",
+      "name": "אהבה",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006134",
+      "name": "H&M",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006158",
+      "name": "אבידור",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006178",
+      "name": "פלורמר",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006187",
+      "name": "אנדר ארמור",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006237",
+      "name": "פלטין מותגים",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006245",
+      "name": "אדידס ישראל",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006288",
+      "name": "סלקשיין",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006306",
+      "name": "BOGART",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006323",
+      "name": "NK COLLECTION נאווה קולאז",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006396",
+      "name": "את לבני נשים",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006397",
+      "name": "דונה ויקטוריה",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006574",
+      "name": "רשת פרופורציה",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006623",
+      "name": "DISKISS אונליין",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006634",
+      "name": "worker",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006640",
+      "name": "למטייל",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006641",
+      "name": "Take a nap",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006735",
+      "name": "MIRZA",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006797",
+      "name": "איתי ברנדס",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006881",
+      "name": "LOVE",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006892",
+      "name": "נייק",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006915",
+      "name": "עדה לזורגן",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006922",
+      "name": "רשת גט פרו",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006960",
+      "name": "רשת מקימי",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1007022",
+      "name": "תיק התיקים",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1007035",
+      "name": "הגרה",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1007089",
+      "name": "אלוף הספורט",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1007094",
+      "name": "LEE",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1007095",
+      "name": "NEW ERA",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1007096",
+      "name": "Wrangler",
+      "category": "אופנה ולייף סטייל",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006985",
+      "name": "רשת KUNI",
+      "category": "הכל לבית",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-104000",
+      "name": "ביתילי",
+      "category": "הכל לבית",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1001135",
+      "name": "סטימצקי",
+      "category": "הכל לבית",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1001203",
+      "name": "zer4u",
+      "category": "הכל לבית",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1001491",
+      "name": "צומת ספרים",
+      "category": "הכל לבית",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003577",
+      "name": "ארקוסטיל",
+      "category": "הכל לבית",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003596",
+      "name": "עמינח",
+      "category": "הכל לבית",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003639",
+      "name": "גוד נייט",
+      "category": "הכל לבית",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003769",
+      "name": "גולף אנד קו",
+      "category": "הכל לבית",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003771",
+      "name": "המשביר לצרכן",
+      "category": "הכל לבית",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003789",
+      "name": "כיתן",
+      "category": "הכל לבית",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003801",
+      "name": "הום סטייל",
+      "category": "הכל לבית",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003815",
+      "name": "מוצצים",
+      "category": "הכל לבית",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003817",
+      "name": "קלאסיקה",
+      "category": "הכל לבית",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003893",
+      "name": "spices",
+      "category": "הכל לבית",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003900",
+      "name": "פוקס הום",
+      "category": "הכל לבית",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003912",
+      "name": "ורדינון",
+      "category": "הכל לבית",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003913",
+      "name": "נעמן פורצלן",
+      "category": "הכל לבית",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004070",
+      "name": "סולתם",
+      "category": "הכל לבית",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004513",
+      "name": "טויס אר אס",
+      "category": "הכל לבית",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004787",
+      "name": "AUTODEPOT",
+      "category": "הכל לבית",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004071",
+      "name": "טרקלין חשמל",
+      "category": "הכל לבית",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004077",
+      "name": "מכלול ברמן בקמפוס",
+      "category": "הכל לבית",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004078",
+      "name": "שקם אלקטריק",
+      "category": "הכל לבית",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004385",
+      "name": "american comfort",
+      "category": "הכל לבית",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004394",
+      "name": "ואהבת",
+      "category": "הכל לבית",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004789",
+      "name": "ACE",
+      "category": "הכל לבית",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004936",
+      "name": "קרביץ",
+      "category": "הכל לבית",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005042",
+      "name": "YOLO",
+      "category": "הכל לבית",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005130",
+      "name": "ג'ונגל חיות מחמד",
+      "category": "הכל לבית",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005162",
+      "name": "FLYING TIGER",
+      "category": "הכל לבית",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005185",
+      "name": "לבן",
+      "category": "הכל לבית",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005199",
+      "name": "פוד אפיל",
+      "category": "הכל לבית",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005581",
+      "name": "נאוטיקה הום",
+      "category": "הכל לבית",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005767",
+      "name": "דיל תאורה",
+      "category": "הכל לבית",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005809",
+      "name": "דינמיקה",
+      "category": "הכל לבית",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005890",
+      "name": "I CELL",
+      "category": "הכל לבית",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005907",
+      "name": "אייבורי",
+      "category": "הכל לבית",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006087",
+      "name": "צמר שטיחים יפים",
+      "category": "הכל לבית",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006119",
+      "name": "ערד טקסטיל",
+      "category": "הכל לבית",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006368",
+      "name": "המטבח",
+      "category": "הכל לבית",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006572",
+      "name": "ליאור מוצרי חשמל",
+      "category": "הכל לבית",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006651",
+      "name": "קאזה בלה",
+      "category": "הכל לבית",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006696",
+      "name": "הסטוק",
+      "category": "הכל לבית",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006741",
+      "name": "דארלן",
+      "category": "הכל לבית",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006825",
+      "name": "אורבן",
+      "category": "הכל לבית",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006840",
+      "name": "אל מאגו",
+      "category": "הכל לבית",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006906",
+      "name": "רשת אולימפיה",
+      "category": "הכל לבית",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006955",
+      "name": "SIMMONS",
+      "category": "הכל לבית",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006990",
+      "name": "רשת סליפי",
+      "category": "הכל לבית",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1007062",
+      "name": "Rossetto",
+      "category": "הכל לבית",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1007073",
+      "name": "רשת הום דקור",
+      "category": "הכל לבית",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003514",
+      "name": "קלארו",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006437",
+      "name": "קפה דייזי",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006781",
+      "name": "pizzetta",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-100773",
+      "name": "גשן",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-100801",
+      "name": "אנרג'וסר",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1001149",
+      "name": "שגב",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1001562",
+      "name": "סיאסטה קפה",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1001586",
+      "name": "סקובר",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1001594",
+      "name": "קפה נטו",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006636",
+      "name": "נגיסה לוד",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1001916",
+      "name": "מקדונלדס  ישראל",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1002123",
+      "name": "קפה פולה",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1002208",
+      "name": "בורגר ראנץ",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1002393",
+      "name": "קזינו סן רמו",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1002398",
+      "name": "רנה",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1002537",
+      "name": "בורגרים",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1002639",
+      "name": "la vaca loca",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1002696",
+      "name": "קפה מנדרין",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1002793",
+      "name": "שטרודל",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1002955",
+      "name": "ווק אווי",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1002999",
+      "name": "נאפיס חולון",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003002",
+      "name": "רשת מקסיקנה",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003071",
+      "name": "קפה קפית",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003135",
+      "name": "איז קפה",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003176",
+      "name": "נמסטה",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003180",
+      "name": "מועדון ארוחת הבוקר",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003186",
+      "name": "מסעדת אינדירה",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003213",
+      "name": "לה גופרה כרמיאל",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003217",
+      "name": "הדרלה מעלות",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003280",
+      "name": "פיצה עגבניה",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003427",
+      "name": "ביגה",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003428",
+      "name": "מסעדת אווז הזהב",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003457",
+      "name": "Mikes Place",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003474",
+      "name": "איטלקיה בתחנה",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003494",
+      "name": "באבא יאגה",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003535",
+      "name": "בטר בורגר",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003546",
+      "name": "אביבים בייקרי",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003779",
+      "name": "סושי בוקס",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003825",
+      "name": "טל בורגר",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003934",
+      "name": "קפה לוגאנו",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004309",
+      "name": "מאפה נאמן",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004316",
+      "name": "דיקסי גריל בר",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004485",
+      "name": "אצה",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004624",
+      "name": "קפה נמרוד  תל אביב",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004678",
+      "name": "בליקר בייקרי אשדוד",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004717",
+      "name": "רשת אגאדיר",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004785",
+      "name": "סמוראיו סושי בר עפולה",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005635",
+      "name": "נגיסה עפולה",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005636",
+      "name": "חצר עין כרם",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004790",
+      "name": "ג'אפן ג'אפן",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004885",
+      "name": "גלידה גולדה",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004886",
+      "name": "אל קפה",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004905",
+      "name": "סיקריט בורגר",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004962",
+      "name": "מיסטר פרצל",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004963",
+      "name": "פאב 55 אוכל ובירה",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005021",
+      "name": "TYO",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005085",
+      "name": "סולו סושי בר",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005086",
+      "name": "וארקדה אילת",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005541",
+      "name": "הצדף ראשון לציון",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005619",
+      "name": "בורגר סטיישן",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005726",
+      "name": "גלידות בן אנד ג'ריס",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005732",
+      "name": "קאסה דל פפה",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005740",
+      "name": "נולה",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005746",
+      "name": "פיאצה גרנדה",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005769",
+      "name": "פלומינו",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005770",
+      "name": "רוסטרס",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005778",
+      "name": "מבשלת בירה הגיבור",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005792",
+      "name": "בליקר בייקרי רמת גן",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005793",
+      "name": "בליקר בייקרי כפר סבא",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005794",
+      "name": "בליקר בייקרי רעננה",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005818",
+      "name": "קפה פיצה ואוירה בעמ",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005821",
+      "name": "מיה ביץ'",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005824",
+      "name": "קאסה לונה אילת",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005843",
+      "name": "רשת יומנגס",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005848",
+      "name": "בשורה",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006057",
+      "name": "אומינו סושי - Umino Sushi",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005849",
+      "name": "טגלוס",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005850",
+      "name": "גסטה",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005855",
+      "name": "רשת פיצה סטורי",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005865",
+      "name": "פינתי",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005872",
+      "name": "אווז הזהב אקספרס",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005879",
+      "name": "מסעדת לוקנדה",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005883",
+      "name": "פאב הדובים",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005904",
+      "name": "מסעדת דוקא",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005913",
+      "name": "פיקולו",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005924",
+      "name": "קפטן הוק",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005931",
+      "name": "צ׳וצ׳ו פאטיו",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005932",
+      "name": "Belago",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006044",
+      "name": "גנדי",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006048",
+      "name": "Just Meat",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006055",
+      "name": "פסאו",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006056",
+      "name": "שיפודים אקספרס אילת",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006060",
+      "name": "Us crispy chicken אילת",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006106",
+      "name": "לה קרנה",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006107",
+      "name": "מיט טיים",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006164",
+      "name": "מסעדת פלייגראונד",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006166",
+      "name": "החברים גריל ישראלי מהדרין",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006168",
+      "name": "פיקה בייקרי",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006173",
+      "name": "בליקר בייקרי קריית גת",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006176",
+      "name": "בורקס הבולגרי",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006179",
+      "name": "לצ'ה פטיסרי",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006211",
+      "name": "חמנייה ברודצקי 17",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006213",
+      "name": "בוקה אחד העם",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006215",
+      "name": "מכבי 40",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006235",
+      "name": "Villa MARE TLV",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006246",
+      "name": "שפרה- מעדניה מבית פועה",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006247",
+      "name": "פועה- קפה ומסעדה",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006255",
+      "name": "אסאדו במדבר",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006267",
+      "name": "לאר דו פאן",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006273",
+      "name": "ברביס",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006292",
+      "name": "לימונצ'לו",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006294",
+      "name": "Beezoo - קונדיטוריית בוטיק",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006297",
+      "name": "יאן סושי",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006325",
+      "name": "קפה לוסיל",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006341",
+      "name": "בליקמח",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006367",
+      "name": "olive-ביסטרו ישראלי",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006373",
+      "name": "סמיר ברמלה",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006378",
+      "name": "פראטלי נתניה",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006379",
+      "name": "Patissereem בייקרי",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006389",
+      "name": "נוקטורנו",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006392",
+      "name": "שווארמה פלפלת המסעדה",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006401",
+      "name": "WokStreet מרכז הכרמל",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006404",
+      "name": "WokStreet רמבם",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006408",
+      "name": "ג'ויה - סושי גריל בר",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006430",
+      "name": "איל גוסטו חיפה",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006431",
+      "name": "לוקו",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006435",
+      "name": "Donna La Cucina",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006448",
+      "name": "זוקו מגדלי לייף",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006450",
+      "name": "בוכמנ׳ס פיצה מודיעין",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006464",
+      "name": "קפטן בורגר",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006468",
+      "name": "זוקו יגאל אלון",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006475",
+      "name": "Rendez-Vous",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006481",
+      "name": "יוגורטה",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006485",
+      "name": "burger box",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006500",
+      "name": "אנטריקוטי",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006508",
+      "name": "סושי בוקס מודיעין",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006516",
+      "name": "אנטיליה",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006518",
+      "name": "המשביר",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006536",
+      "name": "קאבלרו",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006540",
+      "name": "למפור",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006556",
+      "name": "בטר בורגר קרית אונו",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006569",
+      "name": "מסעדת בבא",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006575",
+      "name": "רשת פיצה סנטרל",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006584",
+      "name": "הודו הגדולה",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006635",
+      "name": "לוטם דרעי בייקרי וביסטרו שף",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006653",
+      "name": "ביגה פתח תקווה הקניון הגדול",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006656",
+      "name": "קפה שבע",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006675",
+      "name": "סטלה בייקרי לוי אשכול קרית אונו",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006678",
+      "name": "סטלה בייקרי- שדרה האקדמאית אונו",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006681",
+      "name": "J17",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006688",
+      "name": "פסטלה",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006694",
+      "name": "רשת וניליה",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006698",
+      "name": "lunel",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006700",
+      "name": "המבורגר הדיקטטור (אחי אילת)",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006701",
+      "name": "המבורגר הדיקטטור (מוריה)",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006703",
+      "name": "מסעדת בון גוסטו",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006705",
+      "name": "Secret Pizza",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006706",
+      "name": "מסעדת בזיליה",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006771",
+      "name": "פיצה רומא",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006775",
+      "name": "מעדני צ'ונה",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006780",
+      "name": "Zeit fur Brot",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006713",
+      "name": "מלון פרימה ורה י-ם",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006718",
+      "name": "מרינה דלאל",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006719",
+      "name": "מלון פרימה רויאל י-ם",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006731",
+      "name": "קפה בסיבוב (עגלת קפה)",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006733",
+      "name": "סלון יווני",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006739",
+      "name": "פאזל בורגר",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006745",
+      "name": "מעדניית גליאנו",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006757",
+      "name": "מסעדת רמונא הכשרה",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006758",
+      "name": "רשת Greenz",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006759",
+      "name": "רמונא הקטנה",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006764",
+      "name": "פרמזנו",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006766",
+      "name": "קאסה",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006769",
+      "name": "רשת איטליינוס",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006770",
+      "name": "רקל קונדיטוריה",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006790",
+      "name": "LISA - Beer Garden",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006806",
+      "name": "Casa Bella ביסטרו ובר איטלקי",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006807",
+      "name": "לופו כפר סבא",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006810",
+      "name": "לחמשה",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006812",
+      "name": "מילאנו בייקרי",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006815",
+      "name": "מנזה",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006818",
+      "name": "בית קפה ארצי DELI",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006827",
+      "name": "לוצ'ה ערד",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006829",
+      "name": "לה פטיסייר",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006863",
+      "name": "קמפניה",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006864",
+      "name": "סורנטו",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006875",
+      "name": "DOMO",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006876",
+      "name": "קפה פלור",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006885",
+      "name": "רשת גרקו",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006886",
+      "name": "פיצה שף",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006891",
+      "name": "רשת בייגל קפה",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006898",
+      "name": "מתוקו - MATOKO",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006903",
+      "name": "La Bera לה ברה",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006904",
+      "name": "שיפודי ציפורה פתח תקווה",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006911",
+      "name": "ביאנקה אילת",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006928",
+      "name": "Leo. Resto Bar",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006929",
+      "name": "המבורגר הדיקטטור (התעשייה 11",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006933",
+      "name": "מסעדת לורנס",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006940",
+      "name": "שיסו",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006946",
+      "name": "fuego",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006965",
+      "name": "ג'ורג'יו קפה",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006966",
+      "name": "ספייס האוס דיזינגוף",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006969",
+      "name": "MI VA - TLV",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006970",
+      "name": "Alibi bar",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1007010",
+      "name": "טורקיז שווארמה",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1007013",
+      "name": "שיפודי אלי",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1007014",
+      "name": "Mila house",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1007023",
+      "name": "NINNYO TLV",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1007025",
+      "name": "פטריקס חולון",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1007027",
+      "name": "מסעדת טאלה",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1007028",
+      "name": "אלגו דולסה",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1007070",
+      "name": "ג'טרו בורגר",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1007078",
+      "name": "M32",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1007080",
+      "name": "MEATUP- GRILL BURGER & MORE",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1007083",
+      "name": "לה תבור בייקרי",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1007093",
+      "name": "Nord 26",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1007102",
+      "name": "סן פדרו- המקסיקנית הכשרה",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1007106",
+      "name": "גרינברג בורגר",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1007116",
+      "name": "Fantasia יס פלאנט ראשון",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-8010024",
+      "name": "גאטוס על המים",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-8010044",
+      "name": "סינטה מסעדת בשרים",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-8010047",
+      "name": "סואי סושי",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-8010075",
+      "name": "בוצ'רי דה ברילוצ'ה",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-8010086",
+      "name": "גורילה",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-8010098",
+      "name": "אווזי",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-8010101",
+      "name": "חוות התבלינים בגלבוע",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-8010105",
+      "name": "אייר קפה איירפורט סיטי",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-8010114",
+      "name": "מילקה קפה",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-8010117",
+      "name": "ברד אנד ברקפסט",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-8010127",
+      "name": "בוצרי אחוזת בשר",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-8010129",
+      "name": "קפה גרג",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-8010130",
+      "name": "לחם ארז",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-8010131",
+      "name": "ריבר נודלס בר",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-8010133",
+      "name": "איטלקיה בפשפשים",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-8010144",
+      "name": "מקס ברנר",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-8010148",
+      "name": "BLACK",
+      "category": "מסעדות ובתי קפה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004107",
+      "name": "ספורטר",
+      "category": "בריאות וכושר",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004215",
+      "name": "רשת הקאנטרי",
+      "category": "בריאות וכושר",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004421",
+      "name": "קאנטרי 360",
+      "category": "בריאות וכושר",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004471",
+      "name": "קאנטרי גן עברון",
+      "category": "בריאות וכושר",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005742",
+      "name": "רבו פיטנס- Revo fitness",
+      "category": "בריאות וכושר",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005753",
+      "name": "קאנטרי נוף הגליל",
+      "category": "בריאות וכושר",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005783",
+      "name": "מרכז ספורט המכבים",
+      "category": "בריאות וכושר",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005889",
+      "name": "אביטליטי",
+      "category": "בריאות וכושר",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005902",
+      "name": "מרכז התזונה של מירי חדד",
+      "category": "בריאות וכושר",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006067",
+      "name": "ארה פיטנס",
+      "category": "בריאות וכושר",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1001707",
+      "name": "freefit",
+      "category": "בריאות וכושר",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003597",
+      "name": "הולמס פלייס&גו אקטיב",
+      "category": "בריאות וכושר",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004020",
+      "name": "קאנטרי אליצור",
+      "category": "בריאות וכושר",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006111",
+      "name": "אקסטרה ג'ים",
+      "category": "בריאות וכושר",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006415",
+      "name": "תבל פילאטיס",
+      "category": "בריאות וכושר",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006503",
+      "name": "דרים ג'ים",
+      "category": "בריאות וכושר",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006506",
+      "name": "כפר המכביה- מועדון ספורט",
+      "category": "בריאות וכושר",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006659",
+      "name": "ליאת יגר קבוצות הרזיה ופעילות",
+      "category": "בריאות וכושר",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006711",
+      "name": "איב חדר כושר לנשים",
+      "category": "בריאות וכושר",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006752",
+      "name": "קאנטרי נווה אילן",
+      "category": "בריאות וכושר",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006761",
+      "name": "move",
+      "category": "בריאות וכושר",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006837",
+      "name": "קאנטרי בילו",
+      "category": "בריאות וכושר",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006869",
+      "name": "קרוס דה סיטי - Cross The City",
+      "category": "בריאות וכושר",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006925",
+      "name": "מטרו metro - חדר כושר",
+      "category": "בריאות וכושר",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006983",
+      "name": "מינימל בודי  MINIMAL BODY",
+      "category": "בריאות וכושר",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006987",
+      "name": "רשת ספורטיב- GYM",
+      "category": "בריאות וכושר",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1000041",
+      "name": "קיפצובה",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1000044",
+      "name": "קייקי הגושרים",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1000053",
+      "name": "חמת גדר",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1000061",
+      "name": "אקווה ספורט",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1000064",
+      "name": "טייפון הרחפת",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1000074",
+      "name": "פארק אתגרים אשדוד",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1000102",
+      "name": "ישראל ים",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1000272",
+      "name": "פארק הדייג מעיין צבי",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1001350",
+      "name": "דן קארטינג",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1002115",
+      "name": "מיני ישראל",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1001372",
+      "name": "סינמטק ירושלים",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1001471",
+      "name": "סול טורס",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1001651",
+      "name": "טרקטורוני דישון",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1001872",
+      "name": "מוזיאון נחום גוטמן לאמנות",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1002018",
+      "name": "היכל הקרח חולון",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1002025",
+      "name": "גל במדבר",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1002119",
+      "name": "פארק קרסו למדע",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1002275",
+      "name": "טופ 94 פארק אתגרים",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1002303",
+      "name": "הגן הבוטני אילת",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1002351",
+      "name": "תיירות יד מרדכי",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1002395",
+      "name": "4 chef",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1002454",
+      "name": "סגווי ירושלים smart tour",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1002473",
+      "name": "דביר מצנחי רחיפה",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1002604",
+      "name": "iJump",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1002621",
+      "name": "אקסטרים פארק עכו",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1002669",
+      "name": "חלום עולמי",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1002754",
+      "name": "סקיי טרק כדורים פורחים",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003058",
+      "name": "קיסוסקי אילת",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003226",
+      "name": "טרק ים אכזיב",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003366",
+      "name": "הבוסתן של מוטי",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003443",
+      "name": "מחבואים בחשיכה",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003450",
+      "name": "2jump",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003957",
+      "name": "לייזר סיטי פתח תקווה",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003961",
+      "name": "לייזר סיטי גלילות",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004013",
+      "name": "אסקייפלנד",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004065",
+      "name": "ווי סרף",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004066",
+      "name": "פיק אפ סרף עמותת אל הים",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004082",
+      "name": "מצנחי הים האדום",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004103",
+      "name": "הכוורת מרכז מבקרים",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004133",
+      "name": "ישראל 2 גו",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004143",
+      "name": "לייזר טאג - לייזר סטריט רעננה",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004391",
+      "name": "קווסטים חדרי בריחה",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004405",
+      "name": "משחקיית my baby",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004436",
+      "name": "הצנחניה",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004482",
+      "name": "נינג'ה פארק רחובות",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004526",
+      "name": "גלאקסיה",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004598",
+      "name": "רואים את האופק בים",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004690",
+      "name": "imracing",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004811",
+      "name": "סיורי אופנה ועיצוב - גל שוקרון",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004848",
+      "name": "איקא מטיילים קצת אחרת",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004892",
+      "name": "תיירות הרובע היהודי",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004924",
+      "name": "המתחם נוף הגליל",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004933",
+      "name": "רוג'ום מועדון טיפוס וטבע",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004939",
+      "name": "MESA - בית לנגרים ולעץ",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004945",
+      "name": "סייל אילת",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004976",
+      "name": "מיסטיק רום",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004981",
+      "name": "סימולטור Asim",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005017",
+      "name": "פאנקי מאנקי כפר סבא",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005020",
+      "name": "פאנקי מאנקי אשקלון",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005022",
+      "name": "GO JUMP",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005031",
+      "name": "Dguide",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005064",
+      "name": "קיר יואב אקספארק חיפה",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005111",
+      "name": "פיקסל - צילום בסמארטפון",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005115",
+      "name": "מיי נינג'ה מודיעין",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005173",
+      "name": "בי תל אביב טורס Be Tel Aviv tours",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005295",
+      "name": "אלכימיה סטודיו",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005341",
+      "name": "אאוריקה עיצובים",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005540",
+      "name": "פאנקי מאנקי כפר יונה",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005568",
+      "name": "ראלי ארט",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005657",
+      "name": "אומנות על הבר-חוף",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005756",
+      "name": "ווטרלנד פארק המים אילת",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005846",
+      "name": "פול גיימס",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005892",
+      "name": "אתגר בהר",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005910",
+      "name": "נוגילולה - משחקיית עץ לילדים",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005938",
+      "name": "גלית ניניו סטיילסטית אישית",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005941",
+      "name": "סאנשיין גרופ",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005968",
+      "name": "אלנתן תכשיטים סדנת צורפות",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005986",
+      "name": "גן החיות הלימודי חיפה",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006098",
+      "name": "שחמט ישראל",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006100",
+      "name": "ילדי הפלא",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006142",
+      "name": "טננה - קורס ספרדית דיגיטלי",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006193",
+      "name": "אקווה פאן אילת",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006195",
+      "name": "יאכטה שונית אילת",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006207",
+      "name": "אנליזה - המרכז הישראלי להכשרות",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006231",
+      "name": "משה סימן טוב- שנות הקסם",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006250",
+      "name": "אסקייפ פלאנט",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006265",
+      "name": "ספורט ימי באילת חיים דוד",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006308",
+      "name": "מטאור תצפיות כוכבים",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006399",
+      "name": "נינג'ה אקסטרים",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006400",
+      "name": "די תל אביב- D-TLV",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006405",
+      "name": "eilat desert tours",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006411",
+      "name": "טיקטיק חבילות ספורט והופעות",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006429",
+      "name": "באמפ קאר אילת",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006432",
+      "name": "רשת פליי גיים- play game",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006434",
+      "name": "נינג'ה סטאר הוד השרון",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006452",
+      "name": "Ofek woodi נגרות בוטיק",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006515",
+      "name": "חוות לב הטבע",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006553",
+      "name": "גרין אקסטרים אילת",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006570",
+      "name": "שוט פויינט- אייר סופט אילת",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006580",
+      "name": "רייזר קלאב על הנחל",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006582",
+      "name": "בבילון אונליין",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006591",
+      "name": "הבריכה העירונית קריית אונו",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006594",
+      "name": "באולינג סנטר",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006601",
+      "name": "רווה קולינריה נוזלית",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006608",
+      "name": "ארטפוד",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006680",
+      "name": "רוכבים בגליל",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006685",
+      "name": "MY REAL QUEST חדרי בריחה",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006699",
+      "name": "בריכת כפר יונה",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006737",
+      "name": "צחי כהן- סיורים וטיולים מודרכים",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006788",
+      "name": "לייזר טאג זון - laser tag zone",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006823",
+      "name": "נאוג׳ה",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006826",
+      "name": "מאנקיז אשדוד",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006830",
+      "name": "jumpix - ג'מפיקס",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006835",
+      "name": "משחקיית ג'ונגל סיטי",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006849",
+      "name": "סיטי פארק רננים",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006868",
+      "name": "משחקיית ג'ומאנקי",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006889",
+      "name": "מועדון גלישה דאדיז",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006912",
+      "name": "Quest-World חדרי בריחה",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006924",
+      "name": "יאכטה מונטה קרלו אילת",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006935",
+      "name": "חפש תמטמון",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006959",
+      "name": "טרקטורוני עמק חפר",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006967",
+      "name": "קשרי תעופה",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1007005",
+      "name": "הטייסת",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1007007",
+      "name": "אומגה טרמינל אילת",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1007008",
+      "name": "אטלנטיס ספורט ימי",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1007009",
+      "name": "אייס פליי אילת Ice play Eilat",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1007029",
+      "name": "קרייזי רומס",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1007037",
+      "name": "לופ - LOOP",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1007042",
+      "name": "סקאי פילד בלומפילד",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1007107",
+      "name": "אייס פלאנט בע\"מ",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1007118",
+      "name": "חוות הר אודם",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1007103",
+      "name": "מוזיאון הצעצועים",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-100102",
+      "name": "פארק תמנע",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-100107",
+      "name": "חוף חנניה + ז'ול ורן",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-100154",
+      "name": "חי פארק",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1000004",
+      "name": "שביל התפוזים",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1000011",
+      "name": "רשות הטבע והגנים",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1000018",
+      "name": "דרך העץ",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1000019",
+      "name": "קייקי כפר בלום",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1000020",
+      "name": "מרכז קנדה",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1000024",
+      "name": "רפטינג נהר הירדן",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1007056",
+      "name": "לונה פארק בילו סנטר",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1007063",
+      "name": "אקווה בום",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1007092",
+      "name": "משחקיית SIXPLAY",
+      "category": "בילוי ופנאי",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-8",
+      "name": "בתי הקייט בארבל",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-143",
+      "name": "כיפת השמיים - גבעת יואב",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-302",
+      "name": "בקתה בחד נס- אלאדין",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-334",
+      "name": "מערות נוף הצוק",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-367",
+      "name": "אחוזת ראול",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-379",
+      "name": "צימר קוצ'ה בכפר",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7000879",
+      "name": "וילה טורקיז",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-436",
+      "name": "לה פאצה - מושב חד נס",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-448",
+      "name": "אחוזת כינורות - טבריה",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-473",
+      "name": "רביד הגליל",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-475",
+      "name": "אצולת אבן חן - מושב ראש פינה",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-486",
+      "name": "הבקתה הגלילית - מושב ארבל",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-488",
+      "name": "מול הנוף - מושב רמות",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-492",
+      "name": "black and white - מושב חד נס",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-543",
+      "name": "אצולה בגולן - מושב חד נס",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-544",
+      "name": "בקתה בגולן - מושב חד נס",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-546",
+      "name": "פרדייז ריזורט - מושב חד נס",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-588",
+      "name": "בקתות מאיה - כינורות",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-612",
+      "name": "בקתות טוסקנה - מושב רמות",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-620",
+      "name": "בקתות ארץ כנרת",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-647",
+      "name": "החצר המוסיקלית - מושב רמות",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-648",
+      "name": "נפלאות הגולן - מושב חד נס",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-649",
+      "name": "נפלאות הגליל - מושב שפר",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-650",
+      "name": "סייסטה ברמות - מושב חד נס",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1001428",
+      "name": "מלון לוט ים המלח",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1001752",
+      "name": "מלון שטרקמן ארנה",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1001981",
+      "name": "מלון אדם בוטיק אילת",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1002097",
+      "name": "מלון אואזיס ספא קלאב",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1002098",
+      "name": "מלון פרימה גליל טבריה",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1002099",
+      "name": "מלון פרימה המלכים ירושלים",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1002100",
+      "name": "מלון פרימה מיוזיק אילת",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1002101",
+      "name": "מלון פרימה סיטי תל אביב",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1002103",
+      "name": "מלון פרימה פארק ירושלים",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1002104",
+      "name": "מלון פרימה רויאל ירושלים",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1002179",
+      "name": "מלון איילנד נתניה",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1002271",
+      "name": "מלון קולוני",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1002880",
+      "name": "מלון איב אילת רשת אדם",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1002940",
+      "name": "מלון גרנד קורט ירושלים",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1002941",
+      "name": "מלון גרנד ביץ תל אביב",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003077",
+      "name": "מלון אירוס המדבר ירוחם",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003567",
+      "name": "מלון פרימה מגדל דוד נתניה",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003612",
+      "name": "מלון עדן אין",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003783",
+      "name": "מלון לייקהאוס כנרת",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003873",
+      "name": "מלון ליר סנס",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004336",
+      "name": "פרימה פאלאס",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004347",
+      "name": "VERT אילת",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004348",
+      "name": "VERT ירושלים",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004349",
+      "name": "VERT ים המלח",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004357",
+      "name": "מלון קראון פלאזה תל אביב",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004372",
+      "name": "מלון קראון פלאזה סיטי סנטר תל אביב",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004408",
+      "name": "מלון מיוז בוטיק",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004417",
+      "name": "מלון אסיינדה ביער",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004507",
+      "name": "מלון פליי סי פורט תל אביב",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004515",
+      "name": "מלון בראון בובו",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004520",
+      "name": "מלון פרימה לינק",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004521",
+      "name": "מלון פרימה מילניום",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004523",
+      "name": "גייקוב סמואל",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004621",
+      "name": "מלון פרימה תל אביב",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004844",
+      "name": "בראון ממילא JLM",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004845",
+      "name": "מלון פולי האוס",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004854",
+      "name": "מלון ווסט אשדוד",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004871",
+      "name": "מלון בראון מחנה יהודה",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004872",
+      "name": "וילה בראון מושבה",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004938",
+      "name": "פרימה מנדלי",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004970",
+      "name": "מלון דברה בראון",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005080",
+      "name": "VERT לגון נתניה",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005081",
+      "name": "מלון אינדיגו",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005109",
+      "name": "מלון וילה בראון תל אביב",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005801",
+      "name": "מלון גלי כנרת",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005813",
+      "name": "כפר הנופש נופי גונן",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005822",
+      "name": "פליי הצוק תל אביב (מלון ווסט",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005823",
+      "name": "מלון פליי מידטאון",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005826",
+      "name": "אוליאה olea",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005844",
+      "name": "קאמי מלון בוטיק גלילי",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005869",
+      "name": "מלונות רוקסון",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006012",
+      "name": "מלון פרימה הוטל 75 תל אביב",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006163",
+      "name": "פרימה ורה ירושלים",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006169",
+      "name": "מלון מטרופוליטן תל אביב",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006180",
+      "name": "מלון בוטיק אסמבלאז'",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006203",
+      "name": "מלון פולי אורבן",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006218",
+      "name": "וילה בראון ירושלים",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006223",
+      "name": "מלון בראון ביץ' האוס",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006274",
+      "name": "מלון דיוויד ים המלח",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006275",
+      "name": "מלון ארץ דפנה",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006276",
+      "name": "הויליג' מלון מטיילים על הירדן",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006832",
+      "name": "מלון פיורי 41 רשת אדם",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006833",
+      "name": "מלון 1935 רשת אדם",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006880",
+      "name": "בראון ים המלח",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006277",
+      "name": "מלון מדברי בערבה- מלון לוטן",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006278",
+      "name": "מלון מטיילים- מטולה",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006280",
+      "name": "מלון מטיילים- גשר הזיו",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006281",
+      "name": "מלון מטיילים-  איילון",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006282",
+      "name": "מלון מטיילים- מלכיה",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006348",
+      "name": "מלון בראון ירושלים (מלון שלום",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006418",
+      "name": "מלון PLAY לבונטין תל אביב",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006522",
+      "name": "ממילא ויו - Mamilla View",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006549",
+      "name": "מלון נווה שלום",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006592",
+      "name": "מלון ספרה",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006707",
+      "name": "מלון התיאטרון ירושלים",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006778",
+      "name": "רשת דומוס",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006883",
+      "name": "מלון פליי אילת",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006884",
+      "name": "איסלה בראון 42 אילת",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006952",
+      "name": "מלון קומפורט אילת",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006954",
+      "name": "מלון אלאיה",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006992",
+      "name": "מלון קאסלנד ריזורט",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006994",
+      "name": "מלון אלמונד",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006995",
+      "name": "מלון נווה אילן",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1007004",
+      "name": "מלון נס עמים",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1007075",
+      "name": "מלון אלדן - הוטל D",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1007076",
+      "name": "מלון ג'יירוז - הוטל D",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1007077",
+      "name": "מלון בית שמואל - הוטל D",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7000770",
+      "name": "קרוואן העמק",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7000793",
+      "name": "אחוזת ריצמונד",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7000801",
+      "name": "אחוזת הוואי - מושב חד נס",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7000802",
+      "name": "נופים בלבן - מושב רמות",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7000862",
+      "name": "אצולת הכנרת",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7000863",
+      "name": "סוויטות דה בלנקה - מושב חד נס",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7000864",
+      "name": "צימר בגבעה - גבעת יואב",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7000871",
+      "name": "בקתות ספיר - מושב כלנית",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7000952",
+      "name": "בקתות הר ארבל",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7000955",
+      "name": "סוויטות טורקיז",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7000956",
+      "name": "כינורות אחוזת הכורמים דלוקס",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7000963",
+      "name": "וילה ריש",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7000964",
+      "name": "וילה לנפוש בכפר",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7000966",
+      "name": "בית הזורע",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7000977",
+      "name": "סוויטות הליוס",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7000979",
+      "name": "סוויטות דיאנס",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7000981",
+      "name": "סוויטות חלום שוויצרי",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7000983",
+      "name": "קצה המדבר",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7000984",
+      "name": "עדן סוויט",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7000985",
+      "name": "צימר לנגו",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7000989",
+      "name": "בין הר למדבר",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7000993",
+      "name": "חוות רום",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001942",
+      "name": "מיה ריזורט & ספא",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001943",
+      "name": "גולדנס - סובב כנרת חד נס",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001944",
+      "name": "אביב בלב - סובב כנרת חד נס",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001945",
+      "name": "האני מון PREMIUM - סובב כנרת חד נס",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001958",
+      "name": "מלון ברדיצ'בסקי - הוטל בי",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7010003",
+      "name": "לבן בגולן",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7010004",
+      "name": "אגם ריזורט",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7010005",
+      "name": "החופשה הקסומה",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7010006",
+      "name": "בלו סטון",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7010007",
+      "name": "אצולת הגליל",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7010014",
+      "name": "צימרים על ההר",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7010022",
+      "name": "נוף ליער",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7010023",
+      "name": "סוויטות La Montia",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7010024",
+      "name": "עינות ספיר",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7010025",
+      "name": "טיפאני - סוד אהבה",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7010026",
+      "name": "Vintage village",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7010027",
+      "name": "בקתות ילוז",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7010028",
+      "name": "לוז כנרת",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7010030",
+      "name": "בקתות עץ מעל העננים",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7010032",
+      "name": "סוויט קלאסיק LA",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7010033",
+      "name": "צימר יקב כביר",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7010035",
+      "name": "תכלת על הכנרת",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7010036",
+      "name": "אלנטאון 21",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7010039",
+      "name": "אושר בגולן",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7010040",
+      "name": "מיאליס ריזורט",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7010041",
+      "name": "קאסה נובה",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7010042",
+      "name": "בקתות ההוד",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7010043",
+      "name": "אחוזת מיתרים",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7010044",
+      "name": "חלום שלמה",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7010045",
+      "name": "אירופה בוטיק כנרת",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7010046",
+      "name": "בתי נורית",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7010047",
+      "name": "סוויטות הרמבם",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7010048",
+      "name": "אצולת הכפר",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7010049",
+      "name": "שירת הגליל",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7010057",
+      "name": "אירוח כפרי אצל תמי",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7010058",
+      "name": "רמון פאלמס",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7010063",
+      "name": "טאג' מאהל",
+      "category": "אירוח ונופש",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1616",
+      "name": "ארמאנני ספא",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004",
+      "name": "זאוס ספא",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1019",
+      "name": "וילה ויטראז ספא",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1038",
+      "name": "הולמס פלייס חיפה גרנד קניון",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1039",
+      "name": "הולמס פלייס רעננה",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1044",
+      "name": "הולמס פלייס מודיעין",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1348",
+      "name": "רשת שר ספא מלון דן ירושלים",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1500",
+      "name": "חמי געש",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1506",
+      "name": "ספא מטה במדבר",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1511",
+      "name": "ספא בית דרך חיים",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1538",
+      "name": "ספא אחוזת אסיינדה ביער",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1562",
+      "name": "ספא מלון דן אכדיה הרצליה",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1566",
+      "name": "שרנה ספא מלון השרון הרצליה",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1570",
+      "name": "share spa הרודס תל אביב",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1575",
+      "name": "דרים ספא הרצליה",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1580",
+      "name": "הבריאות שבפינוק",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1583",
+      "name": "ספא לאונרדו פלאזה ברניקי",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1591",
+      "name": "ספא האלמנט החמישי- מלון ורט",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1592",
+      "name": "לאו ספא",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1622",
+      "name": "ספא ויליג חמת גדר",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1632",
+      "name": "ספא  ויה מאריס",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1636",
+      "name": "ספא סינרגיה",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1639",
+      "name": "לאונרדו קלאב טבריה",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1595",
+      "name": "בודי אנד סול",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1605",
+      "name": "share Spa הרודס הרצליה",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1608",
+      "name": "מנטרה ספא",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1641",
+      "name": "share spa יו קורל ביץ אילת",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1645",
+      "name": "טומוקו גפניס ספא",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1648",
+      "name": "ספא לה ויטה אילת",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1652",
+      "name": "הולמס פלייס ספא עזריאלי",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1654",
+      "name": "הולמס פלייס ספא רחובות",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1656",
+      "name": "הולמס פלייס גבעת שמואל",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005900",
+      "name": "גליה ברוך קוסמטיקה",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001695",
+      "name": "ספא מלון ברדיצ'בסקי - הוטל בי",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001704",
+      "name": "ספא מלון NEA",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001964",
+      "name": "spa basilia",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001966",
+      "name": "ספא דניאל גבעת רם",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1660",
+      "name": "share Spa לאונרדו גורדון ביץ",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1661",
+      "name": "ספא מלון יו בוטיק כנרת",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1665",
+      "name": "share spa דן כרמל חיפה",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1687",
+      "name": "ספא הוריזון",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1002609",
+      "name": "רוית אסף",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005856",
+      "name": "ספא מלון רוקסון אורבן",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001709",
+      "name": "share spa ניקס הרצליה",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001713",
+      "name": "ספא מלון הסוויטות איילנד",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001714",
+      "name": "ספא מלון הרודס ים המלח",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001717",
+      "name": "ספא מלון לאונרדו פלאזה ים המלח",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001726",
+      "name": "ספא מלון פרימה ים המלח",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001730",
+      "name": "מלון לאונרדו נגב באר שבע",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001733",
+      "name": "דרים איילנד",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001748",
+      "name": "The spa דיוויד אינטרקונטיננטל",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001749",
+      "name": "JAH SPA דן קיסריה ריזורט",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001750",
+      "name": "JAH SPA דן אילת",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001756",
+      "name": "הולמס פלייס ראשון לציון זאוס ספא",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001763",
+      "name": "ספא פנינה בכרמל",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001774",
+      "name": "ספא מלון אדמונד",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001775",
+      "name": "טיליה מרכז רפואה משלימה ופיזיותרפי",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001792",
+      "name": "ספא HALO SPA במלון  SeaLife",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001793",
+      "name": "ספא מלון גולדן קראון נצרת",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001794",
+      "name": "ספא אלוויט",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001799",
+      "name": "ספא מלון הרודס ויטאליס אילת",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001803",
+      "name": "ספא שייה מלון ליר סנס",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001806",
+      "name": "ספא לגוף ולנשמה",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001810",
+      "name": "JAH SPA מלון דן פנורמה אילת",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001812",
+      "name": "פיזיום מרכז לטיפול בכאב",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001822",
+      "name": "ספא בוטיק גלי כינרת",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001828",
+      "name": "ווסט אנד ספא מלון ווסט אשדוד",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001834",
+      "name": "ספא בוטיק מלון אירופה",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001835",
+      "name": "ספא מלון ורט לגון נתניה",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001837",
+      "name": "ימה ספא YAMA SPA",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001838",
+      "name": "Okoa spa ספא מלון קמפינסקי",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001842",
+      "name": "share spa דיויד ים המלח",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001865",
+      "name": "דריה ספא מלון נבל דוד רמדה נתניה",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001867",
+      "name": "ספא מלון לאונרדו פלאזה ירושלים",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001869",
+      "name": "אנג'ל ספא מלון אמריקנה",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001871",
+      "name": "ספא מלון חמת קיסר",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001872",
+      "name": "ספא מלון מאייר האוס תל אביב",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001886",
+      "name": "ספא ויה לומה במלון דן תל אביב",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001887",
+      "name": "share spa מלון תמרה",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001888",
+      "name": "ספא יסמין מלון רמדה נצרת",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001890",
+      "name": "ספא אלאיה",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001894",
+      "name": "קאלמה ספא",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001898",
+      "name": "ספא מלון בל",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001910",
+      "name": "אלמונד ספא- מלון אלמונד",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001911",
+      "name": "shoshka cosmetics",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001912",
+      "name": "ספא סוליי - מלון Play אילת",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001913",
+      "name": "אייס גורו",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001968",
+      "name": "ספא מלון אחוזת אקוודוט",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001914",
+      "name": "ספא ספורטלי",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001916",
+      "name": "ביוטי טיים",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001925",
+      "name": "Flow ספא",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001926",
+      "name": "דריה ספא- מלון נבל דוד גליל ריזורט",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001928",
+      "name": "ספא מלון בוטניקה",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001930",
+      "name": "ספא מלון אדם בוטיק רשת אדם",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001931",
+      "name": "אנג'ל ספא מלון קיסר",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001932",
+      "name": "Just Be-גאסט בי סדנאות נשימה",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001933",
+      "name": "טיליה קליניק צפון",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001935",
+      "name": "Dream Well - דרים וול",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001937",
+      "name": "ספא מלון אלמא",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001948",
+      "name": "ספא חוף הכרמל",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001949",
+      "name": "ספא קלרינס",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001952",
+      "name": "ספא לוטוס",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001957",
+      "name": "ספא מיראבל פלאזה",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001959",
+      "name": "מדיקל ספא סנטר",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001960",
+      "name": "וי קי קליניק",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001962",
+      "name": "ספא קאלמה- פולי אורבן תל אביב",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001969",
+      "name": "ספא בוטיק פרינס",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001971",
+      "name": "ספא מלון כנען",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001972",
+      "name": "ספא מלון אינק",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001973",
+      "name": "ספא מלון פיורי 41 - רשת סורה",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001974",
+      "name": "share spa - ספא מלון רוקסון אילת",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001975",
+      "name": "ספא מלון סאם אנד בלונדי",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001980",
+      "name": "ספא מלון גייקוב- נווה אטיב",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001982",
+      "name": "ספא חושן - חוף התמרים",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001984",
+      "name": "ספא בוטיק איסלה בראון 42",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001987",
+      "name": "ספא מלון טיביריא",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001988",
+      "name": "ספא שטרקמן ארנה",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001989",
+      "name": "ספא אדמה - מלון בראון ביץ",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001990",
+      "name": "ספא אדמה - מלון בובו",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001991",
+      "name": "ספא אדמה - מלון דברה",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001992",
+      "name": "ספא מלון קומפורט",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001995",
+      "name": "ספא מלון גורדוניה זכרון",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001996",
+      "name": "ספא קאלמה-דן פנורמה תל אביב",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7001998",
+      "name": "ספא דניאל- רמדה ירושלים",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7002003",
+      "name": "ספא 1935 - רשת סורה",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7002004",
+      "name": "ספא מלון רוטשילד 22 - רשת סורה",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7002005",
+      "name": "ספא מלון HOTEL RECEPTION - רשת",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7002007",
+      "name": "ספא מלון דריסקו",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7002008",
+      "name": "ספא כרמיאלה",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7002009",
+      "name": "THE GEORGE SPA",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-7010050",
+      "name": "ספא מלון סינרג'י",
+      "category": "ספא וטיפולים משלימים",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1000040",
+      "name": "יקב הר אודם",
+      "category": "יקבים וקולינריה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1002483",
+      "name": "איש הענבים",
+      "category": "יקבים וקולינריה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003593",
+      "name": "יקב טוליפ -קרית טבעון",
+      "category": "יקבים וקולינריה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003614",
+      "name": "מבשלים חוויה",
+      "category": "יקבים וקולינריה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004146",
+      "name": "Mixta cocktails",
+      "category": "יקבים וקולינריה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004170",
+      "name": "בועה סדנאות בירה",
+      "category": "יקבים וקולינריה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004182",
+      "name": "יקב דלתון",
+      "category": "יקבים וקולינריה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004359",
+      "name": "בירה אלכסנדר",
+      "category": "יקבים וקולינריה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004495",
+      "name": "יקב ברקן",
+      "category": "יקבים וקולינריה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004591",
+      "name": "יקב גוש עציון",
+      "category": "יקבים וקולינריה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004730",
+      "name": "יקב הבוטיק שלי",
+      "category": "יקבים וקולינריה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004917",
+      "name": "יקב צובה",
+      "category": "יקבים וקולינריה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005179",
+      "name": "בוסתן עברי יקב אלבר",
+      "category": "יקבים וקולינריה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005204",
+      "name": "יקב יה  YA",
+      "category": "יקבים וקולינריה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005580",
+      "name": "ביר באזר אונליין",
+      "category": "יקבים וקולינריה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005717",
+      "name": "Razberry מרכז קולינרי",
+      "category": "יקבים וקולינריה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005725",
+      "name": "מזקקת טינקרס - Thinkers",
+      "category": "יקבים וקולינריה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005780",
+      "name": "אבן רם ליקרים",
+      "category": "יקבים וקולינריה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005800",
+      "name": "מועדון היין אונליין",
+      "category": "יקבים וקולינריה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005888",
+      "name": "בטן מלאה",
+      "category": "יקבים וקולינריה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005925",
+      "name": "גבינות ברמות",
+      "category": "יקבים וקולינריה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006006",
+      "name": "יקב שדות",
+      "category": "יקבים וקולינריה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006151",
+      "name": "שוקה סיורים קולינריים",
+      "category": "יקבים וקולינריה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006578",
+      "name": "NS חוויה קולינרית",
+      "category": "יקבים וקולינריה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006684",
+      "name": "יקב לוריא",
+      "category": "יקבים וקולינריה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006690",
+      "name": "יקב שאטו רמו",
+      "category": "יקבים וקולינריה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006695",
+      "name": "יקב רקנאטי",
+      "category": "יקבים וקולינריה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006789",
+      "name": "מבשלת בירה מלכה",
+      "category": "יקבים וקולינריה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006926",
+      "name": "אייל חוויות יין",
+      "category": "יקבים וקולינריה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006962",
+      "name": "יקבי בנימינה",
+      "category": "יקבים וקולינריה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006981",
+      "name": "יקב קטרון",
+      "category": "יקבים וקולינריה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1007024",
+      "name": "מזקקת גולני",
+      "category": "יקבים וקולינריה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1007036",
+      "name": "יקבי שילה",
+      "category": "יקבים וקולינריה",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-10055",
+      "name": "סינמה סיטי",
+      "category": "תרבות",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-111153",
+      "name": "תיאטרון הקאמרי תל אביב",
+      "category": "תרבות",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1000099",
+      "name": "סינמטק חיפה",
+      "category": "תרבות",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1001089",
+      "name": "היכל התרבות נתניה",
+      "category": "תרבות",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1001103",
+      "name": "היכל התרבות כרמיאל",
+      "category": "תרבות",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1001104",
+      "name": "היכל התרבות נס ציונה",
+      "category": "תרבות",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1001118",
+      "name": "היכל התרבות לוד",
+      "category": "תרבות",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1001129",
+      "name": "מרכז הבמה גני תקווה",
+      "category": "תרבות",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1001517",
+      "name": "התזמורת הסימפונית חיפה",
+      "category": "תרבות",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1001526",
+      "name": "תאטרון נדנדה",
+      "category": "תרבות",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1002049",
+      "name": "מרכז נא לגעת",
+      "category": "תרבות",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1002062",
+      "name": "מדיטק חולון",
+      "category": "תרבות",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1002181",
+      "name": "רוגבי הפקות",
+      "category": "תרבות",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1002930",
+      "name": "משכן אומנויות הבמה אשדוד",
+      "category": "תרבות",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1002932",
+      "name": "תיאטרון חיפה",
+      "category": "תרבות",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1002938",
+      "name": "בית לסין",
+      "category": "תרבות",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1002942",
+      "name": "היכל התרבות ראשון לציון",
+      "category": "תרבות",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1002962",
+      "name": "היכל התרבות נהריה",
+      "category": "תרבות",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003044",
+      "name": "היכל התיאטרון מוצקין",
+      "category": "תרבות",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003321",
+      "name": "תיאטרון ירושלים",
+      "category": "תרבות",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003322",
+      "name": "תיאטרון באר שבע",
+      "category": "תרבות",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003323",
+      "name": "היכל אומנויות הבמה הרצליה",
+      "category": "תרבות",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003325",
+      "name": "תיאטרון רמלה",
+      "category": "תרבות",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003364",
+      "name": "סינמטק תל אביב",
+      "category": "תרבות",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1003365",
+      "name": "היכל התרבות יבנה",
+      "category": "תרבות",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004125",
+      "name": "המרכז למוסיקה ירושלים",
+      "category": "תרבות",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004943",
+      "name": "התזמורת הסימפונית הישראלית ראשון",
+      "category": "תרבות",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1004973",
+      "name": "התיאטרון שלנו",
+      "category": "תרבות",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005029",
+      "name": "תיאטרון אספקלריא ירושלים",
+      "category": "תרבות",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005190",
+      "name": "נופיקי",
+      "category": "תרבות",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005212",
+      "name": "תאטרון הבימה",
+      "category": "תרבות",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1005226",
+      "name": "תיאטרון השחר",
+      "category": "תרבות",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006138",
+      "name": "הכרטיס מופעי בידור",
+      "category": "תרבות",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006139",
+      "name": "בליץ",
+      "category": "תרבות",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006161",
+      "name": "לירון האוירון",
+      "category": "תרבות",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006457",
+      "name": "הזירה הבין תחומית",
+      "category": "תרבות",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006472",
+      "name": "קאמל קומדי קלאב",
+      "category": "תרבות",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006496",
+      "name": "מכללת ג'אסט מיוזיק",
+      "category": "תרבות",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006568",
+      "name": "דיוות וג׳נטלמנים",
+      "category": "תרבות",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006754",
+      "name": "היכל התרבות אור עקיבא",
+      "category": "תרבות",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006943",
+      "name": "תפדל - בואו נדבר ערבית",
+      "category": "תרבות",
+      "channel": "listed"
+    },
+    {
+      "id": "chain-1006860",
+      "name": "פלאפון",
+      "category": "צרכנות",
+      "channel": "listed"
+    }
+  ]
+}

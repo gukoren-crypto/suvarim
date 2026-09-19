@@ -1,0 +1,101 @@
+const dateIn = (days) => {
+  const d = new Date();
+  d.setDate(d.getDate() + days);
+  return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
+};
+export function demoData() {
+  return {
+    vouchers: [
+      {
+        id: "demo-1",
+        name: "קצת מכל מה שאוהבים",
+        issuer: "BUYME",
+        amount: 500,
+        balance: 350,
+        expiry: dateIn(12),
+        code: "DEMO-1234",
+        category: "כללי",
+        stores: ["חנות אופנה לדוגמה", "בית קפה לדוגמה", "חנות לבית לדוגמה"],
+        notes:
+          "שובר הדגמה בלבד. החנויות והסניפים פיקטיביים ואינם מעידים על אפשרות מימוש.",
+        history: [],
+        color: 0,
+        demo: true,
+      },
+      {
+        id: "demo-2",
+        name: "משהו חדש לארון",
+        issuer: "DREAM CARD",
+        amount: 300,
+        balance: 300,
+        expiry: dateIn(120),
+        code: "DEMO-5678",
+        category: "אופנה",
+        stores: ["חנות אופנה לדוגמה"],
+        notes: "שובר הדגמה בלבד. אין להשתמש בקוד לתשלום.",
+        history: [],
+        color: 1,
+        demo: true,
+      },
+      {
+        id: "demo-3",
+        name: "זמן לקפה",
+        issuer: "מתנה קטנה",
+        amount: 100,
+        balance: 80,
+        expiry: dateIn(45),
+        code: "DEMO-9012",
+        category: "אוכל וקפה",
+        stores: ["בית קפה לדוגמה"],
+        notes: "נתוני הדגמה פיקטיביים.",
+        history: [],
+        color: 2,
+        demo: true,
+      },
+      {
+        id: "demo-4",
+        name: "טוב להיות בבית",
+        issuer: "GIFT CARD",
+        amount: 250,
+        balance: 250,
+        expiry: dateIn(210),
+        code: "DEMO-3456",
+        category: "בית ולייף סטייל",
+        stores: ["חנות לבית לדוגמה"],
+        notes: "נתוני הדגמה פיקטיביים.",
+        history: [],
+        color: 3,
+        demo: true,
+      },
+    ],
+    branches: [
+      {
+        id: "db1",
+        store: "חנות אופנה לדוגמה",
+        city: "תל אביב",
+        address: "מיקום הדגמה — מרכז העיר",
+        lat: 32.075,
+        lng: 34.775,
+        demo: true,
+      },
+      {
+        id: "db2",
+        store: "בית קפה לדוגמה",
+        city: "תל אביב",
+        address: "מיקום הדגמה — אזור רוטשילד",
+        lat: 32.063,
+        lng: 34.773,
+        demo: true,
+      },
+      {
+        id: "db3",
+        store: "חנות לבית לדוגמה",
+        city: "תל אביב",
+        address: "מיקום הדגמה — אזור שרונה",
+        lat: 32.071,
+        lng: 34.788,
+        demo: true,
+      },
+    ],
+  };
+}
