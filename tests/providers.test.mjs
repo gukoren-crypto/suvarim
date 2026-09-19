@@ -185,3 +185,20 @@ test("new provider metadata in backups is validated", () => {
     }),
   );
 });
+
+test("Dream Card categories reuse public tags without borrowing eligibility or online channels", () => {
+  const product = getProduct("dreamcard-multipass-include");
+  assert.equal(
+    product.merchants.find((m) => m.name === "FOX HOME").category,
+    "הכל לבית",
+  );
+  assert.equal(
+    product.merchants.find((m) => m.name === "FOOT LOCKER").category,
+    "אופנה ולייף סטייל",
+  );
+  assert.equal(
+    product.merchants.find((m) => m.name === "FOOT LOCKER").channel,
+    "listed",
+  );
+  assert.ok(!product.merchants.some((m) => m.name === "פוט לוקר אונליין"));
+});

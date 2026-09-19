@@ -1313,6 +1313,106 @@
           "reason": "needs-coordinate-review"
         }
       ]
+    },
+    {
+      "store": "פוט לוקר",
+      "aliases": [
+        "פוט לוקר",
+        "FOOT LOCKER"
+      ],
+      "sourceUrl": "https://footlocker.co.il/pages/branches",
+      "checkedAt": "2026-09-20",
+      "examined": 90,
+      "included": 73,
+      "coverage": "partial",
+      "note": "נקודות יעד מפורשות בקישורי המפה של הרשת, ברמת כתובת או מתחם. קישורי חיפוש, עסקים אחרים, מיקומים סותרים וסניפים הדורשים בירור הושמטו.",
+      "skipped": [
+        {
+          "city": "נצרת",
+          "name": "פארק הצפון נצרת",
+          "reason": "no-explicit-destination"
+        },
+        {
+          "city": "כפר סבא",
+          "name": "קניון ערים",
+          "reason": "no-explicit-destination"
+        },
+        {
+          "city": "גליל המערבי",
+          "name": "רגבה",
+          "reason": "navigation-points-to-other-retailer"
+        },
+        {
+          "city": "ירכא",
+          "name": "ירכא",
+          "reason": "outlet-eligibility-review"
+        },
+        {
+          "city": "דימונה",
+          "name": "דימונה",
+          "reason": "coordinate-review"
+        },
+        {
+          "city": "ים המלח",
+          "name": "ים המלח",
+          "reason": "no-explicit-destination"
+        },
+        {
+          "city": "ירושלים",
+          "name": "תלפיות ירושלים",
+          "reason": "no-explicit-destination"
+        },
+        {
+          "city": "בית שמש",
+          "name": "ביג סנטר",
+          "reason": "navigation-points-to-other-retailer"
+        },
+        {
+          "city": "ראשון לציון",
+          "name": "קניון רוטשילד",
+          "reason": "no-explicit-destination"
+        },
+        {
+          "city": "מודיעין",
+          "name": "ישפרו סנטר",
+          "reason": "street-without-number-review"
+        },
+        {
+          "city": "באר שבע",
+          "name": "קניון הנגב",
+          "reason": "street-center-not-mall"
+        },
+        {
+          "city": "קרית גת",
+          "name": "ביג כרמי גת",
+          "reason": "no-explicit-destination"
+        },
+        {
+          "city": "גדרה",
+          "name": "קניון ביג גדרה",
+          "reason": "no-explicit-destination"
+        },
+        {
+          "city": "כפר חורש",
+          "name": "כפר חורש",
+          "reason": "navigation-points-to-other-city"
+        },
+        {
+          "city": "באר טוביה",
+          "name": "ביג קסטינה",
+          "reason": "no-explicit-destination"
+        },
+        {
+          "city": "אור עקיבא",
+          "name": "שדרות הנשיא וייצמן אור עקיבא",
+          "reason": "street-without-number-review"
+        },
+        {
+          "city": "נמל התעופה בן גוריון",
+          "name": "טרמינל 1",
+          "reason": "airport-access-review"
+        }
+      ]
     }
   ]
 }

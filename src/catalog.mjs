@@ -1,4 +1,5 @@
 import snapshot from "./data/swish-premium.json" with { type: "json" };
+import { sameStore } from "./branches.mjs";
 import { SWISH_PREMIUM } from "./providers.mjs";
 
 const all = [
@@ -38,7 +39,17 @@ const withoutSales = [
   "RUBY BAY",
 ];
 const merchants = (names) =>
-  names.map((name) => ({ name, category: "", channel: "listed" }));
+  names.map((name) => {
+    const tagged = snapshot.merchants.find(
+      (m) => m.channel !== "online" && sameStore(m.name, name),
+    );
+    return {
+      name,
+      category: tagged?.category || "",
+      channel: "listed",
+      ...(tagged ? { categorySourceUrl: snapshot.sourceUrl } : {}),
+    };
+  });
 const payboxTerms = [
   "הרשימה מתייחסת למסלול פייבוקס / מולטיפאס שבמקור; יש להתאים אותו לכרטיס שלך.",
   "קיימות מגבלות על עודפים, מוצרי השקה והטבות מועדון. מימוש אונליין מוגבל לרשתות המפורטות בתקנון.",

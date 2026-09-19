@@ -6,6 +6,12 @@ const aliases = [
   ["פוקס", "FOX"],
   ["פוקס הום", "FOX HOME"],
   ["נייק", "NIKE"],
+  ["פוט לוקר", "FOOT LOCKER"],
+  ["אמריקן איגל", "AMERICAN EAGLE"],
+  ["בילבונג", "BILLABONG"],
+  ["מנגו", "MANGO"],
+  ["מיננה", "MINENE"],
+  ["קונברס", "CONVERSE"],
 ];
 const normalize = (name) =>
   name.trim().toLocaleLowerCase().replace(/\s+/g, " ");

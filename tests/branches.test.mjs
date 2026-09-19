@@ -19,3 +19,17 @@ test("shared and manual duplicate coordinates produce a single marker", () => {
     1,
   );
 });
+
+test("Foot Locker aliases share physical locations but online remains separate", () => {
+  assert.equal(sameStore("FOOT LOCKER", "פוט לוקר"), true);
+  assert.equal(sameStore("FOOT LOCKER", "פוט לוקר אונליין"), false);
+  const locations = branchesForStores(["FOOT LOCKER"]);
+  assert.ok(locations.length > 0);
+  assert.ok(
+    locations.every(
+      (b) =>
+        b.sourceUrl === "https://footlocker.co.il/pages/branches" &&
+        /!3d/.test(b.coordinateSourceUrl),
+    ),
+  );
+});
