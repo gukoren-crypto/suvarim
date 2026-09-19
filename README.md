@@ -1,5 +1,9 @@
 # שוברים
 
+[פתיחת האפליקציה](https://gukoren-crypto.github.io/suvarim/) · [מאגר הקוד](https://github.com/gukoren-crypto/suvarim)
+
+האתר הציבורי נפתח עם ארנק ריק. להעברת שוברים מהמחשב לטלפון: ייצוא גיבוי מהארנק המקומי, העברת הקובץ באופן פרטי, ושחזור באתר בטלפון. אין סנכרון אוטומטי בין המכשירים.
+
 גרסה ראשונית של ארנק שוברים אישי בעברית, מותאמת לאנדרואיד ולמחשב. React + Vite, אחסון IndexedDB, OCR באמצעות Tesseract.js, מפת Leaflet/OpenStreetMap וניווט ב־Google Maps.
 
 ## הרצה

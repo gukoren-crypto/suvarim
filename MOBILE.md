@@ -1,6 +1,6 @@
 # מעבר לאנדרואיד
 
-המסלול המוצע הוא PWA ב־GitHub Pages. יש כבר manifest, אייקונים, service worker, שמירה מקומית ושחזור גיבוי. הוכנה תמיכה בנתיב מאגר כגון `/suvarim/`. עדיין לא בוצע פרסום לחשבון GitHub.
+המסלול המוצע הוא PWA ב־GitHub Pages. יש כבר manifest, אייקונים, service worker, שמירה מקומית ושחזור גיבוי. הוכנה תמיכה בנתיב מאגר כגון `/suvarim/`. האתר פורסם ב־20.09.2026: https://gukoren-crypto.github.io/suvarim/ . המאגר: https://github.com/gukoren-crypto/suvarim . השוברים האישיים אינם נכללים בפרסום.
 
 ## פרסום ראשון
 
