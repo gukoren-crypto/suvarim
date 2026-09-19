@@ -71,7 +71,9 @@ test("Swish catalog is explicitly confirmed, persists and distinguishes online m
     page.locator('.store-card a[href*="google.com/maps"]'),
   ).toHaveCount(0);
   await page.getByRole("button", { name: "על המפה", exact: true }).click();
-  await page.getByLabel("תחום החנות", { exact: true }).selectOption("רכישה אונליין");
+  await page
+    .getByLabel("תחום החנות", { exact: true })
+    .selectOption("רכישה אונליין");
   await expect(page.locator(".branch-card")).toHaveCount(0);
 });
 
@@ -211,7 +213,7 @@ test("restore requires confirmation and rejects invalid data", async ({
     buffer: Buffer.from('{"version":1,"vouchers":[],"branches":[{}]}'),
   });
   await expect(page.getByRole("dialog")).not.toBeVisible();
-  await expect(page.getByRole("status")).toContainText("פרטי סניף אינם תקינים");
+  await expect(page.locator(".toast")).toContainText("פרטי סניף אינם תקינים");
   const backup = {
     version: 1,
     vouchers: [
@@ -319,14 +321,124 @@ test("voucher detail opens a scoped map and reuses shared locations for another 
   await expect(page.locator(".branch-card")).toHaveCount(count + 1);
 });
 
-test('coverage dashboard distinguishes incomplete source totals and works on mobile', async ({page})=>{
- await page.setViewportSize({width:390,height:844});
- await page.goto('/');
- await page.getByRole('navigation',{name:'ניווט בנייד'}).getByRole('button',{name:'הגדרות'}).click();
- const panel=page.getByRole('region',{name:'מעקב מיפוי חנויות'});
- await expect(panel).toContainText('מתוך 20');
- await expect(panel.locator('.coverage-row')).toHaveCount(20);
- await expect(panel.locator('.coverage-row').filter({has:page.getByRole('heading',{name:'FOX',exact:true})})).toContainText('59 להשלמה');
- await expect(panel.locator('.coverage-row').filter({has:page.getByRole('heading',{name:'LALINE',exact:true})})).toContainText('עדיין לא ידוע');
- expect(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth)).toBe(false);
+test("coverage dashboard distinguishes incomplete source totals and works on mobile", async ({
+  page,
+}) => {
+  await page.setViewportSize({ width: 390, height: 844 });
+  await page.goto("/");
+  await page
+    .getByRole("navigation", { name: "ניווט בנייד" })
+    .getByRole("button", { name: "הגדרות" })
+    .click();
+  const panel = page.getByRole("region", { name: "מעקב מיפוי חנויות" });
+  await expect(panel).toContainText("מתוך 20");
+  await expect(panel.locator(".coverage-row")).toHaveCount(20);
+  await expect(
+    panel
+      .locator(".coverage-row")
+      .filter({ has: page.getByRole("heading", { name: "FOX", exact: true }) }),
+  ).toContainText("59 להשלמה");
+  await expect(
+    panel
+      .locator(".coverage-row")
+      .filter({
+        has: page.getByRole("heading", { name: "LALINE", exact: true }),
+      }),
+  ).toContainText("עדיין לא ידוע");
+  expect(
+    await page.evaluate(
+      () => document.documentElement.scrollWidth > innerWidth,
+    ),
+  ).toBe(false);
+});
+
+test("encrypted cloud wallet joins another device and synchronizes edits without losing local backup", async ({
+  browser,
+  page,
+}) => {
+  const rows = new Map();
+  const mock = async (route) => {
+    const b = route.request().postDataJSON(),
+      old = rows.get(b.id);
+    if (b.action === "create") {
+      if (old) return route.fulfill({ status: 409, json: { conflict: true } });
+      rows.set(b.id, { token: b.token, revision: 1, payload: b.payload });
+    } else if (!old || old.token !== b.token)
+      return route.fulfill({ status: 403, json: { error: "forbidden" } });
+    else if (b.action === "write") {
+      if (b.expectedRevision !== old.revision)
+        return route.fulfill({ status: 409, json: { conflict: true } });
+      rows.set(b.id, {
+        ...old,
+        revision: old.revision + 1,
+        payload: b.payload,
+      });
+    }
+    const row = rows.get(b.id);
+    return route.fulfill({
+      json: { revision: row.revision, payload: row.payload },
+    });
+  };
+  await page.route(
+    "https://suvarim-sync-hub.lovable.app/api/public/wallet",
+    mock,
+  );
+  await page.goto("/");
+  await page.getByRole("button", { name: "הוספת שובר", exact: true }).click();
+  await page
+    .getByLabel("שם השובר *", { exact: true })
+    .fill("שובר סנכרון לבדיקה");
+  await page.getByLabel("יתרה נוכחית").fill("100");
+  await page.getByRole("button", { name: "שמירת השובר בארנק" }).click();
+  await page
+    .getByRole("button", { name: "הארנק והמכשיר", exact: true })
+    .click();
+  await page
+    .getByRole("button", { name: "יצירת ארנק מסונכרן מהשוברים שלי" })
+    .click();
+  await expect(
+    page.getByRole("region", { name: "סנכרון בין מכשירים" }),
+  ).toContainText("נשמר בענן");
+  await page
+    .getByRole("button", { name: "הצגת מפתח לחיבור מכשיר נוסף" })
+    .click();
+  const secret = await page
+    .getByLabel("מפתח הארנק שלך", { exact: true })
+    .inputValue();
+  expect(JSON.stringify([...rows.values()])).not.toContain(
+    "שובר סנכרון לבדיקה",
+  );
+  expect(JSON.stringify([...rows.values()])).not.toContain(secret);
+  const ctx = await browser.newContext();
+  const second = await ctx.newPage();
+  await second.route("**/__local/wallet-import", (r) =>
+    r.fulfill({ status: 404, body: "" }),
+  );
+  await second.route(
+    "https://suvarim-sync-hub.lovable.app/api/public/wallet",
+    mock,
+  );
+  await second.goto("/");
+  await second
+    .getByRole("button", { name: "הארנק והמכשיר", exact: true })
+    .click();
+  await second.getByLabel("מפתח מארנק קיים").fill(secret);
+  await second.getByRole("checkbox").check();
+  await second
+    .getByRole("button", { name: "חיבור לארנק קיים", exact: true })
+    .click();
+  await expect(
+    second.getByRole("region", { name: "סנכרון בין מכשירים" }),
+  ).toContainText("נשמר בענן");
+  await second.getByRole("button", { name: /^הארנק שלי/ }).click();
+  await second.locator(".voucher-card").click();
+  await second.getByLabel("מימשת חלק מהשובר? כמה שילמת?").fill("10");
+  await second.getByRole("button", { name: "עדכון היתרה" }).click();
+  await expect(second.locator(".detail-ticket>strong")).toContainText("90");
+  await page.getByRole("button", { name: "רענון מהענן", exact: true }).click();
+  await page.getByRole("button", { name: /^הארנק שלי/ }).click();
+  await expect(page.locator(".voucher-card")).toContainText("90");
+  await page.reload();
+  await expect(page.locator(".voucher-card")).toContainText("90");
+  await ctx.close();
 });

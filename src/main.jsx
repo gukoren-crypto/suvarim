@@ -49,6 +49,10 @@ import {
   merchantIndex,
 } from "./catalog.mjs";
 import "./style.css";
+import { CloudPanel } from "./CloudPanel.jsx";
+import { openCloudWallet } from "./cloud-wallet.mjs";
+import { newWalletKey } from "./cloud-crypto.mjs";
+import { cloudTransport } from "./cloud-transport.mjs";
 import { Coverage } from "./Coverage.jsx";
 import { sameStore, branchesForStores } from "./branches.mjs";
 
@@ -78,13 +82,21 @@ function App() {
     );
     return () => cancelAnimationFrame(frame);
   }, [page, mapVoucherId]);
+  const modalRef = useRef(modal);
+  modalRef.current = modal;
+  const cloud = useRef(null),
+    cloudBusy = useRef(false);
+  const [cloudState, setCloudState] = useState(null),
+    [cloudStatus, setCloudStatus] = useState("השוברים נשמרים במכשיר הזה בלבד."),
+    [syncBusy, setSyncBusy] = useState(false);
+  const renderedRevision = cloudState?.revision;
   const restore = useRef(null);
   const wallet = demo ? demoState : data;
   useEffect(() => {
     get(KEY)
       .then(async (value) => {
         let loaded = value ? validateBackup({ ...value, version: 1 }) : empty;
-        if (import.meta.env.DEV) {
+        if (import.meta.env.DEV && !value?.cloud) {
           try {
             const response = await fetch("/__local/wallet-import", {
               cache: "no-store",
@@ -112,6 +124,30 @@ function App() {
             setStorageError("הייבוא המקומי לא הושלם. נסו לרענן את הדף.");
           }
         }
+        if (value?.cloud) {
+          const { secret, revision } = value.cloud;
+          cloud.current = {
+            secret,
+            revision,
+            client: await openCloudWallet(secret, cloudTransport(), revision),
+          };
+          setCloudState({ secret, revision });
+          try {
+            const result = await cloud.current.client.read();
+            loaded = result.wallet;
+            cloud.current.revision = result.revision;
+            await set(KEY, {
+              ...loaded,
+              cloud: { secret, revision: result.revision },
+            });
+            setCloudState({ secret, revision: result.revision });
+            setCloudStatus("מעודכן מהענן");
+          } catch {
+            setCloudStatus(
+              "מוצג עותק מקומי. יש להתחבר לרשת ולרענן לפני עריכה.",
+            );
+          }
+        }
         setData(loaded);
         setReady(true);
       })
@@ -133,10 +169,115 @@ function App() {
     const t = setTimeout(() => setToast(""), 4200);
     return () => clearTimeout(t);
   }, [toast]);
+  async function applyCloud(result, connection) {
+    const state = { secret: connection.secret, revision: result.revision };
+    cloud.current = { ...connection, revision: result.revision };
+    setCloudState(state);
+    setData(result.wallet);
+    try {
+      await set(KEY, { ...result.wallet, cloud: state });
+      setStorageError("");
+    } catch {
+      setStorageError(
+        "נשמר בענן, אך העותק במכשיר לא נשמר. שמרו את מפתח הארנק לפני סגירה.",
+      );
+    }
+    setCloudStatus("נשמר בענן · " + new Date().toLocaleTimeString("he-IL"));
+  }
+  async function refreshCloud() {
+    if (!cloud.current || cloudBusy.current || modal || demo) return;
+    cloudBusy.current = true;
+    setSyncBusy(true);
+    try {
+      const result = await cloud.current.client.read();
+      if (modalRef.current) {
+        setCloudStatus("נמצאה גרסה בענן. סגרו את העריכה ורעננו לפני שמירה.");
+        return;
+      }
+      await applyCloud(result, cloud.current);
+    } catch (e) {
+      setCloudStatus(e.message);
+    } finally {
+      cloudBusy.current = false;
+      setSyncBusy(false);
+    }
+  }
+  useEffect(() => {
+    if (!ready || !cloudState || modal || demo) return;
+    const refresh = () => {
+      if (document.visibilityState === "visible") refreshCloud();
+    };
+    const timer = setInterval(refresh, 30000);
+    window.addEventListener("focus", refresh);
+    window.addEventListener("online", refresh);
+    return () => {
+      clearInterval(timer);
+      window.removeEventListener("focus", refresh);
+      window.removeEventListener("online", refresh);
+    };
+  }, [ready, Boolean(cloudState), modal, demo]);
+  async function connectCloud(secret, create) {
+    if (cloudBusy.current) return;
+    cloudBusy.current = true;
+    setSyncBusy(true);
+    setCloudStatus("מתחבר לארנק…");
+    try {
+      const connection = {
+        secret,
+        client: await openCloudWallet(secret, cloudTransport()),
+      };
+      await set(KEY + "-before-cloud", data);
+      const result = create
+        ? await connection.client.create(data)
+        : await connection.client.read();
+      await applyCloud(result, connection);
+    } catch (e) {
+      setCloudStatus(e.message);
+    } finally {
+      cloudBusy.current = false;
+      setSyncBusy(false);
+    }
+  }
+  async function disconnectCloud() {
+    if (cloudBusy.current) return;
+    try {
+      await set(KEY, data);
+      cloud.current = null;
+      setCloudState(null);
+      setCloudStatus("המכשיר נותק. העותק המקומי נשמר; הארנק בענן לא נמחק.");
+    } catch {
+      setStorageError("לא ניתן לנתק לפני שמירת עותק מקומי.");
+    }
+  }
   async function save(next) {
     if (demo) {
       setDemoState(next);
       return true;
+    }
+    if (cloud.current) {
+      if (cloudBusy.current) {
+        setStorageError("מתבצע סנכרון. נסו לשמור שוב בעוד רגע.");
+        return false;
+      }
+      if (cloud.current.revision !== renderedRevision) {
+        setStorageError("הארנק עודכן. פתחו מחדש את העריכה לפני שמירה.");
+        return false;
+      }
+      cloudBusy.current = true;
+      setSyncBusy(true);
+      setCloudStatus("שומר בענן…");
+      try {
+        const result = await cloud.current.client.save(next, renderedRevision);
+        await applyCloud(result, cloud.current);
+        return true;
+      } catch (e) {
+        setStorageError(e.message);
+        setCloudStatus(e.message);
+        return false;
+      } finally {
+        cloudBusy.current = false;
+        setSyncBusy(false);
+      }
     }
     try {
       await set(KEY, next);
@@ -271,7 +412,8 @@ function App() {
             <p>כל השוברים שלך, תמיד בהישג יד.</p>
           </div>
           <div className="local-label">
-            <ShieldCheck size={17} /> ארנק אישי · נשמר במכשיר
+            <ShieldCheck size={17} />{" "}
+            {cloudState ? "ארנק אישי · מחובר לענן" : "ארנק אישי · נשמר במכשיר"}
           </div>
         </div>
       </aside>
@@ -513,7 +655,11 @@ function App() {
               </section>
               <div className="wallet-footer">
                 <ShieldCheck size={16} />
-                <span>הפרטים נשמרים בדפדפן הזה בלבד. מומלץ לגבות מדי פעם.</span>
+                <span>
+                  {cloudState
+                    ? cloudStatus
+                    : "הפרטים נשמרים בדפדפן הזה בלבד. מומלץ לגבות מדי פעם."}
+                </span>
                 <button onClick={backup}>גיבוי הארנק</button>
               </div>
             </>
@@ -543,6 +689,18 @@ function App() {
           )}
           {page === "settings" && (
             <div className="settings-grid">
+              {!demo && (
+                <CloudPanel
+                  connected={Boolean(cloudState)}
+                  secret={cloudState?.secret || ""}
+                  status={cloudStatus}
+                  busy={syncBusy}
+                  onCreate={() => connectCloud(newWalletKey(), true)}
+                  onJoin={(secret) => connectCloud(secret, false)}
+                  onRefresh={refreshCloud}
+                  onDisconnect={disconnectCloud}
+                />
+              )}
               <Coverage />
               <section className="settings-card">
                 <Smartphone />
@@ -575,7 +733,8 @@ function App() {
                   </button>
                 )}
                 <p className="muted">
-                  גישה מהמחשב והטלפון יוצרת כרגע שני ארנקים נפרדים.
+                  לשימוש באותו ארנק במחשב ובטלפון, חברו את שניהם עם אותו מפתח
+                  ארנק.
                 </p>
               </section>
               <section className="settings-card">
@@ -583,7 +742,8 @@ function App() {
                 <h2>הנתונים שלך, אצלך</h2>
                 <p>
                   השוברים והתמונות נשמרים במכשיר הזה. מחיקת נתוני הדפדפן תמחק גם
-                  את הארנק. אין כרגע סנכרון לענן.
+                  את העותק המקומי. אם חיברתם ארנק לענן, ניתן לשחזר אותו באמצעות
+                  המפתח.
                 </p>
                 <div className="button-row">
                   <button className="secondary" onClick={backup}>
