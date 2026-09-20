@@ -1,0 +1,589 @@
+{
+  "store": "שילב",
+  "branches": [
+    {
+      "id": "shilav-0f3a9915f660",
+      "store": "שילב",
+      "name": "צים אורבן - בית שאן",
+      "city": "בית שאן",
+      "address": "העמל 100, בית שאן",
+      "lat": 32.510621755,
+      "lng": 35.50181396,
+      "sourceUrl": "https://www.shilav.co.il/pages/סניפים",
+      "coordinateSourceUrl": "https://www.waze.com/he/live-map/directions/%D7%A6%D7%99%D7%9D-%D7%90%D7%95%D7%A8%D7%91%D7%9F-%D7%91%D7%99%D7%AA-%D7%A9%D7%90%D7%9F?to=place.w.23265605.232656051.15309",
+      "checkedAt": "2026-09-20"
+    },
+    {
+      "id": "shilav-16edd4ae667a",
+      "store": "שילב",
+      "name": "מרכז שפיר סנטר- ראש העין",
+      "city": "ראש העין",
+      "address": "יגאל אלון 22 ראש העין, מרכז שפיר סנטר",
+      "lat": 32.086312523529,
+      "lng": 34.978441417214,
+      "sourceUrl": "https://www.shilav.co.il/pages/סניפים",
+      "coordinateSourceUrl": "https://www.waze.com/he/live-map/directions/%D7%99%D7%92%D7%90%D7%9C-%D7%90%D7%9C%D7%95%D7%9F-22-%D7%A8%D7%90%D7%A9-%D7%94%D7%A2%D7%99%D7%9F?to=place.w.22937921.229248137.2051350",
+      "checkedAt": "2026-09-20"
+    },
+    {
+      "id": "shilav-bb313709904a",
+      "store": "שילב",
+      "name": "קניון באר יעקב",
+      "city": "באר יעקב",
+      "address": "רחוב שא נס 17 באר יעקב",
+      "lat": 31.941568134,
+      "lng": 34.833939008,
+      "sourceUrl": "https://www.shilav.co.il/pages/סניפים",
+      "coordinateSourceUrl": "https://www.waze.com/he/live-map/directions/%D7%A9%D7%90-%D7%A0%D7%A1-17-%D7%91%D7%90%D7%A8-%D7%99%D7%A2%D7%A7%D7%91?to=place.w.22806847.228265082.373161",
+      "checkedAt": "2026-09-20"
+    },
+    {
+      "id": "shilav-5b124cc28f5e",
+      "store": "שילב",
+      "name": "רהט-מתחם seven",
+      "city": "רהט",
+      "address": "מתחם seven רהט",
+      "lat": 31.394591,
+      "lng": 34.7539789,
+      "sourceUrl": "https://www.shilav.co.il/pages/סניפים",
+      "coordinateSourceUrl": "https://www.waze.com/he/live-map/directions/il/%D7%9E%D7%97%D7%95%D7%96-%D7%94%D7%93%D7%A8%D7%95%D7%9D/%D7%A8%D7%94%D7%98/mall-seven-rahat-%D7%A7%D7%A0%D7%99%D7%95%D7%9F-%D7%A1%D7%91%D6%BC%D7%9F-%D7%A8%D7%94%D7%98-mwl-sfn?to=place.ChIJ6VIf4aNjAhUR9uw1bxv4BHk",
+      "checkedAt": "2026-09-20"
+    }
+  ],
+  "source": {
+    "store": "שילב",
+    "aliases": [
+      "שילב"
+    ],
+    "sourceUrl": "https://www.shilav.co.il/pages/סניפים",
+    "checkedAt": "2026-09-20",
+    "examined": 91,
+    "included": 4,
+    "coverage": "partial",
+    "note": "ברשימה הרשמית 91 רשומות; רק ארבע מפרסמות קישור ניווט עם קואורדינטות שניתן לאמת. יתר הכתובות ממתינות למקור מיקום.",
+    "skipped": [
+      {
+        "city": "נהריה",
+        "name": "ארנה נהריה",
+        "address": "שדרות הנשיא בן צבי 1, נהריה",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "דימונה",
+        "name": "מתחם דימרי דימונה",
+        "address": "מתחם דימרי סנטר. רחוב גולדה מאיר 20 דימונה.",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "מתחם פארק הצפון ציפורי",
+        "name": "נצרת פארק הצפון ציפורי",
+        "address": "מתחם פארק הצפון ציפורי",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "עפולה",
+        "name": "עפולה - רכבת צפון",
+        "address": "שדרות יצחק רבין 18, מתחם רכבת צפון.",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "איירפורט סיטי (לוד)",
+        "name": "איירפורט סיטי",
+        "address": "כינרת 1, הכניסה דרך השער האפור.",
+        "reason": "outlet-or-temporarily-closed"
+      },
+      {
+        "city": "כפר-סבא",
+        "name": "קניון ערים כ\"ס",
+        "address": "קניון ערים- רח' ויצמן 83, כפר סבא",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "באר יעקב",
+        "name": "בי\"ח אסף הרופא",
+        "address": "אר יעקב- בית חולים אסף הרופא- קניון אסף סנטר",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "אשדוד",
+        "name": "בי\"ח אסותא אשדוד",
+        "address": "בית חולים אסותא, הרפואה 7, אשדוד",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "פתח-תקווה",
+        "name": "אבנת פתח-תקווה",
+        "address": "קניון אבנת, ז'בוטינסקי 72, פ\"ת.",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "חיפה",
+        "name": "קניון עזריאלי מבואות חיפה",
+        "address": "קניון מבואות עזריאלי, משה פלימן 4, חיפה.",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "תל-אביב יפו",
+        "name": "קניון עזריאלי ת\"א",
+        "address": "קניון עזריאלי, דרך מנחם בגין 132, ת\"א",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "אשקלון",
+        "name": "בי\"ח ברזילי",
+        "address": "בית חולים ברזילי, ההסתדרות 2, אשקלון",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "בת-ים",
+        "name": "קניון בת-ים",
+        "address": "קניון בת ים, יוספטל 92, בת ים.",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "פתח-תקווה",
+        "name": "בלינסון פתח-תקווה",
+        "address": "ז'בוטינסקי 39 פ\"ת",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "באר-שבע",
+        "name": "ביג באר שבע",
+        "address": "באר שבע - מתחם ביג, דרך חברון 21",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "אשדוד",
+        "name": "ביג פאשן אשדוד",
+        "address": "ביג פאשן, דרך הרכבת 1, אשדוד",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "בית שמש",
+        "name": "ביג פאשן בית שמש",
+        "address": "מרכז ביג פאשן, רח' יגאל אלון 3 בית שמש",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "נהריה",
+        "name": "ביג רגבה, נהריה",
+        "address": "שילב ביג רגבה, נהריה",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "יהוד",
+        "name": "יהוד מתחם BIG",
+        "address": "אלטלף 4, יהוד",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "בני-ברק",
+        "name": "בית שילב - בני ברק",
+        "address": "שילב איילון - הירקון 4, בני-ברק. (קרוב לקניון איילון)",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "דיר אל-אסד",
+        "name": "דיר אל-אסד",
+        "address": "דיר אל אסאד- מתחם דבאח",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "תל-אביב יפו",
+        "name": "דיזנגוף סנטר",
+        "address": "קניון דיזנגוף סנטר, דיזנגוף 50, ת\"א",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "אילת",
+        "name": "מתחם ביג אילת",
+        "address": "הסתת 20, מתחם BIG (סניף זכיין)",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "תל-אביב יפו",
+        "name": "גן העיר ת\"א",
+        "address": "קניון גן העיר, אבן גבירול 71, ת\"א",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "גן שמואל",
+        "name": "גן שמואל",
+        "address": "במרכז המסחרי, גן שמואל",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "גדרה",
+        "name": "ביג גדרה",
+        "address": "שילב גדרה מתחם ביג",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "גבעתיים",
+        "name": "קניון גבעתיים",
+        "address": "קניון גבעתיים , יצחק רבין 53, גבעתיים.",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "רמת השרון",
+        "name": "ביג גלילות",
+        "address": "מתחם ביג גלילות, רמת השרון.",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "פתח-תקווה",
+        "name": "גלובל פתח-תקווה",
+        "address": "שעתיים חנייה חינם בקניה מעל 100 ש\"ח.",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "אשקלון",
+        "name": "גלובוס סנטר אשקלון",
+        "address": "שילב אשקלון גלובוס",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "כפר-סבא",
+        "name": "קניון G כפר סבא",
+        "address": "קניון G- רח' ויצמן 207, כפר-סבא",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "חיפה",
+        "name": "גרנד קניון חיפה",
+        "address": "גרנד קניון, שמחה גולן 54, חיפה.",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "באר-שבע",
+        "name": "גרנד קניון ב\"ש",
+        "address": "קניון גרנד, שד' טוביהו דוד 125, באר שבע",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "ירושלים",
+        "name": "בי\"ח הדסה עין כרם",
+        "address": "בית חולים הדסה עין כרם, ירושלים (מתחם ישפרו)",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "הרצליה",
+        "name": "שבעת הכוכבים",
+        "address": "קניון שבעת הכוכבים- רח' שבעת הכוכבים 8, הרצליה",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "חדרה",
+        "name": "בי\"ח הלל יפה",
+        "address": "רחוב השלום 10 בנין אשפוז ב'",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "חולון",
+        "name": "קניון חולון",
+        "address": "קניון חולון, גולדה מאיר 7, חולון.",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "חיפה",
+        "name": "חוצות המפרץ חיפה",
+        "address": "סניף משולב - עודפים + חנות רגילה",
+        "reason": "outlet-or-temporarily-closed"
+      },
+      {
+        "city": "תל-אביב יפו",
+        "name": "בי\"ח איכילוב",
+        "address": "מרכז וייצמן, רח' וייצמן 14, ת\"א, קומה 1 (כניסה)",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "נתניה",
+        "name": "קניון עיר ימים",
+        "address": "רח' בני ברמן 2, קניון עיר ימים, נתניה, קומה 1",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "ראשון-לציון",
+        "name": "קניון הזהב ראשל\"צ",
+        "address": "קניון הזהב, דוד סחרוב 21 אזה\"ת החדש, ראשל\"צ",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "קרית-גת",
+        "name": "ביג כרמי גת",
+        "address": "שד' לכיש 153, BIG כרמי גת",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "כרמיאל",
+        "name": "MY CENTER כרמיאל",
+        "address": "מעלה כמון 9, כרמיאל. מתחם מיי סנטר.",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "נס-ציונה",
+        "name": "קניותר נס ציונה",
+        "address": "רח' האירוסים 53, קניותר, נס ציונה",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "קריית אתא",
+        "name": "קריית אתא - שער הצפון",
+        "address": "מתחם איקאה",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "קרית ביאליק",
+        "name": "קרית ביאליק קריון",
+        "address": "קריון, דרך עכו - חיפה 192, קרית ביאליק",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "באר-שבע",
+        "name": "קרית הממשלה ב\"ש",
+        "address": "רח' התקווה 4 קניון קרית הממשלה, קומת כניסה, באר שבע",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "קרית שמונה",
+        "name": "ביג קרית שמונה",
+        "address": "קרית שמונה - מרכז מסחרי BIG",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "קריית אונו",
+        "name": "קניון קריית אונו",
+        "address": "שלמה המלך 37, קרית אונו.",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "מעלות",
+        "name": "מעלות- צים סנטר",
+        "address": "שלמה שרירא 3, מעלות. איזור תעשייה קורן.",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "ירושלים",
+        "name": "קניון מלחה (וואטסאפ עסקי בלבד)",
+        "address": "קניון מלחה, דרך אגודת ספורט בית\"ר 1, ירושלים",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "כפר-סבא",
+        "name": "בי\"ח מאיר",
+        "address": "בית חולים מאיר, טשרניחובסקי 59, כפר סבא",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "מבשרת ציון",
+        "name": "קניון מבשרת",
+        "address": "קניון, שדרות החוצבים 10, מבשרת ציון",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "מודיעין",
+        "name": "עזריאלי מודיעין",
+        "address": "ערער 17, מודיעין, קומה 1",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "נהריה",
+        "name": "בי\"ח ממשלתי נהריה",
+        "address": "בי\"ח ממשלחתי נהריה",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "נצרת",
+        "name": "נצרת - דודג' סנטר",
+        "address": "לפגישה אישית עם יועצ/ת הזמנות לידה יש ליצור קשר בטלפון עם:",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "נתיבות",
+        "name": "נתיבות",
+        "address": "המלאכה 203, נתיבות",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "אור עקיבא",
+        "name": "ביג אור עקיבא",
+        "address": "שדרות הנשיא וייצמן מתחם ביג, אור עקיבא",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "נתניה",
+        "name": "פולג נתניה",
+        "address": "שדרות גיבורי ישראל 5 מתחם ביג קומה 2, א. תעשיה פולג",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "תל-אביב יפו",
+        "name": "קניון רמת אביב",
+        "address": "קניון רמת-אביב איינשטיין 40, ת\"א",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "רמת ישי",
+        "name": "רמת ישי",
+        "address": "האקליפטוס 3, רמת ישי- קניון סטריט מול",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "חיפה",
+        "name": "בי\"ח רמב\"ם",
+        "address": "בית חולים רמב\"ם, דרך העלייה 8, חיפה.",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "רמלה",
+        "name": "עזריאלי רמלה",
+        "address": "שד' דוד רזיאל 1, רמלה",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "רחובות",
+        "name": "קניון רחובות",
+        "address": "רח' בילו 2, רחובות",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "רעננה",
+        "name": "קניון רננים",
+        "address": "קניון רננים- המלאכה 2, רעננה",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "ראשון-לציון",
+        "name": "ראשון G",
+        "address": "מתחם G - רח' ילדי טהרן 7, ראשל\"צ",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "ראשון-לציון",
+        "name": "קניון ראשונים",
+        "address": "קניון ראשונים, שד' נים 2, ראשל\"צ",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "ראש פינה",
+        "name": "ראש פינה",
+        "address": "מתחם שופינה האגס 1, מרכז שופינה",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "שדרות",
+        "name": "פרץ סנטר שדרות",
+        "address": "מרכז קניות פרץ סנטר שדרות",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "ירושלים",
+        "name": "בי\"ח שערי צדק",
+        "address": "המרכז הרפואי שערי צדק, קומה 4",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "ראשון-לציון",
+        "name": "קניון שער ראשון",
+        "address": "קניון שער ראשון, גולדה מאיר 1, ראשל\"צ",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "הוד השרון",
+        "name": "קניון שרונים",
+        "address": "קניון שרונים- הרקון 2, הוד השרון, אזה\"ת נווה נאמן.",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "פתח-תקווה",
+        "name": "שפיגל פתח-תקווה",
+        "address": "קניון כיכר העיר- שפיגל 3 פ\"ת",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "אשקלון",
+        "name": "סילבר אשקלון",
+        "address": "אשקלון- פאואר סנטר, צומת סילבר",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "באר-שבע",
+        "name": "בי\"ח סורוקה",
+        "address": "בית חולים סורוקה, צמוד לבניין יולדות, שדרות יצחק רגר 151, באר שבע",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "אשדוד",
+        "name": "סטאר אשדוד",
+        "address": "מתחם סטאר, זבוטינסקי 44-45, אשדוד",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "תל-אביב יפו",
+        "name": "נמל ת\"א",
+        "address": "יריד המזרח, התערוכה 3, ת\"א",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "ירושלים",
+        "name": "תלפיות",
+        "address": "צמוד לחנות דקטלון, חניה במתחם שעתיים חינם",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "טייבה",
+        "name": "טייבה",
+        "address": "מתחם SEVEN - סבן, טייבה",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "רמת גן",
+        "name": "ביה\"ח שיבא תל השומר",
+        "address": "עמק האלה 1 ר\"ג",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "טבריה",
+        "name": "טבריה",
+        "address": "יהודה הלוי 111, מתחם BIG, טבריה",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "אום אל פאחם",
+        "name": "אום אל פאחם",
+        "address": "שילב אום אל פאחם",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "חדרה",
+        "name": "קניון וילג' חדרה",
+        "address": "מול החוף, רח' דן שכטמן 10, חדרה",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "ירכא",
+        "name": "ירכא אזה\"ת",
+        "address": "מתחם מיי בייבי, אזה\"ת ירכא",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "יוקנעם",
+        "name": "יוקנעם G",
+        "address": "רחוב התמר 2, יוקנעם",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "זכרון יעקב",
+        "name": "זכרון יעקב",
+        "address": "אזור תעשייה מערבי, זכרון יעקב",
+        "reason": "no-navigation-coordinates"
+      },
+      {
+        "city": "יבנה",
+        "name": "סניף גן יבנה",
+        "address": "",
+        "reason": "no-navigation-coordinates"
+      }
+    ]
+  }
+}

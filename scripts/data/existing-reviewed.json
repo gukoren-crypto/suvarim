@@ -1,0 +1,378 @@
+{
+  "foxhome": [
+    {
+      "key": "הוד השרון|עזריאלי מרגלית השרון|https://www.waze.com/he/live-map/directions/%D7%94%D7%95%D7%93-%D7%94%D7%A9%D7%A8%D7%95%D7%9F?to=place.ws.il.3742.3",
+      "lat": 32.14363479614258,
+      "lng": 34.891815185546875,
+      "place": "",
+      "locality": "הוד השרון",
+      "street": "ז'בוטינסקי, 3"
+    },
+    {
+      "key": "באר שבע|באר שבע|https://www.waze.com/he/live-map/directions/il/south-district/%D7%91%D7%A9/azrieli-negev-mall?to=place.ChIJXf-OyQRnAhUR7d-YiyWuK18",
+      "lat": 31.243726,
+      "lng": 34.7946189,
+      "place": "קניון עזריאלי הנגב",
+      "locality": "ב\"ש",
+      "street": ""
+    },
+    {
+      "key": "חיפה|חיפה|https://www.waze.com/he/live-map/directions/il/%D7%9E%D7%97%D7%95%D7%96-%D7%97%D7%99%D7%A4%D7%94/%D7%97%D7%99%D7%A4%D7%94/%D7%A7%D7%A0%D7%99%D7%95%D7%9F-%D7%A2%D7%96%D7%A8%D7%99%D7%90%D7%9C%D7%99-%D7%97%D7%99%D7%A4%D7%94?to=place.ChIJD0CgT2i7HRURGRsyzgJAPiQ",
+      "lat": 32.7896507,
+      "lng": 34.9651905,
+      "place": "קניון עזריאלי חיפה",
+      "locality": "חיפה",
+      "street": "דרך משה פלימן, 4"
+    },
+    {
+      "key": "עין שמר|עין שמר|https://www.waze.com/he/live-map/directions/il/%D7%9E%D7%97%D7%95%D7%96-%D7%97%D7%99%D7%A4%D7%94/%D7%9E%D7%95%D7%A2%D7%A6%D7%94-%D7%90%D7%96%D7%95%D7%A8%D7%99%D7%AA-%D7%9E%D7%A0%D7%A9%D7%94/%D7%90%D7%9C%D7%95%D7%9F-%D7%A2%D7%99%D7%9F-%D7%A9%D7%9E%D7%A8-fashion?to=place.ChIJjxIqZUsOHRUR_wqoun_SoLI",
+      "lat": 32.4652592,
+      "lng": 34.9920294,
+      "place": "אלון עין שמר Fashion",
+      "locality": "מועצה אזורית מנשה",
+      "street": ""
+    },
+    {
+      "key": "רמת ישי|רמת ישי|https://www.waze.com/he/live-map/directions/il/%D7%9E%D7%97%D7%95%D7%96-%D7%94%D7%A6%D7%A4%D7%95%D7%9F/%D7%A8%D7%9E%D7%AA-%D7%99%D7%A9%D7%99/fox-home?to=place.ChIJJ81Zjp6zHRUReSLITjTTpNM",
+      "lat": 32.7077104,
+      "lng": 35.175006,
+      "place": "FOX Home",
+      "locality": "רמת ישי",
+      "street": ""
+    },
+    {
+      "key": "ירושלים|ירושלים|https://www.waze.com/he/live-map/directions/il/jerusalem-district/jerusalem/%D7%A7%D7%A0%D7%99%D7%95%D7%9F-%D7%A9%D7%93%D7%A8%D7%95%D7%AA-%D7%90%D7%9C%D7%A8%D7%95%D7%91-%D7%9E%D7%9E%D7%99%D7%9C%D7%90?to=place.ChIJY2qRjdEpAxURmTrXMB3CaNo",
+      "lat": 31.7777853,
+      "lng": 35.2238188,
+      "place": "קניון שדרות אלרוב ממילא",
+      "locality": "Jerusalem",
+      "street": ""
+    },
+    {
+      "key": "מעלות תרשיחא|מעלות|https://www.waze.com/he/live-map/directions/%D7%A7%D7%A0%D7%99%D7%95%D7%9F-%D7%A6%D7%99%D7%9D-%D7%A1%D7%A0%D7%98%D7%A8-%D7%A9%D7%9C%D7%9E%D7%94-%D7%A9%D7%A8%D7%99%D7%A8%D7%90-3-%D7%9E%D7%A2%D7%9C%D7%95%D7%AA-%D7%AA%D7%A8%D7%A9%D7%99%D7%97%D7%90?to=place.w.23134538.231214310.16837",
+      "lat": 33.021796702,
+      "lng": 35.280644243,
+      "place": "קניון צים סנטר",
+      "locality": "מעלות-תרשיחא",
+      "street": "שלמה שרירא, 3"
+    },
+    {
+      "key": "קרית אתא|קרית אתא|https://www.waze.com/he/live-map/directions/il/%D7%9E%D7%97%D7%95%D7%96-%D7%97%D7%99%D7%A4%D7%94/%D7%A7%D7%90/%D7%A7%D7%A0%D7%99%D7%95%D7%9F-%D7%A9%D7%A2%D7%A8-%D7%94%D7%A6%D7%A4%D7%95%D7%9F?to=place.ChIJP5bbuNOwHRURKf4oksvi2pE",
+      "lat": 32.8076246,
+      "lng": 35.0771708,
+      "place": "קניון שער הצפון",
+      "locality": "ק\"א",
+      "street": "דרך חיפה, 30"
+    },
+    {
+      "key": "מבשרת ציון|מבשרת ציון|https://www.waze.com/he/live-map/directions/il/%D7%9E%D7%97%D7%95%D7%96-%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D/%D7%9E%D7%91%D7%A9%D7%A8%D7%AA-%D7%A6%D7%99%D7%95%D7%9F/%D7%A9%D7%93%D7%A8%D7%95%D7%AA-%D7%94%D7%97%D7%95%D7%A6%D7%91%D7%99%D7%9D-10?to=place.ChIJ4x1TeSDXAhURMGNDRJDb3SY",
+      "lat": 31.796651,
+      "lng": 35.1464797,
+      "place": "שדרות החוצבים 10",
+      "locality": "מבשרת ציון",
+      "street": "שדרות החוצבים, 10"
+    },
+    {
+      "key": "עטרות|עטרות|https://www.waze.com/he/live-map/directions/%D7%A8%D7%9E%D7%99-%D7%9C%D7%95%D7%99-%D7%A2%D7%98%D7%A8%D7%95%D7%AA-%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D?to=place.w.23068990.230886513.467360",
+      "lat": 31.84982924,
+      "lng": 35.22524402,
+      "place": "רמי לוי עטרות",
+      "locality": "ירושלים",
+      "street": "עטרות"
+    },
+    {
+      "key": "רגבה|רגבה|https://www.waze.com/he/live-map/directions/%D7%91%D7%99%D7%92-%D7%A8%D7%92%D7%91%D7%94?to=place.w.23003466.230034657.8793",
+      "lat": 32.974991636,
+      "lng": 35.09499777,
+      "place": "ביג רגבה",
+      "locality": "רגבה",
+      "street": ""
+    },
+    {
+      "key": "אום אל פחם|אום אל פחם|https://www.waze.com/he/live-map/directions/il/%D7%9E%D7%97%D7%95%D7%96-%D7%97%D7%99%D7%A4%D7%94/%D7%90%D7%95%D7%9D-%D7%90%D7%9C-%D7%A4%D7%97%D7%9D/%D7%A7%D7%A0%D7%99%D7%95%D7%9F-seven?to=place.ChIJBxPtot0BHRUR5YcQXk_F2yw",
+      "lat": 32.534003,
+      "lng": 35.1489333,
+      "place": "קניון Seven",
+      "locality": "אום אל-פחם",
+      "street": ""
+    },
+    {
+      "key": "אשדוד|אשדוד|https://www.waze.com/he/live-map/directions/%D7%9E%D7%AA%D7%97%D7%9D-%D7%A7%D7%A0%D7%99%D7%95%D7%AA-%D7%A1%D7%98%D7%90%D7%A8-%D7%A1%D7%A0%D7%98%D7%A8-%D7%96%D7%91%D7%95%D7%98%D7%99%D7%A0%D7%A1%D7%A7%D7%99-44-%D7%90%D7%A9%D7%93%D7%95%D7%93?to=place.w.22741310.227150957.276037",
+      "lat": 31.810390169,
+      "lng": 34.655422103,
+      "place": "מתחם קניות סטאר סנטר",
+      "locality": "אשדוד",
+      "street": "ז'בוטינסקי, 44"
+    },
+    {
+      "key": "ירושלים|ירושלים|https://www.waze.com/he/live-map/directions/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D?to=place.ws.il.15602.37",
+      "lat": 31.78170394897461,
+      "lng": 35.220218658447266,
+      "place": "",
+      "locality": "ירושלים",
+      "street": "יפו, 37"
+    },
+    {
+      "key": "ירושלים|ירושלים|https://www.waze.com/he/live-map/directions/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D/%D7%A7%D7%A0%D7%99%D7%95%D7%9F-%D7%A8%D7%9E%D7%95%D7%AA?to=place.ChIJtdXVdw_WAhUR9BY5rEF71bk",
+      "lat": 31.8175,
+      "lng": 35.1944444,
+      "place": "קניון רמות",
+      "locality": "ירושלים",
+      "street": "שדרות גולדה מאיר, 255"
+    },
+    {
+      "key": "נתניה|נתניה|https://www.waze.com/he/live-map/directions/il/%D7%9E%D7%97%D7%95%D7%96-%D7%94%D7%9E%D7%A8%D7%9B%D7%96/%D7%A0%D7%AA%D7%A0%D7%99%D7%94/%D7%A0%D7%A6%D7%91%D7%90-%D7%A1%D7%A0%D7%98%D7%A8-%D7%A4%D7%95%D7%9C%D7%92?to=place.ChIJ5S6kvYJAHRUROw76Ot1ATwg",
+      "lat": 32.2764938,
+      "lng": 34.8613553,
+      "place": "נצבא סנטר פולג",
+      "locality": "נתניה",
+      "street": "שדרות גיבורי ישראל, 5"
+    },
+    {
+      "key": "ראש העין|ראש העין|https://www.waze.com/he/live-map/directions/il/%D7%9E%D7%97%D7%95%D7%96-%D7%94%D7%9E%D7%A8%D7%9B%D7%96/%D7%A8%D7%90%D7%A9-%D7%94%D7%A2%D7%99%D7%9F/%D7%99%D7%92%D7%90%D7%9C-%D7%90%D7%9C%D7%95%D7%9F-22?to=place.ChIJAdBw5lAxHRURW25RUNYdG08",
+      "lat": 32.0860825,
+      "lng": 34.9798775,
+      "place": "יגאל אלון 22",
+      "locality": "ראש העין",
+      "street": "יגאל אלון, 22"
+    },
+    {
+      "key": "כרמיאל|כרמיאל|https://www.waze.com/he/live-map/directions/il/%D7%9E%D7%97%D7%95%D7%96-%D7%94%D7%A6%D7%A4%D7%95%D7%9F/%D7%9B%D7%A8%D7%9E%D7%99%D7%90%D7%9C/big-%D7%91%D7%99%D7%92-%D7%9B%D7%A8%D7%9E%D7%99%D7%90%D7%9C?to=place.ChIJV3Sow_EwHBURcqrY1FYRKEY",
+      "lat": 32.9271698,
+      "lng": 35.323513,
+      "place": "BIG ביג כרמיאל",
+      "locality": "כרמיאל",
+      "street": "מעלה כמון, 2"
+    },
+    {
+      "key": "תל אביב|תל אביב|https://www.waze.com/he/live-map/directions/%D7%AA%D7%9C-%D7%90%D7%91%D7%99%D7%91-%D7%99%D7%A4%D7%95?to=place.ws.il.96670.132",
+      "lat": 32.07405090332031,
+      "lng": 34.790828704833984,
+      "place": "",
+      "locality": "תל אביב - יפו",
+      "street": "דרך בגין, 132"
+    },
+    {
+      "key": "רמלה|רמלה|https://www.waze.com/he/live-map/directions/il/%D7%9E%D7%97%D7%95%D7%96-%D7%94%D7%9E%D7%A8%D7%9B%D7%96/%D7%A8%D7%9E%D7%9C%D7%94/%D7%A9%D7%93%D7%A8%D7%95%D7%AA-%D7%93%D7%95%D7%93-%D7%A8%D7%96%D7%99%D7%90%D7%9C-1?to=place.ChIJh5lhIADKAhURIAKxX-XdpRg",
+      "lat": 31.9256881,
+      "lng": 34.8639686,
+      "place": "שדרות דוד רזיאל 1",
+      "locality": "רמלה",
+      "street": "שדרות דוד רזיאל, 1"
+    },
+    {
+      "key": "חולון|חולון|https://www.waze.com/he/live-map/directions/%D7%97%D7%A6%D7%99-%D7%97%D7%99%D7%A0%D7%9D-%D7%94%D7%9E%D7%A8%D7%9B%D7%91%D7%94-31-%D7%97%D7%95%D7%9C%D7%95%D7%9F?to=place.w.22806848.228134017.2486",
+      "lat": 32.0101134515419,
+      "lng": 34.80964190524702,
+      "place": "חצי חינם המרכבה",
+      "locality": "חולון",
+      "street": "המרכבה, 31"
+    },
+    {
+      "key": "מודיעין|מודיעין|https://www.waze.com/he/live-map/directions/il/%D7%9E%D7%97%D7%95%D7%96-%D7%94%D7%9E%D7%A8%D7%9B%D7%96/%D7%9E%D7%95%D7%93%D7%99%D7%A2%D7%99%D7%9F-%D7%9E%D7%9B%D7%91%D7%99%D7%9D-%D7%A8%D7%A2%D7%95%D7%AA/%D7%A7%D7%A0%D7%99%D7%95%D7%9F-%D7%A2%D7%96%D7%A8%D7%99%D7%90%D7%9C%D7%99-%D7%9E%D7%95%D7%93%D7%99%D7%A2%D7%99%D7%9F?to=place.ChIJG-Abo8fNAhURK7VbszJbyTo",
+      "lat": 31.8998602,
+      "lng": 35.0082658,
+      "place": "קניון עזריאלי מודיעין",
+      "locality": "מודיעין מכבים רעות",
+      "street": "לב העיר, 2"
+    },
+    {
+      "key": "אשקלון|אשקלון|https://www.waze.com/he/live-map/directions/%D7%A9%D7%93-%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D-119-%D7%90%D7%A9%D7%A7%D7%9C%D7%95%D7%9F?to=place.w.22675773.226626657.468286",
+      "lat": 31.690911168,
+      "lng": 34.575272487,
+      "place": "",
+      "locality": "אשקלון",
+      "street": "שד' ירושלים, 119"
+    },
+    {
+      "key": "כפר סבא|כפר סבא|https://www.waze.com/he/live-map/directions/%D7%A7%D7%A0%D7%99%D7%95%D7%9F-g-%D7%95%D7%99%D7%A6%D7%9E%D7%9F-207-%D7%9B%D7%A4%D7%A8-%D7%A1%D7%91%D7%90?to=place.w.22872386.228920465.4197",
+      "lat": 32.17162095785062,
+      "lng": 34.92795300091305,
+      "place": "קניון G",
+      "locality": "כפר סבא",
+      "street": "ויצמן, 207"
+    },
+    {
+      "key": "טבריה|טבריה|https://www.waze.com/he/live-map/directions/il/%D7%9E%D7%97%D7%95%D7%96-%D7%94%D7%A6%D7%A4%D7%95%D7%9F/%D7%98%D7%91%D7%A8%D7%99%D7%94/big-fashion-danilof-%D7%91%D7%99%D7%92-%D7%A4%D7%90%D7%A9%D7%9F-%D7%93%D7%A0%D7%99%D7%9C%D7%95%D7%A3-%D7%98%D7%91%D7%A8%D7%99%D7%94?to=place.ChIJxf2UKk4-HBUR8PINf0NIn24",
+      "lat": 32.7905464,
+      "lng": 35.5337028,
+      "place": "BIG FASHION DANILOF ביג פאשן דנילוף טבריה",
+      "locality": "טבריה",
+      "street": "יהודה הלוי, 1"
+    },
+    {
+      "key": "בת ים|בת ים|https://www.waze.com/he/live-map/directions/il/%D7%9E%D7%97%D7%95%D7%96-%D7%94%D7%9E%D7%A8%D7%9B%D7%96/%D7%91%D7%AA-%D7%99%D7%9D/%D7%A7%D7%A0%D7%99%D7%95%D7%9F?to=place.ChIJLeZclGuzAhURHA7ZwXTC-tM",
+      "lat": 32.0151934,
+      "lng": 34.7559149,
+      "place": "קניון",
+      "locality": "בת ים",
+      "street": "יוספטל, 92"
+    },
+    {
+      "key": "גבעתיים|גבעתיים|https://www.waze.com/he/live-map/directions/il/%D7%9E%D7%97%D7%95%D7%96-%D7%AA%D7%9C-%D7%90%D7%91%D7%99%D7%91/%D7%92%D7%91%D7%A2%D7%AA%D7%99%D7%99%D7%9D/%D7%93%D7%A8%D7%9A-%D7%99%D7%A6%D7%97%D7%A7-%D7%A8%D7%91%D7%99%D7%9F-53?to=place.ChIJK_iAKKlLHRURIuuxZDhpeik",
+      "lat": 32.0665945,
+      "lng": 34.8101499,
+      "place": "דרך יצחק רבין 53",
+      "locality": "גבעתיים",
+      "street": "דרך יצחק רבין, 53"
+    },
+    {
+      "key": "אריאל|אריאל|https://www.waze.com/he/live-map/directions/%D7%90%D7%A8%D7%99%D7%90%D7%9C/%D7%9E%D7%95%D7%A8%D7%99%D7%94-2?to=place.ChIJLwNwyXsnHRURjJusjxDEDFU",
+      "lat": 32.1022953,
+      "lng": 35.2069928,
+      "place": "מוריה 2",
+      "locality": "אריאל",
+      "street": "מוריה, 2"
+    },
+    {
+      "key": "שדרות|שדרות|https://www.waze.com/he/live-map/directions/%D7%A9%D7%93%D7%A8%D7%95%D7%AA?to=place.ws.il.51513.4",
+      "lat": 31.52143096923828,
+      "lng": 34.594482421875,
+      "place": "",
+      "locality": "שדרות",
+      "street": "הפלדה, 4"
+    },
+    {
+      "key": "גוש עציון|גוש עציון|https://www.waze.com/he/live-map/directions/%D7%90%D7%9C%D7%95%D7%9F-%D7%A9%D7%91%D7%95%D7%AA/%D7%A7%D7%A0%D7%99%D7%95%D7%9F-%D7%94%D7%A8%D7%99%D7%9D?to=place.ChIJ188GwwLfAhURSDfDlF4iU6M",
+      "lat": 31.6451762,
+      "lng": 35.1304915,
+      "place": "קניון הרים",
+      "locality": "אלון שבות",
+      "street": ""
+    },
+    {
+      "key": "נתיבות|נתיבות|https://www.waze.com/he/live-map/directions/%D7%92%D7%9C%D7%95%D7%91%D7%95%D7%A1-%D7%A1%D7%A0%D7%98%D7%A8-%D7%91%D7%A2%D7%9C%D7%99-%D7%94%D7%9E%D7%9C%D7%90%D7%9B%D7%94-205-%D7%A0%D7%AA%D7%99%D7%91%D7%95%D7%AA?to=place.w.22675770.226757702.56924",
+      "lat": 31.41835681,
+      "lng": 34.598238962,
+      "place": "גלובוס סנטר",
+      "locality": "נתיבות",
+      "street": "בעלי המלאכה, 205"
+    },
+    {
+      "key": "גן יבנה|גן יבנה|https://www.waze.com/he/live-map/directions/il/%D7%9E%D7%97%D7%95%D7%96-%D7%94%D7%9E%D7%A8%D7%9B%D7%96/%D7%92%D7%9F-%D7%99%D7%91%D7%A0%D7%94/foxhome?to=place.ChIJQ0NUkBa9AhURvN8Uel4edNc",
+      "lat": 31.7951995,
+      "lng": 34.7045962,
+      "place": "FOXHOME",
+      "locality": "גן יבנה",
+      "street": ""
+    },
+    {
+      "key": "חריש|חריש|https://www.waze.com/he/live-map/directions/il/%D7%9E%D7%97%D7%95%D7%96-%D7%97%D7%99%D7%A4%D7%94/%D7%97%D7%A8%D7%99%D7%A9/%D7%93%D7%A8%D7%9A-%D7%90%D7%A8%D7%A5-1?to=place.ChIJz3sPm4AFHRURrp2wsmZQQwE",
+      "lat": 32.4705038,
+      "lng": 35.0392878,
+      "place": "דרך ארץ 1",
+      "locality": "חריש",
+      "street": "דרך ארץ, 1"
+    },
+    {
+      "key": "שוהם|שוהם|https://www.waze.com/he/live-map/directions/il/%D7%9E%D7%97%D7%95%D7%96-%D7%94%D7%9E%D7%A8%D7%9B%D7%96/%D7%A0%D7%AA%D7%91%D7%92/%D7%90%D7%99%D7%99%D7%A8%D7%A4%D7%95%D7%A8%D7%98-%D7%A1%D7%99%D7%98%D7%99?to=place.ChIJ0ST0oyzLAhURDBDUuxfXnX0",
+      "lat": 31.9879816,
+      "lng": 34.914164,
+      "place": "איירפורט סיטי",
+      "locality": "נתב\"ג",
+      "street": "גולן, 1"
+    },
+    {
+      "key": "אשדוד|אשדוד|https://www.waze.com/he/live-map/directions/%D7%94%D7%92%D7%93%D7%95%D7%93-%D7%94%D7%A2%D7%91%D7%A8%D7%99-6-%D7%90%D7%A9%D7%93%D7%95%D7%93?to=place.w.22675774.227019883.438684",
+      "lat": 31.79257634791,
+      "lng": 34.638992883573,
+      "place": "",
+      "locality": "אשדוד",
+      "street": "הגדוד העברי, 6"
+    },
+    {
+      "key": "אשקלון|אשקלון|https://www.waze.com/he/live-map/directions/%D7%92%D7%9C%D7%95%D7%91%D7%95%D7%A1-%D7%A1%D7%A0%D7%98%D7%A8-%D7%90%D7%A9%D7%A7%D7%9C%D7%95%D7%9F-%D7%9E%D7%91%D7%A7%D7%99%D7%A2%D7%99%D7%9D?to=place.w.22675772.226626651.23632",
+      "lat": 31.626772456,
+      "lng": 34.580418641,
+      "place": "גלובוס סנטר אשקלון",
+      "locality": "מבקיעים",
+      "street": "גלובוס סנטר"
+    },
+    {
+      "key": "דימונה|דימונה|https://www.waze.com/he/live-map/directions/%D7%93%D7%99%D7%9E%D7%95%D7%A0%D7%94?to=place.ws.il.115172.1",
+      "lat": 31.074277877807617,
+      "lng": 35.031707763671875,
+      "place": "",
+      "locality": "דימונה",
+      "street": "שדרות גולדה מאיר, 1"
+    },
+    {
+      "key": "מודיעין|מודיעין|https://www.waze.com/he/live-map/directions/il/%D7%9E%D7%97%D7%95%D7%96-%D7%94%D7%9E%D7%A8%D7%9B%D7%96/%D7%9E%D7%95%D7%93%D7%99%D7%A2%D7%99%D7%9F-%D7%9E%D7%9B%D7%91%D7%99%D7%9D-%D7%A8%D7%A2%D7%95%D7%AA/%D7%A9%D7%93%D7%A8%D7%95%D7%AA-%D7%94%D7%9E%D7%9C%D7%90%D7%9B%D7%95%D7%AA-121?to=place.ChIJ07kYlqbOAhURLWRhqvhEK38",
+      "lat": 31.8895148,
+      "lng": 34.9657961,
+      "place": "שדרות המלאכות 121",
+      "locality": "מודיעין מכבים רעות",
+      "street": "שדרות המלאכות, 121"
+    },
+    {
+      "key": "אילת|אילת|https://www.waze.com/he/live-map/directions/%D7%9E%D7%A8%D7%9B%D7%96-%D7%91%D7%99%D7%92-%D7%90%D7%99%D7%9C%D7%AA?to=place.w.22937896.229116813.5393",
+      "lat": 29.566277818,
+      "lng": 34.95967172,
+      "place": "מרכז ביג",
+      "locality": "אילת",
+      "street": ""
+    },
+    {
+      "key": "פרדס חנה|פרדס חנה|https://www.waze.com/he/live-map/directions/il/%D7%9E%D7%97%D7%95%D7%96-%D7%97%D7%99%D7%A4%D7%94/%D7%A4%D7%A8%D7%93%D7%A1-%D7%97%D7%A0%D7%94-%D7%9B%D7%A8%D7%9B%D7%95%D7%A8/fox-home?to=place.ChIJy9V30WEOHRURUmCSm5qXgQQ",
+      "lat": 32.488956,
+      "lng": 34.969545,
+      "place": "Fox Home",
+      "locality": "פרדס חנה כרכור",
+      "street": "תדהר, 1"
+    },
+    {
+      "key": "קרית ביאליק|קרית ביאליק|https://www.waze.com/he/live-map/directions/il/%D7%9E%D7%97%D7%95%D7%96-%D7%97%D7%99%D7%A4%D7%94/%D7%A7%D7%A8%D7%99%D7%99%D7%AA-%D7%91%D7%99%D7%90%D7%9C%D7%99%D7%A7/%D7%A2%D7%95%D7%A4%D7%A8-%D7%94%D7%A7%D7%A8%D7%99%D7%95%D7%9F-%D7%A7%D7%A8%D7%99%D7%99%D7%AA-%D7%91%D7%99%D7%90%D7%9C%D7%99%D7%A7?to=place.ChIJzU2zoPm2HRUR1W0JZKQ6VPY",
+      "lat": 32.8441591,
+      "lng": 35.091106,
+      "place": "עופר הקריון - קריית ביאליק",
+      "locality": "קריית ביאליק",
+      "street": "דרך עכו, 192"
+    },
+    {
+      "key": "קרית גת|קרית גת|https://www.waze.com/he/live-map/directions/%D7%91%D7%99%D7%92-%D7%9B%D7%A8%D7%9E%D7%99-%D7%92%D7%AA-%D7%A9%D7%93%D7%A8%D7%95%D7%AA-%D7%9C%D7%9B%D7%99%D7%A9-153-%D7%A7%D7%A8%D7%99%D7%99%D7%AA-%D7%92%D7%AA?to=place.w.22806844.227871835.2048711",
+      "lat": 31.627596605369984,
+      "lng": 34.77203471338625,
+      "place": "ביג כרמי גת",
+      "locality": "קריית גת",
+      "street": "שדרות לכיש"
+    },
+    {
+      "key": "קרית אונו|קרית אונו|https://www.waze.com/he/live-map/directions/%D7%A7%D7%A8%D7%99%D7%99%D7%AA-%D7%90%D7%95%D7%A0%D7%95?to=place.ws.il.5442.37",
+      "lat": 32.055057525634766,
+      "lng": 34.863037109375,
+      "place": "",
+      "locality": "קריית אונו",
+      "street": "שלמה המלך, 37"
+    },
+    {
+      "key": "אופקים|אופקים|https://www.waze.com/he/live-map/directions/il/%D7%9E%D7%97%D7%95%D7%96-%D7%94%D7%93%D7%A8%D7%95%D7%9D/%D7%90%D7%95%D7%A4%D7%A7%D7%99%D7%9D/%D7%A9%D7%93%D7%A8%D7%95%D7%AA-%D7%99%D7%94%D7%93%D7%95%D7%AA-%D7%93%D7%A8%D7%95%D7%9D-%D7%90%D7%A4%D7%A8%D7%99%D7%A7%D7%94-3?to=place.EixTZGVyb3QgWWFoYWR1dCBEcm9tIEFmcmlrYSAzLCBPZmFraW0sIElzcmFlbCIwEi4KFAoSCe_xtjZKegIVEWd6es55JHZhEAMqFAoSCffdmNNLegIVEcoUCjxr2j3q",
+      "lat": 31.3155915,
+      "lng": 34.6216039,
+      "place": "שדרות יהדות דרום אפריקה 3",
+      "locality": "אופקים",
+      "street": "שדרות יהדות דרום אפריקה, 3"
+    },
+    {
+      "key": "זכרון יעקב|זכרון יעקב|https://www.waze.com/he/live-map/directions/il/%D7%9E%D7%97%D7%95%D7%96-%D7%97%D7%99%D7%A4%D7%94/%D7%96%D7%9B%D7%A8%D7%95%D7%9F-%D7%99%D7%A2%D7%A7%D7%91/%D7%A7%D7%A0%D7%99%D7%95%D7%9F-%D7%9E%D7%95%D7%9C-%D7%96%D7%9B%D7%A8%D7%95%D7%9F?to=place.ChIJAQBwEsYLHRURFSxbJOnk0GA",
+      "lat": 32.56924,
+      "lng": 34.933385,
+      "place": "קניון מול זכרון",
+      "locality": "זכרון יעקב",
+      "street": "4"
+    }
+  ],
+  "withheld": [
+    {
+      "key": "תל אביב|נמל תל אביב|https://www.waze.com/he/live-map/directions/il/%D7%9E%D7%97%D7%95%D7%96-%D7%AA%D7%9C-%D7%90%D7%91%D7%99%D7%91/%D7%AA%D7%9C-%D7%90%D7%91%D7%99%D7%91-%D7%99%D7%A4%D7%95/%D7%A0%D7%9E%D7%9C-%D7%AA%D7%9C-%D7%90%D7%91%D7%99%D7%91?to=place.EihOZW1hbCBUZWwgQXZpdiBTdCwgVGVsIEF2aXYtWWFmbywgSXNyYWVsIi4qLAoUChIJ-7QacwpMHRURvldLeyvNmKsSFAoSCR98OxmmTB0VEZA_lsCicvvB",
+      "reason": "navigation-street-without-building-destination"
+    },
+    {
+      "key": "ראשון לציון|ראשון לציון|https://www.waze.com/he/live-map/directions/il/%D7%9E%D7%97%D7%95%D7%96-%D7%94%D7%9E%D7%A8%D7%9B%D7%96/%D7%A8%D7%90%D7%A9%D7%9C%D7%A6/%D7%A9%D7%93%D7%A8%D7%95%D7%AA-%D7%A0%D7%99%D7%9D-2?to=place.ChIJEcLOLiS0AhURr9-bsDeTwHU",
+      "reason": "navigation-target-is-another-business"
+    },
+    {
+      "key": "בית שאן|בית שאן|https://www.waze.com/he/live-map/directions/il/%D7%9E%D7%97%D7%95%D7%96-%D7%94%D7%A6%D7%A4%D7%95%D7%9F/%D7%91%D7%99%D7%AA-%D7%A9%D7%90%D7%9F/%D7%91%D7%99%D7%92-%D7%90%D7%9C%D7%A7%D7%98%D7%A8%D7%99%D7%A7?to=place.ChIJU3RL25heHBURNHi33JvjHqs",
+      "reason": "navigation-target-is-another-business"
+    }
+  ]
+}

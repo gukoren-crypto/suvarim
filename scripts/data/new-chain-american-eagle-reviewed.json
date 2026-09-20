@@ -1,0 +1,595 @@
+{
+  "sourceUrl": "https://storelocations.ae.com/il",
+  "reviewed": [
+    {
+      "officialId": "33007",
+      "slug": "il/south-district/beer-sheva/33007-derech-hevron-21.html",
+      "city": "באר שבע",
+      "name": "ביג באר שבע",
+      "sourceAddress": {
+        "city": "Beer Sheva",
+        "countryCode": "IL",
+        "extraDescription": "Big Center",
+        "line1": "Derech Hevron 21",
+        "localizedCountryName": "Israel",
+        "localizedRegionName": "South District",
+        "postalCode": "8424408",
+        "region": "South District"
+      },
+      "lat": 31.24374927768309,
+      "lng": 34.8117155975533
+    },
+    {
+      "officialId": "33013",
+      "slug": "il/south-district/beer-sheva/33013-eli-ha-cohen-junction.html",
+      "city": "באר שבע",
+      "name": "קניון הנגב",
+      "sourceAddress": {
+        "city": "Beer Sheva",
+        "countryCode": "IL",
+        "extraDescription": "Hanegev Mall",
+        "line1": "Eli Ha-Cohen Junction",
+        "localizedCountryName": "Israel",
+        "localizedRegionName": "South District",
+        "postalCode": "8400501",
+        "region": "South District"
+      },
+      "lat": 31.244146,
+      "lng": 34.795394
+    },
+    {
+      "officialId": "33023",
+      "slug": "il/south-district/beer-sheva/33023-tuvyahu-david-125.html",
+      "city": "באר שבע",
+      "name": "גרנד קניון באר שבע",
+      "sourceAddress": {
+        "city": "Beer Sheva",
+        "countryCode": "IL",
+        "extraDescription": "Grand Mall - Beer Sheva",
+        "line1": "Tuvyahu David 125",
+        "localizedCountryName": "Israel",
+        "localizedRegionName": "South District",
+        "postalCode": "8424351",
+        "region": "South District"
+      },
+      "lat": 31.250325758267522,
+      "lng": 34.77158472883593
+    },
+    {
+      "officialId": "33024",
+      "slug": "il/south-district/eilat/33024-ha-satat-20.html",
+      "city": "אילת",
+      "name": "ביג אילת",
+      "sourceAddress": {
+        "city": "Eilat",
+        "countryCode": "IL",
+        "extraDescription": "Big Eilat",
+        "line1": "Ha-Satat 20",
+        "localizedCountryName": "Israel",
+        "localizedRegionName": "South District",
+        "postalCode": "8850400",
+        "region": "South District"
+      },
+      "lat": 29.566591,
+      "lng": 34.959222
+    },
+    {
+      "officialId": "33028",
+      "slug": "il/south-district/ashdod/33028-jebotinski-44.html",
+      "city": "אשדוד",
+      "name": "סטאר סנטר אשדוד",
+      "sourceAddress": {
+        "city": "Ashdod",
+        "countryCode": "IL",
+        "extraDescription": "Star Ashdod",
+        "line1": "Jebotinski 44",
+        "localizedCountryName": "Israel",
+        "localizedRegionName": "South District",
+        "postalCode": "7724500",
+        "region": "South District"
+      },
+      "lat": 31.8111643,
+      "lng": 34.6541145
+    },
+    {
+      "officialId": "33039",
+      "slug": "il/central-district/rishon-letsiyon/33039-sderot-nim-2.html",
+      "city": "ראשון לציון",
+      "name": "קניון ראשונים",
+      "sourceAddress": {
+        "city": "Rishon LeTsiyon",
+        "countryCode": "IL",
+        "extraDescription": "Rishonim",
+        "line1": "Sderot Nim 2",
+        "localizedCountryName": "Israel",
+        "localizedRegionName": "Central District",
+        "postalCode": "75707",
+        "region": "Central District"
+      },
+      "lat": 31.94989,
+      "lng": 34.80417
+    },
+    {
+      "officialId": "33034",
+      "slug": "il/central-district/tel-aviv/33034-derech-menachem-begin-132.html",
+      "city": "תל אביב",
+      "name": "עזריאלי תל אביב",
+      "sourceAddress": {
+        "city": "Tel Aviv",
+        "countryCode": "IL",
+        "extraDescription": "Azrieli Center",
+        "line1": "Derech Menachem Begin 132",
+        "localizedCountryName": "Israel",
+        "localizedRegionName": "Central District",
+        "postalCode": "6713208",
+        "region": "Central District"
+      },
+      "lat": 32.07424424100918,
+      "lng": 34.79199978484962
+    },
+    {
+      "officialId": "33026",
+      "slug": "il/tel-aviv/givataim/33026-derech-yitshak-rabin-53.html",
+      "city": "גבעתיים",
+      "name": "קניון גבעתיים",
+      "sourceAddress": {
+        "city": "Givataim",
+        "countryCode": "IL",
+        "extraDescription": "Giv'atayim Mall Super Pharm",
+        "line1": "Derech Yitshak Rabin 53",
+        "localizedCountryName": "Israel",
+        "localizedRegionName": "Tel Aviv",
+        "postalCode": "5320001",
+        "region": "Tel Aviv"
+      },
+      "lat": 32.066651,
+      "lng": 34.810025
+    },
+    {
+      "officialId": "33044",
+      "slug": "il/northern-district/hadera/33044-energy-park-mall.html",
+      "city": "חדרה",
+      "name": "מול החוף וילג׳",
+      "sourceAddress": {
+        "city": "Hadera",
+        "countryCode": "IL",
+        "extraDescription": "Hadera Energy Park",
+        "line1": "Energy Park Mall",
+        "localizedCountryName": "Israel",
+        "localizedRegionName": "Northern District",
+        "postalCode": "3835122",
+        "region": "Northern District"
+      },
+      "lat": 32.440962,
+      "lng": 34.895703
+    },
+    {
+      "officialId": "33017",
+      "slug": "il/jerusalem-district/jerusalem/33017-agudat-hasport-beitar-1.html",
+      "city": "ירושלים",
+      "name": "קניון מלחה",
+      "sourceAddress": {
+        "city": "Jerusalem",
+        "countryCode": "IL",
+        "extraDescription": "Malcha Mall",
+        "line1": "Agudat Hasport Beitar 1",
+        "localizedCountryName": "Israel",
+        "localizedRegionName": "Jerusalem District",
+        "postalCode": "9695989",
+        "region": "Jerusalem District"
+      },
+      "lat": 31.7518161,
+      "lng": 35.1875719
+    },
+    {
+      "officialId": "33018",
+      "slug": "il/jerusalem-district/jerusalem/33018-shlomo-ha-melech-11.html",
+      "city": "ירושלים",
+      "name": "ממילא",
+      "sourceAddress": {
+        "city": "Jerusalem",
+        "countryCode": "IL",
+        "extraDescription": "Mamilla Mall",
+        "line1": "Shlomo Ha-Melech 11",
+        "localizedCountryName": "Israel",
+        "localizedRegionName": "Jerusalem District",
+        "postalCode": "9418238",
+        "region": "Jerusalem District"
+      },
+      "lat": 31.778172,
+      "lng": 35.223592
+    },
+    {
+      "officialId": "33027",
+      "slug": "il/jerusalem-district/talpiyot/33027-pier-kenig-26.html",
+      "city": "ירושלים",
+      "name": "קניון הדר תלפיות",
+      "sourceAddress": {
+        "city": "Talpiyot",
+        "countryCode": "IL",
+        "extraDescription": "Hadar Mall",
+        "line1": "Pier Kenig 26",
+        "localizedCountryName": "Israel",
+        "localizedRegionName": "Jerusalem District",
+        "postalCode": "9346934",
+        "region": "Jerusalem District"
+      },
+      "lat": 31.753529,
+      "lng": 35.213563
+    },
+    {
+      "officialId": "33001",
+      "slug": "il/tel-aviv-district/tel-aviv/33001-einstein-40.html",
+      "city": "תל אביב",
+      "name": "קניון רמת אביב",
+      "sourceAddress": {
+        "city": "Tel Aviv",
+        "countryCode": "IL",
+        "extraDescription": "Ramat Aviv Mall",
+        "line1": "Einstein 40",
+        "localizedCountryName": "Israel",
+        "localizedRegionName": "Tel Aviv District",
+        "postalCode": "6910203",
+        "region": "Tel Aviv District"
+      },
+      "lat": 32.1125051,
+      "lng": 34.796782
+    },
+    {
+      "officialId": "33010",
+      "slug": "il/tel-aviv-district/tel-aviv/33010-dizingoff-50.html",
+      "city": "תל אביב",
+      "name": "דיזנגוף סנטר",
+      "sourceAddress": {
+        "city": "Tel Aviv",
+        "countryCode": "IL",
+        "extraDescription": "Dizingoff Center",
+        "line1": "Dizingoff 50",
+        "localizedCountryName": "Israel",
+        "localizedRegionName": "Tel Aviv District",
+        "postalCode": "6433222",
+        "region": "Tel Aviv District"
+      },
+      "lat": 32.07480667984683,
+      "lng": 34.7753583902454
+    },
+    {
+      "officialId": "33004",
+      "slug": "il/tel-aviv-district/herzliya/33004-shivat-ha-kohavim-8.html",
+      "city": "הרצליה",
+      "name": "קניון שבעת הכוכבים",
+      "sourceAddress": {
+        "city": "Herzliya",
+        "countryCode": "IL",
+        "extraDescription": "7 Stars Mall",
+        "line1": "Shivat Ha-Kohavim 8",
+        "localizedCountryName": "Israel",
+        "localizedRegionName": "Tel Aviv District",
+        "postalCode": "46505",
+        "region": "Tel Aviv District"
+      },
+      "lat": 32.165186,
+      "lng": 34.823776
+    },
+    {
+      "officialId": "33005",
+      "slug": "il/tel-aviv-district/kiryat-ono/33005-shlomo-ha-melech-37.html",
+      "city": "קרית אונו",
+      "name": "קניון קרית אונו",
+      "sourceAddress": {
+        "city": "Kiryat Ono",
+        "countryCode": "IL",
+        "extraDescription": "Kiryat Ono Mall",
+        "line1": "Shlomo Ha-Melech 37",
+        "localizedCountryName": "Israel",
+        "localizedRegionName": "Tel Aviv District",
+        "postalCode": "5542133",
+        "region": "Tel Aviv District"
+      },
+      "lat": 32.055691,
+      "lng": 34.863409
+    },
+    {
+      "officialId": "33016",
+      "slug": "il/north-district/nazareth/33016-tawfiq-ziad-53.html",
+      "city": "נצרת",
+      "name": "ביג נצרת",
+      "sourceAddress": {
+        "city": "Nazareth",
+        "countryCode": "IL",
+        "extraDescription": "Big Mall Nazareth",
+        "line1": "Tawfiq Ziad 53",
+        "localizedCountryName": "Israel",
+        "localizedRegionName": "North District",
+        "postalCode": "1600986",
+        "region": "North District"
+      },
+      "lat": 32.69630641727514,
+      "lng": 35.302013658351825
+    },
+    {
+      "officialId": "33020",
+      "slug": "il/north-district/karmiel/33020-maaleh-camon-2.html",
+      "city": "כרמיאל",
+      "name": "ביג כרמיאל",
+      "sourceAddress": {
+        "city": "Karmiel",
+        "countryCode": "IL",
+        "extraDescription": "Karmiel",
+        "line1": "Maaleh Camon 2",
+        "localizedCountryName": "Israel",
+        "localizedRegionName": "North District",
+        "postalCode": "2165001",
+        "region": "North District"
+      },
+      "lat": 32.92689687561134,
+      "lng": 35.32265763057694
+    },
+    {
+      "officialId": "33025",
+      "slug": "il/north-district/tiberias/33025-yehuda-ha-levi-1.html",
+      "city": "טבריה",
+      "name": "ביג פאשן טבריה",
+      "sourceAddress": {
+        "city": "Tiberias",
+        "countryCode": "IL",
+        "extraDescription": "Tiberias",
+        "line1": "Yehuda Ha-Levi 1",
+        "localizedCountryName": "Israel",
+        "localizedRegionName": "North District",
+        "postalCode": "1424625",
+        "region": "North District"
+      },
+      "lat": 32.7909822,
+      "lng": 35.5334132
+    },
+    {
+      "officialId": "33032",
+      "slug": "il/southern-district/eylat/33032-royal-beach-boardwalk.html",
+      "city": "אילת",
+      "name": "טיילת רויאל ביץ׳",
+      "sourceAddress": {
+        "city": "Eylat",
+        "countryCode": "IL",
+        "extraDescription": "Royal Beach Boardwalk",
+        "line1": "Royal Beach Boardwalk",
+        "localizedCountryName": "Israel",
+        "localizedRegionName": "Southern District",
+        "postalCode": "88000",
+        "region": "Southern District"
+      },
+      "lat": 29.549376666653263,
+      "lng": 34.963115448462105
+    },
+    {
+      "officialId": "33033",
+      "slug": "il/southern-district/ramla/33033-sderot-david-raziel-1.html",
+      "city": "רמלה",
+      "name": "עזריאלי רמלה",
+      "sourceAddress": {
+        "city": "Ramla",
+        "countryCode": "IL",
+        "extraDescription": "Ramla Azrieli Mall",
+        "line1": "Sderot David Razi'el 1",
+        "localizedCountryName": "Israel",
+        "localizedRegionName": "Southern District",
+        "postalCode": "7210000",
+        "region": "Southern District"
+      },
+      "lat": 31.925824253138593,
+      "lng": 34.86407960003471
+    },
+    {
+      "officialId": "33040",
+      "slug": "il/southern-district/mevaseret-zion/33040-hahotsvim-avenue-10.html",
+      "city": "מבשרת ציון",
+      "name": "קניון מבשרת",
+      "sourceAddress": {
+        "city": "Mevaseret Zion",
+        "countryCode": "IL",
+        "extraDescription": "Mevaseret",
+        "line1": "HaHotsvim Avenue 10",
+        "localizedCountryName": "Israel",
+        "localizedRegionName": "Southern District",
+        "postalCode": "9079129",
+        "region": "Southern District"
+      },
+      "lat": 31.796594746414456,
+      "lng": 35.14654943751623
+    },
+    {
+      "officialId": "33035",
+      "slug": "il/southern-district/ashdod/33035-derech-harakevet-1.html",
+      "city": "אשדוד",
+      "name": "ביג פאשן אשדוד",
+      "sourceAddress": {
+        "city": "Ashdod",
+        "countryCode": "IL",
+        "extraDescription": "Big Fashion Ashdod",
+        "line1": "Derech HaRakevet 1",
+        "localizedCountryName": "Israel",
+        "localizedRegionName": "Southern District",
+        "postalCode": "7704100",
+        "region": "Southern District"
+      },
+      "lat": 31.77665613966909,
+      "lng": 34.66375487668646
+    },
+    {
+      "officialId": "33012",
+      "slug": "il/haifa-district/haifa/33012-fliman-4.html",
+      "city": "חיפה",
+      "name": "קניון חיפה",
+      "sourceAddress": {
+        "city": "Haifa",
+        "countryCode": "IL",
+        "extraDescription": "Mall Of Haifa",
+        "line1": "Fliman 4",
+        "localizedCountryName": "Israel",
+        "localizedRegionName": "Haifa District",
+        "postalCode": "3508416",
+        "region": "Haifa District"
+      },
+      "lat": 32.789846,
+      "lng": 34.9662734
+    },
+    {
+      "officialId": "33014",
+      "slug": "il/haifa-district/haifa/33014-simha-golan-54.html",
+      "city": "חיפה",
+      "name": "גרנד קניון חיפה",
+      "sourceAddress": {
+        "city": "Haifa",
+        "countryCode": "IL",
+        "extraDescription": "Grand Mall",
+        "line1": "Simha Golan 54",
+        "localizedCountryName": "Israel",
+        "localizedRegionName": "Haifa District",
+        "postalCode": "32990",
+        "region": "Haifa District"
+      },
+      "lat": 32.7896367,
+      "lng": 35.0073992
+    },
+    {
+      "officialId": "33003",
+      "slug": "il/center-district/raanana/33003-hamelacha-2.html",
+      "city": "רעננה",
+      "name": "קניון רננים",
+      "sourceAddress": {
+        "city": "Ra'Anana",
+        "countryCode": "IL",
+        "extraDescription": "Renamin",
+        "line1": "Hamelacha 2",
+        "localizedCountryName": "Israel",
+        "localizedRegionName": "Center District",
+        "postalCode": "4366101",
+        "region": "Center District"
+      },
+      "lat": 32.19735519684965,
+      "lng": 34.87828716439482
+    },
+    {
+      "officialId": "33006",
+      "slug": "il/center-district/netanya/33006-beni-berman-2.html",
+      "city": "נתניה",
+      "name": "קניון עיר ימים",
+      "sourceAddress": {
+        "city": "Netanya",
+        "countryCode": "IL",
+        "extraDescription": "Sea City Mall",
+        "line1": "Beni Berman 2",
+        "localizedCountryName": "Israel",
+        "localizedRegionName": "Center District",
+        "postalCode": "4249330",
+        "region": "Center District"
+      },
+      "lat": 32.2791359,
+      "lng": 34.8472851
+    },
+    {
+      "officialId": "33009",
+      "slug": "il/center-district/petah-tikva/33009-jebotinski-72.html",
+      "city": "פתח תקווה",
+      "name": "הקניון הגדול",
+      "sourceAddress": {
+        "city": "Petah Tikva",
+        "countryCode": "IL",
+        "extraDescription": "The Big Mall",
+        "line1": "Jebotinski 72",
+        "localizedCountryName": "Israel",
+        "localizedRegionName": "Center District",
+        "postalCode": "4968101",
+        "region": "Center District"
+      },
+      "lat": 32.0936272,
+      "lng": 34.8656762
+    },
+    {
+      "officialId": "33011",
+      "slug": "il/center-district/rishon-lezion/33011-sakharov-21.html",
+      "city": "ראשון לציון",
+      "name": "קניון הזהב",
+      "sourceAddress": {
+        "city": "Rishon Lezion",
+        "countryCode": "IL",
+        "extraDescription": "Ha-Zahav Mall",
+        "line1": "Sakharov 21",
+        "localizedCountryName": "Israel",
+        "localizedRegionName": "Center District",
+        "postalCode": "75707",
+        "region": "Center District"
+      },
+      "lat": 31.990360739384556,
+      "lng": 34.77424842087203
+    },
+    {
+      "officialId": "33015",
+      "slug": "il/center-district/rehovot/33015-bilu-2.html",
+      "city": "רחובות",
+      "name": "קניון רחובות",
+      "sourceAddress": {
+        "city": "Rehovot",
+        "countryCode": "IL",
+        "extraDescription": "Rehovot Mall",
+        "line1": "Bilu 2",
+        "localizedCountryName": "Israel",
+        "localizedRegionName": "Center District",
+        "postalCode": "7644201",
+        "region": "Center District"
+      },
+      "lat": 31.8925348,
+      "lng": 34.8057229
+    },
+    {
+      "officialId": "33021",
+      "slug": "il/center-district/modiin/33021-lev-ha-ir-2.html",
+      "city": "מודיעין",
+      "name": "עזריאלי מודיעין",
+      "sourceAddress": {
+        "city": "Modiin",
+        "countryCode": "IL",
+        "extraDescription": "Modiin",
+        "line1": "Lev Ha-Ir 2",
+        "localizedCountryName": "Israel",
+        "localizedRegionName": "Center District",
+        "postalCode": "7177806",
+        "region": "Center District"
+      },
+      "lat": 31.8996621,
+      "lng": 35.0078357
+    },
+    {
+      "officialId": "33022",
+      "slug": "il/center-district/kfar-saba/33022-weitzman-207.html",
+      "city": "כפר סבא",
+      "name": "מתחם G כפר סבא",
+      "sourceAddress": {
+        "city": "Kfar Saba",
+        "countryCode": "IL",
+        "extraDescription": "G Kfar Saba",
+        "line1": "Weitzman 207",
+        "localizedCountryName": "Israel",
+        "localizedRegionName": "Center District",
+        "postalCode": "4403200",
+        "region": "Center District"
+      },
+      "lat": 32.1718913,
+      "lng": 34.9289391
+    }
+  ],
+  "exclusions": {
+    "33002": "city-mismatch-haifa-vs-kiryat-bialik",
+    "33019": "city-coordinate-mismatch-bilu-vs-modiin",
+    "33029": "location-needs-review",
+    "33030": "address-and-venue-need-review",
+    "33031": "venue-coordinate-mismatch-ikea-vs-kiryon",
+    "33037": "city-coordinate-mismatch-ramat-gan-vs-ramla",
+    "33038": "venue-location-needs-review",
+    "33041": "location-needs-review",
+    "33042": "venue-location-needs-review",
+    "33045": "location-needs-review",
+    "33100": "duplicate-azrieli-address",
+    "33101": "venue-coordinate-mismatch-grand-vs-big"
+  }
+}

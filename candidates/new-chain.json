@@ -1,0 +1,493 @@
+{
+  "store": "אמריקן איגל",
+  "branches": [
+    {
+      "id": "american-eagle-09e64fc8f567",
+      "store": "אמריקן איגל",
+      "name": "עזריאלי רמלה",
+      "city": "רמלה",
+      "address": "Sderot David Razi'el 1, רמלה",
+      "lat": 31.925824253138593,
+      "lng": 34.86407960003471,
+      "sourceUrl": "https://storelocations.ae.com/il/southern-district/ramla/33033-sderot-david-raziel-1.html",
+      "coordinateSourceUrl": "https://storelocations.ae.com/il/southern-district/ramla/33033-sderot-david-raziel-1.html",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "american-eagle-0a7082c358ce",
+      "store": "אמריקן איגל",
+      "name": "עזריאלי תל אביב",
+      "city": "תל אביב",
+      "address": "Derech Menachem Begin 132, תל אביב",
+      "lat": 32.07424424100918,
+      "lng": 34.79199978484962,
+      "sourceUrl": "https://storelocations.ae.com/il/central-district/tel-aviv/33034-derech-menachem-begin-132.html",
+      "coordinateSourceUrl": "https://storelocations.ae.com/il/central-district/tel-aviv/33034-derech-menachem-begin-132.html",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "american-eagle-0bab5011f1ae",
+      "store": "אמריקן איגל",
+      "name": "גרנד קניון חיפה",
+      "city": "חיפה",
+      "address": "Simha Golan 54, חיפה",
+      "lat": 32.7896367,
+      "lng": 35.0073992,
+      "sourceUrl": "https://storelocations.ae.com/il/haifa-district/haifa/33014-simha-golan-54.html",
+      "coordinateSourceUrl": "https://storelocations.ae.com/il/haifa-district/haifa/33014-simha-golan-54.html",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "american-eagle-1a2e44206679",
+      "store": "אמריקן איגל",
+      "name": "ביג פאשן טבריה",
+      "city": "טבריה",
+      "address": "Yehuda Ha-Levi 1, טבריה",
+      "lat": 32.7909822,
+      "lng": 35.5334132,
+      "sourceUrl": "https://storelocations.ae.com/il/north-district/tiberias/33025-yehuda-ha-levi-1.html",
+      "coordinateSourceUrl": "https://storelocations.ae.com/il/north-district/tiberias/33025-yehuda-ha-levi-1.html",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "american-eagle-1b79561b72fe",
+      "store": "אמריקן איגל",
+      "name": "קניון חיפה",
+      "city": "חיפה",
+      "address": "Fliman 4, חיפה",
+      "lat": 32.789846,
+      "lng": 34.9662734,
+      "sourceUrl": "https://storelocations.ae.com/il/haifa-district/haifa/33012-fliman-4.html",
+      "coordinateSourceUrl": "https://storelocations.ae.com/il/haifa-district/haifa/33012-fliman-4.html",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "american-eagle-2136ed7c45ab",
+      "store": "אמריקן איגל",
+      "name": "קניון הנגב",
+      "city": "באר שבע",
+      "address": "Eli Ha-Cohen Junction, באר שבע",
+      "lat": 31.244146,
+      "lng": 34.795394,
+      "sourceUrl": "https://storelocations.ae.com/il/south-district/beer-sheva/33013-eli-ha-cohen-junction.html",
+      "coordinateSourceUrl": "https://storelocations.ae.com/il/south-district/beer-sheva/33013-eli-ha-cohen-junction.html",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "american-eagle-35ee371e3639",
+      "store": "אמריקן איגל",
+      "name": "קניון רחובות",
+      "city": "רחובות",
+      "address": "Bilu 2, רחובות",
+      "lat": 31.8925348,
+      "lng": 34.8057229,
+      "sourceUrl": "https://storelocations.ae.com/il/center-district/rehovot/33015-bilu-2.html",
+      "coordinateSourceUrl": "https://storelocations.ae.com/il/center-district/rehovot/33015-bilu-2.html",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "american-eagle-48c13290cfb2",
+      "store": "אמריקן איגל",
+      "name": "קניון ראשונים",
+      "city": "ראשון לציון",
+      "address": "Sderot Nim 2, ראשון לציון",
+      "lat": 31.94989,
+      "lng": 34.80417,
+      "sourceUrl": "https://storelocations.ae.com/il/central-district/rishon-letsiyon/33039-sderot-nim-2.html",
+      "coordinateSourceUrl": "https://storelocations.ae.com/il/central-district/rishon-letsiyon/33039-sderot-nim-2.html",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "american-eagle-503c4a6040ea",
+      "store": "אמריקן איגל",
+      "name": "גרנד קניון באר שבע",
+      "city": "באר שבע",
+      "address": "Tuvyahu David 125, באר שבע",
+      "lat": 31.250325758267522,
+      "lng": 34.77158472883593,
+      "sourceUrl": "https://storelocations.ae.com/il/south-district/beer-sheva/33023-tuvyahu-david-125.html",
+      "coordinateSourceUrl": "https://storelocations.ae.com/il/south-district/beer-sheva/33023-tuvyahu-david-125.html",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "american-eagle-62849250ac3f",
+      "store": "אמריקן איגל",
+      "name": "ביג פאשן אשדוד",
+      "city": "אשדוד",
+      "address": "Derech HaRakevet 1, אשדוד",
+      "lat": 31.77665613966909,
+      "lng": 34.66375487668646,
+      "sourceUrl": "https://storelocations.ae.com/il/southern-district/ashdod/33035-derech-harakevet-1.html",
+      "coordinateSourceUrl": "https://storelocations.ae.com/il/southern-district/ashdod/33035-derech-harakevet-1.html",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "american-eagle-6aa5ad7e5619",
+      "store": "אמריקן איגל",
+      "name": "קניון גבעתיים",
+      "city": "גבעתיים",
+      "address": "Derech Yitshak Rabin 53, גבעתיים",
+      "lat": 32.066651,
+      "lng": 34.810025,
+      "sourceUrl": "https://storelocations.ae.com/il/tel-aviv/givataim/33026-derech-yitshak-rabin-53.html",
+      "coordinateSourceUrl": "https://storelocations.ae.com/il/tel-aviv/givataim/33026-derech-yitshak-rabin-53.html",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "american-eagle-6cd525f02861",
+      "store": "אמריקן איגל",
+      "name": "ממילא",
+      "city": "ירושלים",
+      "address": "Shlomo Ha-Melech 11, ירושלים",
+      "lat": 31.778172,
+      "lng": 35.223592,
+      "sourceUrl": "https://storelocations.ae.com/il/jerusalem-district/jerusalem/33018-shlomo-ha-melech-11.html",
+      "coordinateSourceUrl": "https://storelocations.ae.com/il/jerusalem-district/jerusalem/33018-shlomo-ha-melech-11.html",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "american-eagle-74e16dac9019",
+      "store": "אמריקן איגל",
+      "name": "ביג נצרת",
+      "city": "נצרת",
+      "address": "Tawfiq Ziad 53, נצרת",
+      "lat": 32.69630641727514,
+      "lng": 35.302013658351825,
+      "sourceUrl": "https://storelocations.ae.com/il/north-district/nazareth/33016-tawfiq-ziad-53.html",
+      "coordinateSourceUrl": "https://storelocations.ae.com/il/north-district/nazareth/33016-tawfiq-ziad-53.html",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "american-eagle-778d0591be50",
+      "store": "אמריקן איגל",
+      "name": "מתחם G כפר סבא",
+      "city": "כפר סבא",
+      "address": "Weitzman 207, כפר סבא",
+      "lat": 32.1718913,
+      "lng": 34.9289391,
+      "sourceUrl": "https://storelocations.ae.com/il/center-district/kfar-saba/33022-weitzman-207.html",
+      "coordinateSourceUrl": "https://storelocations.ae.com/il/center-district/kfar-saba/33022-weitzman-207.html",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "american-eagle-7c398701129c",
+      "store": "אמריקן איגל",
+      "name": "מול החוף וילג׳",
+      "city": "חדרה",
+      "address": "Energy Park Mall, חדרה",
+      "lat": 32.440962,
+      "lng": 34.895703,
+      "sourceUrl": "https://storelocations.ae.com/il/northern-district/hadera/33044-energy-park-mall.html",
+      "coordinateSourceUrl": "https://storelocations.ae.com/il/northern-district/hadera/33044-energy-park-mall.html",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "american-eagle-870c8e3164ab",
+      "store": "אמריקן איגל",
+      "name": "קניון שבעת הכוכבים",
+      "city": "הרצליה",
+      "address": "Shivat Ha-Kohavim 8, הרצליה",
+      "lat": 32.165186,
+      "lng": 34.823776,
+      "sourceUrl": "https://storelocations.ae.com/il/tel-aviv-district/herzliya/33004-shivat-ha-kohavim-8.html",
+      "coordinateSourceUrl": "https://storelocations.ae.com/il/tel-aviv-district/herzliya/33004-shivat-ha-kohavim-8.html",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "american-eagle-94331e1c1cb5",
+      "store": "אמריקן איגל",
+      "name": "ביג באר שבע",
+      "city": "באר שבע",
+      "address": "Derech Hevron 21, באר שבע",
+      "lat": 31.24374927768309,
+      "lng": 34.8117155975533,
+      "sourceUrl": "https://storelocations.ae.com/il/south-district/beer-sheva/33007-derech-hevron-21.html",
+      "coordinateSourceUrl": "https://storelocations.ae.com/il/south-district/beer-sheva/33007-derech-hevron-21.html",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "american-eagle-94847a4b29aa",
+      "store": "אמריקן איגל",
+      "name": "סטאר סנטר אשדוד",
+      "city": "אשדוד",
+      "address": "Jebotinski 44, אשדוד",
+      "lat": 31.8111643,
+      "lng": 34.6541145,
+      "sourceUrl": "https://storelocations.ae.com/il/south-district/ashdod/33028-jebotinski-44.html",
+      "coordinateSourceUrl": "https://storelocations.ae.com/il/south-district/ashdod/33028-jebotinski-44.html",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "american-eagle-a0dccbfdd7f3",
+      "store": "אמריקן איגל",
+      "name": "קניון מלחה",
+      "city": "ירושלים",
+      "address": "Agudat Hasport Beitar 1, ירושלים",
+      "lat": 31.7518161,
+      "lng": 35.1875719,
+      "sourceUrl": "https://storelocations.ae.com/il/jerusalem-district/jerusalem/33017-agudat-hasport-beitar-1.html",
+      "coordinateSourceUrl": "https://storelocations.ae.com/il/jerusalem-district/jerusalem/33017-agudat-hasport-beitar-1.html",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "american-eagle-a3d2c4a2259d",
+      "store": "אמריקן איגל",
+      "name": "קניון עיר ימים",
+      "city": "נתניה",
+      "address": "Beni Berman 2, נתניה",
+      "lat": 32.2791359,
+      "lng": 34.8472851,
+      "sourceUrl": "https://storelocations.ae.com/il/center-district/netanya/33006-beni-berman-2.html",
+      "coordinateSourceUrl": "https://storelocations.ae.com/il/center-district/netanya/33006-beni-berman-2.html",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "american-eagle-a63f13df7396",
+      "store": "אמריקן איגל",
+      "name": "קניון הדר תלפיות",
+      "city": "ירושלים",
+      "address": "Pier Kenig 26, ירושלים",
+      "lat": 31.753529,
+      "lng": 35.213563,
+      "sourceUrl": "https://storelocations.ae.com/il/jerusalem-district/talpiyot/33027-pier-kenig-26.html",
+      "coordinateSourceUrl": "https://storelocations.ae.com/il/jerusalem-district/talpiyot/33027-pier-kenig-26.html",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "american-eagle-aed049e40545",
+      "store": "אמריקן איגל",
+      "name": "קניון מבשרת",
+      "city": "מבשרת ציון",
+      "address": "HaHotsvim Avenue 10, מבשרת ציון",
+      "lat": 31.796594746414456,
+      "lng": 35.14654943751623,
+      "sourceUrl": "https://storelocations.ae.com/il/southern-district/mevaseret-zion/33040-hahotsvim-avenue-10.html",
+      "coordinateSourceUrl": "https://storelocations.ae.com/il/southern-district/mevaseret-zion/33040-hahotsvim-avenue-10.html",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "american-eagle-b0ef799b5828",
+      "store": "אמריקן איגל",
+      "name": "דיזנגוף סנטר",
+      "city": "תל אביב",
+      "address": "Dizingoff 50, תל אביב",
+      "lat": 32.07480667984683,
+      "lng": 34.7753583902454,
+      "sourceUrl": "https://storelocations.ae.com/il/tel-aviv-district/tel-aviv/33010-dizingoff-50.html",
+      "coordinateSourceUrl": "https://storelocations.ae.com/il/tel-aviv-district/tel-aviv/33010-dizingoff-50.html",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "american-eagle-b3e8b06f4470",
+      "store": "אמריקן איגל",
+      "name": "קניון קרית אונו",
+      "city": "קרית אונו",
+      "address": "Shlomo Ha-Melech 37, קרית אונו",
+      "lat": 32.055691,
+      "lng": 34.863409,
+      "sourceUrl": "https://storelocations.ae.com/il/tel-aviv-district/kiryat-ono/33005-shlomo-ha-melech-37.html",
+      "coordinateSourceUrl": "https://storelocations.ae.com/il/tel-aviv-district/kiryat-ono/33005-shlomo-ha-melech-37.html",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "american-eagle-b4ed615d5cb3",
+      "store": "אמריקן איגל",
+      "name": "עזריאלי מודיעין",
+      "city": "מודיעין",
+      "address": "Lev Ha-Ir 2, מודיעין",
+      "lat": 31.8996621,
+      "lng": 35.0078357,
+      "sourceUrl": "https://storelocations.ae.com/il/center-district/modiin/33021-lev-ha-ir-2.html",
+      "coordinateSourceUrl": "https://storelocations.ae.com/il/center-district/modiin/33021-lev-ha-ir-2.html",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "american-eagle-bca77a213748",
+      "store": "אמריקן איגל",
+      "name": "קניון רמת אביב",
+      "city": "תל אביב",
+      "address": "Einstein 40, תל אביב",
+      "lat": 32.1125051,
+      "lng": 34.796782,
+      "sourceUrl": "https://storelocations.ae.com/il/tel-aviv-district/tel-aviv/33001-einstein-40.html",
+      "coordinateSourceUrl": "https://storelocations.ae.com/il/tel-aviv-district/tel-aviv/33001-einstein-40.html",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "american-eagle-cab5b88c6169",
+      "store": "אמריקן איגל",
+      "name": "ביג אילת",
+      "city": "אילת",
+      "address": "Ha-Satat 20, אילת",
+      "lat": 29.566591,
+      "lng": 34.959222,
+      "sourceUrl": "https://storelocations.ae.com/il/south-district/eilat/33024-ha-satat-20.html",
+      "coordinateSourceUrl": "https://storelocations.ae.com/il/south-district/eilat/33024-ha-satat-20.html",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "american-eagle-cbb93b3dc8a5",
+      "store": "אמריקן איגל",
+      "name": "ביג כרמיאל",
+      "city": "כרמיאל",
+      "address": "Maaleh Camon 2, כרמיאל",
+      "lat": 32.92689687561134,
+      "lng": 35.32265763057694,
+      "sourceUrl": "https://storelocations.ae.com/il/north-district/karmiel/33020-maaleh-camon-2.html",
+      "coordinateSourceUrl": "https://storelocations.ae.com/il/north-district/karmiel/33020-maaleh-camon-2.html",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "american-eagle-d4d142388032",
+      "store": "אמריקן איגל",
+      "name": "קניון הזהב",
+      "city": "ראשון לציון",
+      "address": "Sakharov 21, ראשון לציון",
+      "lat": 31.990360739384556,
+      "lng": 34.77424842087203,
+      "sourceUrl": "https://storelocations.ae.com/il/center-district/rishon-lezion/33011-sakharov-21.html",
+      "coordinateSourceUrl": "https://storelocations.ae.com/il/center-district/rishon-lezion/33011-sakharov-21.html",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "american-eagle-da7983abad4a",
+      "store": "אמריקן איגל",
+      "name": "קניון רננים",
+      "city": "רעננה",
+      "address": "Hamelacha 2, רעננה",
+      "lat": 32.19735519684965,
+      "lng": 34.87828716439482,
+      "sourceUrl": "https://storelocations.ae.com/il/center-district/raanana/33003-hamelacha-2.html",
+      "coordinateSourceUrl": "https://storelocations.ae.com/il/center-district/raanana/33003-hamelacha-2.html",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "american-eagle-f27051bb4dbc",
+      "store": "אמריקן איגל",
+      "name": "הקניון הגדול",
+      "city": "פתח תקווה",
+      "address": "Jebotinski 72, פתח תקווה",
+      "lat": 32.0936272,
+      "lng": 34.8656762,
+      "sourceUrl": "https://storelocations.ae.com/il/center-district/petah-tikva/33009-jebotinski-72.html",
+      "coordinateSourceUrl": "https://storelocations.ae.com/il/center-district/petah-tikva/33009-jebotinski-72.html",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "american-eagle-f77a6f3ecce8",
+      "store": "אמריקן איגל",
+      "name": "טיילת רויאל ביץ׳",
+      "city": "אילת",
+      "address": "Royal Beach Boardwalk, אילת",
+      "lat": 29.549376666653263,
+      "lng": 34.963115448462105,
+      "sourceUrl": "https://storelocations.ae.com/il/southern-district/eylat/33032-royal-beach-boardwalk.html",
+      "coordinateSourceUrl": "https://storelocations.ae.com/il/southern-district/eylat/33032-royal-beach-boardwalk.html",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    }
+  ],
+  "source": {
+    "store": "אמריקן איגל",
+    "aliases": ["AMERICAN EAGLE", "אמריקן איגל", "American Eagle"],
+    "sourceUrl": "https://storelocations.ae.com/il",
+    "checkedAt": "2026-09-20",
+    "examined": 44,
+    "included": 32,
+    "coverage": "partial",
+    "note": "מיקומי סניפים מתוך נתוני ClothingStore הרשמיים של American Eagle בישראל. נכללו רק סניפים שנבדקה התאמת המיקום לעיר ולמרכז המסחרי; כפילויות וסתירות נשארו לבירור. הכיסוי מתייחס לרשומות במקור, ולא לכל סניפי הרשת בישראל.",
+    "skipped": [
+      {
+        "city": "Beer Sheva",
+        "name": "Grand Canyon Mall",
+        "reason": "venue-coordinate-mismatch-grand-vs-big"
+      },
+      {
+        "city": "Tel Aviv",
+        "name": "Gindi Tlv Fashion Mall",
+        "reason": "venue-location-needs-review"
+      },
+      {
+        "city": "Ramat Gan",
+        "name": "Ayalon Mall",
+        "reason": "city-coordinate-mismatch-ramat-gan-vs-ramla"
+      },
+      {
+        "city": "Hod HaSharon",
+        "name": "Sharonim",
+        "reason": "location-needs-review"
+      },
+      {
+        "city": "Tel Aviv",
+        "name": "Azrieli",
+        "reason": "duplicate-azrieli-address"
+      },
+      {
+        "city": "Afula",
+        "name": "G Valley Center",
+        "reason": "address-and-venue-need-review"
+      },
+      {
+        "city": "Beit Shemesh",
+        "name": "Big Fashion Shemesh",
+        "reason": "location-needs-review"
+      },
+      {
+        "city": "Ashkelon",
+        "name": "Globus Center",
+        "reason": "venue-location-needs-review"
+      },
+      {
+        "city": "Haifa",
+        "name": "Kiryon",
+        "reason": "city-mismatch-haifa-vs-kiryat-bialik"
+      },
+      {
+        "city": "Pardes Hanna",
+        "name": "Big Pardes Hanna",
+        "reason": "location-needs-review"
+      },
+      {
+        "city": "Kiryat Ata",
+        "name": "Ikea North Mall",
+        "reason": "venue-coordinate-mismatch-ikea-vs-kiryon"
+      },
+      {
+        "city": "Rehovot",
+        "name": "Bilu Center",
+        "reason": "city-coordinate-mismatch-bilu-vs-modiin"
+      }
+    ]
+  }
+}
