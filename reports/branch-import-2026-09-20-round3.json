@@ -1,0 +1,213 @@
+{
+  "checkedAt": "2026-09-20T08:01:12.571Z",
+  "files": [
+    "candidates/golf-kids-round3.json",
+    "candidates/golf-co-round3.json"
+  ],
+  "added": [
+    {
+      "id": "golf-kids-342",
+      "store": "GOLF KIDS",
+      "name": "ביג פאשן אשדוד",
+      "city": "אשדוד"
+    },
+    {
+      "id": "golf-kids-356",
+      "store": "GOLF KIDS",
+      "name": "קניון הקריון",
+      "city": "קרית ביאליק"
+    },
+    {
+      "id": "golf-kids-359",
+      "store": "GOLF KIDS",
+      "name": "הקניון הגדול",
+      "city": "פתח תקווה"
+    },
+    {
+      "id": "golf-kids-390",
+      "store": "GOLF KIDS",
+      "name": "ביג גלילות",
+      "city": "רמת השרון"
+    },
+    {
+      "id": "golf-kids-44",
+      "store": "GOLF KIDS",
+      "name": "מתחם סטאר סנטר",
+      "city": "אשדוד"
+    },
+    {
+      "id": "golf-kids-53",
+      "store": "GOLF KIDS",
+      "name": "מתחם אלון עין שמר",
+      "city": "עין שמר"
+    },
+    {
+      "id": "golf-kids-65",
+      "store": "GOLF KIDS",
+      "name": "קניון איילון",
+      "city": "רמת גן"
+    },
+    {
+      "id": "golf-kids-816",
+      "store": "GOLF KIDS",
+      "name": "קניון שער הצפון",
+      "city": "קרית אתא"
+    },
+    {
+      "id": "golf-kids-833",
+      "store": "GOLF KIDS",
+      "name": "קניון מלחה",
+      "city": "ירושלים"
+    },
+    {
+      "id": "golf-kids-860",
+      "store": "GOLF KIDS",
+      "name": "עזריאלי עכו",
+      "city": "עכו"
+    },
+    {
+      "id": "golf-kids-877",
+      "store": "GOLF KIDS",
+      "name": "קניון אדומים",
+      "city": "מעלה אדומים"
+    },
+    {
+      "id": "golf-kids-880",
+      "store": "GOLF KIDS",
+      "name": "קניון רמות",
+      "city": "ירושלים"
+    },
+    {
+      "id": "golf-kids-881",
+      "store": "GOLF KIDS",
+      "name": "קניון עזריאלי",
+      "city": "חיפה"
+    },
+    {
+      "id": "golf-co-140",
+      "store": "גולף אנד קו",
+      "name": "קניון רחובות",
+      "city": "רחובות"
+    },
+    {
+      "id": "golf-co-147",
+      "store": "גולף אנד קו",
+      "name": "מרכז ביג אילת",
+      "city": "אילת"
+    },
+    {
+      "id": "golf-co-150",
+      "store": "גולף אנד קו",
+      "name": "בילו ק. עקרון",
+      "city": "קרית עקרון"
+    },
+    {
+      "id": "golf-co-151",
+      "store": "גולף אנד קו",
+      "name": "רמת אביב ת\"א",
+      "city": "תל אביב"
+    },
+    {
+      "id": "golf-co-157",
+      "store": "גולף אנד קו",
+      "name": "קניון רמות י-ם",
+      "city": "ירושלים"
+    },
+    {
+      "id": "golf-co-158",
+      "store": "גולף אנד קו",
+      "name": "מלחה י-ם",
+      "city": "ירושלים"
+    },
+    {
+      "id": "golf-co-166",
+      "store": "גולף אנד קו",
+      "name": "ח.המפרץ חיפה",
+      "city": "חיפה"
+    },
+    {
+      "id": "golf-co-169",
+      "store": "גולף אנד קו",
+      "name": "הק. הגדול פ\"ת",
+      "city": "פתח תקווה"
+    },
+    {
+      "id": "golf-co-172",
+      "store": "גולף אנד קו",
+      "name": "סטריטמול רמת ישי",
+      "city": "רמת ישי"
+    },
+    {
+      "id": "golf-co-177",
+      "store": "גולף אנד קו",
+      "name": "מבקיעים אשקלון",
+      "city": "אשקלון"
+    },
+    {
+      "id": "golf-co-199",
+      "store": "גולף אנד קו",
+      "name": "השרון נתניה",
+      "city": "נתניה"
+    },
+    {
+      "id": "golf-co-281",
+      "store": "גולף אנד קו",
+      "name": "קניון גבעתיים",
+      "city": "גבעתיים"
+    },
+    {
+      "id": "golf-co-282",
+      "store": "גולף אנד קו",
+      "name": "קניון בת ים",
+      "city": "בת ים"
+    },
+    {
+      "id": "golf-co-284",
+      "store": "גולף אנד קו",
+      "name": "גרנד קניון חיפה",
+      "city": "חיפה"
+    },
+    {
+      "id": "golf-co-290",
+      "store": "גולף אנד קו",
+      "name": "קניון מודיעין",
+      "city": "מודיעין"
+    },
+    {
+      "id": "golf-co-305",
+      "store": "גולף אנד קו",
+      "name": "ראשונים ראשל\"צ",
+      "city": "ראשון לציון"
+    },
+    {
+      "id": "golf-co-610",
+      "store": "גולף אנד קו",
+      "name": "קניון סטאר נהריה",
+      "city": "נהריה"
+    },
+    {
+      "id": "golf-co-613",
+      "store": "גולף אנד קו",
+      "name": "BIG פאשן גלילות",
+      "city": "רמת השרון"
+    }
+  ],
+  "updated": [],
+  "duplicates": [],
+  "reviewRequired": [],
+  "retained": [],
+  "chains": [
+    {
+      "store": "GOLF KIDS",
+      "examined": 119,
+      "included": 13,
+      "retained": 0
+    },
+    {
+      "store": "גולף אנד קו",
+      "examined": 51,
+      "included": 18,
+      "retained": 0
+    }
+  ]
+}

@@ -15,6 +15,8 @@ const aliases = [
   ["גולף", "GOLF"],
   ["גולף קידס", "GOLF KIDS"],
   ["גולף אנד קו", "GOLF&CO", "GOLF & CO"],
+  ["אינטימה", "INTIMA"],
+  ["ורדינון", "VARDINON"],
   ["קסטרו", "CASTRO"],
 ];
 const normalize = (name) =>

@@ -1,0 +1,570 @@
+{
+  "store": "אינטימה",
+  "branches": [
+    {
+      "id": "intima-1",
+      "name": "קניות רמות",
+      "city": "ירושלים",
+      "address": "שדרות גולדה מאיר 255",
+      "lat": 31.8177,
+      "lng": 35.1944,
+      "store": "אינטימה",
+      "sourceUrl": "https://www.intima-il.co.il/stores",
+      "coordinateSourceUrl": "https://www.intima-il.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "intima-20",
+      "name": "גרנד קניון באר שבע",
+      "city": "באר שבע",
+      "address": "טוביהו 125",
+      "lat": 31.2503,
+      "lng": 34.7716,
+      "store": "אינטימה",
+      "sourceUrl": "https://www.intima-il.co.il/stores",
+      "coordinateSourceUrl": "https://www.intima-il.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "intima-22",
+      "name": "קניון רחובות",
+      "city": "רחובות",
+      "address": "ביל\"ו 2",
+      "lat": 31.8921,
+      "lng": 34.8057,
+      "store": "אינטימה",
+      "sourceUrl": "https://www.intima-il.co.il/stores",
+      "coordinateSourceUrl": "https://www.intima-il.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "intima-26",
+      "name": "מרכז ביג",
+      "city": "באר שבע",
+      "address": "דרך חברון 21",
+      "lat": 31.244,
+      "lng": 34.8097,
+      "store": "אינטימה",
+      "sourceUrl": "https://www.intima-il.co.il/stores",
+      "coordinateSourceUrl": "https://www.intima-il.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "intima-27",
+      "name": "קניון רמת אביב",
+      "city": "תל אביב",
+      "address": "איינשטיין 40",
+      "lat": 32.1127,
+      "lng": 34.7948,
+      "store": "אינטימה",
+      "sourceUrl": "https://www.intima-il.co.il/stores",
+      "coordinateSourceUrl": "https://www.intima-il.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "intima-2930",
+      "name": "גרנד קניון",
+      "city": "חיפה",
+      "address": "דרך שמחה גולן 54",
+      "lat": 32.7899,
+      "lng": 35.0078,
+      "store": "אינטימה",
+      "sourceUrl": "https://www.intima-il.co.il/stores",
+      "coordinateSourceUrl": "https://www.intima-il.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "intima-2931",
+      "name": "קניון אייס מול",
+      "city": "אילת",
+      "address": "קאמפן 8",
+      "lat": 29.5545,
+      "lng": 34.9666,
+      "store": "אינטימה",
+      "sourceUrl": "https://www.intima-il.co.il/stores",
+      "coordinateSourceUrl": "https://www.intima-il.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "intima-2932",
+      "name": "קניון רננים",
+      "city": "רעננה",
+      "address": "המלאכה 2",
+      "lat": 32.1979,
+      "lng": 34.8804,
+      "store": "אינטימה",
+      "sourceUrl": "https://www.intima-il.co.il/stores",
+      "coordinateSourceUrl": "https://www.intima-il.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "intima-2934",
+      "name": "קניון גן העיר",
+      "city": "תל אביב",
+      "address": "אבן גבירול 71",
+      "lat": 32.0827,
+      "lng": 34.7812,
+      "store": "אינטימה",
+      "sourceUrl": "https://www.intima-il.co.il/stores",
+      "coordinateSourceUrl": "https://www.intima-il.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "intima-2935",
+      "name": "קניון גבעתיים",
+      "city": "גבעתיים",
+      "address": "דרך יצחק רבין 53",
+      "lat": 32.0663,
+      "lng": 34.81,
+      "store": "אינטימה",
+      "sourceUrl": "https://www.intima-il.co.il/stores",
+      "coordinateSourceUrl": "https://www.intima-il.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "intima-2937",
+      "name": "קניון מודיעין",
+      "city": "מודיעין",
+      "address": "לב העיר 2",
+      "lat": 31.8989,
+      "lng": 35.0079,
+      "store": "אינטימה",
+      "sourceUrl": "https://www.intima-il.co.il/stores",
+      "coordinateSourceUrl": "https://www.intima-il.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "intima-30",
+      "name": "דיזינגוף סנטר",
+      "city": "תל אביב",
+      "address": "דיזנגוף 50",
+      "lat": 32.0753,
+      "lng": 34.7752,
+      "store": "אינטימה",
+      "sourceUrl": "https://www.intima-il.co.il/stores",
+      "coordinateSourceUrl": "https://www.intima-il.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "intima-31",
+      "name": "קניון מלחה",
+      "city": "ירושלים",
+      "address": "דרך אגודת ספורט בית\"ר 1",
+      "lat": 31.7517,
+      "lng": 35.1872,
+      "store": "אינטימה",
+      "sourceUrl": "https://www.intima-il.co.il/stores",
+      "coordinateSourceUrl": "https://www.intima-il.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "intima-33",
+      "name": "קניון שער הצפון",
+      "city": "קריית אתא",
+      "address": "דרך חיפה 30",
+      "lat": 32.8055,
+      "lng": 35.0745,
+      "store": "אינטימה",
+      "sourceUrl": "https://www.intima-il.co.il/stores",
+      "coordinateSourceUrl": "https://www.intima-il.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "intima-37",
+      "name": "קניון סטאר סנטר",
+      "city": "אשדוד",
+      "address": "זאב ז'בוטינסקי 45",
+      "lat": 31.8103,
+      "lng": 34.6566,
+      "store": "אינטימה",
+      "sourceUrl": "https://www.intima-il.co.il/stores",
+      "coordinateSourceUrl": "https://www.intima-il.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "intima-39",
+      "name": "הקניון הגדול",
+      "city": "פתח תקווה",
+      "address": "זאב ז'בוטינסקי 72",
+      "lat": 32.0917,
+      "lng": 34.8653,
+      "store": "אינטימה",
+      "sourceUrl": "https://www.intima-il.co.il/stores",
+      "coordinateSourceUrl": "https://www.intima-il.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "intima-41",
+      "name": "מתחם אלון עין שמר",
+      "city": "עין שמר",
+      "address": "עין שמר",
+      "lat": 32.4655,
+      "lng": 34.9933,
+      "store": "אינטימה",
+      "sourceUrl": "https://www.intima-il.co.il/stores",
+      "coordinateSourceUrl": "https://www.intima-il.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "intima-45",
+      "name": "קניון בת ים",
+      "city": "בת ים",
+      "address": "יוספטל 92",
+      "lat": 32.0156,
+      "lng": 34.7551,
+      "store": "אינטימה",
+      "sourceUrl": "https://www.intima-il.co.il/stores",
+      "coordinateSourceUrl": "https://www.intima-il.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "intima-46",
+      "name": "קניון איילון",
+      "city": "רמת גן",
+      "address": "דרך אבא הילל סילבר 301",
+      "lat": 32.1005,
+      "lng": 34.8266,
+      "store": "אינטימה",
+      "sourceUrl": "https://www.intima-il.co.il/stores",
+      "coordinateSourceUrl": "https://www.intima-il.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "intima-5",
+      "name": "מרכז ביג אילת",
+      "city": "אילת",
+      "address": "הסתת 20",
+      "lat": 29.5674,
+      "lng": 34.96,
+      "store": "אינטימה",
+      "sourceUrl": "https://www.intima-il.co.il/stores",
+      "coordinateSourceUrl": "https://www.intima-il.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "intima-6",
+      "name": "בילו סנטר",
+      "city": "קריית עקרון",
+      "address": "בילו סנטר",
+      "lat": 31.865,
+      "lng": 34.8166,
+      "store": "אינטימה",
+      "sourceUrl": "https://www.intima-il.co.il/stores",
+      "coordinateSourceUrl": "https://www.intima-il.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    }
+  ],
+  "source": {
+    "store": "אינטימה",
+    "aliases": [
+      "אינטימה",
+      "INTIMA",
+      "Intima"
+    ],
+    "sourceUrl": "https://www.intima-il.co.il/stores",
+    "checkedAt": "2026-09-20",
+    "examined": 67,
+    "included": 21,
+    "coverage": "partial",
+    "note": "מיקומים מפורשים לכל סניף מתוך רשימת אינטימה הרשמית, עם הצלבת שם המתחם או כתובת. קואורדינטות הפוכות וחסרות לא תוקנו או הושלמו. עודפים ומיקומים ללא הצלבה מספקת נשמרו לבדיקה; רישום מיקום אינו הוכחת זכאות לשובר.",
+    "skipped": [
+      {
+        "officialId": "2401",
+        "name": "אאוטלט רמת גן",
+        "city": "רמת גן",
+        "reason": "outlet-pending-eligibility-review"
+      },
+      {
+        "officialId": "unlinked-49ccb3b9fd31",
+        "name": "אזור התעשייה ירכא",
+        "city": "ירכא",
+        "reason": "missing-coordinates-and-navigation-id"
+      },
+      {
+        "officialId": "unlinked-e90512df8e53",
+        "name": "אחוזת הנשיא",
+        "city": "רחובות",
+        "reason": "missing-coordinates-and-navigation-id"
+      },
+      {
+        "officialId": "unlinked-e992f1124d35",
+        "name": "ב.ס.ר אאוטלט",
+        "city": "פתח תקווה",
+        "reason": "outlet-pending-eligibility-review"
+      },
+      {
+        "officialId": "2481",
+        "name": "ביג גלילות",
+        "city": "רמת השרון",
+        "reason": "invalid-coordinate-order-or-outside-Israel; no-axis-swap"
+      },
+      {
+        "officialId": "2480",
+        "name": "ביג כרמי גת",
+        "city": "קרית גת",
+        "reason": "invalid-coordinate-order-or-outside-Israel; no-axis-swap"
+      },
+      {
+        "officialId": "1949",
+        "name": "ביג פאשן",
+        "city": "אשדוד",
+        "reason": "invalid-coordinate-order-or-outside-Israel; no-axis-swap"
+      },
+      {
+        "officialId": "3",
+        "name": "ביג פולג- מתחם נצב\"א",
+        "city": "נתניה",
+        "reason": "invalid-coordinate-order-or-outside-Israel; no-axis-swap"
+      },
+      {
+        "officialId": "1321",
+        "name": "ביג פוריה",
+        "city": "טבריה",
+        "reason": "invalid-coordinate-order-or-outside-Israel; no-axis-swap"
+      },
+      {
+        "officialId": "42",
+        "name": "גלובוס סנטר נתיבות",
+        "city": "נתיבות",
+        "reason": "invalid-coordinate-order-or-outside-Israel; no-axis-swap"
+      },
+      {
+        "officialId": "10",
+        "name": "דרך המכבים",
+        "city": "ראשון לציון",
+        "reason": "invalid-coordinate-order-or-outside-Israel; no-axis-swap"
+      },
+      {
+        "officialId": "1446",
+        "name": "הדר יוסף",
+        "city": "תל אביב",
+        "reason": "invalid-coordinate-order-or-outside-Israel; no-axis-swap"
+      },
+      {
+        "officialId": "11",
+        "name": "חונים קונים",
+        "city": "ראשון לציון",
+        "reason": "invalid-coordinate-order-or-outside-Israel; no-axis-swap"
+      },
+      {
+        "officialId": "2479",
+        "name": "כיכר המדינה",
+        "city": "תל אביב",
+        "reason": "invalid-coordinate-order-or-outside-Israel; no-axis-swap"
+      },
+      {
+        "officialId": "unlinked-8a57cb25c2b2",
+        "name": "כפר גנים",
+        "city": "פתח תקווה",
+        "reason": "missing-coordinates-and-navigation-id"
+      },
+      {
+        "officialId": "unlinked-824408c2c672",
+        "name": "מבנה גן שמואל",
+        "city": "גן שמואל",
+        "reason": "missing-coordinates-and-navigation-id"
+      },
+      {
+        "officialId": "2929",
+        "name": "מרכז G בעמק",
+        "city": "עפולה",
+        "reason": "venue-coordinate-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "9",
+        "name": "מרכז ביג כרמיאל",
+        "city": "כרמיאל",
+        "reason": "invalid-coordinate-order-or-outside-Israel; no-axis-swap"
+      },
+      {
+        "officialId": "2141",
+        "name": "מרכז מסחרי וואן",
+        "city": "בארות יצחק",
+        "reason": "invalid-coordinate-order-or-outside-Israel; no-axis-swap"
+      },
+      {
+        "officialId": "unlinked-773fdbe0477b",
+        "name": "מרכז מסחרי חריש",
+        "city": "חריש",
+        "reason": "missing-coordinates-and-navigation-id"
+      },
+      {
+        "officialId": "unlinked-41ca4fdd1402",
+        "name": "מתחם G.T סנטר",
+        "city": "אופקים",
+        "reason": "missing-coordinates-and-navigation-id"
+      },
+      {
+        "officialId": "1322",
+        "name": "נצרת",
+        "city": "נצרת",
+        "reason": "invalid-coordinate-order-or-outside-Israel; no-axis-swap"
+      },
+      {
+        "officialId": "1323",
+        "name": "עפולה",
+        "city": "עפולה",
+        "reason": "invalid-coordinate-order-or-outside-Israel; no-axis-swap"
+      },
+      {
+        "officialId": "1319",
+        "name": "קניון אדומים",
+        "city": "ירושלים",
+        "reason": "invalid-coordinate-order-or-outside-Israel; no-axis-swap"
+      },
+      {
+        "officialId": "21",
+        "name": "קניון אורות",
+        "city": "אור עקיבא",
+        "reason": "invalid-coordinate-order-or-outside-Israel; no-axis-swap"
+      },
+      {
+        "officialId": "2",
+        "name": "קניון אחים ישראל",
+        "city": "ירושלים",
+        "reason": "invalid-coordinate-order-or-outside-Israel; no-axis-swap"
+      },
+      {
+        "officialId": "13",
+        "name": "קניון גלובוס סנטר מבקיעים",
+        "city": "אשקלון",
+        "reason": "invalid-coordinate-order-or-outside-Israel; no-axis-swap"
+      },
+      {
+        "officialId": "24",
+        "name": "קניון דרורים",
+        "city": "בני דרור",
+        "reason": "invalid-coordinate-order-or-outside-Israel; no-axis-swap"
+      },
+      {
+        "officialId": "43",
+        "name": "קניון הגבעה",
+        "city": "גבעת שמואל",
+        "reason": "invalid-coordinate-order-or-outside-Israel; no-axis-swap"
+      },
+      {
+        "officialId": "1320",
+        "name": "קניון הנגב",
+        "city": "באר שבע",
+        "reason": "invalid-coordinate-order-or-outside-Israel; no-axis-swap"
+      },
+      {
+        "officialId": "2139",
+        "name": "קניון הקריון",
+        "city": "קריית ביאליק",
+        "reason": "address-number-conflict; official Kiryon address Derech Akko 92 differs from corroborated 192"
+      },
+      {
+        "officialId": "52",
+        "name": "קניון הראל",
+        "city": "מבשרת ציון",
+        "reason": "invalid-coordinate-order-or-outside-Israel; no-axis-swap"
+      },
+      {
+        "officialId": "54",
+        "name": "קניון השרון",
+        "city": "נתניה",
+        "reason": "invalid-coordinate-order-or-outside-Israel; no-axis-swap"
+      },
+      {
+        "officialId": "51",
+        "name": "קניון סטאר",
+        "city": "נהריה",
+        "reason": "invalid-coordinate-order-or-outside-Israel; no-axis-swap"
+      },
+      {
+        "officialId": "38",
+        "name": "קניון סינמול",
+        "city": "חיפה",
+        "reason": "invalid-coordinate-order-or-outside-Israel; no-axis-swap"
+      },
+      {
+        "officialId": "50",
+        "name": "קניון עזריאלי",
+        "city": "חיפה",
+        "reason": "invalid-coordinate-order-or-outside-Israel; no-axis-swap"
+      },
+      {
+        "officialId": "unlinked-521169a847dc",
+        "name": "קניון עיר ימים",
+        "city": "נתניה",
+        "reason": "missing-coordinates-and-navigation-id"
+      },
+      {
+        "officialId": "15",
+        "name": "קניון ערים",
+        "city": "כפר סבא",
+        "reason": "invalid-coordinate-order-or-outside-Israel; no-axis-swap"
+      },
+      {
+        "officialId": "48",
+        "name": "קניון פרוייקט המושבה",
+        "city": "גדרה",
+        "reason": "invalid-coordinate-order-or-outside-Israel; no-axis-swap"
+      },
+      {
+        "officialId": "17",
+        "name": "קניון קריית אונו",
+        "city": "קריית אונו",
+        "reason": "invalid-coordinate-order-or-outside-Israel; no-axis-swap"
+      },
+      {
+        "officialId": "34",
+        "name": "קניון שבעת הכוכבים",
+        "city": "הרצליה",
+        "reason": "invalid-coordinate-order-or-outside-Israel; no-axis-swap"
+      },
+      {
+        "officialId": "2270",
+        "name": "קניון שבעת הכוכבים",
+        "city": "אילת",
+        "reason": "invalid-coordinate-order-or-outside-Israel; no-axis-swap"
+      },
+      {
+        "officialId": "8",
+        "name": "קניותר",
+        "city": "נס ציונה",
+        "reason": "venue-coordinate-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "2933",
+        "name": "רמת השרון",
+        "city": "רמת השרון",
+        "reason": "invalid-coordinate-order-or-outside-Israel; no-axis-swap"
+      },
+      {
+        "officialId": "1324",
+        "name": "רמת ישי",
+        "city": "רמת ישי",
+        "reason": "invalid-coordinate-order-or-outside-Israel; no-axis-swap"
+      },
+      {
+        "officialId": "2936",
+        "name": "שדרות הגעתון",
+        "city": "נהריה",
+        "reason": "invalid-coordinate-order-or-outside-Israel; no-axis-swap"
+      }
+    ]
+  }
+}

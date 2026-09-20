@@ -1,0 +1,803 @@
+{
+  "sourceUrl": "https://www.intima-il.co.il/stores",
+  "checkedAt": "2026-09-20",
+  "examined": 67,
+  "reviewed": [
+    {
+      "id": "2401",
+      "name": "אאוטלט רמת גן",
+      "city": "רמת גן",
+      "address": "ששת הימים 28 (מול קניון איילון)",
+      "lat": "34.8266",
+      "lng": "32.1006"
+    },
+    {
+      "name": "אזור התעשייה ירכא",
+      "city": "ירכא",
+      "address": "מיי בייבי, טרמניל 1, קומה -1",
+      "lat": "",
+      "lng": "",
+      "id": "unlinked-49ccb3b9fd31"
+    },
+    {
+      "name": "אחוזת הנשיא",
+      "city": "רחובות",
+      "address": "כרמל 76",
+      "lat": "",
+      "lng": "",
+      "id": "unlinked-e90512df8e53"
+    },
+    {
+      "name": "ב.ס.ר אאוטלט",
+      "city": "פתח תקווה",
+      "address": "תוצרת הארץ 3",
+      "lat": "",
+      "lng": "",
+      "id": "unlinked-e992f1124d35"
+    },
+    {
+      "id": "2481",
+      "name": "ביג גלילות",
+      "city": "רמת השרון",
+      "address": "מתחם גלילות, כביש 2",
+      "lat": "34.805",
+      "lng": "32.149"
+    },
+    {
+      "id": "2480",
+      "name": "ביג כרמי גת",
+      "city": "קרית גת",
+      "address": "שדרות לכיש 153",
+      "lat": "34.7714",
+      "lng": "31.6032"
+    },
+    {
+      "id": "1949",
+      "name": "ביג פאשן",
+      "city": "אשדוד",
+      "address": "דרך הרכבת 1",
+      "lat": "34.6641",
+      "lng": "31.7765"
+    },
+    {
+      "id": "3",
+      "name": "ביג פולג- מתחם נצב\"א",
+      "city": "נתניה",
+      "address": "גבורי ישראל 5",
+      "lat": "34.8609",
+      "lng": "32.2760"
+    },
+    {
+      "id": "1321",
+      "name": "ביג פוריה",
+      "city": "טבריה",
+      "address": "ביג פוריה",
+      "lat": "35.4984",
+      "lng": "32.7846"
+    },
+    {
+      "id": "6",
+      "name": "בילו סנטר",
+      "city": "קריית עקרון",
+      "address": "בילו סנטר",
+      "lat": "31.8650",
+      "lng": "34.8166"
+    },
+    {
+      "id": "42",
+      "name": "גלובוס סנטר נתיבות",
+      "city": "נתיבות",
+      "address": "בעלי המלאכה 5",
+      "lat": "34.5989",
+      "lng": "31.4185"
+    },
+    {
+      "id": "2930",
+      "name": "גרנד קניון",
+      "city": "חיפה",
+      "address": "דרך שמחה גולן 54",
+      "lat": "32.7899",
+      "lng": "35.0078"
+    },
+    {
+      "id": "20",
+      "name": "גרנד קניון באר שבע",
+      "city": "באר שבע",
+      "address": "טוביהו 125",
+      "lat": "31.2503",
+      "lng": "34.7716"
+    },
+    {
+      "id": "30",
+      "name": "דיזינגוף סנטר",
+      "city": "תל אביב",
+      "address": "דיזנגוף 50",
+      "lat": "32.0753",
+      "lng": "34.7752"
+    },
+    {
+      "id": "10",
+      "name": "דרך המכבים",
+      "city": "ראשון לציון",
+      "address": "62 אזור תעשייה מזרחי",
+      "lat": "34.8110",
+      "lng": "31.9851"
+    },
+    {
+      "id": "1446",
+      "name": "הדר יוסף",
+      "city": "תל אביב",
+      "address": "פנחס רוזן 65",
+      "lat": "34.8250",
+      "lng": "32.1144"
+    },
+    {
+      "id": "39",
+      "name": "הקניון הגדול",
+      "city": "פתח תקווה",
+      "address": "זאב ז'בוטינסקי 72",
+      "lat": "32.0917",
+      "lng": "34.8653"
+    },
+    {
+      "id": "11",
+      "name": "חונים קונים",
+      "city": "ראשון לציון",
+      "address": "לישנסקי 9",
+      "lat": "34.7646",
+      "lng": "31.9901"
+    },
+    {
+      "id": "2479",
+      "name": "כיכר המדינה",
+      "city": "תל אביב",
+      "address": "תל אביב ה' באייר 10",
+      "lat": "34.7884",
+      "lng": "32.0862"
+    },
+    {
+      "name": "כפר גנים",
+      "city": "פתח תקווה",
+      "address": "העצמאות 65",
+      "lat": "",
+      "lng": "",
+      "id": "unlinked-8a57cb25c2b2"
+    },
+    {
+      "name": "מבנה גן שמואל",
+      "city": "גן שמואל",
+      "address": "פארק מסחרי",
+      "lat": "",
+      "lng": "",
+      "id": "unlinked-824408c2c672"
+    },
+    {
+      "id": "2929",
+      "name": "מרכז G בעמק",
+      "city": "עפולה",
+      "address": "שדרות יצחק רבין 18",
+      "lat": "32.6203",
+      "lng": "35.3115"
+    },
+    {
+      "id": "26",
+      "name": "מרכז ביג",
+      "city": "באר שבע",
+      "address": "דרך חברון 21",
+      "lat": "31.2440",
+      "lng": "34.8097"
+    },
+    {
+      "id": "5",
+      "name": "מרכז ביג אילת",
+      "city": "אילת",
+      "address": "הסתת 20",
+      "lat": "29.5674",
+      "lng": "34.9600"
+    },
+    {
+      "id": "9",
+      "name": "מרכז ביג כרמיאל",
+      "city": "כרמיאל",
+      "address": "מעלה כמון 2",
+      "lat": "35.3213",
+      "lng": "32.9266"
+    },
+    {
+      "id": "2141",
+      "name": "מרכז מסחרי וואן",
+      "city": "בארות יצחק",
+      "address": "מתחם מבנה בארות יצחק",
+      "lat": "34.9093",
+      "lng": "32.0467"
+    },
+    {
+      "name": "מרכז מסחרי חריש",
+      "city": "חריש",
+      "address": "ספיר 1",
+      "lat": "",
+      "lng": "",
+      "id": "unlinked-773fdbe0477b"
+    },
+    {
+      "name": "מתחם G.T סנטר",
+      "city": "אופקים",
+      "address": "מנחם בגין 2",
+      "lat": "",
+      "lng": "",
+      "id": "unlinked-41ca4fdd1402"
+    },
+    {
+      "id": "41",
+      "name": "מתחם אלון עין שמר",
+      "city": "עין שמר",
+      "address": "עין שמר",
+      "lat": "32.4655",
+      "lng": "34.9933"
+    },
+    {
+      "id": "1322",
+      "name": "נצרת",
+      "city": "נצרת",
+      "address": "דודג' נוף הגליל",
+      "lat": "35.3036",
+      "lng": "32.6934"
+    },
+    {
+      "id": "1323",
+      "name": "עפולה",
+      "city": "עפולה",
+      "address": "שדרות הנשיא 18",
+      "lat": "35.2883",
+      "lng": "32.6102"
+    },
+    {
+      "id": "1319",
+      "name": "קניון אדומים",
+      "city": "ירושלים",
+      "address": "דרך קדם 1",
+      "lat": "35.2985",
+      "lng": "31.7717"
+    },
+    {
+      "id": "21",
+      "name": "קניון אורות",
+      "city": "אור עקיבא",
+      "address": "שדרות הנשיא וייצמן 1",
+      "lat": "34.9270",
+      "lng": "32.5022"
+    },
+    {
+      "id": "2",
+      "name": "קניון אחים ישראל",
+      "city": "ירושלים",
+      "address": "יד חרוצים 18",
+      "lat": "35.2153",
+      "lng": "31.7510"
+    },
+    {
+      "id": "46",
+      "name": "קניון איילון",
+      "city": "רמת גן",
+      "address": "דרך אבא הילל סילבר 301",
+      "lat": "32.1005",
+      "lng": "34.8266"
+    },
+    {
+      "id": "2931",
+      "name": "קניון אייס מול",
+      "city": "אילת",
+      "address": "קאמפן 8",
+      "lat": "29.5545",
+      "lng": "34.9666"
+    },
+    {
+      "id": "45",
+      "name": "קניון בת ים",
+      "city": "בת ים",
+      "address": "יוספטל 92",
+      "lat": "32.0156",
+      "lng": "34.7551"
+    },
+    {
+      "id": "2935",
+      "name": "קניון גבעתיים",
+      "city": "גבעתיים",
+      "address": "דרך יצחק רבין 53",
+      "lat": "32.0663",
+      "lng": "34.81"
+    },
+    {
+      "id": "13",
+      "name": "קניון גלובוס סנטר מבקיעים",
+      "city": "אשקלון",
+      "address": "צומת קצא\"א, על כביש 4",
+      "lat": "34.5859",
+      "lng": "31.6281"
+    },
+    {
+      "id": "2934",
+      "name": "קניון גן העיר",
+      "city": "תל אביב",
+      "address": "אבן גבירול 71",
+      "lat": "32.0827",
+      "lng": "34.7812"
+    },
+    {
+      "id": "24",
+      "name": "קניון דרורים",
+      "city": "בני דרור",
+      "address": "גלבוע 1, צומת בני דרור",
+      "lat": "34.8939",
+      "lng": "32.2602"
+    },
+    {
+      "id": "43",
+      "name": "קניון הגבעה",
+      "city": "גבעת שמואל",
+      "address": "יוני נתניהו 23",
+      "lat": "34.8547",
+      "lng": "32.0757"
+    },
+    {
+      "id": "1320",
+      "name": "קניון הנגב",
+      "city": "באר שבע",
+      "address": "קניון הנגב",
+      "lat": "34.8106",
+      "lng": "31.2448"
+    },
+    {
+      "id": "2139",
+      "name": "קניון הקריון",
+      "city": "קריית ביאליק",
+      "address": "דרך עכו 92",
+      "lat": "32.8422",
+      "lng": "35.0888"
+    },
+    {
+      "id": "52",
+      "name": "קניון הראל",
+      "city": "מבשרת ציון",
+      "address": "הראל 1",
+      "lat": "35.1490",
+      "lng": "31.7998"
+    },
+    {
+      "id": "54",
+      "name": "קניון השרון",
+      "city": "נתניה",
+      "address": "הרצל 60",
+      "lat": "34.8619",
+      "lng": "32.3265"
+    },
+    {
+      "id": "2937",
+      "name": "קניון מודיעין",
+      "city": "מודיעין",
+      "address": "לב העיר 2",
+      "lat": "31.8989",
+      "lng": "35.0079"
+    },
+    {
+      "id": "31",
+      "name": "קניון מלחה",
+      "city": "ירושלים",
+      "address": "דרך אגודת ספורט בית\"ר 1",
+      "lat": "31.7517",
+      "lng": "35.1872"
+    },
+    {
+      "id": "51",
+      "name": "קניון סטאר",
+      "city": "נהריה",
+      "address": "שדרות בן צבי 1",
+      "lat": "34.8555",
+      "lng": "32.3119"
+    },
+    {
+      "id": "37",
+      "name": "קניון סטאר סנטר",
+      "city": "אשדוד",
+      "address": "זאב ז'בוטינסקי 45",
+      "lat": "31.8103",
+      "lng": "34.6566"
+    },
+    {
+      "id": "38",
+      "name": "קניון סינמול",
+      "city": "חיפה",
+      "address": "ההסתדרות 55",
+      "lat": "35.0376",
+      "lng": "32.7936"
+    },
+    {
+      "id": "50",
+      "name": "קניון עזריאלי",
+      "city": "חיפה",
+      "address": "דרך משה פלימן 4",
+      "lat": "34.9656",
+      "lng": "32.7897"
+    },
+    {
+      "name": "קניון עיר ימים",
+      "city": "נתניה",
+      "address": "בני ברמן 2",
+      "lat": "",
+      "lng": "",
+      "id": "unlinked-521169a847dc"
+    },
+    {
+      "id": "15",
+      "name": "קניון ערים",
+      "city": "כפר סבא",
+      "address": "דוד אלעזר",
+      "lat": "34.9049",
+      "lng": "32.1777"
+    },
+    {
+      "id": "48",
+      "name": "קניון פרוייקט המושבה",
+      "city": "גדרה",
+      "address": "משה בן גוריון 105",
+      "lat": "34.7838",
+      "lng": "31.8044"
+    },
+    {
+      "id": "17",
+      "name": "קניון קריית אונו",
+      "city": "קריית אונו",
+      "address": "רח ירושלים 35",
+      "lat": "34.8620",
+      "lng": "32.0566"
+    },
+    {
+      "id": "22",
+      "name": "קניון רחובות",
+      "city": "רחובות",
+      "address": "ביל\"ו 2",
+      "lat": "31.8921",
+      "lng": "34.8057"
+    },
+    {
+      "id": "27",
+      "name": "קניון רמת אביב",
+      "city": "תל אביב",
+      "address": "איינשטיין 40",
+      "lat": "32.1127",
+      "lng": "34.7948"
+    },
+    {
+      "id": "2932",
+      "name": "קניון רננים",
+      "city": "רעננה",
+      "address": "המלאכה 2",
+      "lat": "32.1979",
+      "lng": "34.8804"
+    },
+    {
+      "id": "34",
+      "name": "קניון שבעת הכוכבים",
+      "city": "הרצליה",
+      "address": "שדרות שבעת הכוכבים 8",
+      "lat": "34.8239",
+      "lng": "32.1651"
+    },
+    {
+      "id": "2270",
+      "name": "קניון שבעת הכוכבים",
+      "city": "אילת",
+      "address": "התמרים 3",
+      "lat": "34.9531",
+      "lng": "29.5548"
+    },
+    {
+      "id": "33",
+      "name": "קניון שער הצפון",
+      "city": "קריית אתא",
+      "address": "דרך חיפה 30",
+      "lat": "32.8055",
+      "lng": "35.0745"
+    },
+    {
+      "id": "1",
+      "name": "קניות רמות",
+      "city": "ירושלים",
+      "address": "שדרות גולדה מאיר 255",
+      "lat": "31.8177",
+      "lng": "35.1944"
+    },
+    {
+      "id": "8",
+      "name": "קניותר",
+      "city": "נס ציונה",
+      "address": "האירוסים 53",
+      "lat": "31.9304",
+      "lng": "34.7977"
+    },
+    {
+      "id": "2933",
+      "name": "רמת השרון",
+      "city": "רמת השרון",
+      "address": "סוקולוב 60",
+      "lat": "34.8381",
+      "lng": "32.1446"
+    },
+    {
+      "id": "1324",
+      "name": "רמת ישי",
+      "city": "רמת ישי",
+      "address": "האקליפטוס 3",
+      "lat": "35.1739",
+      "lng": "32.7076"
+    },
+    {
+      "id": "2936",
+      "name": "שדרות הגעתון",
+      "city": "נהריה",
+      "address": "שד' הגעתון 23",
+      "lat": "35.0948",
+      "lng": "33.0064"
+    }
+  ],
+  "exclusions": {
+    "2": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "3": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "8": "venue-coordinate-not-independently-corroborated-in-this-round",
+    "9": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "10": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "11": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "13": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "15": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "17": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "21": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "24": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "34": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "38": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "42": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "43": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "48": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "50": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "51": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "52": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "54": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "1319": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "1320": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "1321": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "1322": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "1323": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "1324": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "1446": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "1949": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "2139": "address-number-conflict; official Kiryon address Derech Akko 92 differs from corroborated 192",
+    "2141": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "2270": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "2401": "outlet-pending-eligibility-review",
+    "2479": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "2480": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "2481": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "2929": "venue-coordinate-not-independently-corroborated-in-this-round",
+    "2933": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "2936": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "unlinked-49ccb3b9fd31": "missing-coordinates-and-navigation-id",
+    "unlinked-e90512df8e53": "missing-coordinates-and-navigation-id",
+    "unlinked-e992f1124d35": "outlet-pending-eligibility-review",
+    "unlinked-8a57cb25c2b2": "missing-coordinates-and-navigation-id",
+    "unlinked-824408c2c672": "missing-coordinates-and-navigation-id",
+    "unlinked-773fdbe0477b": "missing-coordinates-and-navigation-id",
+    "unlinked-41ca4fdd1402": "missing-coordinates-and-navigation-id",
+    "unlinked-521169a847dc": "missing-coordinates-and-navigation-id"
+  },
+  "corroboration": [
+    {
+      "officialId": "6",
+      "referenceId": "footlocker-c98e551efbe1",
+      "referenceName": "ביל\"ו סנטר",
+      "referenceAddress": "בילו סנטר, קרית עקרון",
+      "referenceSourceUrl": "https://footlocker.co.il/pages/branches",
+      "referenceCoordinateSourceUrl": "https://www.google.com/maps/place/Bilu+Center/@31.8648919,34.8140483,17z/data=!3m1!4b1!4m6!3m5!1s0x1502b82a6af1010f:0x1904ecd7baf4b323!8m2!3d31.8648919!4d34.8166232!16s%2Fg%2F11bxfyklms?entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D",
+      "distanceMeters": 12,
+      "note": "Same named venue/address; original Intima coordinates preserved"
+    },
+    {
+      "officialId": "2930",
+      "referenceId": "castro-4092",
+      "referenceName": "גרנד קניון חיפה - נשים וגברים",
+      "referenceAddress": "גראנד קניון, גולן שמחה 54, חיפה",
+      "referenceSourceUrl": "https://www.castro.com/stores",
+      "referenceCoordinateSourceUrl": "https://www.castro.com/stores",
+      "distanceMeters": 9,
+      "note": "Same named venue/address; original Intima coordinates preserved"
+    },
+    {
+      "officialId": "20",
+      "referenceId": "castro-4145",
+      "referenceName": "גראנד באר שבע - נשים, גברים, ילדים ו - HOME",
+      "referenceAddress": "שד' טוביהו 125, באר שבע",
+      "referenceSourceUrl": "https://www.castro.com/stores",
+      "referenceCoordinateSourceUrl": "https://www.castro.com/stores",
+      "distanceMeters": 2,
+      "note": "Same named venue/address; original Intima coordinates preserved"
+    },
+    {
+      "officialId": "30",
+      "referenceId": "castro-4100",
+      "referenceName": "דיזנגוף סנטר - נשים, גברים וילדים",
+      "referenceAddress": "דיזנגוף סנטר, דיזנגוף 50, תל אביב-יפו",
+      "referenceSourceUrl": "https://www.castro.com/stores",
+      "referenceCoordinateSourceUrl": "https://www.castro.com/stores",
+      "distanceMeters": 8,
+      "note": "Same named venue/address; original Intima coordinates preserved"
+    },
+    {
+      "officialId": "39",
+      "referenceId": "castro-4111",
+      "referenceName": "הקניון הגדול פתח תקווה - נשים וגברים",
+      "referenceAddress": "הקניון הגדול, ז'בוטינסקי 72, פתח תקווה",
+      "referenceSourceUrl": "https://www.castro.com/stores",
+      "referenceCoordinateSourceUrl": "https://www.castro.com/stores",
+      "distanceMeters": 6,
+      "note": "Same named venue/address; original Intima coordinates preserved"
+    },
+    {
+      "officialId": "26",
+      "referenceId": "castro-4161",
+      "referenceName": "ביג באר שבע - נשים, גברים, ילדים ו - HOME",
+      "referenceAddress": "דרך חברון 21, באר שבע",
+      "referenceSourceUrl": "https://www.castro.com/stores",
+      "referenceCoordinateSourceUrl": "https://www.castro.com/stores",
+      "distanceMeters": 9,
+      "note": "Same named venue/address; original Intima coordinates preserved"
+    },
+    {
+      "officialId": "5",
+      "referenceId": "castro-4124",
+      "referenceName": "ביג אילת - נשים גברים וילדים",
+      "referenceAddress": "מרכז ביג, הסתת 20, אילת",
+      "referenceSourceUrl": "https://www.castro.com/stores",
+      "referenceCoordinateSourceUrl": "https://www.castro.com/stores",
+      "distanceMeters": 9,
+      "note": "Same named venue/address; original Intima coordinates preserved"
+    },
+    {
+      "officialId": "41",
+      "referenceId": "castro-4144",
+      "referenceName": "עין שמר - נשים, גברים וילדים HOME",
+      "referenceAddress": "מתחם אלונית, צומת כרכור, עין שמר",
+      "referenceSourceUrl": "https://www.castro.com/stores",
+      "referenceCoordinateSourceUrl": "https://www.castro.com/stores",
+      "distanceMeters": 7,
+      "note": "Same named venue/address; original Intima coordinates preserved"
+    },
+    {
+      "officialId": "46",
+      "referenceId": "laline-96",
+      "referenceName": "איילון",
+      "referenceAddress": "קניון איילון - אבא הלל 301",
+      "referenceSourceUrl": "https://www.laline.co.il/pages/branches",
+      "referenceCoordinateSourceUrl": "https://ul.waze.com/ul?place=ChIJEY3FF4dJHRUR-cGnLzwiUx0&ll=32.10044150%2C34.82661070&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+      "distanceMeters": 7,
+      "note": "Same named venue/address; original Intima coordinates preserved"
+    },
+    {
+      "officialId": "2931",
+      "referenceId": "castro-4135",
+      "referenceName": "אייסמול אילת - נשים גברים וילדים",
+      "referenceAddress": "קאמפן 8, אילת",
+      "referenceSourceUrl": "https://www.castro.com/stores",
+      "referenceCoordinateSourceUrl": "https://www.castro.com/stores",
+      "distanceMeters": 2,
+      "note": "Same named venue/address; original Intima coordinates preserved"
+    },
+    {
+      "officialId": "45",
+      "referenceId": "castro-4114",
+      "referenceName": "קניון בת-ים - נשים, גברים וילדים",
+      "referenceAddress": "קניון בת ים, יוספטל 92, בת ים",
+      "referenceSourceUrl": "https://www.castro.com/stores",
+      "referenceCoordinateSourceUrl": "https://www.castro.com/stores",
+      "distanceMeters": 8,
+      "note": "Same named venue/address; original Intima coordinates preserved"
+    },
+    {
+      "officialId": "2935",
+      "referenceId": "castro-4082",
+      "referenceName": "עזריאלי גבעתיים - נשים, גברים וילדים",
+      "referenceAddress": "קניון גבעתיים, יצחק רבין 53, גבעתיים",
+      "referenceSourceUrl": "https://www.castro.com/stores",
+      "referenceCoordinateSourceUrl": "https://www.castro.com/stores",
+      "distanceMeters": 5,
+      "note": "Same named venue/address; original Intima coordinates preserved"
+    },
+    {
+      "officialId": "2934",
+      "referenceId": "castro-4089",
+      "referenceName": "גן העיר תל אביב - נשים וגברים",
+      "referenceAddress": "קניון גן העיר, אבן גבירול 71, תל אביב-יפו",
+      "referenceSourceUrl": "https://www.castro.com/stores",
+      "referenceCoordinateSourceUrl": "https://www.castro.com/stores",
+      "distanceMeters": 10,
+      "note": "Same named venue/address; original Intima coordinates preserved"
+    },
+    {
+      "officialId": "2937",
+      "referenceId": "castro-4105",
+      "referenceName": "עזריאלי מודיעין - נשים",
+      "referenceAddress": "קניון מודיעין, לב העיר 2, מודיעין",
+      "referenceSourceUrl": "https://www.castro.com/stores",
+      "referenceCoordinateSourceUrl": "https://www.castro.com/stores",
+      "distanceMeters": 5,
+      "note": "Same named venue/address; original Intima coordinates preserved"
+    },
+    {
+      "officialId": "31",
+      "referenceId": "castro-4070",
+      "referenceName": "עזריאלי מלחה - נשים גברים וילדים",
+      "referenceAddress": "קניון מלחה, בית''ר 1, ירושלים",
+      "referenceSourceUrl": "https://www.castro.com/stores",
+      "referenceCoordinateSourceUrl": "https://www.castro.com/stores",
+      "distanceMeters": 7,
+      "note": "Same named venue/address; original Intima coordinates preserved"
+    },
+    {
+      "officialId": "37",
+      "referenceId": "footlocker-b419d0c6fafa",
+      "referenceName": "סטאר אשדוד",
+      "referenceAddress": "זבוטינסקי 45, אשדוד",
+      "referenceSourceUrl": "https://footlocker.co.il/pages/branches",
+      "referenceCoordinateSourceUrl": "https://www.google.com/maps/place/Jabotinski+St+45,+Ashdod/@31.8102317,34.6540647,17z/data=!3m1!4b1!4m6!3m5!1s0x1502a36cb55a2295:0x7ffc6d77dcb9135e!8m2!3d31.8102272!4d34.6566396!16s%2Fg%2F11h6ddsjv_?entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D",
+      "distanceMeters": 9,
+      "note": "Same named venue/address; original Intima coordinates preserved"
+    },
+    {
+      "officialId": "22",
+      "referenceId": "castro-4113",
+      "referenceName": "קניון רחובות - נשים גברים וילדים",
+      "referenceAddress": "קניון רחובות, בילו 2, רחובות",
+      "referenceSourceUrl": "https://www.castro.com/stores",
+      "referenceCoordinateSourceUrl": "https://www.castro.com/stores",
+      "distanceMeters": 10,
+      "note": "Same named venue/address; original Intima coordinates preserved"
+    },
+    {
+      "officialId": "27",
+      "referenceId": "laline-128",
+      "referenceName": "רמת אביב",
+      "referenceAddress": "קניון רמת אביב - רח' איינשטיין 40, תל אביב",
+      "referenceSourceUrl": "https://www.laline.co.il/pages/branches",
+      "referenceCoordinateSourceUrl": "https://ul.waze.com/ul?place=ChIJf8VbCF5JHRURSe-I4-RGg8k&ll=32.11193990%2C34.79465130&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+      "distanceMeters": 86,
+      "note": "Same named venue/address; original Intima coordinates preserved"
+    },
+    {
+      "officialId": "2932",
+      "referenceId": "castro-4094",
+      "referenceName": "קניון רננים - נשים, גברים וילדים",
+      "referenceAddress": "קניון רננים, המלאכה 2, רעננה",
+      "referenceSourceUrl": "https://www.castro.com/stores",
+      "referenceCoordinateSourceUrl": "https://www.castro.com/stores",
+      "distanceMeters": 6,
+      "note": "Same named venue/address; original Intima coordinates preserved"
+    },
+    {
+      "officialId": "33",
+      "referenceId": "golf-kids-816",
+      "referenceName": "קניון שער הצפון",
+      "referenceAddress": "דרך חיפה 30",
+      "referenceSourceUrl": "https://www.golfkids.co.il/stores",
+      "referenceCoordinateSourceUrl": "https://www.golfkids.co.il/stores",
+      "distanceMeters": 10,
+      "note": "Same named venue/address; original Intima coordinates preserved"
+    },
+    {
+      "officialId": "1",
+      "referenceId": "golf-kids-880",
+      "referenceName": "קניון רמות",
+      "referenceAddress": "שדרות גולדה מאיר 255",
+      "referenceSourceUrl": "https://www.golfkids.co.il/stores",
+      "referenceCoordinateSourceUrl": "https://www.golfkids.co.il/stores",
+      "distanceMeters": 3,
+      "note": "Same named venue/address; original Intima coordinates preserved"
+    }
+  ]
+}
