@@ -1,0 +1,195 @@
+{
+  "checkedAt": "2026-09-20T16:43:54.989Z",
+  "files": [
+    "candidates/kravitz-round6.json",
+    "candidates/golf-kids-round6.json"
+  ],
+  "added": [
+    {
+      "id": "kravitz-loc_57ep57vn",
+      "store": "קרביץ",
+      "name": "קרביץ דיזינגוף סנטר",
+      "city": "תל אביב"
+    },
+    {
+      "id": "kravitz-loc_69e25j75",
+      "store": "קרביץ",
+      "name": "קניון עופר רחובות",
+      "city": "רחובות"
+    },
+    {
+      "id": "kravitz-loc_69ew89g5",
+      "store": "קרביץ",
+      "name": "קרביץ איכילוב קניון ויצמן",
+      "city": "תל אביב"
+    },
+    {
+      "id": "kravitz-loc_69ew89r5",
+      "store": "קרביץ",
+      "name": "קרביץ גרנד קניון חיפה",
+      "city": "חיפה"
+    },
+    {
+      "id": "kravitz-loc_95wek52y",
+      "store": "קרביץ",
+      "name": "קרביץ שבעת הכוכבים",
+      "city": "הרצליה"
+    },
+    {
+      "id": "kravitz-loc_g297v2x7",
+      "store": "קרביץ",
+      "name": "קרביץ קניון מודיעין",
+      "city": "מודיעין"
+    },
+    {
+      "id": "kravitz-loc_jyw8py2e",
+      "store": "קרביץ",
+      "name": "קרביץ סימול אשדוד",
+      "city": "אשדוד"
+    },
+    {
+      "id": "kravitz-loc_jyw8pyxe",
+      "store": "קרביץ",
+      "name": "קרביץ ביג אילת",
+      "city": "אילת"
+    },
+    {
+      "id": "kravitz-loc_k6zyw65q",
+      "store": "קרביץ",
+      "name": "קרביץ חדרה",
+      "city": "חדרה"
+    },
+    {
+      "id": "kravitz-loc_m78w27zv",
+      "store": "קרביץ",
+      "name": "קרביץ קניון חולון",
+      "city": "חולון"
+    },
+    {
+      "id": "kravitz-loc_n9zne955",
+      "store": "קרביץ",
+      "name": "קרביץ ארנה נהריה",
+      "city": "נהריה"
+    },
+    {
+      "id": "kravitz-loc_pq8egq5k",
+      "store": "קרביץ",
+      "name": "קרביץ G כפר סבא",
+      "city": "כפר סבא"
+    },
+    {
+      "id": "kravitz-loc_pq8egqkk",
+      "store": "קרביץ",
+      "name": "קרביץ ביג כרמיאל",
+      "city": "כרמיאל"
+    },
+    {
+      "id": "kravitz-loc_qzyj5zry",
+      "store": "קרביץ",
+      "name": "קרביץ קניון הזהב ראשון לציון",
+      "city": "ראשון לציון"
+    },
+    {
+      "id": "kravitz-loc_qzyj8jqy",
+      "store": "קרביץ",
+      "name": "קרביץ באר שבע הנגב",
+      "city": "באר שבע"
+    },
+    {
+      "id": "kravitz-loc_rkg8mkeq",
+      "store": "קרביץ",
+      "name": "קרביץ קניון השרון",
+      "city": "נתניה"
+    },
+    {
+      "id": "kravitz-loc_rkg8mkpq",
+      "store": "קרביץ",
+      "name": "קרביץ עזריאלי קניון חיפה",
+      "city": "חיפה"
+    },
+    {
+      "id": "kravitz-loc_rkg8mkrq",
+      "store": "קרביץ",
+      "name": "קרביץ קניון גבעתיים",
+      "city": "גבעתיים"
+    },
+    {
+      "id": "kravitz-loc_vmq77g8m",
+      "store": "קרביץ",
+      "name": "קרביץ עזריאלי תל אביב",
+      "city": "תל אביב"
+    },
+    {
+      "id": "kravitz-loc_vmwyvmem",
+      "store": "קרביץ",
+      "name": "קרביץ קניון בת ים",
+      "city": "בת ים"
+    },
+    {
+      "id": "kravitz-loc_vmwyvmkm",
+      "store": "קרביץ",
+      "name": "קרביץ קרית אונו",
+      "city": "קרית אונו"
+    },
+    {
+      "id": "kravitz-loc_wynpqyxx",
+      "store": "קרביץ",
+      "name": "קרביץ רמת אביב",
+      "city": "תל אביב"
+    },
+    {
+      "id": "kravitz-loc_xp2wyp96",
+      "store": "קרביץ",
+      "name": "קרביץ רננים",
+      "city": "רעננה"
+    },
+    {
+      "id": "kravitz-loc_xp2wypr6",
+      "store": "קרביץ",
+      "name": "קרביץ מרכז מסחרי שוהם",
+      "city": "שוהם"
+    },
+    {
+      "id": "kravitz-loc_xp2wypz6",
+      "store": "קרביץ",
+      "name": "קרביץ אשקלון",
+      "city": "אשקלון"
+    },
+    {
+      "id": "kravitz-loc_yz8npz2v",
+      "store": "קרביץ",
+      "name": "קרביץ ביג טבריה",
+      "city": "טבריה"
+    },
+    {
+      "id": "kravitz-loc_yz8npzev",
+      "store": "קרביץ",
+      "name": "קרביץ עזריאלי ראשונים",
+      "city": "ראשון לציון"
+    },
+    {
+      "id": "kravitz-loc_zzn2wzrw",
+      "store": "קרביץ",
+      "name": "קרביץ קניון עזריאלי הוד השרון",
+      "city": "הוד השרון"
+    }
+  ],
+  "updated": [],
+  "duplicates": [],
+  "reviewRequired": [],
+  "retained": [],
+  "chains": [
+    {
+      "store": "קרביץ",
+      "examined": 72,
+      "included": 28,
+      "retained": 0
+    },
+    {
+      "store": "GOLF KIDS",
+      "examined": 119,
+      "included": 13,
+      "retained": 0
+    }
+  ]
+}

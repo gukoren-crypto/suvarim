@@ -1,0 +1,949 @@
+{
+  "sourceUrl": "https://soltam.co.il/stores-list/",
+  "coordinateSourceUrl": "https://soltam.co.il/wp-content/uploads/agile-store-locator/locator-data.json",
+  "checkedAt": "2026-09-20",
+  "examined": 73,
+  "reviewed": [
+    {
+      "id": "107",
+      "name": "אונו סנטר",
+      "city": "אור יהודה",
+      "address": "כרמל 3",
+      "lat": "32.0349249",
+      "lng": "34.859531"
+    },
+    {
+      "id": "99",
+      "name": "אופקים",
+      "city": "אופקים",
+      "address": "הרצל 25",
+      "lat": "31.423132",
+      "lng": "34.5946466"
+    },
+    {
+      "id": "81",
+      "name": "אור יהודה",
+      "city": "אור יהודה",
+      "address": "החרושת 5",
+      "lat": "32.0211838",
+      "lng": "34.861698"
+    },
+    {
+      "id": "31",
+      "name": "אור עקיבא",
+      "city": "אור עקיבא",
+      "address": "שד' הנשיא ויצמן 1, קניון אורות",
+      "lat": "32.5020806",
+      "lng": "34.9270588"
+    },
+    {
+      "id": "102",
+      "name": "איירפורט סיטי",
+      "city": "איירפורט סיטי",
+      "address": "גולן 1, נתב\"ג",
+      "lat": "31.9879816",
+      "lng": "34.914164"
+    },
+    {
+      "id": "93",
+      "name": "אילת",
+      "city": "אילת",
+      "address": "קניון שבעת הכוכבים דרך הערבה 7",
+      "lat": "29.5560077",
+      "lng": "34.9549108"
+    },
+    {
+      "id": "29",
+      "name": "אלעד",
+      "city": "אלעד",
+      "address": "יהודה הנשיא 90",
+      "lat": "32.0526665",
+      "lng": "34.9604125"
+    },
+    {
+      "id": "94",
+      "name": "אשדוד ביג פאשן",
+      "city": "אשדוד",
+      "address": "דרך הרכבת, 1",
+      "lat": "31.7764198",
+      "lng": "34.6641534"
+    },
+    {
+      "id": "74",
+      "name": "אשדוד סטאר",
+      "city": "אשדוד",
+      "address": "סטאר סנטר",
+      "lat": "31.810908964100125",
+      "lng": "34.65525093516542"
+    },
+    {
+      "id": "75",
+      "name": "אשדוד סיטי",
+      "city": "אשדוד",
+      "address": "מנחם בגין, 1",
+      "lat": "31.7886094",
+      "lng": "34.6415478"
+    },
+    {
+      "id": "32",
+      "name": "אשקלון",
+      "city": "אשקלון",
+      "address": "שער אשקלון, צומת סילבר",
+      "lat": "31.67485",
+      "lng": "34.60677"
+    },
+    {
+      "id": "33",
+      "name": "אשקלון",
+      "city": "אשקלון",
+      "address": "שד' דוד בן גוריון 21, קניון גירון",
+      "lat": "31.6645554",
+      "lng": "34.5653425"
+    },
+    {
+      "id": "34",
+      "name": "באר יעקב",
+      "city": "באר יעקב",
+      "address": "שא נס 17, קניון באר יעקב",
+      "lat": "31.9418416",
+      "lng": "34.8337509"
+    },
+    {
+      "id": "35",
+      "name": "באר שבע",
+      "city": "באר שבע",
+      "address": "קניון קריית הממשלה",
+      "lat": "31.2453482",
+      "lng": "34.7992874"
+    },
+    {
+      "id": "36",
+      "name": "באר שבע",
+      "city": "באר שבע",
+      "address": "שד' דוד טוביהו 125, גרנד קניון",
+      "lat": "31.2503705",
+      "lng": "34.7717336"
+    },
+    {
+      "id": "37",
+      "name": "בילו",
+      "city": "בילו",
+      "address": "בילו סנטר, צומת בילו",
+      "lat": "31.8648919",
+      "lng": "34.8166232"
+    },
+    {
+      "id": "98",
+      "name": "בית שאן",
+      "city": "בית שאן",
+      "address": "העמל 100 קניון בית שאן",
+      "lat": "32.511053",
+      "lng": "35.5007623"
+    },
+    {
+      "id": "38",
+      "name": "בית שמש",
+      "city": "בית שמש",
+      "address": "יגאל אלון, 3",
+      "lat": "31.7560341",
+      "lng": "34.9904465"
+    },
+    {
+      "id": "39",
+      "name": "בני ברק",
+      "city": "בני ברק",
+      "address": "ר' עקיבא, 39",
+      "lat": "32.0881507",
+      "lng": "34.8273146"
+    },
+    {
+      "id": "40",
+      "name": "בת ים",
+      "city": "בת ים",
+      "address": "יוספטל 92 קניון בת ים",
+      "lat": "32.0151373",
+      "lng": "34.7561639"
+    },
+    {
+      "id": "89",
+      "name": "גבעת שמואל",
+      "city": "גבעת שמואל",
+      "address": "יוני נתניהו 29-31 גבעת שמואל",
+      "lat": "32.0760277",
+      "lng": "34.8545916"
+    },
+    {
+      "id": "41",
+      "name": "גבעתיים",
+      "city": "גבעתיים",
+      "address": "דרך יצחק רבין 53 קניון גבעתיים",
+      "lat": "32.0667435",
+      "lng": "34.8099068"
+    },
+    {
+      "id": "76",
+      "name": "גן יבנה",
+      "city": "גן יבנה",
+      "address": "המגינים 56",
+      "lat": "31.791087",
+      "lng": "34.7139089"
+    },
+    {
+      "id": "84",
+      "name": "דימונה",
+      "city": "דימונה",
+      "address": "קניון פרץ סנטר כביש 25, דימונה",
+      "lat": "31.06157499999999",
+      "lng": "35.020321"
+    },
+    {
+      "id": "42",
+      "name": "הרצליה",
+      "city": "הרצליה",
+      "address": "קניון שבעת הכוכבים",
+      "lat": "32.1650603",
+      "lng": "34.8239397"
+    },
+    {
+      "id": "85",
+      "name": "זכרון יעקב",
+      "city": "זכרון יעקב",
+      "address": "אזור תעשייה מערבי, כביש 4, זכרון יעקב",
+      "lat": "32.573905",
+      "lng": "34.951977"
+    },
+    {
+      "id": "43",
+      "name": "חדרה",
+      "city": "חדרה",
+      "address": "רוטשילד 40, קניון לב חדרה",
+      "lat": "32.4378941",
+      "lng": "34.9219993"
+    },
+    {
+      "id": "44",
+      "name": "חולון",
+      "city": "חולון",
+      "address": "גולדה מאיר 7 קניון עזריאלי",
+      "lat": "32.0125644",
+      "lng": "34.7790833"
+    },
+    {
+      "id": "45",
+      "name": "חיפה",
+      "city": "חיפה",
+      "address": "גרנד קניון",
+      "lat": "32.789711",
+      "lng": "35.0078224"
+    },
+    {
+      "id": "46",
+      "name": "חיפה",
+      "city": "חיפה",
+      "address": "קניון עזריאלי, דרך משה פילמן 4",
+      "lat": "32.7896507",
+      "lng": "34.9651905"
+    },
+    {
+      "id": "106",
+      "name": "חיפה חוצות המפרץ",
+      "city": "חיפה",
+      "address": "החרושת 9, חוצות המפרץ",
+      "lat": "32.8071485",
+      "lng": "35.0544904"
+    },
+    {
+      "id": "47",
+      "name": "טבריה",
+      "city": "טבריה",
+      "address": "יהודה הלוי 1 קניון ביג פאשן",
+      "lat": "32.790462",
+      "lng": "35.5337913"
+    },
+    {
+      "id": "82",
+      "name": "טירה",
+      "city": "טירה",
+      "address": "מתחם סבן טירה",
+      "lat": "32.22848",
+      "lng": "34.942235"
+    },
+    {
+      "id": "105",
+      "name": "טמרה",
+      "city": "טמרה",
+      "address": "קניון צים מתחם 7",
+      "lat": "32.8552512",
+      "lng": "35.1859141"
+    },
+    {
+      "id": "49",
+      "name": "יקנעם",
+      "city": "יקנעם",
+      "address": "התמר 2 קניון G6",
+      "lat": "32.6598194",
+      "lng": "35.1052472"
+    },
+    {
+      "id": "51",
+      "name": "ירושלים",
+      "city": "ירושלים",
+      "address": "קניון מלחה, אגודת ספורט ביתר 1",
+      "lat": "31.7515163",
+      "lng": "35.1872451"
+    },
+    {
+      "id": "50",
+      "name": "ירושלים",
+      "city": "ירושלים",
+      "address": "תלפיות, יד חרוצים 22",
+      "lat": "31.7503146",
+      "lng": "35.215267"
+    },
+    {
+      "id": "96",
+      "name": "ירושלים",
+      "city": "ירושלים",
+      "address": "סנטר 1, ירמיהו 43",
+      "lat": "31.7898675",
+      "lng": "35.20065"
+    },
+    {
+      "id": "52",
+      "name": "כפר סבא",
+      "city": "כפר סבא",
+      "address": "קניון G ,וייצמן 207 קומה 1",
+      "lat": "32.1720743",
+      "lng": "34.9284373"
+    },
+    {
+      "id": "100",
+      "name": "כרמי גת",
+      "city": "קריית גת",
+      "address": "נחל ירקון 147",
+      "lat": "31.6269612",
+      "lng": "34.77183910000001"
+    },
+    {
+      "id": "103",
+      "name": "כרמיאל",
+      "city": "כרמיאל",
+      "address": "מעלה כמון 5, כרמיאל (קניון חוצות)",
+      "lat": "32.9281888",
+      "lng": "35.325383"
+    },
+    {
+      "id": "83",
+      "name": "מבשרת ציון",
+      "city": "מבשרת ציון",
+      "address": "קניון הראל",
+      "lat": "31.7998291",
+      "lng": "35.1489846"
+    },
+    {
+      "id": "86",
+      "name": "מגדל העמק",
+      "city": "מגדל העמק",
+      "address": "מרכז מסחרי פרץ סנטר מגדל העמק, שד' שאול עמור 77",
+      "lat": "32.6780967",
+      "lng": "35.2431759"
+    },
+    {
+      "id": "53",
+      "name": "מודיעין",
+      "city": "מודיעין",
+      "address": "לב העיר 2, קניון עזריאלי",
+      "lat": "31.8998602",
+      "lng": "35.0082658"
+    },
+    {
+      "id": "88",
+      "name": "מעלה אדומים",
+      "city": "מעלה אדומים",
+      "address": "דרך קדם 5, קניון עופר אדומים",
+      "lat": "31.7715369",
+      "lng": "35.29855939999999"
+    },
+    {
+      "id": "71",
+      "name": "משווק מורשה - אום אל פאחם",
+      "city": "אום אל פאחם",
+      "address": "קניון אלמדינה,אלמדינה 21",
+      "lat": "32.5272978",
+      "lng": "35.1542032"
+    },
+    {
+      "id": "79",
+      "name": "נהריה",
+      "city": "נהריה",
+      "address": "קניון ארנה, שד' בן צבי 1",
+      "lat": "33.0085361",
+      "lng": "35.0980514"
+    },
+    {
+      "id": "54",
+      "name": "נוף הגליל",
+      "city": "נוף הגליל",
+      "address": "דרך העמק 14 , עופר סנטר",
+      "lat": "32.6957627",
+      "lng": "35.3129455"
+    },
+    {
+      "id": "55",
+      "name": "נתיבות",
+      "city": "נתיבות",
+      "address": "בעלי המלאכה 52",
+      "lat": "31.4191809",
+      "lng": "34.598035"
+    },
+    {
+      "id": "72",
+      "name": "נתניה",
+      "city": "נתניה",
+      "address": "קניון עיר ימים בני ברמן 2",
+      "lat": "32.2791426",
+      "lng": "34.8470474"
+    },
+    {
+      "id": "56",
+      "name": "נתניה",
+      "city": "נתניה",
+      "address": "הרצל 49",
+      "lat": "32.3274612",
+      "lng": "34.8606911"
+    },
+    {
+      "id": "101",
+      "name": "עזריאלי עכו",
+      "city": "עכו",
+      "address": "החרושת 2, עזריאלי עכו",
+      "lat": "32.9230474",
+      "lng": "35.081231"
+    },
+    {
+      "id": "57",
+      "name": "עפולה",
+      "city": "עפולה",
+      "address": "דרך יצחק רבין, 20",
+      "lat": "32.6146772",
+      "lng": "35.2998605"
+    },
+    {
+      "id": "59",
+      "name": "פתח תקווה",
+      "city": "פתח תקווה",
+      "address": "זאב ז'בוטינסקי 72, הקניון הגדול",
+      "lat": "32.0932981",
+      "lng": "34.8653481"
+    },
+    {
+      "id": "58",
+      "name": "פתח תקווה",
+      "city": "פתח תקווה",
+      "address": "אלעזר פרידמן 9, קניון סירקין",
+      "lat": "32.0798459",
+      "lng": "34.902483"
+    },
+    {
+      "id": "60",
+      "name": "קריית גת",
+      "city": "קריית גת",
+      "address": "ישפרו סנטר",
+      "lat": "31.603455",
+      "lng": "34.7588229"
+    },
+    {
+      "id": "78",
+      "name": "קרית אונו",
+      "city": "קרית אונו",
+      "address": "שלמה המלך 37",
+      "lat": "32.0555788",
+      "lng": "34.8633719"
+    },
+    {
+      "id": "73",
+      "name": "ראש העין",
+      "city": "ראש העין",
+      "address": "יגאל אלון 22, שפיר סנטר",
+      "lat": "32.0858979",
+      "lng": "34.9789339"
+    },
+    {
+      "id": "90",
+      "name": "ראש פינה",
+      "city": "ראש פינה",
+      "address": "האגס 1, קניון סנטר הגליל, ראש פינה",
+      "lat": "32.9696285",
+      "lng": "35.5511287"
+    },
+    {
+      "id": "64",
+      "name": "ראשון לציון",
+      "city": "ראשון לציון",
+      "address": "יעקב פריימן 5, קניון הרובע",
+      "lat": "31.9762711",
+      "lng": "34.8104464"
+    },
+    {
+      "id": "61",
+      "name": "ראשון לציון",
+      "city": "ראשון לציון",
+      "address": "קניון רוטשילד",
+      "lat": "31.963511",
+      "lng": "34.8014698"
+    },
+    {
+      "id": "62",
+      "name": "ראשון לציון",
+      "city": "ראשון לציון",
+      "address": "G סיטי, לחי 4 מתחם דקטלון",
+      "lat": "31.9874829",
+      "lng": "34.7659656"
+    },
+    {
+      "id": "63",
+      "name": "ראשון לציון",
+      "city": "ראשון לציון",
+      "address": "קניון הזהב",
+      "lat": "31.9913925",
+      "lng": "34.774242"
+    },
+    {
+      "id": "65",
+      "name": "רחובות",
+      "city": "רחובות",
+      "address": "בילו 2 קניון רחובות",
+      "lat": "31.8933068",
+      "lng": "34.8068242"
+    },
+    {
+      "id": "67",
+      "name": "רמלה",
+      "city": "רמלה",
+      "address": "דוד רזיאל, 1 קניון עזריאלי",
+      "lat": "31.9257549",
+      "lng": "34.8639629"
+    },
+    {
+      "id": "97",
+      "name": "רמת אביב",
+      "city": "תל אביב",
+      "address": "ברודצקי 43 - פינת רחוב ברזיל",
+      "lat": "32.1116912",
+      "lng": "34.7979156"
+    },
+    {
+      "id": "66",
+      "name": "רמת גן",
+      "city": "רמת גן",
+      "address": "תובל 32",
+      "lat": "32.0864453",
+      "lng": "34.8029342"
+    },
+    {
+      "id": "91",
+      "name": "רמת גן",
+      "city": "רמת גן",
+      "address": "קניון איילון - אבא הלל 301, רמת גן",
+      "lat": "32.1003558",
+      "lng": "34.8267131"
+    },
+    {
+      "id": "77",
+      "name": "רעננה",
+      "city": "רעננה",
+      "address": "קניון רננים (קומה 1, ליד ZARA)",
+      "lat": "32.184781",
+      "lng": "34.871326"
+    },
+    {
+      "id": "92",
+      "name": "שדרות",
+      "city": "שדרות",
+      "address": "סמטת הפלדה 8, מתחם פרץ סנטר",
+      "lat": "31.5202208",
+      "lng": "34.5945109"
+    },
+    {
+      "id": "70",
+      "name": "תל אביב",
+      "city": "תל אביב",
+      "address": "קינג ג'ורג' 95",
+      "lat": "32.0771203",
+      "lng": "34.7773383"
+    },
+    {
+      "id": "69",
+      "name": "תל אביב",
+      "city": "תל אביב",
+      "address": "וייצמן 14, קניון איכילוב",
+      "lat": "32.0814278",
+      "lng": "34.7898728"
+    },
+    {
+      "id": "68",
+      "name": "תל אביב",
+      "city": "תל אביב",
+      "address": "הברזל 33, רמת החייל",
+      "lat": "32.1107702",
+      "lng": "34.8416078"
+    }
+  ],
+  "exclusions": {
+    "29": "venue-or-exact-address-not-independently-corroborated-in-this-round",
+    "31": "venue-or-exact-address-not-independently-corroborated-in-this-round",
+    "35": "venue-or-exact-address-not-independently-corroborated-in-this-round",
+    "38": "city-coordinate-conflict; explicit source destination inconsistent with city",
+    "39": "venue-or-exact-address-not-independently-corroborated-in-this-round",
+    "49": "venue-or-exact-address-not-independently-corroborated-in-this-round",
+    "50": "venue-or-exact-address-not-independently-corroborated-in-this-round",
+    "54": "venue-or-exact-address-not-independently-corroborated-in-this-round",
+    "55": "venue-or-exact-address-not-independently-corroborated-in-this-round",
+    "56": "venue-or-exact-address-not-independently-corroborated-in-this-round",
+    "57": "venue-or-exact-address-not-independently-corroborated-in-this-round",
+    "58": "venue-or-exact-address-not-independently-corroborated-in-this-round",
+    "60": "venue-or-exact-address-not-independently-corroborated-in-this-round",
+    "61": "venue-or-exact-address-not-independently-corroborated-in-this-round",
+    "62": "venue-or-exact-address-not-independently-corroborated-in-this-round",
+    "64": "venue-or-exact-address-not-independently-corroborated-in-this-round",
+    "66": "venue-or-exact-address-not-independently-corroborated-in-this-round",
+    "68": "venue-or-exact-address-not-independently-corroborated-in-this-round",
+    "70": "venue-or-exact-address-not-independently-corroborated-in-this-round",
+    "71": "authorized-reseller-pending-voucher-eligibility-review",
+    "75": "venue-or-exact-address-not-independently-corroborated-in-this-round",
+    "76": "venue-coordinate-conflict; destination inconsistent with exact venue/address",
+    "77": "venue-coordinate-conflict; destination inconsistent with exact venue/address",
+    "79": "venue-coordinate-conflict; destination inconsistent with exact venue/address",
+    "81": "venue-or-exact-address-not-independently-corroborated-in-this-round",
+    "82": "city-coordinate-conflict; explicit source destination inconsistent with city",
+    "83": "venue-or-exact-address-not-independently-corroborated-in-this-round",
+    "84": "venue-or-exact-address-not-independently-corroborated-in-this-round",
+    "85": "venue-coordinate-conflict; destination inconsistent with exact venue/address",
+    "86": "venue-or-exact-address-not-independently-corroborated-in-this-round",
+    "89": "venue-or-exact-address-not-independently-corroborated-in-this-round",
+    "90": "venue-or-exact-address-not-independently-corroborated-in-this-round",
+    "97": "venue-coordinate-conflict; destination inconsistent with exact venue/address",
+    "99": "city-coordinate-conflict; explicit source destination inconsistent with city",
+    "103": "venue-or-exact-address-not-independently-corroborated-in-this-round",
+    "105": "venue-or-exact-address-not-independently-corroborated-in-this-round",
+    "106": "venue-or-exact-address-not-independently-corroborated-in-this-round",
+    "107": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+  },
+  "corroboration": [
+    {
+      "id": "102",
+      "referenceId": "foxhome-13ef0594fe2b",
+      "referenceName": "שוהם",
+      "referenceAddress": "מתחם איירפורט סיטי, שוהם",
+      "sourceUrl": "https://www.foxhome.co.il/pages/branches",
+      "coordinateSourceUrl": "https://www.waze.com/he/live-map/directions/il/%D7%9E%D7%97%D7%95%D7%96-%D7%94%D7%9E%D7%A8%D7%9B%D7%96/%D7%A0%D7%AA%D7%91%D7%92/%D7%90%D7%99%D7%99%D7%A8%D7%A4%D7%95%D7%A8%D7%98-%D7%A1%D7%99%D7%98%D7%99?to=place.ChIJ0ST0oyzLAhURDBDUuxfXnX0",
+      "distanceMeters": 0
+    },
+    {
+      "id": "93",
+      "referenceId": "footlocker-a95c8a1806b5",
+      "referenceName": "קניון שבעת הכוכבים אילת",
+      "referenceAddress": "דרך הערבה 7,אילת",
+      "sourceUrl": "https://footlocker.co.il/pages/branches",
+      "coordinateSourceUrl": "https://www.google.com/maps/place/Derekh+ha-Arava+7,+Eilat/@29.5560123,34.9523359,17z/data=!3m1!4b1!4m6!3m5!1s0x150071f96b6f6173:0x772804389d4b0e02!8m2!3d29.5560077!4d34.9549108!16s%2Fg%2F11h59qrd61?entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D",
+      "distanceMeters": 0
+    },
+    {
+      "id": "94",
+      "referenceId": "footlocker-d0bcc22e371c",
+      "referenceName": "אשדוד ביג",
+      "referenceAddress": "דרך הרכבת 1, אשדוד",
+      "sourceUrl": "https://footlocker.co.il/pages/branches",
+      "coordinateSourceUrl": "https://www.google.com/maps/place/Derech+HaRakevet+1,+Ashdod/@31.7763859,34.6592343,16.94z/data=!4m6!3m5!1s0x1502a2c299d56cf3:0x9e0fdd7d2e7c004e!8m2!3d31.7764198!4d34.6641534!16s%2Fg%2F11csmp1lyw?entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D",
+      "distanceMeters": 0
+    },
+    {
+      "id": "74",
+      "referenceId": "foxhome-cbd6c5b9e0f3",
+      "referenceName": "אשדוד",
+      "referenceAddress": "סטאר סנטר, אשדוד",
+      "sourceUrl": "https://www.foxhome.co.il/pages/branches",
+      "coordinateSourceUrl": "https://www.waze.com/he/live-map/directions/%D7%9E%D7%AA%D7%97%D7%9D-%D7%A7%D7%A0%D7%99%D7%95%D7%AA-%D7%A1%D7%98%D7%90%D7%A8-%D7%A1%D7%A0%D7%98%D7%A8-%D7%96%D7%91%D7%95%D7%98%D7%99%D7%A0%D7%A1%D7%A7%D7%99-44-%D7%90%D7%A9%D7%93%D7%95%D7%93?to=place.w.22741310.227150957.276037",
+      "distanceMeters": 60
+    },
+    {
+      "id": "32",
+      "referenceId": "footlocker-65de34bff3b9",
+      "referenceName": "סילבר אשקלון",
+      "referenceAddress": "צומת סילבר אשקלון",
+      "sourceUrl": "https://footlocker.co.il/pages/branches",
+      "coordinateSourceUrl": "https://www.google.com/maps/place/Silver+Power+Center/@31.6969875,34.5245718,12.42z/data=!4m10!1m2!2m1!1z16bXldee16og16HXmdec15HXqCDXkNep16fXnNeV158!3m6!1s0x15029bfa9cfb49d1:0xf63112c5fc369f33!8m2!3d31.6748007!4d34.6060214!15sCiDXpteV157XqiDXodeZ15zXkdeoINeQ16nXp9ec15XXn1oiIiDXpteV157XqiDXodeZ15zXkdeoINeQ16nXp9ec15XXn5IBD3Nob3BwaW5nX2NlbnRlcpoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VOU01XUlhha2xCRUFF4AEA!16s%2Fg%2F1hc1l_y5c?entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D",
+      "distanceMeters": 71
+    },
+    {
+      "id": "33",
+      "referenceId": "kravitz-loc_xp2wypz6",
+      "referenceName": "קרביץ אשקלון",
+      "referenceAddress": "שד' בן גוריון 21 אשקלון",
+      "sourceUrl": "https://www.kravitz.co.il/pages/קרביץ-אשקלון",
+      "coordinateSourceUrl": "https://stockist.co/api/v1/map_pqkngpy3/locations/search?latitude=32&longitude=35&distance=50000",
+      "distanceMeters": 41
+    },
+    {
+      "id": "34",
+      "referenceId": "vardinon-498",
+      "referenceName": "באר יעקב - קניון",
+      "referenceAddress": "שא נס 17",
+      "sourceUrl": "https://www.vardinon.co.il/stores?brand=%D7%95%D7%A8%D7%93%D7%99%D7%A0%D7%95%D7%9F",
+      "coordinateSourceUrl": "https://www.vardinon.co.il/stores?brand=%D7%95%D7%A8%D7%93%D7%99%D7%A0%D7%95%D7%9F",
+      "distanceMeters": 18
+    },
+    {
+      "id": "36",
+      "referenceId": "golf-8237",
+      "referenceName": "גולף גרנד באר שבע",
+      "referenceAddress": "טוביהו 125",
+      "sourceUrl": "https://www.golf-il.co.il/stores",
+      "coordinateSourceUrl": "https://www.golf-il.co.il/stores",
+      "distanceMeters": 10
+    },
+    {
+      "id": "37",
+      "referenceId": "footlocker-c98e551efbe1",
+      "referenceName": "ביל\"ו סנטר",
+      "referenceAddress": "בילו סנטר, קרית עקרון",
+      "sourceUrl": "https://footlocker.co.il/pages/branches",
+      "coordinateSourceUrl": "https://www.google.com/maps/place/Bilu+Center/@31.8648919,34.8140483,17z/data=!3m1!4b1!4m6!3m5!1s0x1502b82a6af1010f:0x1904ecd7baf4b323!8m2!3d31.8648919!4d34.8166232!16s%2Fg%2F11bxfyklms?entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D",
+      "distanceMeters": 0
+    },
+    {
+      "id": "98",
+      "referenceId": "footlocker-3b9c5699a25b",
+      "referenceName": "בית שאן",
+      "referenceAddress": "העמל 100 בית שאן",
+      "sourceUrl": "https://footlocker.co.il/pages/branches",
+      "coordinateSourceUrl": "https://www.google.com/maps/place/Ha-Amal+St+100,+Beit+She'an/@32.511053,35.4981874,17z/data=!3m1!4b1!4m5!3m4!1s0x151c5e98980b0aad:0x67f6be651f5c8209!8m2!3d32.511053!4d35.5007623?entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D",
+      "distanceMeters": 0
+    },
+    {
+      "id": "40",
+      "referenceId": "footlocker-f007ea9d5a88",
+      "referenceName": "קניון בת ים",
+      "referenceAddress": "גיורא יוספטל 92, בת ים",
+      "sourceUrl": "https://footlocker.co.il/pages/branches",
+      "coordinateSourceUrl": "https://www.google.com/maps/place/%D7%92%D7%99%D7%95%D7%A8%D7%90+%D7%99%D7%95%D7%A1%D7%A4%D7%98%D7%9C+92,+Bat+Yam,+5964101%E2%80%AD/@32.0151445,34.7514264,17z/data=!3m1!4b1!4m6!3m5!1s0x1502b36b94e6cfc1:0xa04ae6161ef82c62!8m2!3d32.01514!4d34.7562973!16s%2Fg%2F1ydnxgw1f?entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D",
+      "distanceMeters": 13
+    },
+    {
+      "id": "41",
+      "referenceId": "vardinon-18",
+      "referenceName": "גבעתיים - קניון עזריאלי",
+      "referenceAddress": "דרך יצחק רבין 53",
+      "sourceUrl": "https://www.vardinon.co.il/stores?brand=%D7%95%D7%A8%D7%93%D7%99%D7%A0%D7%95%D7%9F",
+      "coordinateSourceUrl": "https://www.vardinon.co.il/stores?brand=%D7%95%D7%A8%D7%93%D7%99%D7%A0%D7%95%D7%9F",
+      "distanceMeters": 5
+    },
+    {
+      "id": "42",
+      "referenceId": "laline-66",
+      "referenceName": "הרצליה",
+      "referenceAddress": "שדרות שבעת הכוכבים 8, הרצליה",
+      "sourceUrl": "https://www.laline.co.il/pages/branches",
+      "coordinateSourceUrl": "https://ul.waze.com/ul?place=ChIJ_cQBgWRIHRURgoK5KGhRWBs&ll=32.16506150%2C34.82395280&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+      "distanceMeters": 1
+    },
+    {
+      "id": "43",
+      "referenceId": "naaman-78",
+      "referenceName": "לב חדרה",
+      "referenceAddress": "שד' רוטשילד 40",
+      "sourceUrl": "https://www.naamanp.co.il/stores",
+      "coordinateSourceUrl": "https://www.naamanp.co.il/stores",
+      "distanceMeters": 24
+    },
+    {
+      "id": "44",
+      "referenceId": "laline-107",
+      "referenceName": "חולון",
+      "referenceAddress": "קניון חולון - רח' גולדה מאיר 7",
+      "sourceUrl": "https://www.laline.co.il/pages/branches",
+      "coordinateSourceUrl": "https://ul.waze.com/ul?place=ChIJbR77_qG0AhURLtTrxikbaLc&ll=32.01256440%2C34.77908330&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+      "distanceMeters": 0
+    },
+    {
+      "id": "45",
+      "referenceId": "vardinon-8",
+      "referenceName": "חיפה - גרנד קניון",
+      "referenceAddress": "דרך שמחה גולן 54",
+      "sourceUrl": "https://www.vardinon.co.il/stores?brand=%D7%95%D7%A8%D7%93%D7%99%D7%A0%D7%95%D7%9F",
+      "coordinateSourceUrl": "https://www.vardinon.co.il/stores?brand=%D7%95%D7%A8%D7%93%D7%99%D7%A0%D7%95%D7%9F",
+      "distanceMeters": 5
+    },
+    {
+      "id": "46",
+      "referenceId": "foxhome-8ed060814619",
+      "referenceName": "חיפה",
+      "referenceAddress": "קניון עזריאלי חיפה - דרך משה פלימן 4, חיפה",
+      "sourceUrl": "https://www.foxhome.co.il/pages/branches",
+      "coordinateSourceUrl": "https://www.waze.com/he/live-map/directions/il/%D7%9E%D7%97%D7%95%D7%96-%D7%97%D7%99%D7%A4%D7%94/%D7%97%D7%99%D7%A4%D7%94/%D7%A7%D7%A0%D7%99%D7%95%D7%9F-%D7%A2%D7%96%D7%A8%D7%99%D7%90%D7%9C%D7%99-%D7%97%D7%99%D7%A4%D7%94?to=place.ChIJD0CgT2i7HRURGRsyzgJAPiQ",
+      "distanceMeters": 0
+    },
+    {
+      "id": "47",
+      "referenceId": "footlocker-25452c1aef38",
+      "referenceName": "טבריה",
+      "referenceAddress": "יהודה הלוי 1, טבריה",
+      "sourceUrl": "https://footlocker.co.il/pages/branches",
+      "coordinateSourceUrl": "https://www.google.com/maps/place/Yehuda+Halevi+St+1,+Tverya/@32.7904643,35.5312301,17z/data=!3m1!4b1!4m6!3m5!1s0x151c3e4fccd5968d:0x9a22ebe8440c684a!8m2!3d32.7904643!4d35.533805!16s%2Fg%2F11bw3xnl87?entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D",
+      "distanceMeters": 1
+    },
+    {
+      "id": "51",
+      "referenceId": "laline-138",
+      "referenceName": "מלחה - ירושלים",
+      "referenceAddress": "דרך אגודת בית\"ר 1, קניון מלחה",
+      "sourceUrl": "https://www.laline.co.il/pages/branches",
+      "coordinateSourceUrl": "https://ul.waze.com/ul?place=ChIJZSLyiI7XAhURUd5cWIykvhs&ll=31.75154100%2C35.18719490&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+      "distanceMeters": 5
+    },
+    {
+      "id": "96",
+      "referenceId": "laline-30",
+      "referenceName": "ירושלים סנטר",
+      "referenceAddress": "קניון סנטר 1, ירמיהו 43, ירושלים",
+      "sourceUrl": "https://www.laline.co.il/pages/branches",
+      "coordinateSourceUrl": "https://ul.waze.com/ul?place=ChIJv7iTeDrWAhURSiwP6JrjTBE&ll=31.78986750%2C35.20065000&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+      "distanceMeters": 0
+    },
+    {
+      "id": "52",
+      "referenceId": "footlocker-d2c3da588fbb",
+      "referenceName": "ג'י כפר סבא",
+      "referenceAddress": "וייצמן 207, כפר סבא",
+      "sourceUrl": "https://footlocker.co.il/pages/branches",
+      "coordinateSourceUrl": "https://www.google.com/maps/place/Weizmann+St+207,+Kfar+Saba/@32.1720743,34.9258624,17z/data=!3m1!4b1!4m6!3m5!1s0x151d39bdbc2df1b9:0x5243b662ad15729b!8m2!3d32.1720743!4d34.9284373!16s%2Fg%2F11bw3fvllw?entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D",
+      "distanceMeters": 0
+    },
+    {
+      "id": "100",
+      "referenceId": "laline-4",
+      "referenceName": "ביג כרמי גת",
+      "referenceAddress": "נחל הירקון 147 קרית גת",
+      "sourceUrl": "https://www.laline.co.il/pages/branches",
+      "coordinateSourceUrl": "https://ul.waze.com/ul?place=EiXXoNeX15wg15nXqNen15XXnywgS2lyeWF0IEdhdCwgSXNyYWVsIi4qLAoUChIJZy6gWFaRAhURDMwtITMS1lYSFAoSCTum57JmkQIVEf1oUzPQWGnP&ll=31.62758370%2C34.77164820&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+      "distanceMeters": 72
+    },
+    {
+      "id": "53",
+      "referenceId": "laline-119",
+      "referenceName": "מודיעין",
+      "referenceAddress": "קניון עזריאלי מודיעין - לב העיר 2",
+      "sourceUrl": "https://www.laline.co.il/pages/branches",
+      "coordinateSourceUrl": "https://ul.waze.com/ul?place=ChIJG-Abo8fNAhURK7VbszJbyTo&ll=31.89986020%2C35.00826580&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+      "distanceMeters": 0
+    },
+    {
+      "id": "88",
+      "referenceId": "naaman-141",
+      "referenceName": "מעלה אדומים קניון עופר",
+      "referenceAddress": "דרך קדם 5, קניון עופר, קומה 2 ליד הדואר",
+      "sourceUrl": "https://www.naamanp.co.il/stores",
+      "coordinateSourceUrl": "https://www.naamanp.co.il/stores",
+      "distanceMeters": 4
+    },
+    {
+      "id": "72",
+      "referenceId": "footlocker-463ea1c8f1c4",
+      "referenceName": "קניון עיר ימים נתניה",
+      "referenceAddress": "בני ברמן 2, נתניה",
+      "sourceUrl": "https://footlocker.co.il/pages/branches",
+      "coordinateSourceUrl": "https://www.google.com/maps/place/Beni+Berman+St+2,+Netanya/@32.2791612,34.8444927,17z/data=!3m1!4b1!4m6!3m5!1s0x151d4091ee96b329:0xf27ffe61f174e64!8m2!3d32.2791567!4d34.8470676!16s%2Fg%2F11bw3xc15b?entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D",
+      "distanceMeters": 2
+    },
+    {
+      "id": "101",
+      "referenceId": "vardinon-37",
+      "referenceName": "עכו - קניון עזריאלי",
+      "referenceAddress": "החרושת 2",
+      "sourceUrl": "https://www.vardinon.co.il/stores?brand=%D7%95%D7%A8%D7%93%D7%99%D7%A0%D7%95%D7%9F",
+      "coordinateSourceUrl": "https://www.vardinon.co.il/stores?brand=%D7%95%D7%A8%D7%93%D7%99%D7%A0%D7%95%D7%9F",
+      "distanceMeters": 4
+    },
+    {
+      "id": "59",
+      "referenceId": "naaman-81",
+      "referenceName": "פתח תקווה - עופר הקניון הגדול",
+      "referenceAddress": "ז'בוטינסקי 72, קניון הגדול, קומה 2",
+      "sourceUrl": "https://www.naamanp.co.il/stores",
+      "coordinateSourceUrl": "https://www.naamanp.co.il/stores",
+      "distanceMeters": 16
+    },
+    {
+      "id": "78",
+      "referenceId": "footlocker-163a205ad0f1",
+      "referenceName": "קניון קרית אונו",
+      "referenceAddress": "שלמה המלך 37, קרית אונו",
+      "sourceUrl": "https://footlocker.co.il/pages/branches",
+      "coordinateSourceUrl": "https://www.google.com/maps/place/Shlomo+ha-Melekh+St+37,+Kiryat+Ono/@32.0555833,34.860797,17z/data=!3m1!4b1!4m6!3m5!1s0x151d35880979c81d:0x3b992c447e880ab9!8m2!3d32.0555788!4d34.8633719!16s%2Fg%2F11bw3_wht7?entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D",
+      "distanceMeters": 0
+    },
+    {
+      "id": "73",
+      "referenceId": "shilav-16edd4ae667a",
+      "referenceName": "מרכז שפיר סנטר- ראש העין",
+      "referenceAddress": "יגאל אלון 22 ראש העין, מרכז שפיר סנטר",
+      "sourceUrl": "https://www.shilav.co.il/pages/סניפים",
+      "coordinateSourceUrl": "https://www.waze.com/he/live-map/directions/%D7%99%D7%92%D7%90%D7%9C-%D7%90%D7%9C%D7%95%D7%9F-22-%D7%A8%D7%90%D7%A9-%D7%94%D7%A2%D7%99%D7%9F?to=place.w.22937921.229248137.2051350",
+      "distanceMeters": 65
+    },
+    {
+      "id": "63",
+      "referenceId": "naaman-89",
+      "referenceName": "ראשון לציון - קניון הזהב",
+      "referenceAddress": "סחרוב דוד 21, קניון הזהב, קומה 1 במתחם הקניון הישן",
+      "sourceUrl": "https://www.naamanp.co.il/stores",
+      "coordinateSourceUrl": "https://www.naamanp.co.il/stores",
+      "distanceMeters": 20
+    },
+    {
+      "id": "65",
+      "referenceId": "vardinon-19",
+      "referenceName": "רחובות - קניון עופר",
+      "referenceAddress": "בילו 2",
+      "sourceUrl": "https://www.vardinon.co.il/stores?brand=%D7%95%D7%A8%D7%93%D7%99%D7%A0%D7%95%D7%9F",
+      "coordinateSourceUrl": "https://www.vardinon.co.il/stores?brand=%D7%95%D7%A8%D7%93%D7%99%D7%A0%D7%95%D7%9F",
+      "distanceMeters": 19
+    },
+    {
+      "id": "67",
+      "referenceId": "laline-116",
+      "referenceName": "עזריאלי רמלה",
+      "referenceAddress": "רזיאל דוד, רמלה",
+      "sourceUrl": "https://www.laline.co.il/pages/branches",
+      "coordinateSourceUrl": "https://ul.waze.com/ul?place=ChIJh8h-7v_JAhURK0VXB2CS1lM&ll=31.92575490%2C34.86396290&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+      "distanceMeters": 0
+    },
+    {
+      "id": "91",
+      "referenceId": "footlocker-b841563679e7",
+      "referenceName": "קניון איילון",
+      "referenceAddress": "אבא הילל סילבר 301, רמת גן",
+      "sourceUrl": "https://footlocker.co.il/pages/branches",
+      "coordinateSourceUrl": "https://www.google.com/maps/place/Abba+Hillel+Silver+Rd+301,+Ramat+Gan/@32.1003603,34.8241382,17z/data=!3m1!4b1!4m6!3m5!1s0x151d49865ed01ac3:0x916a5462b5940177!8m2!3d32.1003558!4d34.8267131!16s%2Fg%2F11bw3xhxmj?entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D",
+      "distanceMeters": 0
+    },
+    {
+      "id": "92",
+      "referenceId": "footlocker-60d0a0dfd27f",
+      "referenceName": "שדרות",
+      "referenceAddress": "סמטת הפלדה 8, שדרות",
+      "sourceUrl": "https://footlocker.co.il/pages/branches",
+      "coordinateSourceUrl": "https://www.google.com/maps/place/Simtat+HaPlada+8,+Sderot/@31.5208464,34.5913379,17z/data=!3m1!4b1!4m6!3m5!1s0x1502815257297c21:0x45b1d95c47bcb7a2!8m2!3d31.5208419!4d34.5939128!16s%2Fg%2F12hn57j40?entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D",
+      "distanceMeters": 89
+    },
+    {
+      "id": "69",
+      "referenceId": "laline-95",
+      "referenceName": "איכילוב",
+      "referenceAddress": "ויצמן 14, איכילוב, תל אביב",
+      "sourceUrl": "https://www.laline.co.il/pages/branches",
+      "coordinateSourceUrl": "https://ul.waze.com/ul?place=ChIJ_TqgF5FLHRURKh2hOIA4RB8&ll=32.08158800%2C34.78921270&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+      "distanceMeters": 65
+    }
+  ]
+}

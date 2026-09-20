@@ -1,0 +1,1693 @@
+{
+  "sourceUrl": "https://www.steimatzky.co.il/storelocator",
+  "checkedAt": "2026-09-20",
+  "examined": 136,
+  "reviewed": [
+    {
+      "id": "38",
+      "name": "G כפר סבא",
+      "city": "כפר סבא",
+      "address": "מרכז G כפ\"ס",
+      "lat": 32.17202,
+      "lng": 34.927716,
+      "waze": "waze://?ll=32.17202,34.927716&navigate=yes"
+    },
+    {
+      "id": "430",
+      "name": "אבנת פ\"ת",
+      "city": "פתח תקווה",
+      "address": "זבוטינסקי 72-74",
+      "lat": 32.093189,
+      "lng": 34.865353,
+      "waze": "waze://?ll=32.093189,34.865353&navigate=yes"
+    },
+    {
+      "id": "41",
+      "name": "ביג אשדוד",
+      "city": "אשדוד",
+      "address": "דרך הרכבת 1",
+      "lat": 31.776465,
+      "lng": 34.664087,
+      "waze": "waze://?ll=31.776465,34.664087&navigate=yes"
+    },
+    {
+      "id": "425",
+      "name": "ביג גלילות",
+      "city": "רמת השרון",
+      "address": "מחלף גלילות",
+      "lat": 32.14878884,
+      "lng": 34.80551504,
+      "waze": "waze://?ll=32.14878884,34.80551504&navigate=yes"
+    },
+    {
+      "id": "349",
+      "name": "ביג כרמיאל",
+      "city": "כרמיאל",
+      "address": "מעלה כמון 2",
+      "lat": 32.926667,
+      "lng": 35.322214,
+      "waze": "waze://?ll=32.926667,35.322214&navigate=yes"
+    },
+    {
+      "id": "18",
+      "name": "ביג פאשן טבריה",
+      "city": "טבריה",
+      "address": "יהודה הלוי 1",
+      "lat": 32.790611,
+      "lng": 35.53369,
+      "waze": "waze://?ll=32.790611,35.53369&navigate=yes"
+    },
+    {
+      "id": "336",
+      "name": "גן העיר ת\"א",
+      "city": "תל אביב",
+      "address": "אבן גבירול 71",
+      "lat": 32.082913,
+      "lng": 34.780323,
+      "waze": "waze://?ll=32.082913,34.780323&navigate=yes"
+    },
+    {
+      "id": "55",
+      "name": "גרנד ב\"ש",
+      "city": "באר שבע",
+      "address": "שדרות טוביהו 125",
+      "lat": 31.25027,
+      "lng": 34.771791,
+      "waze": "waze://?ll=31.25027,34.771791&navigate=yes"
+    },
+    {
+      "id": "363",
+      "name": "גרנד קניון חיפה",
+      "city": "חיפה",
+      "address": "דרך שמחה גולן 54",
+      "lat": 32.789713,
+      "lng": 35.007704,
+      "waze": "waze://?ll=32.789713,35.007704&navigate=yes"
+    },
+    {
+      "id": "59",
+      "name": "דיזינגוף סנטר",
+      "city": "תל אביב",
+      "address": "דיזנגוף סנטר שער 4",
+      "lat": 32.075486,
+      "lng": 34.775602,
+      "waze": "waze://?ll=32.075486,34.775602&navigate=yes"
+    },
+    {
+      "id": "346",
+      "name": "השרונים",
+      "city": "הוד השרון",
+      "address": "הרקון 2",
+      "lat": 32.133348,
+      "lng": 34.901507,
+      "waze": "waze://?ll=32.133348,34.901507&navigate=yes"
+    },
+    {
+      "id": "324",
+      "name": "חריש",
+      "city": "חריש",
+      "address": "דרך ארץ, חריש, קניון MORE חריש",
+      "lat": 32.47084,
+      "lng": 35.03911,
+      "waze": "waze://?ll=32.47084,35.03911&navigate=yes"
+    },
+    {
+      "id": "86",
+      "name": "מ.מסחרי גן שמואל",
+      "city": "גן שמואל",
+      "address": "פארק מסחרי גן שמואל",
+      "lat": 32.448385,
+      "lng": 34.955013,
+      "waze": "waze://?ll=32.448385,34.955013&navigate=yes"
+    },
+    {
+      "id": "403",
+      "name": "מ.מסחרי מעלות",
+      "city": "מעלות",
+      "address": "צים סנטר,שלמה שרירא 3",
+      "lat": 33.021839,
+      "lng": 35.28027,
+      "waze": "waze://?ll=33.021839,35.28027&navigate=yes"
+    },
+    {
+      "id": "375",
+      "name": "מודיעין ישפרו",
+      "city": "מודיעין",
+      "address": "ישפרו סנטר, שדרות המלאכות",
+      "lat": 31.889218,
+      "lng": 34.964222,
+      "waze": "waze://?ll=31.889218,34.964222&navigate=yes"
+    },
+    {
+      "id": "63",
+      "name": "מול הים",
+      "city": "אילת",
+      "address": "הפלמ\"ח 1",
+      "lat": 29.550053,
+      "lng": 34.953403,
+      "waze": "waze://?ll=29.550053,34.953403&navigate=yes"
+    },
+    {
+      "id": "95",
+      "name": "מלחה",
+      "city": "ירושלים",
+      "address": "דרך אגודת ספורט בית\"ר 1",
+      "lat": 31.751665,
+      "lng": 35.187163,
+      "waze": "waze://?ll=31.751665,35.187163&navigate=yes"
+    },
+    {
+      "id": "333",
+      "name": "מעלה אדומים",
+      "city": "מעלה אדומים",
+      "address": "דרך קדם 5",
+      "lat": 31.772213,
+      "lng": 35.299143,
+      "waze": "waze://?ll=31.772213,35.299143&navigate=yes"
+    },
+    {
+      "id": "68",
+      "name": "נוף הגליל",
+      "city": "נוף הגליל",
+      "address": "דודג' סנטר , דרך העמק 41",
+      "lat": 32.693573,
+      "lng": 35.303274,
+      "waze": "waze://?ll=32.693573,35.303274&navigate=yes"
+    },
+    {
+      "id": "339",
+      "name": "נתיבות",
+      "city": "נתיבות",
+      "address": "בעלי המלאכה 203",
+      "lat": 31.41824,
+      "lng": 34.595324,
+      "waze": "waze://?ll=31.41824,34.595324&navigate=yes"
+    },
+    {
+      "id": "305",
+      "name": "ס. סנטר אשדוד",
+      "city": "אשדוד",
+      "address": "זבוטינסקי 43",
+      "lat": 31.809218,
+      "lng": 34.657853,
+      "waze": "waze://?ll=31.809218,34.657853&navigate=yes"
+    },
+    {
+      "id": "81",
+      "name": "סינמה  G ראשל\"צ",
+      "city": "ראשון לציון",
+      "address": "ילדי טהרן 3, ראשון לציון מערב",
+      "lat": 31.983943,
+      "lng": 34.770706,
+      "waze": "waze://?ll=31.983943,34.770706&navigate=yes"
+    },
+    {
+      "id": "322",
+      "name": "עזריאלי הוד השרון",
+      "city": "הוד השרון",
+      "address": "ז'בוטינסקי 3",
+      "lat": 32.1434,
+      "lng": 34.891516,
+      "waze": "waze://?ll=32.1434,34.891516&navigate=yes"
+    },
+    {
+      "id": "325",
+      "name": "עזריאלי ת\"א",
+      "city": "תל אביב",
+      "address": "דרך בגין 132",
+      "lat": 32.074699,
+      "lng": 34.790956,
+      "waze": "waze://?ll=32.074699,34.790956&navigate=yes"
+    },
+    {
+      "id": "50",
+      "name": "עיר ימים",
+      "city": "נתניה",
+      "address": "בני ברמן 2 נתניה",
+      "lat": 32.279064,
+      "lng": 34.846781,
+      "waze": "waze://?ll=32.279064,34.846781&navigate=yes"
+    },
+    {
+      "id": "321",
+      "name": "עכו",
+      "city": "עכו",
+      "address": "החרושת 2",
+      "lat": 32.923011,
+      "lng": 35.080941,
+      "waze": "waze://?ll=32.923011,35.080941&navigate=yes"
+    },
+    {
+      "id": "26",
+      "name": "ק. חולון",
+      "city": "חולון",
+      "address": "גולדה מאיר 7",
+      "lat": 32.012506,
+      "lng": 34.778815,
+      "waze": "waze://?ll=32.012506,34.778815&navigate=yes"
+    },
+    {
+      "id": "14",
+      "name": "ק.בת ים",
+      "city": "בת ים",
+      "address": "יוספטל 92",
+      "lat": 32.015099,
+      "lng": 34.755472,
+      "waze": "waze://?ll=32.015099,34.755472&navigate=yes"
+    },
+    {
+      "id": "51",
+      "name": "ק.גבעתיים",
+      "city": "גבעתיים",
+      "address": "יצחק רבין 53",
+      "lat": 32.06643,
+      "lng": 34.811011,
+      "waze": "waze://?ll=32.06643,34.811011&navigate=yes"
+    },
+    {
+      "id": "58",
+      "name": "ק.חיפה",
+      "city": "חיפה",
+      "address": "פלימן 4",
+      "lat": 32.789605,
+      "lng": 34.96484,
+      "waze": "waze://?ll=32.789605,34.96484&navigate=yes"
+    },
+    {
+      "id": "64",
+      "name": "ק.שבעת הכוכבים",
+      "city": "הרצליה",
+      "address": "שדרות הכוכבים 8",
+      "lat": 32.165039,
+      "lng": 34.823953,
+      "waze": "waze://?ll=32.165039,34.823953&navigate=yes"
+    },
+    {
+      "id": "37",
+      "name": "קניון אביב",
+      "city": "תל אביב",
+      "address": "איינשטיין 40,רמת אביב",
+      "lat": 32.112506,
+      "lng": 34.795995,
+      "waze": "waze://?ll=32.112506,34.795995&navigate=yes"
+    },
+    {
+      "id": "29",
+      "name": "קניון איילון",
+      "city": "רמת גן",
+      "address": "אבא הלל 301",
+      "lat": 32.100311,
+      "lng": 34.826214,
+      "waze": "waze://?ll=32.100311,34.826214&navigate=yes"
+    },
+    {
+      "id": "327",
+      "name": "קניון ארנה נהריה",
+      "city": "נהריה",
+      "address": "שד' בן צבי 1",
+      "lat": 33.005131,
+      "lng": 35.099665,
+      "waze": "waze://?ll=33.005131,35.099665&navigate=yes"
+    },
+    {
+      "id": "15",
+      "name": "קניון גירון",
+      "city": "אשקלון",
+      "address": "שד' בן גוריון 21",
+      "lat": 31.663745,
+      "lng": 34.564375,
+      "waze": "waze://?ll=31.663745,34.564375&navigate=yes"
+    },
+    {
+      "id": "54",
+      "name": "קניון הנגב",
+      "city": "באר שבע",
+      "address": "שד' יצחק רגר 2",
+      "lat": 31.243746,
+      "lng": 34.794988,
+      "waze": "waze://?ll=31.243746,34.794988&navigate=yes"
+    },
+    {
+      "id": "49",
+      "name": "קניון הקריון",
+      "city": "קרית ביאליק",
+      "address": "דרך עכו 192",
+      "lat": 32.84333,
+      "lng": 35.090595,
+      "waze": "waze://?ll=32.84333,35.090595&navigate=yes"
+    },
+    {
+      "id": "70",
+      "name": "קניון חדרה",
+      "city": "חדרה",
+      "address": "שדרות רוטשילד 40",
+      "lat": 32.437652,
+      "lng": 34.922155,
+      "waze": "waze://?ll=32.437652,34.922155&navigate=yes"
+    },
+    {
+      "id": "370",
+      "name": "קניון עזריאלי מודיעין",
+      "city": "מודיעין",
+      "address": "כיכר לב העיר 2",
+      "lat": 31.899849,
+      "lng": 35.008058,
+      "waze": "waze://?ll=31.899849,35.008058&navigate=yes"
+    },
+    {
+      "id": "97",
+      "name": "קניון רחובות",
+      "city": "רחובות",
+      "address": "ביל\"ו 2",
+      "lat": 31.893685,
+      "lng": 34.80674,
+      "waze": "waze://?ll=31.893685,34.80674&navigate=yes"
+    },
+    {
+      "id": "40",
+      "name": "קניון רננים",
+      "city": "רעננה",
+      "address": "המלאכה 2",
+      "lat": 32.19765,
+      "lng": 34.877453,
+      "waze": "waze://?ll=32.19765,34.877453&navigate=yes"
+    },
+    {
+      "id": "74",
+      "name": "קרית אונו",
+      "city": "קריית אונו",
+      "address": "קניון קריית אונו,שלמה המלך 37",
+      "lat": 32.055592,
+      "lng": 34.863078,
+      "waze": "waze://?ll=32.055592,34.863078&navigate=yes"
+    },
+    {
+      "id": "71",
+      "name": "קרית שמונה",
+      "city": "קריית שמונה",
+      "address": "טשרניחובסקי 4",
+      "lat": 33.211071,
+      "lng": 35.568596,
+      "waze": "waze://?ll=33.211071,35.568596&navigate=yes"
+    },
+    {
+      "id": "78",
+      "name": "רמת ישי",
+      "city": "רמת ישי",
+      "address": "האקליפטוס 3",
+      "lat": 32.706773,
+      "lng": 35.173411,
+      "waze": "waze://?ll=32.706773,35.173411&navigate=yes"
+    },
+    {
+      "id": "368",
+      "name": "שוהם",
+      "city": "שוהם",
+      "address": "מרכז מסחרי ,עמק אילון 30",
+      "lat": 31.998896,
+      "lng": 34.946303,
+      "waze": "waze://?ll=31.998896,34.946303&navigate=yes"
+    },
+    {
+      "id": "345",
+      "name": "שפיר סנטר",
+      "city": "ראש העין",
+      "address": "יגאל אלון 22",
+      "lat": 32.08616,
+      "lng": 34.97978,
+      "waze": "waze://?ll=32.08616,34.97978&navigate=yes"
+    }
+  ],
+  "evidence": {
+    "14": {
+      "corroboratingId": "foxhome-5385ff128d54",
+      "corroboratingName": "בת ים",
+      "corroboratingAddress": "קניון בת ים. יוספטל 92, בת ים",
+      "sourceUrl": "https://www.foxhome.co.il/pages/branches",
+      "distanceMeters": 43,
+      "note": "Own official Steimatzky Waze target retained; matched same specific city/venue or exact address."
+    },
+    "15": {
+      "corroboratingId": "footlocker-6c3a5c63887b",
+      "corroboratingName": "אשקלון גירון",
+      "corroboratingAddress": "שד' דוד בן גוריון 21, אשקלון",
+      "sourceUrl": "https://footlocker.co.il/pages/branches",
+      "distanceMeters": 12,
+      "note": "Own official Steimatzky Waze target retained; matched same specific city/venue or exact address."
+    },
+    "18": {
+      "corroboratingId": "vardinon-43",
+      "corroboratingName": "טבריה - מתחם ביג",
+      "corroboratingAddress": "יהודה הלוי 1",
+      "sourceUrl": "https://www.vardinon.co.il/stores?brand=%D7%95%D7%A8%D7%93%D7%99%D7%A0%D7%95%D7%9F",
+      "distanceMeters": 5,
+      "note": "Own official Steimatzky Waze target retained; matched same specific city/venue or exact address."
+    },
+    "26": {
+      "corroboratingId": "laline-107",
+      "corroboratingName": "חולון",
+      "corroboratingAddress": "קניון חולון - רח' גולדה מאיר 7",
+      "sourceUrl": "https://www.laline.co.il/pages/branches",
+      "distanceMeters": 26,
+      "note": "Own official Steimatzky Waze target retained; matched same specific city/venue or exact address."
+    },
+    "29": {
+      "corroboratingId": "fox-b841563679e7",
+      "corroboratingName": "קניון איילון",
+      "corroboratingAddress": "קניון איילון, רמת גן",
+      "sourceUrl": "https://fox.co.il/pages/branches",
+      "distanceMeters": 36,
+      "note": "Own official Steimatzky Waze target retained; matched same specific city/venue or exact address."
+    },
+    "37": {
+      "corroboratingId": "footlocker-5b9ddc544929",
+      "corroboratingName": "קניון רמת אביב",
+      "corroboratingAddress": "אינשטיין 40, תל אביב",
+      "sourceUrl": "https://footlocker.co.il/pages/branches",
+      "distanceMeters": 29,
+      "note": "Own official Steimatzky Waze target retained; matched same specific city/venue or exact address."
+    },
+    "38": {
+      "corroboratingId": "foxhome-36dffdbdf260",
+      "corroboratingName": "כפר סבא",
+      "corroboratingAddress": "מתחם G הצפוני, כפר סבא",
+      "sourceUrl": "https://www.foxhome.co.il/pages/branches",
+      "distanceMeters": 50,
+      "note": "Own official Steimatzky Waze target retained; matched same specific city/venue or exact address."
+    },
+    "40": {
+      "corroboratingId": "vardinon-4",
+      "corroboratingName": "רעננה - קניון רננים",
+      "corroboratingAddress": "המלאכה 2, פרנדלי רננים",
+      "sourceUrl": "https://www.vardinon.co.il/stores?brand=%D7%95%D7%A8%D7%93%D7%99%D7%A0%D7%95%D7%9F",
+      "distanceMeters": 62,
+      "note": "Own official Steimatzky Waze target retained; matched same specific city/venue or exact address."
+    },
+    "41": {
+      "corroboratingId": "footlocker-d0bcc22e371c",
+      "corroboratingName": "אשדוד ביג",
+      "corroboratingAddress": "דרך הרכבת 1, אשדוד",
+      "sourceUrl": "https://footlocker.co.il/pages/branches",
+      "distanceMeters": 8,
+      "note": "Own official Steimatzky Waze target retained; matched same specific city/venue or exact address."
+    },
+    "49": {
+      "corroboratingId": "foxhome-74f68c32ecbb",
+      "corroboratingName": "קרית ביאליק",
+      "corroboratingAddress": "קניון הקריון. דרך עכו, קרית ביאליק",
+      "sourceUrl": "https://www.foxhome.co.il/pages/branches",
+      "distanceMeters": 104,
+      "note": "Own official Steimatzky Waze target retained; matched same specific city/venue or exact address."
+    },
+    "50": {
+      "corroboratingId": "footlocker-463ea1c8f1c4",
+      "corroboratingName": "קניון עיר ימים נתניה",
+      "corroboratingAddress": "בני ברמן 2, נתניה",
+      "sourceUrl": "https://footlocker.co.il/pages/branches",
+      "distanceMeters": 29,
+      "note": "Own official Steimatzky Waze target retained; matched same specific city/venue or exact address."
+    },
+    "51": {
+      "corroboratingId": "golf-275",
+      "corroboratingName": "גולף קניון גבעתיים",
+      "corroboratingAddress": "יצחק רבין 53",
+      "sourceUrl": "https://www.golf-il.co.il/stores",
+      "distanceMeters": 39,
+      "note": "Own official Steimatzky Waze target retained; matched same specific city/venue or exact address."
+    },
+    "54": {
+      "corroboratingId": "kravitz-loc_qzyj8jqy",
+      "corroboratingName": "קרביץ באר שבע הנגב",
+      "corroboratingAddress": "שד' רגר",
+      "sourceUrl": "https://www.kravitz.co.il/pages/%D7%A7%D7%A8%D7%91%D7%99%D7%A5-%D7%91%D7%90%D7%A8-%D7%A9%D7%91%D7%A2-%D7%94%D7%A0%D7%92%D7%91",
+      "distanceMeters": 21,
+      "note": "Own official Steimatzky Waze target retained; matched same specific city/venue or exact address."
+    },
+    "55": {
+      "corroboratingId": "golf-8237",
+      "corroboratingName": "גולף גרנד באר שבע",
+      "corroboratingAddress": "טוביהו 125",
+      "sourceUrl": "https://www.golf-il.co.il/stores",
+      "distanceMeters": 3,
+      "note": "Own official Steimatzky Waze target retained; matched same specific city/venue or exact address."
+    },
+    "58": {
+      "corroboratingId": "foxhome-8ed060814619",
+      "corroboratingName": "חיפה",
+      "corroboratingAddress": "קניון עזריאלי חיפה - דרך משה פלימן 4, חיפה",
+      "sourceUrl": "https://www.foxhome.co.il/pages/branches",
+      "distanceMeters": 33,
+      "note": "Own official Steimatzky Waze target retained; matched same specific city/venue or exact address."
+    },
+    "59": {
+      "corroboratingId": "vardinon-517",
+      "corroboratingName": "תל אביב-  דיזינגוף סנטר",
+      "corroboratingAddress": "דיזינגוף 50",
+      "sourceUrl": "https://www.vardinon.co.il/stores?brand=%D7%95%D7%A8%D7%93%D7%99%D7%A0%D7%95%D7%9F",
+      "distanceMeters": 17,
+      "note": "Own official Steimatzky Waze target retained; matched same specific city/venue or exact address."
+    },
+    "63": {
+      "corroboratingId": "vardinon-49",
+      "corroboratingName": "אילת - קניון מול הים",
+      "corroboratingAddress": "הפלמ\"ח 1",
+      "sourceUrl": "https://www.vardinon.co.il/stores?brand=%D7%95%D7%A8%D7%93%D7%99%D7%A0%D7%95%D7%9F",
+      "distanceMeters": 35,
+      "note": "Own official Steimatzky Waze target retained; matched same specific city/venue or exact address."
+    },
+    "64": {
+      "corroboratingId": "laline-66",
+      "corroboratingName": "הרצליה",
+      "corroboratingAddress": "שדרות שבעת הכוכבים 8, הרצליה",
+      "sourceUrl": "https://www.laline.co.il/pages/branches",
+      "distanceMeters": 2,
+      "note": "Own official Steimatzky Waze target retained; matched same specific city/venue or exact address."
+    },
+    "68": {
+      "corroboratingId": "castro-4147",
+      "corroboratingName": "נצרת דודג '- נשים, גברים וילדים",
+      "corroboratingAddress": "דרך העמק, נצרת עלית",
+      "sourceUrl": "https://www.castro.com/stores",
+      "distanceMeters": 63,
+      "note": "Own official Steimatzky Waze target retained; matched same specific city/venue or exact address."
+    },
+    "70": {
+      "corroboratingId": "laline-98",
+      "corroboratingName": "חדרה",
+      "corroboratingAddress": "שדרות רוטשילד 40, חדרה",
+      "sourceUrl": "https://www.laline.co.il/pages/branches",
+      "distanceMeters": 0,
+      "note": "Own official Steimatzky Waze target retained; matched same specific city/venue or exact address."
+    },
+    "71": {
+      "corroboratingId": "footlocker-efc26db24683",
+      "corroboratingName": "קריית שמונה",
+      "corroboratingAddress": "טשרניחובסקי 4, קרית שמונה",
+      "sourceUrl": "https://footlocker.co.il/pages/branches",
+      "distanceMeters": 32,
+      "note": "Own official Steimatzky Waze target retained; matched same specific city/venue or exact address."
+    },
+    "74": {
+      "corroboratingId": "footlocker-163a205ad0f1",
+      "corroboratingName": "קניון קרית אונו",
+      "corroboratingAddress": "שלמה המלך 37, קרית אונו",
+      "sourceUrl": "https://footlocker.co.il/pages/branches",
+      "distanceMeters": 28,
+      "note": "Own official Steimatzky Waze target retained; matched same specific city/venue or exact address."
+    },
+    "78": {
+      "corroboratingId": "golf-264",
+      "corroboratingName": "גולף סטריט-מול",
+      "corroboratingAddress": "אקליפטוס 3",
+      "sourceUrl": "https://www.golf-il.co.il/stores",
+      "distanceMeters": 83,
+      "note": "Own official Steimatzky Waze target retained; matched same specific city/venue or exact address."
+    },
+    "81": {
+      "corroboratingId": "footlocker-17364915fd66",
+      "corroboratingName": "סינמה סיטי ראשון לציון",
+      "corroboratingAddress": "ילדי טהרן 3, ראשל\"צ",
+      "sourceUrl": "https://footlocker.co.il/pages/branches",
+      "distanceMeters": 20,
+      "note": "Own official Steimatzky Waze target retained; matched same specific city/venue or exact address."
+    },
+    "86": {
+      "corroboratingId": "golf-244",
+      "corroboratingName": "גולף מבנה גן שמואל",
+      "corroboratingAddress": "פארק מסחרי",
+      "sourceUrl": "https://www.golf-il.co.il/stores",
+      "distanceMeters": 104,
+      "note": "Own official Steimatzky Waze target retained; matched same specific city/venue or exact address."
+    },
+    "95": {
+      "corroboratingId": "vardinon-5",
+      "corroboratingName": "ירושלים - קניון עזריאלי מלחה",
+      "corroboratingAddress": "אגודת ספורט בית\"ר 1",
+      "sourceUrl": "https://www.vardinon.co.il/stores?brand=%D7%95%D7%A8%D7%93%D7%99%D7%A0%D7%95%D7%9F",
+      "distanceMeters": 4,
+      "note": "Own official Steimatzky Waze target retained; matched same specific city/venue or exact address."
+    },
+    "97": {
+      "corroboratingId": "golf-co-140",
+      "corroboratingName": "קניון רחובות",
+      "corroboratingAddress": "קניון רחובות",
+      "sourceUrl": "https://www.golfco.co.il/stores",
+      "distanceMeters": 19,
+      "note": "Own official Steimatzky Waze target retained; matched same specific city/venue or exact address."
+    },
+    "305": {
+      "corroboratingId": "vardinon-481",
+      "corroboratingName": "אשדוד - מתחם סטאר - חנות משולבת ורדינון + נעמן",
+      "corroboratingAddress": "ז'בוטינסקי 43",
+      "sourceUrl": "https://www.vardinon.co.il/stores?brand=%D7%95%D7%A8%D7%93%D7%99%D7%A0%D7%95%D7%9F",
+      "distanceMeters": 226,
+      "note": "Own official Steimatzky Waze target retained; matched same specific city/venue or exact address."
+    },
+    "321": {
+      "corroboratingId": "vardinon-37",
+      "corroboratingName": "עכו - קניון עזריאלי",
+      "corroboratingAddress": "החרושת 2",
+      "sourceUrl": "https://www.vardinon.co.il/stores?brand=%D7%95%D7%A8%D7%93%D7%99%D7%A0%D7%95%D7%9F",
+      "distanceMeters": 28,
+      "note": "Own official Steimatzky Waze target retained; matched same specific city/venue or exact address."
+    },
+    "322": {
+      "corroboratingId": "foxhome-2c8506a04fa4",
+      "corroboratingName": "עזריאלי מרגלית השרון",
+      "corroboratingAddress": "עזריאלי מרגלית השרון",
+      "sourceUrl": "https://www.foxhome.co.il/pages/branches",
+      "distanceMeters": 38,
+      "note": "Own official Steimatzky Waze target retained; matched same specific city/venue or exact address."
+    },
+    "324": {
+      "corroboratingId": "foxhome-58d22082eb1b",
+      "corroboratingName": "חריש",
+      "corroboratingAddress": "קניון more, דרך ארץ 1 חריש, חריש",
+      "sourceUrl": "https://www.foxhome.co.il/pages/branches",
+      "distanceMeters": 41,
+      "note": "Own official Steimatzky Waze target retained; matched same specific city/venue or exact address."
+    },
+    "325": {
+      "corroboratingId": "polgat-453",
+      "corroboratingName": "פולגת קניון עזריאלי ת\"א",
+      "corroboratingAddress": "מרכז עזריאלי, מנחם בגין 132",
+      "sourceUrl": "https://www.golfgroup.co.il/branches",
+      "distanceMeters": 36,
+      "note": "Own official Steimatzky Waze target retained; matched same specific city/venue or exact address."
+    },
+    "327": {
+      "corroboratingId": "castro-4149",
+      "corroboratingName": "ארנה נהריה - נשים, גברים וילדים",
+      "corroboratingAddress": "שדרות בן צבי 1, נהריה",
+      "sourceUrl": "https://www.castro.com/stores",
+      "distanceMeters": 46,
+      "note": "Own official Steimatzky Waze target retained; matched same specific city/venue or exact address."
+    },
+    "333": {
+      "corroboratingId": "castro-4106",
+      "corroboratingName": "קניון אדומים - נשים, גברים וילדים",
+      "corroboratingAddress": "קניון מעלה אדומים, קדם 5, מעלה אדומים",
+      "sourceUrl": "https://www.castro.com/stores",
+      "distanceMeters": 17,
+      "note": "Own official Steimatzky Waze target retained; matched same specific city/venue or exact address."
+    },
+    "336": {
+      "corroboratingId": "vardinon-47",
+      "corroboratingName": "תל אביב - מלכי ישראל (גן העיר)",
+      "corroboratingAddress": "אבן גבירול 71",
+      "sourceUrl": "https://www.vardinon.co.il/stores?brand=%D7%95%D7%A8%D7%93%D7%99%D7%A0%D7%95%D7%9F",
+      "distanceMeters": 47,
+      "note": "Own official Steimatzky Waze target retained; matched same specific city/venue or exact address."
+    },
+    "339": {
+      "corroboratingId": "castro-4123",
+      "corroboratingName": "נתיבות- נשים,גברים, ילדים ו - HOME",
+      "corroboratingAddress": "בעלי המלאכה 203, נתיבות",
+      "sourceUrl": "https://www.castro.com/stores",
+      "distanceMeters": 10,
+      "note": "Own official Steimatzky Waze target retained; matched same specific city/venue or exact address."
+    },
+    "345": {
+      "corroboratingId": "laline-22",
+      "corroboratingName": "ראש העין",
+      "corroboratingAddress": "יגאל אלון 22 ראש העין",
+      "sourceUrl": "https://www.laline.co.il/pages/branches",
+      "distanceMeters": 4,
+      "note": "Own official Steimatzky Waze target retained; matched same specific city/venue or exact address."
+    },
+    "346": {
+      "corroboratingId": "laline-114",
+      "corroboratingName": "שרונים - הוד השרון",
+      "corroboratingAddress": "הרקון 2, הוד השרון",
+      "sourceUrl": "https://www.laline.co.il/pages/branches",
+      "distanceMeters": 4,
+      "note": "Own official Steimatzky Waze target retained; matched same specific city/venue or exact address."
+    },
+    "349": {
+      "corroboratingId": "american-eagle-cbb93b3dc8a5",
+      "corroboratingName": "ביג כרמיאל",
+      "corroboratingAddress": "Maaleh Camon 2, כרמיאל",
+      "sourceUrl": "https://storelocations.ae.com/il/north-district/karmiel/33020-maaleh-camon-2.html",
+      "distanceMeters": 49,
+      "note": "Own official Steimatzky Waze target retained; matched same specific city/venue or exact address."
+    },
+    "363": {
+      "corroboratingId": "vardinon-8",
+      "corroboratingName": "חיפה - גרנד קניון",
+      "corroboratingAddress": "דרך שמחה גולן 54",
+      "sourceUrl": "https://www.vardinon.co.il/stores?brand=%D7%95%D7%A8%D7%93%D7%99%D7%A0%D7%95%D7%9F",
+      "distanceMeters": 11,
+      "note": "Own official Steimatzky Waze target retained; matched same specific city/venue or exact address."
+    },
+    "368": {
+      "corroboratingId": "laline-58",
+      "corroboratingName": "שוהם",
+      "corroboratingAddress": "שדרות עמק איילון 30, שוהם",
+      "sourceUrl": "https://www.laline.co.il/pages/branches",
+      "distanceMeters": 53,
+      "note": "Own official Steimatzky Waze target retained; matched same specific city/venue or exact address."
+    },
+    "370": {
+      "corroboratingId": "laline-119",
+      "corroboratingName": "מודיעין",
+      "corroboratingAddress": "קניון עזריאלי מודיעין - לב העיר 2",
+      "sourceUrl": "https://www.laline.co.il/pages/branches",
+      "distanceMeters": 20,
+      "note": "Own official Steimatzky Waze target retained; matched same specific city/venue or exact address."
+    },
+    "375": {
+      "corroboratingId": "foxhome-b48d1adc3070",
+      "corroboratingName": "מודיעין",
+      "corroboratingAddress": "ישפרו סנטר. שדרות המלאכות 121, מודיעין",
+      "sourceUrl": "https://www.foxhome.co.il/pages/branches",
+      "distanceMeters": 152,
+      "note": "Own official Steimatzky Waze target retained; matched same specific city/venue or exact address."
+    },
+    "403": {
+      "corroboratingId": "naaman-105",
+      "corroboratingName": "מעלות תרשיחא - קניון צים אורבן",
+      "corroboratingAddress": "שלמה שרירא 3",
+      "sourceUrl": "https://www.naamanp.co.il/stores",
+      "distanceMeters": 10,
+      "note": "Own official Steimatzky Waze target retained; matched same specific city/venue or exact address."
+    },
+    "425": {
+      "corroboratingId": "golf-6602",
+      "corroboratingName": "גולף ביג פאשן גלילות",
+      "corroboratingAddress": "הרב מכר 1 צומת גלילות",
+      "sourceUrl": "https://www.golf-il.co.il/stores",
+      "distanceMeters": 20,
+      "note": "Own official Steimatzky Waze target retained; matched same specific city/venue or exact address."
+    },
+    "430": {
+      "corroboratingId": "naaman-81",
+      "corroboratingName": "פתח תקווה - עופר הקניון הגדול",
+      "corroboratingAddress": "ז'בוטינסקי 72, קניון הגדול, קומה 2",
+      "sourceUrl": "https://www.naamanp.co.il/stores",
+      "distanceMeters": 28,
+      "note": "Own official Steimatzky Waze target retained; matched same specific city/venue or exact address."
+    }
+  },
+  "skipped": [
+    {
+      "id": "73",
+      "name": "אבן גבירול",
+      "city": "תל אביב",
+      "address": "אבן גבירול 147",
+      "lat": 32.09662,
+      "lng": 34.938893,
+      "waze": "waze://?ll=32.09662,34.938893&navigate=yes",
+      "reason": "source-coordinate-conflicts-with-named-venue"
+    },
+    {
+      "id": "309",
+      "name": "אודיטוריום חיפה",
+      "city": "חיפה",
+      "address": "ככר האודיטוריום, מרכז הכרמל, שד' הנשיא 138",
+      "lat": 32.803435,
+      "lng": 34.985587,
+      "waze": "waze://?ll=32.803435,34.985587&navigate=yes",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "316",
+      "name": "אוסישקין",
+      "city": "רמת השרון",
+      "address": "אוסישקין 58",
+      "lat": 32.14289,
+      "lng": 34.843442,
+      "waze": "waze://?ll=32.14289,34.843442&navigate=yes",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "373",
+      "name": "אחוזה החדשה",
+      "city": "רעננה",
+      "address": "אחוזה 124 רעננה",
+      "lat": 32.18097,
+      "lng": 34.873966,
+      "waze": "waze://?ll=32.18097,34.873966&navigate=yes",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "340",
+      "name": "אחוזת ראשונים",
+      "city": "ראשון לציון",
+      "address": "הנחשול 30",
+      "lat": 31.98427527,
+      "lng": 34.78249487,
+      "waze": "waze://?ll=31.98427527,34.78249487&navigate=yes",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "31",
+      "name": "אלנבי ת-א",
+      "city": "תל אביב",
+      "address": "אלנבי 107",
+      "lat": 32.064245,
+      "lng": 34.772962,
+      "waze": "waze://?ll=32.064245,34.772962&navigate=yes",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "351",
+      "name": "אם המושבות",
+      "city": "פתח תקווה",
+      "address": "יעל רום 8, אם המושבות",
+      "lat": 32.098978,
+      "lng": 34.87977,
+      "waze": "waze://?ll=32.098978,34.87977&navigate=yes",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "33",
+      "name": "אסותא",
+      "city": "תל אביב",
+      "address": "הברזל 20, רמת החיל",
+      "lat": 32.108363,
+      "lng": 34.838877,
+      "waze": "waze://?ll=32.108363,34.838877&navigate=yes",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "378",
+      "name": "אקרו הדר יוסף",
+      "city": "תל אביב",
+      "address": "פנחס רוזן 64",
+      "lat": 32.11339,
+      "lng": 34.82564,
+      "waze": "waze://?ll=32.11339,34.82564&navigate=yes",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "24",
+      "name": "באר יעקב",
+      "city": "באר יעקב",
+      "address": "שא נס 17",
+      "lat": 31.93716,
+      "lng": 34.834672,
+      "waze": "waze://?ll=31.93716,34.834672&navigate=yes",
+      "reason": "source-coordinate-conflicts-with-named-venue"
+    },
+    {
+      "id": "428",
+      "name": "ביאליק רמת גן",
+      "city": "רמת גן",
+      "address": "ביאליק 51 רמת גן",
+      "lat": 32.08405,
+      "lng": 34.81378,
+      "waze": "waze://?ll=32.08405,34.81378&navigate=yes",
+      "reason": "street-number-or-address-discrepancy-needs-review"
+    },
+    {
+      "id": "93",
+      "name": "ביג באר שבע",
+      "city": "באר שבע",
+      "address": "רחוב המשק 1",
+      "lat": 31.24254,
+      "lng": 34.810696,
+      "waze": "waze://?ll=31.24254,34.810696&navigate=yes",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "96",
+      "name": "ביג צ'ק פוסט",
+      "city": "חיפה",
+      "address": "דרך בר יהודה 111, חיפה",
+      "lat": 32.795934,
+      "lng": 35.0219,
+      "waze": "waze://?ll=32.795934,35.0219&navigate=yes",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "44",
+      "name": "בילינסון",
+      "city": "פתח תקווה",
+      "address": "בית חולים בילינסון",
+      "lat": 32.088042,
+      "lng": 34.867015,
+      "waze": "waze://?ll=32.088042,34.867015&navigate=yes",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "313",
+      "name": "בית הכרם",
+      "city": "ירושלים",
+      "address": "רמת בית הכרם, רח' אביזוהר 8 י-ם",
+      "lat": 31.775163,
+      "lng": 35.186716,
+      "waze": "waze://?ll=31.775163,35.186716&navigate=yes",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "429",
+      "name": "בית חולים מאיר",
+      "city": "כפר סבא",
+      "address": "טשרניחובסקי 59",
+      "lat": 31.8887,
+      "lng": 34.806292,
+      "waze": "waze://?ll=31.8887,34.806292&navigate=yes",
+      "reason": "source-coordinate-conflicts-with-named-venue"
+    },
+    {
+      "id": "427",
+      "name": "בית חולים רמב\"ם",
+      "city": "חיפה",
+      "address": "העלייה השניה 8 חיפה",
+      "lat": 32.83352,
+      "lng": 34.98564,
+      "waze": "waze://?ll=32.83352,34.98564&navigate=yes",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "360",
+      "name": "בית שאן",
+      "city": "בית שאן",
+      "address": "מרכז צים,רחוב העמל 7 אזור תעשייה צפוני בית שאן",
+      "lat": 32.498434,
+      "lng": 35.499564,
+      "waze": "waze://?ll=32.498434,35.499564&navigate=yes",
+      "reason": "source-coordinate-conflicts-with-named-venue"
+    },
+    {
+      "id": "307",
+      "name": "בית שמש",
+      "city": "בית שמש",
+      "address": "יגאל אלון 3",
+      "lat": 31.756574,
+      "lng": 34.989581,
+      "waze": "waze://?ll=31.756574,34.989581&navigate=yes",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "357",
+      "name": "גדרה",
+      "city": "גדרה",
+      "address": "מרכז מסחרי המושבה,בן גוריון 105",
+      "lat": 31.804161,
+      "lng": 34.783833,
+      "waze": "waze://?ll=31.804161,34.783833&navigate=yes",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "32",
+      "name": "דיזנגוף ת-א",
+      "city": "תל אביב",
+      "address": "דיזינגוף 109",
+      "lat": 32.080275,
+      "lng": 34.77365,
+      "waze": "waze://?ll=32.080275,34.77365&navigate=yes",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "356",
+      "name": "דימונה",
+      "city": "דימונה",
+      "address": "קניון פרץ סנטר",
+      "lat": 31.060039,
+      "lng": 35.019974,
+      "waze": "waze://?ll=31.060039,35.019974&navigate=yes",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "347",
+      "name": "דמרי דימונה",
+      "city": "דימונה",
+      "address": "גולדה מאיר",
+      "lat": 31.07371,
+      "lng": 35.03268,
+      "waze": "waze://?ll=31.07371,35.03268&navigate=yes",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "312",
+      "name": "הדרך M  קניון",
+      "city": "בית חירות",
+      "address": "קניון M הדרך בית חירות",
+      "lat": 32.383315,
+      "lng": 34.867126,
+      "waze": "waze://?ll=32.383315,34.867126&navigate=yes",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "42",
+      "name": "הכרמל חיפה",
+      "city": "חיפה",
+      "address": "שד' הנשיא 127",
+      "lat": 32.803708,
+      "lng": 34.986997,
+      "waze": "waze://?ll=32.803708,34.986997&navigate=yes",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "39",
+      "name": "הרצליה",
+      "city": "הרצליה",
+      "address": "רח' סוקולוב 33",
+      "lat": 32.16739,
+      "lng": 34.842141,
+      "waze": "waze://?ll=32.16739,34.842141&navigate=yes",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "343",
+      "name": "זכרון יעקב",
+      "city": "זכרון יעקב",
+      "address": "המייסדים 51",
+      "lat": 32.573702,
+      "lng": 34.953816,
+      "waze": "waze://?ll=32.573702,34.953816&navigate=yes",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "28",
+      "name": "חורב",
+      "city": "חיפה",
+      "address": "חורב 15",
+      "lat": 32.784401,
+      "lng": 34.986905,
+      "waze": "waze://?ll=32.784401,34.986905&navigate=yes",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "384",
+      "name": "טרמינל 1",
+      "city": "נתב\"ג",
+      "address": "טרמינל 1, נתב\"ג",
+      "lat": 32.00437,
+      "lng": 34.87262,
+      "waze": "waze://?ll=32.00437,34.87262&navigate=yes",
+      "reason": "airport-access-and-overlapping-destinations-need-review"
+    },
+    {
+      "id": "47",
+      "name": "יבנה",
+      "city": "יבנה",
+      "address": "הדוגית 16 ,השכונה הירוקה",
+      "lat": 31.86549,
+      "lng": 34.730766,
+      "waze": "waze://?ll=31.86549,34.730766&navigate=yes",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "320",
+      "name": "יד ושם ירושלים",
+      "city": "ירושלים",
+      "address": "מוזיאון יד ושם",
+      "lat": 31.77428,
+      "lng": 35.17532,
+      "waze": "waze://?ll=31.77428,35.17532&navigate=yes",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "92",
+      "name": "יוקנעם",
+      "city": "יקנעם עילית",
+      "address": "קניון G6 , התמר 2",
+      "lat": 32.659761,
+      "lng": 35.105095,
+      "waze": "waze://?ll=32.659761,35.105095&navigate=yes",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "21",
+      "name": "יפו ירושלים",
+      "city": "ירושלים",
+      "address": "יפו 33",
+      "lat": 31.781492,
+      "lng": 35.220536,
+      "waze": "waze://?ll=31.781492,35.220536&navigate=yes",
+      "reason": "street-number-or-address-discrepancy-needs-review"
+    },
+    {
+      "id": "323",
+      "name": "כוכב הצפון",
+      "city": "תל אביב",
+      "address": "מאיר יערי 19, תל אביב",
+      "lat": 32.09999,
+      "lng": 34.787146,
+      "waze": "waze://?ll=32.09999,34.787146&navigate=yes",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "358",
+      "name": "כורזין גבעתיים",
+      "city": "גבעתיים",
+      "address": "כורזין 5",
+      "lat": 32.060277,
+      "lng": 34.816445,
+      "waze": "waze://?ll=32.060277,34.816445&navigate=yes",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "77",
+      "name": "ככר המדינה",
+      "city": "תל אביב",
+      "address": "ה' באייר 38",
+      "lat": 32.086678,
+      "lng": 34.791229,
+      "waze": "waze://?ll=32.086678,34.791229&navigate=yes",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "23",
+      "name": "כפר סבא ירוקה",
+      "city": "כפר סבא",
+      "address": "אנגל 78 כפר סבא",
+      "lat": 32.198141,
+      "lng": 34.889955,
+      "waze": "waze://?ll=32.198141,34.889955&navigate=yes",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "426",
+      "name": "כרמי גת",
+      "city": "קרית גת",
+      "address": "נחל ירקון 7",
+      "lat": 31.60317323,
+      "lng": 34.77148341,
+      "waze": "waze://?ll=31.60317323,34.77148341&navigate=yes",
+      "reason": "source-coordinate-conflicts-with-named-venue"
+    },
+    {
+      "id": "352",
+      "name": "מגדל העמק",
+      "city": "מגדל העמק",
+      "address": "פרץ סנטר, שאול עמור 77",
+      "lat": 32.677897,
+      "lng": 35.243116,
+      "waze": "waze://?ll=32.677897,35.243116&navigate=yes",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "332",
+      "name": "מגדלי ת\"א",
+      "city": "תל אביב",
+      "address": "נחלת יצחק 18",
+      "lat": 32.074678,
+      "lng": 34.797519,
+      "waze": "waze://?ll=32.074678,34.797519&navigate=yes",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "25",
+      "name": "מדרחוב בן יהודה",
+      "city": "ירושלים",
+      "address": "בן יהודה 7",
+      "lat": 31.781655,
+      "lng": 35.217458,
+      "waze": "waze://?ll=31.781655,35.217458&navigate=yes",
+      "reason": "street-number-or-address-discrepancy-needs-review"
+    },
+    {
+      "id": "48",
+      "name": "מודיעין מוריה",
+      "city": "מודיעין",
+      "address": "לאה אימנו, שכונה מוריה",
+      "lat": 31.88569,
+      "lng": 35.005566,
+      "waze": "waze://?ll=31.88569,35.005566&navigate=yes",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "414",
+      "name": "מושבה גרמנית",
+      "city": "ירושלים",
+      "address": "המושבה הגרמנית, עמק הרפאים 43 י-ם",
+      "lat": 31.762562,
+      "lng": 35.217989,
+      "waze": "waze://?ll=31.762562,35.217989&navigate=yes",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "364",
+      "name": "מיקדו ת. ברוך",
+      "city": "תל אביב",
+      "address": "מרכז G, אהרון בקר 8, תל ברוך",
+      "lat": 32.123164,
+      "lng": 34.816029,
+      "waze": "waze://?ll=32.123164,34.816029&navigate=yes",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "383",
+      "name": "מקבלי פנים נתב\"ג",
+      "city": "נתב\"ג",
+      "address": "מקבלי פנים קומה G",
+      "lat": 32.00438,
+      "lng": 34.87263,
+      "waze": "waze://?ll=32.00438,34.87263&navigate=yes",
+      "reason": "airport-access-and-overlapping-destinations-need-review"
+    },
+    {
+      "id": "366",
+      "name": "מרום סנטר ר\"ג",
+      "city": "רמת גן",
+      "address": "הרב לנדא 7 ,מרום נווה",
+      "lat": 32.071757,
+      "lng": 34.830588,
+      "waze": "waze://?ll=32.071757,34.830588&navigate=yes",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "379",
+      "name": "מרכז הנשיא רחובות",
+      "city": "רחובות",
+      "address": "כרמל 76 רחובות",
+      "lat": 31.90574,
+      "lng": 34.820391,
+      "waze": "waze://?ll=31.90574,34.820391&navigate=yes",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "377",
+      "name": "משמר השרון",
+      "city": "משמר השרון",
+      "address": "צומת העוגן, כניסה לקיבוץ משמר השרון",
+      "lat": 32.357096,
+      "lng": 34.90834,
+      "waze": "waze://?ll=32.357096,34.90834&navigate=yes",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "11",
+      "name": "משרדי סטימצקי (ללא אפשרות לאיסוף עצמי)",
+      "city": "ראש העין",
+      "address": "שדרות הדקלים, לב הארץ",
+      "lat": 32.10918717,
+      "lng": 34.94921555,
+      "waze": "waze://?ll=32.10918717,34.94921555&navigate=yes",
+      "reason": "head-office-no-pickup"
+    },
+    {
+      "id": "337",
+      "name": "נס ציונה קניותר",
+      "city": "נס ציונה",
+      "address": "קניותר,האירוסים 53",
+      "lat": 31.930048,
+      "lng": 34.798354,
+      "waze": "waze://?ll=31.930048,34.798354&navigate=yes",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "381",
+      "name": "נתב\"ג - דיוטי פרי",
+      "city": "נתב\"ג",
+      "address": "טרמינל 3, נתב\"ג",
+      "lat": 32.00437,
+      "lng": 34.87262,
+      "waze": "waze://?ll=32.00437,34.87262&navigate=yes",
+      "reason": "airport-access-and-overlapping-destinations-need-review"
+    },
+    {
+      "id": "27",
+      "name": "סביונים",
+      "city": "יהוד",
+      "address": "דרך משה דיין 3",
+      "lat": 32.030724,
+      "lng": 34.87819,
+      "waze": "waze://?ll=32.030724,34.87819&navigate=yes",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "88",
+      "name": "סוקולוב רמת השרון",
+      "city": "רמת השרון",
+      "address": "סוקולוב 64",
+      "lat": 32.1453,
+      "lng": 34.837898,
+      "waze": "waze://?ll=32.1453,34.837898&navigate=yes",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "423",
+      "name": "סטימצקי אופקים",
+      "city": "אופקים",
+      "address": "מנחם בגין 2 אופקים",
+      "lat": 31.849919642844032,
+      "lng": 34.843834297088286,
+      "waze": "waze://?ll=31.849919642844032,34.843834297088286&navigate=yes",
+      "reason": "source-coordinate-conflicts-with-named-venue"
+    },
+    {
+      "id": "87",
+      "name": "סטימצקי נהריה",
+      "city": "נהריה",
+      "address": "שדרות הגעתון 23",
+      "lat": 33.006714,
+      "lng": 35.094619,
+      "waze": "waze://?ll=33.006714,35.094619&navigate=yes",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "421",
+      "name": "סטימצקי שער בנימין",
+      "city": "שער בינימין",
+      "address": "רחוב יד היוצר, אזור תעשיה שער בינימין",
+      "lat": null,
+      "lng": null,
+      "waze": "waze://?ll=31°51'52.0",
+      "reason": "missing-explicit-coordinate"
+    },
+    {
+      "id": "56",
+      "name": "סיטונות ביג אילת",
+      "city": "אילת",
+      "address": "הסתת 20",
+      "lat": 29.566824,
+      "lng": 34.95919,
+      "waze": "waze://?ll=29.566824,34.95919&navigate=yes",
+      "reason": "wholesale-branch-needs-eligibility-review"
+    },
+    {
+      "id": "65",
+      "name": "סיטונות ביג חיפה",
+      "city": "חיפה",
+      "address": "מתחם ביג קריות,שד' ההסתדרות 248",
+      "lat": 32.809679,
+      "lng": 35.071197,
+      "waze": "waze://?ll=32.809679,35.071197&navigate=yes",
+      "reason": "wholesale-branch-needs-eligibility-review"
+    },
+    {
+      "id": "82",
+      "name": "סינמה סיטי ירושלים",
+      "city": "ירושלים",
+      "address": "שדרות יצחק רבין 10 סינמה סיטי",
+      "lat": 31.78039,
+      "lng": 35.21963,
+      "waze": "waze://?ll=31.78039,35.21963&navigate=yes",
+      "reason": "source-coordinate-conflicts-with-named-venue"
+    },
+    {
+      "id": "43",
+      "name": "סינמול",
+      "city": "חיפה",
+      "address": "שד' ההסתדרות 55, קניון לב המפרץ",
+      "lat": 32.793513,
+      "lng": 35.037351,
+      "waze": "waze://?ll=32.793513,35.037351&navigate=yes",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "12",
+      "name": "עמק סנטר עפולה",
+      "city": "עפולה",
+      "address": "פרנדלי עמק סנטר, שדרות יצחק רבין 18",
+      "lat": 32.619189,
+      "lng": 35.313583,
+      "waze": "waze://?ll=32.619189,35.313583&navigate=yes",
+      "reason": "source-coordinate-conflicts-with-named-venue"
+    },
+    {
+      "id": "338",
+      "name": "פ.סנטר נשר",
+      "city": "נשר",
+      "address": "מתחם מבנהתל חנן, בר יהודה 147",
+      "lat": 32.772807,
+      "lng": 35.047101,
+      "waze": "waze://?ll=32.772807,35.047101&navigate=yes",
+      "reason": "source-coordinate-conflicts-with-named-venue"
+    },
+    {
+      "id": "83",
+      "name": "פארק מליבו רעננה",
+      "city": "רעננה",
+      "address": "פארק מול\" רח' אחוזה פינת שד' ירושלים",
+      "lat": 32.184044,
+      "lng": 34.852825,
+      "waze": "waze://?ll=32.184044,34.852825&navigate=yes",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "348",
+      "name": "צומת בילו",
+      "city": "רחובות",
+      "address": "מרכז ביל\"ו סנטר",
+      "lat": 31.863785,
+      "lng": 34.816705,
+      "waze": "waze://?ll=31.863785,34.816705&navigate=yes",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "53",
+      "name": "צים סנטר ערד",
+      "city": "ערד",
+      "address": "התעשייה 60",
+      "lat": 31.247819,
+      "lng": 35.19899,
+      "waze": "waze://?ll=31.247819,35.19899&navigate=yes",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "62",
+      "name": "צמח",
+      "city": "צמח",
+      "address": "צומת צמח",
+      "lat": 32.704239,
+      "lng": 35.586105,
+      "waze": "waze://?ll=32.704239,35.586105&navigate=yes",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "80",
+      "name": "ק.אורות אור עקיבא",
+      "city": "אור עקיבא",
+      "address": "הנשיא 1",
+      "lat": 32.519302,
+      "lng": 34.947485,
+      "waze": "waze://?ll=32.519302,34.947485&navigate=yes",
+      "reason": "source-coordinate-conflicts-with-named-venue"
+    },
+    {
+      "id": "310",
+      "name": "ק.ראש פינה",
+      "city": "ראש פינה",
+      "address": "סנטר הגליל, האגס",
+      "lat": 32.96963,
+      "lng": 35.551077,
+      "waze": "waze://?ll=32.96963,35.551077&navigate=yes",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "334",
+      "name": "קיבוץ כפר עציון",
+      "city": "כפר עציון",
+      "address": "קיבוץ כפר עציון חצר הכפר",
+      "lat": 31.65421,
+      "lng": 35.11683,
+      "waze": "waze://?ll=31.65421,35.11683&navigate=yes",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "22",
+      "name": "קינג ג'ורג'",
+      "city": "ירושלים",
+      "address": "המלך ג'ורג 9",
+      "lat": 31.782298,
+      "lng": 35.216847,
+      "waze": "waze://?ll=31.782298,35.216847&navigate=yes",
+      "reason": "street-number-or-address-discrepancy-needs-review"
+    },
+    {
+      "id": "66",
+      "name": "קניון גנים",
+      "city": "פתח תקווה",
+      "address": "העצמאות  65",
+      "lat": 32.074043,
+      "lng": 34.863548,
+      "waze": "waze://?ll=32.074043,34.863548&navigate=yes",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "371",
+      "name": "קניון דרורים",
+      "city": "בני דרור",
+      "address": "צומת דרור, ישובי לב השרון",
+      "lat": 32.260267,
+      "lng": 34.893525,
+      "waze": "waze://?ll=32.260267,34.893525&navigate=yes",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "361",
+      "name": "קניון הגבעה",
+      "city": "גבעת שמואל",
+      "address": "יוני נתניהו 25",
+      "lat": 32.076324,
+      "lng": 34.854946,
+      "waze": "waze://?ll=32.076324,34.854946&navigate=yes",
+      "reason": "street-number-or-address-discrepancy-needs-review"
+    },
+    {
+      "id": "20",
+      "name": "קניון הראל",
+      "city": "מבשרת ציון",
+      "address": "הראל 1",
+      "lat": 31.799689,
+      "lng": 35.14865,
+      "waze": "waze://?ll=31.799689,35.14865&navigate=yes",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "46",
+      "name": "קניון ערים",
+      "city": "כפר סבא",
+      "address": "קניון ערים, כצנלסון 20",
+      "lat": 32.178436,
+      "lng": 34.904176,
+      "waze": "waze://?ll=32.178436,34.904176&navigate=yes",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "376",
+      "name": "קניון שער הצפון",
+      "city": "קריית אתא",
+      "address": "דרך חיפה 30",
+      "lat": 32.80568,
+      "lng": 35.07455,
+      "waze": "waze://?ll=32.80568,35.07455&navigate=yes",
+      "reason": "street-number-or-address-discrepancy-needs-review"
+    },
+    {
+      "id": "16",
+      "name": "קצרין",
+      "city": "קצרין",
+      "address": "מרכז איתן",
+      "lat": 32.994742,
+      "lng": 35.68934,
+      "waze": "waze://?ll=32.994742,35.68934&navigate=yes",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "76",
+      "name": "ראש העין G",
+      "city": "ראש העין",
+      "address": "מתחם G,ברקן 1",
+      "lat": 32.094586,
+      "lng": 34.972761,
+      "waze": "waze://?ll=32.094586,34.972761&navigate=yes",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "72",
+      "name": "רוטשילד",
+      "city": "ראשון לציון",
+      "address": "רוטשילד 45",
+      "lat": 31.9635,
+      "lng": 34.801092,
+      "waze": "waze://?ll=31.9635,34.801092&navigate=yes",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "91",
+      "name": "רחובות א",
+      "city": "רחובות",
+      "address": "הרצל 184",
+      "lat": 31.89703,
+      "lng": 34.810713,
+      "waze": "waze://?ll=31.89703,34.810713&navigate=yes",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "79",
+      "name": "רחובות ב",
+      "city": "רחובות",
+      "address": "הרצל 191",
+      "lat": 31.900303,
+      "lng": 34.80899,
+      "waze": "waze://?ll=31.900303,34.80899&navigate=yes",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "386",
+      "name": "רמון יוצאים",
+      "city": "אילת",
+      "address": "רמון יוצאים",
+      "lat": 29.72526821,
+      "lng": 35.00585012,
+      "waze": "waze://?ll=29.72526821,35.00585012&navigate=yes",
+      "reason": "airport-access-and-overlapping-destinations-need-review"
+    },
+    {
+      "id": "34",
+      "name": "רמת אביב טגור",
+      "city": "תל אביב",
+      "address": "טאגור 38, רמת אביב",
+      "lat": 32.117583,
+      "lng": 34.796853,
+      "waze": "waze://?ll=32.117583,34.796853&navigate=yes",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "57",
+      "name": "שדרות",
+      "city": "שדרות",
+      "address": "מתחם מול ים 7",
+      "lat": 31.521085,
+      "lng": 34.594334,
+      "waze": "waze://?ll=31.521085,34.594334&navigate=yes",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "306",
+      "name": "שוסטר",
+      "city": "תל אביב",
+      "address": "אחימאיר 19",
+      "lat": 32.124889,
+      "lng": 34.801488,
+      "waze": "waze://?ll=32.124889,34.801488&navigate=yes",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "382",
+      "name": "שחקים נתב\"ג",
+      "city": "נתב\"ג",
+      "address": "קומה 3 טרמינל 3",
+      "lat": 32.00436,
+      "lng": 34.87261,
+      "waze": "waze://?ll=32.00436,34.87261&navigate=yes",
+      "reason": "airport-access-and-overlapping-destinations-need-review"
+    },
+    {
+      "id": "52",
+      "name": "שנקין",
+      "city": "תל אביב",
+      "address": "שנקין 45",
+      "lat": 32.068718,
+      "lng": 34.775843,
+      "waze": "waze://?ll=32.068718,34.775843&navigate=yes",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "419",
+      "name": "שער ראשון אגד",
+      "city": "ראשון לציון",
+      "address": "גולדה מאיר 1",
+      "lat": 31.967088,
+      "lng": 34.781365,
+      "waze": "waze://?ll=31.967088,34.781365&navigate=yes",
+      "reason": "street-number-or-address-discrepancy-needs-review"
+    },
+    {
+      "id": "354",
+      "name": "שפיים",
+      "city": "שפיים",
+      "address": "חוצות שפיים",
+      "lat": 32.22111,
+      "lng": 34.82831,
+      "waze": "waze://?ll=32.22111,34.82831&navigate=yes",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "303",
+      "name": "תמיר-בית הכרם",
+      "city": "ירושלים",
+      "address": "בית הכרם 29",
+      "lat": 31.780315,
+      "lng": 35.188561,
+      "waze": "waze://?ll=31.780315,35.188561&navigate=yes",
+      "reason": "specific-venue-needs-further-review"
+    }
+  ]
+}

@@ -4590,6 +4590,898 @@
         }
       ],
       "retainedFromPrevious": 0
+    },
+    {
+      "store": "סולתם",
+      "aliases": [
+        "סולתם",
+        "SOLTAM",
+        "Soltam"
+      ],
+      "sourceUrl": "https://soltam.co.il/stores-list/",
+      "checkedAt": "2026-09-20",
+      "examined": 73,
+      "included": 35,
+      "coverage": "partial",
+      "note": "קואורדינטות מפורשות מנתוני מאתר סולתם הרשמי, שנצפה נטען עם load_all=1 בדף הסניפים. רק כתובות ומתחמים שהוצלבו נכללו. נקודות סותרות, משווק ומיקומים ללא הצלבה נשארו לבדיקה; לא הוסקו או תוקנו קואורדינטות.",
+      "skipped": [
+        {
+          "officialId": "107",
+          "name": "אונו סנטר",
+          "city": "אור יהודה",
+          "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+        },
+        {
+          "officialId": "99",
+          "name": "אופקים",
+          "city": "אופקים",
+          "reason": "city-coordinate-conflict; explicit source destination inconsistent with city"
+        },
+        {
+          "officialId": "81",
+          "name": "אור יהודה",
+          "city": "אור יהודה",
+          "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+        },
+        {
+          "officialId": "31",
+          "name": "אור עקיבא",
+          "city": "אור עקיבא",
+          "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+        },
+        {
+          "officialId": "29",
+          "name": "אלעד",
+          "city": "אלעד",
+          "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+        },
+        {
+          "officialId": "75",
+          "name": "אשדוד סיטי",
+          "city": "אשדוד",
+          "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+        },
+        {
+          "officialId": "35",
+          "name": "באר שבע",
+          "city": "באר שבע",
+          "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+        },
+        {
+          "officialId": "38",
+          "name": "בית שמש",
+          "city": "בית שמש",
+          "reason": "city-coordinate-conflict; explicit source destination inconsistent with city"
+        },
+        {
+          "officialId": "39",
+          "name": "בני ברק",
+          "city": "בני ברק",
+          "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+        },
+        {
+          "officialId": "89",
+          "name": "גבעת שמואל",
+          "city": "גבעת שמואל",
+          "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+        },
+        {
+          "officialId": "76",
+          "name": "גן יבנה",
+          "city": "גן יבנה",
+          "reason": "venue-coordinate-conflict; destination inconsistent with exact venue/address"
+        },
+        {
+          "officialId": "84",
+          "name": "דימונה",
+          "city": "דימונה",
+          "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+        },
+        {
+          "officialId": "85",
+          "name": "זכרון יעקב",
+          "city": "זכרון יעקב",
+          "reason": "venue-coordinate-conflict; destination inconsistent with exact venue/address"
+        },
+        {
+          "officialId": "106",
+          "name": "חיפה חוצות המפרץ",
+          "city": "חיפה",
+          "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+        },
+        {
+          "officialId": "82",
+          "name": "טירה",
+          "city": "טירה",
+          "reason": "city-coordinate-conflict; explicit source destination inconsistent with city"
+        },
+        {
+          "officialId": "105",
+          "name": "טמרה",
+          "city": "טמרה",
+          "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+        },
+        {
+          "officialId": "49",
+          "name": "יקנעם",
+          "city": "יקנעם",
+          "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+        },
+        {
+          "officialId": "50",
+          "name": "ירושלים",
+          "city": "ירושלים",
+          "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+        },
+        {
+          "officialId": "103",
+          "name": "כרמיאל",
+          "city": "כרמיאל",
+          "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+        },
+        {
+          "officialId": "83",
+          "name": "מבשרת ציון",
+          "city": "מבשרת ציון",
+          "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+        },
+        {
+          "officialId": "86",
+          "name": "מגדל העמק",
+          "city": "מגדל העמק",
+          "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+        },
+        {
+          "officialId": "71",
+          "name": "משווק מורשה - אום אל פאחם",
+          "city": "אום אל פאחם",
+          "reason": "authorized-reseller-pending-voucher-eligibility-review"
+        },
+        {
+          "officialId": "79",
+          "name": "נהריה",
+          "city": "נהריה",
+          "reason": "venue-coordinate-conflict; destination inconsistent with exact venue/address"
+        },
+        {
+          "officialId": "54",
+          "name": "נוף הגליל",
+          "city": "נוף הגליל",
+          "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+        },
+        {
+          "officialId": "55",
+          "name": "נתיבות",
+          "city": "נתיבות",
+          "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+        },
+        {
+          "officialId": "56",
+          "name": "נתניה",
+          "city": "נתניה",
+          "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+        },
+        {
+          "officialId": "57",
+          "name": "עפולה",
+          "city": "עפולה",
+          "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+        },
+        {
+          "officialId": "58",
+          "name": "פתח תקווה",
+          "city": "פתח תקווה",
+          "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+        },
+        {
+          "officialId": "60",
+          "name": "קריית גת",
+          "city": "קריית גת",
+          "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+        },
+        {
+          "officialId": "90",
+          "name": "ראש פינה",
+          "city": "ראש פינה",
+          "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+        },
+        {
+          "officialId": "64",
+          "name": "ראשון לציון",
+          "city": "ראשון לציון",
+          "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+        },
+        {
+          "officialId": "61",
+          "name": "ראשון לציון",
+          "city": "ראשון לציון",
+          "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+        },
+        {
+          "officialId": "62",
+          "name": "ראשון לציון",
+          "city": "ראשון לציון",
+          "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+        },
+        {
+          "officialId": "97",
+          "name": "רמת אביב",
+          "city": "תל אביב",
+          "reason": "venue-coordinate-conflict; destination inconsistent with exact venue/address"
+        },
+        {
+          "officialId": "66",
+          "name": "רמת גן",
+          "city": "רמת גן",
+          "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+        },
+        {
+          "officialId": "77",
+          "name": "רעננה",
+          "city": "רעננה",
+          "reason": "venue-coordinate-conflict; destination inconsistent with exact venue/address"
+        },
+        {
+          "officialId": "70",
+          "name": "תל אביב",
+          "city": "תל אביב",
+          "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+        },
+        {
+          "officialId": "68",
+          "name": "תל אביב",
+          "city": "תל אביב",
+          "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+        }
+      ],
+      "retainedFromPrevious": 0
+    },
+    {
+      "store": "סטימצקי",
+      "aliases": [
+        "סטימצקי",
+        "STEIMATZKY",
+        "Steimatzky"
+      ],
+      "sourceUrl": "https://www.steimatzky.co.il/storelocator",
+      "checkedAt": "2026-09-20",
+      "examined": 136,
+      "included": 46,
+      "coverage": "partial",
+      "note": "יעדי Waze מפורשים מרשימת סטימצקי הרשמית, לאחר התאמת העיר והמתחם או הכתובת. יעדים חשודים, כפילויות אפשריות בנמלי תעופה, משרדים, סיטונות ומתחמים הדורשים בירור נשארו לבדיקה. אין ברשומה הוכחת זכאות לשובר.",
+      "skipped": [
+        {
+          "officialId": "73",
+          "name": "אבן גבירול",
+          "city": "תל אביב",
+          "address": "אבן גבירול 147",
+          "reason": "source-coordinate-conflicts-with-named-venue"
+        },
+        {
+          "officialId": "309",
+          "name": "אודיטוריום חיפה",
+          "city": "חיפה",
+          "address": "ככר האודיטוריום, מרכז הכרמל, שד' הנשיא 138",
+          "reason": "specific-venue-needs-further-review"
+        },
+        {
+          "officialId": "316",
+          "name": "אוסישקין",
+          "city": "רמת השרון",
+          "address": "אוסישקין 58",
+          "reason": "specific-venue-needs-further-review"
+        },
+        {
+          "officialId": "373",
+          "name": "אחוזה החדשה",
+          "city": "רעננה",
+          "address": "אחוזה 124 רעננה",
+          "reason": "specific-venue-needs-further-review"
+        },
+        {
+          "officialId": "340",
+          "name": "אחוזת ראשונים",
+          "city": "ראשון לציון",
+          "address": "הנחשול 30",
+          "reason": "specific-venue-needs-further-review"
+        },
+        {
+          "officialId": "31",
+          "name": "אלנבי ת-א",
+          "city": "תל אביב",
+          "address": "אלנבי 107",
+          "reason": "specific-venue-needs-further-review"
+        },
+        {
+          "officialId": "351",
+          "name": "אם המושבות",
+          "city": "פתח תקווה",
+          "address": "יעל רום 8, אם המושבות",
+          "reason": "specific-venue-needs-further-review"
+        },
+        {
+          "officialId": "33",
+          "name": "אסותא",
+          "city": "תל אביב",
+          "address": "הברזל 20, רמת החיל",
+          "reason": "specific-venue-needs-further-review"
+        },
+        {
+          "officialId": "378",
+          "name": "אקרו הדר יוסף",
+          "city": "תל אביב",
+          "address": "פנחס רוזן 64",
+          "reason": "specific-venue-needs-further-review"
+        },
+        {
+          "officialId": "24",
+          "name": "באר יעקב",
+          "city": "באר יעקב",
+          "address": "שא נס 17",
+          "reason": "source-coordinate-conflicts-with-named-venue"
+        },
+        {
+          "officialId": "428",
+          "name": "ביאליק רמת גן",
+          "city": "רמת גן",
+          "address": "ביאליק 51 רמת גן",
+          "reason": "street-number-or-address-discrepancy-needs-review"
+        },
+        {
+          "officialId": "93",
+          "name": "ביג באר שבע",
+          "city": "באר שבע",
+          "address": "רחוב המשק 1",
+          "reason": "specific-venue-needs-further-review"
+        },
+        {
+          "officialId": "96",
+          "name": "ביג צ'ק פוסט",
+          "city": "חיפה",
+          "address": "דרך בר יהודה 111, חיפה",
+          "reason": "specific-venue-needs-further-review"
+        },
+        {
+          "officialId": "44",
+          "name": "בילינסון",
+          "city": "פתח תקווה",
+          "address": "בית חולים בילינסון",
+          "reason": "specific-venue-needs-further-review"
+        },
+        {
+          "officialId": "313",
+          "name": "בית הכרם",
+          "city": "ירושלים",
+          "address": "רמת בית הכרם, רח' אביזוהר 8 י-ם",
+          "reason": "specific-venue-needs-further-review"
+        },
+        {
+          "officialId": "429",
+          "name": "בית חולים מאיר",
+          "city": "כפר סבא",
+          "address": "טשרניחובסקי 59",
+          "reason": "source-coordinate-conflicts-with-named-venue"
+        },
+        {
+          "officialId": "427",
+          "name": "בית חולים רמב\"ם",
+          "city": "חיפה",
+          "address": "העלייה השניה 8 חיפה",
+          "reason": "specific-venue-needs-further-review"
+        },
+        {
+          "officialId": "360",
+          "name": "בית שאן",
+          "city": "בית שאן",
+          "address": "מרכז צים,רחוב העמל 7 אזור תעשייה צפוני בית שאן",
+          "reason": "source-coordinate-conflicts-with-named-venue"
+        },
+        {
+          "officialId": "307",
+          "name": "בית שמש",
+          "city": "בית שמש",
+          "address": "יגאל אלון 3",
+          "reason": "specific-venue-needs-further-review"
+        },
+        {
+          "officialId": "357",
+          "name": "גדרה",
+          "city": "גדרה",
+          "address": "מרכז מסחרי המושבה,בן גוריון 105",
+          "reason": "specific-venue-needs-further-review"
+        },
+        {
+          "officialId": "32",
+          "name": "דיזנגוף ת-א",
+          "city": "תל אביב",
+          "address": "דיזינגוף 109",
+          "reason": "specific-venue-needs-further-review"
+        },
+        {
+          "officialId": "356",
+          "name": "דימונה",
+          "city": "דימונה",
+          "address": "קניון פרץ סנטר",
+          "reason": "specific-venue-needs-further-review"
+        },
+        {
+          "officialId": "347",
+          "name": "דמרי דימונה",
+          "city": "דימונה",
+          "address": "גולדה מאיר",
+          "reason": "specific-venue-needs-further-review"
+        },
+        {
+          "officialId": "312",
+          "name": "הדרך M  קניון",
+          "city": "בית חירות",
+          "address": "קניון M הדרך בית חירות",
+          "reason": "specific-venue-needs-further-review"
+        },
+        {
+          "officialId": "42",
+          "name": "הכרמל חיפה",
+          "city": "חיפה",
+          "address": "שד' הנשיא 127",
+          "reason": "specific-venue-needs-further-review"
+        },
+        {
+          "officialId": "39",
+          "name": "הרצליה",
+          "city": "הרצליה",
+          "address": "רח' סוקולוב 33",
+          "reason": "specific-venue-needs-further-review"
+        },
+        {
+          "officialId": "343",
+          "name": "זכרון יעקב",
+          "city": "זכרון יעקב",
+          "address": "המייסדים 51",
+          "reason": "specific-venue-needs-further-review"
+        },
+        {
+          "officialId": "28",
+          "name": "חורב",
+          "city": "חיפה",
+          "address": "חורב 15",
+          "reason": "specific-venue-needs-further-review"
+        },
+        {
+          "officialId": "384",
+          "name": "טרמינל 1",
+          "city": "נתב\"ג",
+          "address": "טרמינל 1, נתב\"ג",
+          "reason": "airport-access-and-overlapping-destinations-need-review"
+        },
+        {
+          "officialId": "47",
+          "name": "יבנה",
+          "city": "יבנה",
+          "address": "הדוגית 16 ,השכונה הירוקה",
+          "reason": "specific-venue-needs-further-review"
+        },
+        {
+          "officialId": "320",
+          "name": "יד ושם ירושלים",
+          "city": "ירושלים",
+          "address": "מוזיאון יד ושם",
+          "reason": "specific-venue-needs-further-review"
+        },
+        {
+          "officialId": "92",
+          "name": "יוקנעם",
+          "city": "יקנעם עילית",
+          "address": "קניון G6 , התמר 2",
+          "reason": "specific-venue-needs-further-review"
+        },
+        {
+          "officialId": "21",
+          "name": "יפו ירושלים",
+          "city": "ירושלים",
+          "address": "יפו 33",
+          "reason": "street-number-or-address-discrepancy-needs-review"
+        },
+        {
+          "officialId": "323",
+          "name": "כוכב הצפון",
+          "city": "תל אביב",
+          "address": "מאיר יערי 19, תל אביב",
+          "reason": "specific-venue-needs-further-review"
+        },
+        {
+          "officialId": "358",
+          "name": "כורזין גבעתיים",
+          "city": "גבעתיים",
+          "address": "כורזין 5",
+          "reason": "specific-venue-needs-further-review"
+        },
+        {
+          "officialId": "77",
+          "name": "ככר המדינה",
+          "city": "תל אביב",
+          "address": "ה' באייר 38",
+          "reason": "specific-venue-needs-further-review"
+        },
+        {
+          "officialId": "23",
+          "name": "כפר סבא ירוקה",
+          "city": "כפר סבא",
+          "address": "אנגל 78 כפר סבא",
+          "reason": "specific-venue-needs-further-review"
+        },
+        {
+          "officialId": "426",
+          "name": "כרמי גת",
+          "city": "קרית גת",
+          "address": "נחל ירקון 7",
+          "reason": "source-coordinate-conflicts-with-named-venue"
+        },
+        {
+          "officialId": "352",
+          "name": "מגדל העמק",
+          "city": "מגדל העמק",
+          "address": "פרץ סנטר, שאול עמור 77",
+          "reason": "specific-venue-needs-further-review"
+        },
+        {
+          "officialId": "332",
+          "name": "מגדלי ת\"א",
+          "city": "תל אביב",
+          "address": "נחלת יצחק 18",
+          "reason": "specific-venue-needs-further-review"
+        },
+        {
+          "officialId": "25",
+          "name": "מדרחוב בן יהודה",
+          "city": "ירושלים",
+          "address": "בן יהודה 7",
+          "reason": "street-number-or-address-discrepancy-needs-review"
+        },
+        {
+          "officialId": "48",
+          "name": "מודיעין מוריה",
+          "city": "מודיעין",
+          "address": "לאה אימנו, שכונה מוריה",
+          "reason": "specific-venue-needs-further-review"
+        },
+        {
+          "officialId": "414",
+          "name": "מושבה גרמנית",
+          "city": "ירושלים",
+          "address": "המושבה הגרמנית, עמק הרפאים 43 י-ם",
+          "reason": "specific-venue-needs-further-review"
+        },
+        {
+          "officialId": "364",
+          "name": "מיקדו ת. ברוך",
+          "city": "תל אביב",
+          "address": "מרכז G, אהרון בקר 8, תל ברוך",
+          "reason": "specific-venue-needs-further-review"
+        },
+        {
+          "officialId": "383",
+          "name": "מקבלי פנים נתב\"ג",
+          "city": "נתב\"ג",
+          "address": "מקבלי פנים קומה G",
+          "reason": "airport-access-and-overlapping-destinations-need-review"
+        },
+        {
+          "officialId": "366",
+          "name": "מרום סנטר ר\"ג",
+          "city": "רמת גן",
+          "address": "הרב לנדא 7 ,מרום נווה",
+          "reason": "specific-venue-needs-further-review"
+        },
+        {
+          "officialId": "379",
+          "name": "מרכז הנשיא רחובות",
+          "city": "רחובות",
+          "address": "כרמל 76 רחובות",
+          "reason": "specific-venue-needs-further-review"
+        },
+        {
+          "officialId": "377",
+          "name": "משמר השרון",
+          "city": "משמר השרון",
+          "address": "צומת העוגן, כניסה לקיבוץ משמר השרון",
+          "reason": "specific-venue-needs-further-review"
+        },
+        {
+          "officialId": "11",
+          "name": "משרדי סטימצקי (ללא אפשרות לאיסוף עצמי)",
+          "city": "ראש העין",
+          "address": "שדרות הדקלים, לב הארץ",
+          "reason": "head-office-no-pickup"
+        },
+        {
+          "officialId": "337",
+          "name": "נס ציונה קניותר",
+          "city": "נס ציונה",
+          "address": "קניותר,האירוסים 53",
+          "reason": "specific-venue-needs-further-review"
+        },
+        {
+          "officialId": "381",
+          "name": "נתב\"ג - דיוטי פרי",
+          "city": "נתב\"ג",
+          "address": "טרמינל 3, נתב\"ג",
+          "reason": "airport-access-and-overlapping-destinations-need-review"
+        },
+        {
+          "officialId": "27",
+          "name": "סביונים",
+          "city": "יהוד",
+          "address": "דרך משה דיין 3",
+          "reason": "specific-venue-needs-further-review"
+        },
+        {
+          "officialId": "88",
+          "name": "סוקולוב רמת השרון",
+          "city": "רמת השרון",
+          "address": "סוקולוב 64",
+          "reason": "specific-venue-needs-further-review"
+        },
+        {
+          "officialId": "423",
+          "name": "סטימצקי אופקים",
+          "city": "אופקים",
+          "address": "מנחם בגין 2 אופקים",
+          "reason": "source-coordinate-conflicts-with-named-venue"
+        },
+        {
+          "officialId": "87",
+          "name": "סטימצקי נהריה",
+          "city": "נהריה",
+          "address": "שדרות הגעתון 23",
+          "reason": "specific-venue-needs-further-review"
+        },
+        {
+          "officialId": "421",
+          "name": "סטימצקי שער בנימין",
+          "city": "שער בינימין",
+          "address": "רחוב יד היוצר, אזור תעשיה שער בינימין",
+          "reason": "missing-explicit-coordinate"
+        },
+        {
+          "officialId": "56",
+          "name": "סיטונות ביג אילת",
+          "city": "אילת",
+          "address": "הסתת 20",
+          "reason": "wholesale-branch-needs-eligibility-review"
+        },
+        {
+          "officialId": "65",
+          "name": "סיטונות ביג חיפה",
+          "city": "חיפה",
+          "address": "מתחם ביג קריות,שד' ההסתדרות 248",
+          "reason": "wholesale-branch-needs-eligibility-review"
+        },
+        {
+          "officialId": "82",
+          "name": "סינמה סיטי ירושלים",
+          "city": "ירושלים",
+          "address": "שדרות יצחק רבין 10 סינמה סיטי",
+          "reason": "source-coordinate-conflicts-with-named-venue"
+        },
+        {
+          "officialId": "43",
+          "name": "סינמול",
+          "city": "חיפה",
+          "address": "שד' ההסתדרות 55, קניון לב המפרץ",
+          "reason": "specific-venue-needs-further-review"
+        },
+        {
+          "officialId": "12",
+          "name": "עמק סנטר עפולה",
+          "city": "עפולה",
+          "address": "פרנדלי עמק סנטר, שדרות יצחק רבין 18",
+          "reason": "source-coordinate-conflicts-with-named-venue"
+        },
+        {
+          "officialId": "338",
+          "name": "פ.סנטר נשר",
+          "city": "נשר",
+          "address": "מתחם מבנהתל חנן, בר יהודה 147",
+          "reason": "source-coordinate-conflicts-with-named-venue"
+        },
+        {
+          "officialId": "83",
+          "name": "פארק מליבו רעננה",
+          "city": "רעננה",
+          "address": "פארק מול\" רח' אחוזה פינת שד' ירושלים",
+          "reason": "specific-venue-needs-further-review"
+        },
+        {
+          "officialId": "348",
+          "name": "צומת בילו",
+          "city": "רחובות",
+          "address": "מרכז ביל\"ו סנטר",
+          "reason": "specific-venue-needs-further-review"
+        },
+        {
+          "officialId": "53",
+          "name": "צים סנטר ערד",
+          "city": "ערד",
+          "address": "התעשייה 60",
+          "reason": "specific-venue-needs-further-review"
+        },
+        {
+          "officialId": "62",
+          "name": "צמח",
+          "city": "צמח",
+          "address": "צומת צמח",
+          "reason": "specific-venue-needs-further-review"
+        },
+        {
+          "officialId": "80",
+          "name": "ק.אורות אור עקיבא",
+          "city": "אור עקיבא",
+          "address": "הנשיא 1",
+          "reason": "source-coordinate-conflicts-with-named-venue"
+        },
+        {
+          "officialId": "310",
+          "name": "ק.ראש פינה",
+          "city": "ראש פינה",
+          "address": "סנטר הגליל, האגס",
+          "reason": "specific-venue-needs-further-review"
+        },
+        {
+          "officialId": "334",
+          "name": "קיבוץ כפר עציון",
+          "city": "כפר עציון",
+          "address": "קיבוץ כפר עציון חצר הכפר",
+          "reason": "specific-venue-needs-further-review"
+        },
+        {
+          "officialId": "22",
+          "name": "קינג ג'ורג'",
+          "city": "ירושלים",
+          "address": "המלך ג'ורג 9",
+          "reason": "street-number-or-address-discrepancy-needs-review"
+        },
+        {
+          "officialId": "66",
+          "name": "קניון גנים",
+          "city": "פתח תקווה",
+          "address": "העצמאות  65",
+          "reason": "specific-venue-needs-further-review"
+        },
+        {
+          "officialId": "371",
+          "name": "קניון דרורים",
+          "city": "בני דרור",
+          "address": "צומת דרור, ישובי לב השרון",
+          "reason": "specific-venue-needs-further-review"
+        },
+        {
+          "officialId": "361",
+          "name": "קניון הגבעה",
+          "city": "גבעת שמואל",
+          "address": "יוני נתניהו 25",
+          "reason": "street-number-or-address-discrepancy-needs-review"
+        },
+        {
+          "officialId": "20",
+          "name": "קניון הראל",
+          "city": "מבשרת ציון",
+          "address": "הראל 1",
+          "reason": "specific-venue-needs-further-review"
+        },
+        {
+          "officialId": "46",
+          "name": "קניון ערים",
+          "city": "כפר סבא",
+          "address": "קניון ערים, כצנלסון 20",
+          "reason": "specific-venue-needs-further-review"
+        },
+        {
+          "officialId": "376",
+          "name": "קניון שער הצפון",
+          "city": "קריית אתא",
+          "address": "דרך חיפה 30",
+          "reason": "street-number-or-address-discrepancy-needs-review"
+        },
+        {
+          "officialId": "16",
+          "name": "קצרין",
+          "city": "קצרין",
+          "address": "מרכז איתן",
+          "reason": "specific-venue-needs-further-review"
+        },
+        {
+          "officialId": "76",
+          "name": "ראש העין G",
+          "city": "ראש העין",
+          "address": "מתחם G,ברקן 1",
+          "reason": "specific-venue-needs-further-review"
+        },
+        {
+          "officialId": "72",
+          "name": "רוטשילד",
+          "city": "ראשון לציון",
+          "address": "רוטשילד 45",
+          "reason": "specific-venue-needs-further-review"
+        },
+        {
+          "officialId": "91",
+          "name": "רחובות א",
+          "city": "רחובות",
+          "address": "הרצל 184",
+          "reason": "specific-venue-needs-further-review"
+        },
+        {
+          "officialId": "79",
+          "name": "רחובות ב",
+          "city": "רחובות",
+          "address": "הרצל 191",
+          "reason": "specific-venue-needs-further-review"
+        },
+        {
+          "officialId": "386",
+          "name": "רמון יוצאים",
+          "city": "אילת",
+          "address": "רמון יוצאים",
+          "reason": "airport-access-and-overlapping-destinations-need-review"
+        },
+        {
+          "officialId": "34",
+          "name": "רמת אביב טגור",
+          "city": "תל אביב",
+          "address": "טאגור 38, רמת אביב",
+          "reason": "specific-venue-needs-further-review"
+        },
+        {
+          "officialId": "57",
+          "name": "שדרות",
+          "city": "שדרות",
+          "address": "מתחם מול ים 7",
+          "reason": "specific-venue-needs-further-review"
+        },
+        {
+          "officialId": "306",
+          "name": "שוסטר",
+          "city": "תל אביב",
+          "address": "אחימאיר 19",
+          "reason": "specific-venue-needs-further-review"
+        },
+        {
+          "officialId": "382",
+          "name": "שחקים נתב\"ג",
+          "city": "נתב\"ג",
+          "address": "קומה 3 טרמינל 3",
+          "reason": "airport-access-and-overlapping-destinations-need-review"
+        },
+        {
+          "officialId": "52",
+          "name": "שנקין",
+          "city": "תל אביב",
+          "address": "שנקין 45",
+          "reason": "specific-venue-needs-further-review"
+        },
+        {
+          "officialId": "419",
+          "name": "שער ראשון אגד",
+          "city": "ראשון לציון",
+          "address": "גולדה מאיר 1",
+          "reason": "street-number-or-address-discrepancy-needs-review"
+        },
+        {
+          "officialId": "354",
+          "name": "שפיים",
+          "city": "שפיים",
+          "address": "חוצות שפיים",
+          "reason": "specific-venue-needs-further-review"
+        },
+        {
+          "officialId": "303",
+          "name": "תמיר-בית הכרם",
+          "city": "ירושלים",
+          "address": "בית הכרם 29",
+          "reason": "specific-venue-needs-further-review"
+        }
+      ],
+      "retainedFromPrevious": 0
     }
   ]
 }

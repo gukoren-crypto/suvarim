@@ -1,177 +1,495 @@
 {
-  "checkedAt": "2026-09-20T16:43:54.989Z",
+  "checkedAt": "2026-09-20T17:33:18.310Z",
   "files": [
-    "candidates/kravitz-round6.json",
-    "candidates/golf-kids-round6.json"
+    "candidates/soltam-round7.json",
+    "candidates/steimatzky-round7.json"
   ],
   "added": [
     {
-      "id": "kravitz-loc_57ep57vn",
-      "store": "קרביץ",
-      "name": "קרביץ דיזינגוף סנטר",
-      "city": "תל אביב"
+      "id": "soltam-100",
+      "store": "סולתם",
+      "name": "כרמי גת",
+      "city": "קריית גת"
     },
     {
-      "id": "kravitz-loc_69e25j75",
-      "store": "קרביץ",
-      "name": "קניון עופר רחובות",
-      "city": "רחובות"
+      "id": "soltam-101",
+      "store": "סולתם",
+      "name": "עזריאלי עכו",
+      "city": "עכו"
     },
     {
-      "id": "kravitz-loc_69ew89g5",
-      "store": "קרביץ",
-      "name": "קרביץ איכילוב קניון ויצמן",
-      "city": "תל אביב"
+      "id": "soltam-102",
+      "store": "סולתם",
+      "name": "איירפורט סיטי",
+      "city": "איירפורט סיטי"
     },
     {
-      "id": "kravitz-loc_69ew89r5",
-      "store": "קרביץ",
-      "name": "קרביץ גרנד קניון חיפה",
-      "city": "חיפה"
-    },
-    {
-      "id": "kravitz-loc_95wek52y",
-      "store": "קרביץ",
-      "name": "קרביץ שבעת הכוכבים",
-      "city": "הרצליה"
-    },
-    {
-      "id": "kravitz-loc_g297v2x7",
-      "store": "קרביץ",
-      "name": "קרביץ קניון מודיעין",
-      "city": "מודיעין"
-    },
-    {
-      "id": "kravitz-loc_jyw8py2e",
-      "store": "קרביץ",
-      "name": "קרביץ סימול אשדוד",
-      "city": "אשדוד"
-    },
-    {
-      "id": "kravitz-loc_jyw8pyxe",
-      "store": "קרביץ",
-      "name": "קרביץ ביג אילת",
-      "city": "אילת"
-    },
-    {
-      "id": "kravitz-loc_k6zyw65q",
-      "store": "קרביץ",
-      "name": "קרביץ חדרה",
-      "city": "חדרה"
-    },
-    {
-      "id": "kravitz-loc_m78w27zv",
-      "store": "קרביץ",
-      "name": "קרביץ קניון חולון",
-      "city": "חולון"
-    },
-    {
-      "id": "kravitz-loc_n9zne955",
-      "store": "קרביץ",
-      "name": "קרביץ ארנה נהריה",
-      "city": "נהריה"
-    },
-    {
-      "id": "kravitz-loc_pq8egq5k",
-      "store": "קרביץ",
-      "name": "קרביץ G כפר סבא",
-      "city": "כפר סבא"
-    },
-    {
-      "id": "kravitz-loc_pq8egqkk",
-      "store": "קרביץ",
-      "name": "קרביץ ביג כרמיאל",
-      "city": "כרמיאל"
-    },
-    {
-      "id": "kravitz-loc_qzyj5zry",
-      "store": "קרביץ",
-      "name": "קרביץ קניון הזהב ראשון לציון",
-      "city": "ראשון לציון"
-    },
-    {
-      "id": "kravitz-loc_qzyj8jqy",
-      "store": "קרביץ",
-      "name": "קרביץ באר שבע הנגב",
-      "city": "באר שבע"
-    },
-    {
-      "id": "kravitz-loc_rkg8mkeq",
-      "store": "קרביץ",
-      "name": "קרביץ קניון השרון",
-      "city": "נתניה"
-    },
-    {
-      "id": "kravitz-loc_rkg8mkpq",
-      "store": "קרביץ",
-      "name": "קרביץ עזריאלי קניון חיפה",
-      "city": "חיפה"
-    },
-    {
-      "id": "kravitz-loc_rkg8mkrq",
-      "store": "קרביץ",
-      "name": "קרביץ קניון גבעתיים",
-      "city": "גבעתיים"
-    },
-    {
-      "id": "kravitz-loc_vmq77g8m",
-      "store": "קרביץ",
-      "name": "קרביץ עזריאלי תל אביב",
-      "city": "תל אביב"
-    },
-    {
-      "id": "kravitz-loc_vmwyvmem",
-      "store": "קרביץ",
-      "name": "קרביץ קניון בת ים",
-      "city": "בת ים"
-    },
-    {
-      "id": "kravitz-loc_vmwyvmkm",
-      "store": "קרביץ",
-      "name": "קרביץ קרית אונו",
-      "city": "קרית אונו"
-    },
-    {
-      "id": "kravitz-loc_wynpqyxx",
-      "store": "קרביץ",
-      "name": "קרביץ רמת אביב",
-      "city": "תל אביב"
-    },
-    {
-      "id": "kravitz-loc_xp2wyp96",
-      "store": "קרביץ",
-      "name": "קרביץ רננים",
-      "city": "רעננה"
-    },
-    {
-      "id": "kravitz-loc_xp2wypr6",
-      "store": "קרביץ",
-      "name": "קרביץ מרכז מסחרי שוהם",
-      "city": "שוהם"
-    },
-    {
-      "id": "kravitz-loc_xp2wypz6",
-      "store": "קרביץ",
-      "name": "קרביץ אשקלון",
+      "id": "soltam-32",
+      "store": "סולתם",
+      "name": "אשקלון",
       "city": "אשקלון"
     },
     {
-      "id": "kravitz-loc_yz8npz2v",
-      "store": "קרביץ",
-      "name": "קרביץ ביג טבריה",
+      "id": "soltam-33",
+      "store": "סולתם",
+      "name": "אשקלון",
+      "city": "אשקלון"
+    },
+    {
+      "id": "soltam-34",
+      "store": "סולתם",
+      "name": "באר יעקב",
+      "city": "באר יעקב"
+    },
+    {
+      "id": "soltam-36",
+      "store": "סולתם",
+      "name": "באר שבע",
+      "city": "באר שבע"
+    },
+    {
+      "id": "soltam-37",
+      "store": "סולתם",
+      "name": "בילו",
+      "city": "בילו"
+    },
+    {
+      "id": "soltam-40",
+      "store": "סולתם",
+      "name": "בת ים",
+      "city": "בת ים"
+    },
+    {
+      "id": "soltam-41",
+      "store": "סולתם",
+      "name": "גבעתיים",
+      "city": "גבעתיים"
+    },
+    {
+      "id": "soltam-42",
+      "store": "סולתם",
+      "name": "הרצליה",
+      "city": "הרצליה"
+    },
+    {
+      "id": "soltam-43",
+      "store": "סולתם",
+      "name": "חדרה",
+      "city": "חדרה"
+    },
+    {
+      "id": "soltam-44",
+      "store": "סולתם",
+      "name": "חולון",
+      "city": "חולון"
+    },
+    {
+      "id": "soltam-45",
+      "store": "סולתם",
+      "name": "חיפה",
+      "city": "חיפה"
+    },
+    {
+      "id": "soltam-46",
+      "store": "סולתם",
+      "name": "חיפה",
+      "city": "חיפה"
+    },
+    {
+      "id": "soltam-47",
+      "store": "סולתם",
+      "name": "טבריה",
       "city": "טבריה"
     },
     {
-      "id": "kravitz-loc_yz8npzev",
-      "store": "קרביץ",
-      "name": "קרביץ עזריאלי ראשונים",
+      "id": "soltam-51",
+      "store": "סולתם",
+      "name": "ירושלים",
+      "city": "ירושלים"
+    },
+    {
+      "id": "soltam-52",
+      "store": "סולתם",
+      "name": "כפר סבא",
+      "city": "כפר סבא"
+    },
+    {
+      "id": "soltam-53",
+      "store": "סולתם",
+      "name": "מודיעין",
+      "city": "מודיעין"
+    },
+    {
+      "id": "soltam-59",
+      "store": "סולתם",
+      "name": "פתח תקווה",
+      "city": "פתח תקווה"
+    },
+    {
+      "id": "soltam-63",
+      "store": "סולתם",
+      "name": "ראשון לציון",
       "city": "ראשון לציון"
     },
     {
-      "id": "kravitz-loc_zzn2wzrw",
-      "store": "קרביץ",
-      "name": "קרביץ קניון עזריאלי הוד השרון",
+      "id": "soltam-65",
+      "store": "סולתם",
+      "name": "רחובות",
+      "city": "רחובות"
+    },
+    {
+      "id": "soltam-67",
+      "store": "סולתם",
+      "name": "רמלה",
+      "city": "רמלה"
+    },
+    {
+      "id": "soltam-69",
+      "store": "סולתם",
+      "name": "תל אביב",
+      "city": "תל אביב"
+    },
+    {
+      "id": "soltam-72",
+      "store": "סולתם",
+      "name": "נתניה",
+      "city": "נתניה"
+    },
+    {
+      "id": "soltam-73",
+      "store": "סולתם",
+      "name": "ראש העין",
+      "city": "ראש העין"
+    },
+    {
+      "id": "soltam-74",
+      "store": "סולתם",
+      "name": "אשדוד סטאר",
+      "city": "אשדוד"
+    },
+    {
+      "id": "soltam-78",
+      "store": "סולתם",
+      "name": "קרית אונו",
+      "city": "קרית אונו"
+    },
+    {
+      "id": "soltam-88",
+      "store": "סולתם",
+      "name": "מעלה אדומים",
+      "city": "מעלה אדומים"
+    },
+    {
+      "id": "soltam-91",
+      "store": "סולתם",
+      "name": "רמת גן",
+      "city": "רמת גן"
+    },
+    {
+      "id": "soltam-92",
+      "store": "סולתם",
+      "name": "שדרות",
+      "city": "שדרות"
+    },
+    {
+      "id": "soltam-93",
+      "store": "סולתם",
+      "name": "אילת",
+      "city": "אילת"
+    },
+    {
+      "id": "soltam-94",
+      "store": "סולתם",
+      "name": "אשדוד ביג פאשן",
+      "city": "אשדוד"
+    },
+    {
+      "id": "soltam-96",
+      "store": "סולתם",
+      "name": "ירושלים",
+      "city": "ירושלים"
+    },
+    {
+      "id": "soltam-98",
+      "store": "סולתם",
+      "name": "בית שאן",
+      "city": "בית שאן"
+    },
+    {
+      "id": "steimatzky-14",
+      "store": "סטימצקי",
+      "name": "ק.בת ים",
+      "city": "בת ים"
+    },
+    {
+      "id": "steimatzky-15",
+      "store": "סטימצקי",
+      "name": "קניון גירון",
+      "city": "אשקלון"
+    },
+    {
+      "id": "steimatzky-18",
+      "store": "סטימצקי",
+      "name": "ביג פאשן טבריה",
+      "city": "טבריה"
+    },
+    {
+      "id": "steimatzky-26",
+      "store": "סטימצקי",
+      "name": "ק. חולון",
+      "city": "חולון"
+    },
+    {
+      "id": "steimatzky-29",
+      "store": "סטימצקי",
+      "name": "קניון איילון",
+      "city": "רמת גן"
+    },
+    {
+      "id": "steimatzky-305",
+      "store": "סטימצקי",
+      "name": "ס. סנטר אשדוד",
+      "city": "אשדוד"
+    },
+    {
+      "id": "steimatzky-321",
+      "store": "סטימצקי",
+      "name": "עכו",
+      "city": "עכו"
+    },
+    {
+      "id": "steimatzky-322",
+      "store": "סטימצקי",
+      "name": "עזריאלי הוד השרון",
       "city": "הוד השרון"
+    },
+    {
+      "id": "steimatzky-324",
+      "store": "סטימצקי",
+      "name": "חריש",
+      "city": "חריש"
+    },
+    {
+      "id": "steimatzky-325",
+      "store": "סטימצקי",
+      "name": "עזריאלי ת\"א",
+      "city": "תל אביב"
+    },
+    {
+      "id": "steimatzky-327",
+      "store": "סטימצקי",
+      "name": "קניון ארנה נהריה",
+      "city": "נהריה"
+    },
+    {
+      "id": "steimatzky-333",
+      "store": "סטימצקי",
+      "name": "מעלה אדומים",
+      "city": "מעלה אדומים"
+    },
+    {
+      "id": "steimatzky-336",
+      "store": "סטימצקי",
+      "name": "גן העיר ת\"א",
+      "city": "תל אביב"
+    },
+    {
+      "id": "steimatzky-339",
+      "store": "סטימצקי",
+      "name": "נתיבות",
+      "city": "נתיבות"
+    },
+    {
+      "id": "steimatzky-345",
+      "store": "סטימצקי",
+      "name": "שפיר סנטר",
+      "city": "ראש העין"
+    },
+    {
+      "id": "steimatzky-346",
+      "store": "סטימצקי",
+      "name": "השרונים",
+      "city": "הוד השרון"
+    },
+    {
+      "id": "steimatzky-349",
+      "store": "סטימצקי",
+      "name": "ביג כרמיאל",
+      "city": "כרמיאל"
+    },
+    {
+      "id": "steimatzky-363",
+      "store": "סטימצקי",
+      "name": "גרנד קניון חיפה",
+      "city": "חיפה"
+    },
+    {
+      "id": "steimatzky-368",
+      "store": "סטימצקי",
+      "name": "שוהם",
+      "city": "שוהם"
+    },
+    {
+      "id": "steimatzky-37",
+      "store": "סטימצקי",
+      "name": "קניון אביב",
+      "city": "תל אביב"
+    },
+    {
+      "id": "steimatzky-370",
+      "store": "סטימצקי",
+      "name": "קניון עזריאלי מודיעין",
+      "city": "מודיעין"
+    },
+    {
+      "id": "steimatzky-375",
+      "store": "סטימצקי",
+      "name": "מודיעין ישפרו",
+      "city": "מודיעין"
+    },
+    {
+      "id": "steimatzky-38",
+      "store": "סטימצקי",
+      "name": "G כפר סבא",
+      "city": "כפר סבא"
+    },
+    {
+      "id": "steimatzky-40",
+      "store": "סטימצקי",
+      "name": "קניון רננים",
+      "city": "רעננה"
+    },
+    {
+      "id": "steimatzky-403",
+      "store": "סטימצקי",
+      "name": "מ.מסחרי מעלות",
+      "city": "מעלות"
+    },
+    {
+      "id": "steimatzky-41",
+      "store": "סטימצקי",
+      "name": "ביג אשדוד",
+      "city": "אשדוד"
+    },
+    {
+      "id": "steimatzky-425",
+      "store": "סטימצקי",
+      "name": "ביג גלילות",
+      "city": "רמת השרון"
+    },
+    {
+      "id": "steimatzky-430",
+      "store": "סטימצקי",
+      "name": "אבנת פ\"ת",
+      "city": "פתח תקווה"
+    },
+    {
+      "id": "steimatzky-49",
+      "store": "סטימצקי",
+      "name": "קניון הקריון",
+      "city": "קרית ביאליק"
+    },
+    {
+      "id": "steimatzky-50",
+      "store": "סטימצקי",
+      "name": "עיר ימים",
+      "city": "נתניה"
+    },
+    {
+      "id": "steimatzky-51",
+      "store": "סטימצקי",
+      "name": "ק.גבעתיים",
+      "city": "גבעתיים"
+    },
+    {
+      "id": "steimatzky-54",
+      "store": "סטימצקי",
+      "name": "קניון הנגב",
+      "city": "באר שבע"
+    },
+    {
+      "id": "steimatzky-55",
+      "store": "סטימצקי",
+      "name": "גרנד ב\"ש",
+      "city": "באר שבע"
+    },
+    {
+      "id": "steimatzky-58",
+      "store": "סטימצקי",
+      "name": "ק.חיפה",
+      "city": "חיפה"
+    },
+    {
+      "id": "steimatzky-59",
+      "store": "סטימצקי",
+      "name": "דיזינגוף סנטר",
+      "city": "תל אביב"
+    },
+    {
+      "id": "steimatzky-63",
+      "store": "סטימצקי",
+      "name": "מול הים",
+      "city": "אילת"
+    },
+    {
+      "id": "steimatzky-64",
+      "store": "סטימצקי",
+      "name": "ק.שבעת הכוכבים",
+      "city": "הרצליה"
+    },
+    {
+      "id": "steimatzky-68",
+      "store": "סטימצקי",
+      "name": "נוף הגליל",
+      "city": "נוף הגליל"
+    },
+    {
+      "id": "steimatzky-70",
+      "store": "סטימצקי",
+      "name": "קניון חדרה",
+      "city": "חדרה"
+    },
+    {
+      "id": "steimatzky-71",
+      "store": "סטימצקי",
+      "name": "קרית שמונה",
+      "city": "קריית שמונה"
+    },
+    {
+      "id": "steimatzky-74",
+      "store": "סטימצקי",
+      "name": "קרית אונו",
+      "city": "קריית אונו"
+    },
+    {
+      "id": "steimatzky-78",
+      "store": "סטימצקי",
+      "name": "רמת ישי",
+      "city": "רמת ישי"
+    },
+    {
+      "id": "steimatzky-81",
+      "store": "סטימצקי",
+      "name": "סינמה  G ראשל\"צ",
+      "city": "ראשון לציון"
+    },
+    {
+      "id": "steimatzky-86",
+      "store": "סטימצקי",
+      "name": "מ.מסחרי גן שמואל",
+      "city": "גן שמואל"
+    },
+    {
+      "id": "steimatzky-95",
+      "store": "סטימצקי",
+      "name": "מלחה",
+      "city": "ירושלים"
+    },
+    {
+      "id": "steimatzky-97",
+      "store": "סטימצקי",
+      "name": "קניון רחובות",
+      "city": "רחובות"
     }
   ],
   "updated": [],
@@ -180,15 +498,15 @@
   "retained": [],
   "chains": [
     {
-      "store": "קרביץ",
-      "examined": 72,
-      "included": 28,
+      "store": "סולתם",
+      "examined": 73,
+      "included": 35,
       "retained": 0
     },
     {
-      "store": "GOLF KIDS",
-      "examined": 119,
-      "included": 13,
+      "store": "סטימצקי",
+      "examined": 136,
+      "included": 46,
       "retained": 0
     }
   ]

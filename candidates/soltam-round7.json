@@ -1,0 +1,704 @@
+{
+  "store": "סולתם",
+  "branches": [
+    {
+      "id": "soltam-100",
+      "name": "כרמי גת",
+      "city": "קריית גת",
+      "address": "נחל ירקון 147",
+      "lat": 31.6269612,
+      "lng": 34.77183910000001,
+      "store": "סולתם",
+      "sourceUrl": "https://soltam.co.il/stores-list/",
+      "coordinateSourceUrl": "https://soltam.co.il/wp-content/uploads/agile-store-locator/locator-data.json",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "soltam-101",
+      "name": "עזריאלי עכו",
+      "city": "עכו",
+      "address": "החרושת 2, עזריאלי עכו",
+      "lat": 32.9230474,
+      "lng": 35.081231,
+      "store": "סולתם",
+      "sourceUrl": "https://soltam.co.il/stores-list/",
+      "coordinateSourceUrl": "https://soltam.co.il/wp-content/uploads/agile-store-locator/locator-data.json",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "soltam-102",
+      "name": "איירפורט סיטי",
+      "city": "איירפורט סיטי",
+      "address": "גולן 1, נתב\"ג",
+      "lat": 31.9879816,
+      "lng": 34.914164,
+      "store": "סולתם",
+      "sourceUrl": "https://soltam.co.il/stores-list/",
+      "coordinateSourceUrl": "https://soltam.co.il/wp-content/uploads/agile-store-locator/locator-data.json",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "soltam-32",
+      "name": "אשקלון",
+      "city": "אשקלון",
+      "address": "שער אשקלון, צומת סילבר",
+      "lat": 31.67485,
+      "lng": 34.60677,
+      "store": "סולתם",
+      "sourceUrl": "https://soltam.co.il/stores-list/",
+      "coordinateSourceUrl": "https://soltam.co.il/wp-content/uploads/agile-store-locator/locator-data.json",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "soltam-33",
+      "name": "אשקלון",
+      "city": "אשקלון",
+      "address": "שד' דוד בן גוריון 21, קניון גירון",
+      "lat": 31.6645554,
+      "lng": 34.5653425,
+      "store": "סולתם",
+      "sourceUrl": "https://soltam.co.il/stores-list/",
+      "coordinateSourceUrl": "https://soltam.co.il/wp-content/uploads/agile-store-locator/locator-data.json",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "soltam-34",
+      "name": "באר יעקב",
+      "city": "באר יעקב",
+      "address": "שא נס 17, קניון באר יעקב",
+      "lat": 31.9418416,
+      "lng": 34.8337509,
+      "store": "סולתם",
+      "sourceUrl": "https://soltam.co.il/stores-list/",
+      "coordinateSourceUrl": "https://soltam.co.il/wp-content/uploads/agile-store-locator/locator-data.json",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "soltam-36",
+      "name": "באר שבע",
+      "city": "באר שבע",
+      "address": "שד' דוד טוביהו 125, גרנד קניון",
+      "lat": 31.2503705,
+      "lng": 34.7717336,
+      "store": "סולתם",
+      "sourceUrl": "https://soltam.co.il/stores-list/",
+      "coordinateSourceUrl": "https://soltam.co.il/wp-content/uploads/agile-store-locator/locator-data.json",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "soltam-37",
+      "name": "בילו",
+      "city": "בילו",
+      "address": "בילו סנטר, צומת בילו",
+      "lat": 31.8648919,
+      "lng": 34.8166232,
+      "store": "סולתם",
+      "sourceUrl": "https://soltam.co.il/stores-list/",
+      "coordinateSourceUrl": "https://soltam.co.il/wp-content/uploads/agile-store-locator/locator-data.json",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "soltam-40",
+      "name": "בת ים",
+      "city": "בת ים",
+      "address": "יוספטל 92 קניון בת ים",
+      "lat": 32.0151373,
+      "lng": 34.7561639,
+      "store": "סולתם",
+      "sourceUrl": "https://soltam.co.il/stores-list/",
+      "coordinateSourceUrl": "https://soltam.co.il/wp-content/uploads/agile-store-locator/locator-data.json",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "soltam-41",
+      "name": "גבעתיים",
+      "city": "גבעתיים",
+      "address": "דרך יצחק רבין 53 קניון גבעתיים",
+      "lat": 32.0667435,
+      "lng": 34.8099068,
+      "store": "סולתם",
+      "sourceUrl": "https://soltam.co.il/stores-list/",
+      "coordinateSourceUrl": "https://soltam.co.il/wp-content/uploads/agile-store-locator/locator-data.json",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "soltam-42",
+      "name": "הרצליה",
+      "city": "הרצליה",
+      "address": "קניון שבעת הכוכבים",
+      "lat": 32.1650603,
+      "lng": 34.8239397,
+      "store": "סולתם",
+      "sourceUrl": "https://soltam.co.il/stores-list/",
+      "coordinateSourceUrl": "https://soltam.co.il/wp-content/uploads/agile-store-locator/locator-data.json",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "soltam-43",
+      "name": "חדרה",
+      "city": "חדרה",
+      "address": "רוטשילד 40, קניון לב חדרה",
+      "lat": 32.4378941,
+      "lng": 34.9219993,
+      "store": "סולתם",
+      "sourceUrl": "https://soltam.co.il/stores-list/",
+      "coordinateSourceUrl": "https://soltam.co.il/wp-content/uploads/agile-store-locator/locator-data.json",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "soltam-44",
+      "name": "חולון",
+      "city": "חולון",
+      "address": "גולדה מאיר 7 קניון עזריאלי",
+      "lat": 32.0125644,
+      "lng": 34.7790833,
+      "store": "סולתם",
+      "sourceUrl": "https://soltam.co.il/stores-list/",
+      "coordinateSourceUrl": "https://soltam.co.il/wp-content/uploads/agile-store-locator/locator-data.json",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "soltam-45",
+      "name": "חיפה",
+      "city": "חיפה",
+      "address": "גרנד קניון",
+      "lat": 32.789711,
+      "lng": 35.0078224,
+      "store": "סולתם",
+      "sourceUrl": "https://soltam.co.il/stores-list/",
+      "coordinateSourceUrl": "https://soltam.co.il/wp-content/uploads/agile-store-locator/locator-data.json",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "soltam-46",
+      "name": "חיפה",
+      "city": "חיפה",
+      "address": "קניון עזריאלי, דרך משה פילמן 4",
+      "lat": 32.7896507,
+      "lng": 34.9651905,
+      "store": "סולתם",
+      "sourceUrl": "https://soltam.co.il/stores-list/",
+      "coordinateSourceUrl": "https://soltam.co.il/wp-content/uploads/agile-store-locator/locator-data.json",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "soltam-47",
+      "name": "טבריה",
+      "city": "טבריה",
+      "address": "יהודה הלוי 1 קניון ביג פאשן",
+      "lat": 32.790462,
+      "lng": 35.5337913,
+      "store": "סולתם",
+      "sourceUrl": "https://soltam.co.il/stores-list/",
+      "coordinateSourceUrl": "https://soltam.co.il/wp-content/uploads/agile-store-locator/locator-data.json",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "soltam-51",
+      "name": "ירושלים",
+      "city": "ירושלים",
+      "address": "קניון מלחה, אגודת ספורט ביתר 1",
+      "lat": 31.7515163,
+      "lng": 35.1872451,
+      "store": "סולתם",
+      "sourceUrl": "https://soltam.co.il/stores-list/",
+      "coordinateSourceUrl": "https://soltam.co.il/wp-content/uploads/agile-store-locator/locator-data.json",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "soltam-52",
+      "name": "כפר סבא",
+      "city": "כפר סבא",
+      "address": "קניון G ,וייצמן 207 קומה 1",
+      "lat": 32.1720743,
+      "lng": 34.9284373,
+      "store": "סולתם",
+      "sourceUrl": "https://soltam.co.il/stores-list/",
+      "coordinateSourceUrl": "https://soltam.co.il/wp-content/uploads/agile-store-locator/locator-data.json",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "soltam-53",
+      "name": "מודיעין",
+      "city": "מודיעין",
+      "address": "לב העיר 2, קניון עזריאלי",
+      "lat": 31.8998602,
+      "lng": 35.0082658,
+      "store": "סולתם",
+      "sourceUrl": "https://soltam.co.il/stores-list/",
+      "coordinateSourceUrl": "https://soltam.co.il/wp-content/uploads/agile-store-locator/locator-data.json",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "soltam-59",
+      "name": "פתח תקווה",
+      "city": "פתח תקווה",
+      "address": "זאב ז'בוטינסקי 72, הקניון הגדול",
+      "lat": 32.0932981,
+      "lng": 34.8653481,
+      "store": "סולתם",
+      "sourceUrl": "https://soltam.co.il/stores-list/",
+      "coordinateSourceUrl": "https://soltam.co.il/wp-content/uploads/agile-store-locator/locator-data.json",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "soltam-63",
+      "name": "ראשון לציון",
+      "city": "ראשון לציון",
+      "address": "קניון הזהב",
+      "lat": 31.9913925,
+      "lng": 34.774242,
+      "store": "סולתם",
+      "sourceUrl": "https://soltam.co.il/stores-list/",
+      "coordinateSourceUrl": "https://soltam.co.il/wp-content/uploads/agile-store-locator/locator-data.json",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "soltam-65",
+      "name": "רחובות",
+      "city": "רחובות",
+      "address": "בילו 2 קניון רחובות",
+      "lat": 31.8933068,
+      "lng": 34.8068242,
+      "store": "סולתם",
+      "sourceUrl": "https://soltam.co.il/stores-list/",
+      "coordinateSourceUrl": "https://soltam.co.il/wp-content/uploads/agile-store-locator/locator-data.json",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "soltam-67",
+      "name": "רמלה",
+      "city": "רמלה",
+      "address": "דוד רזיאל, 1 קניון עזריאלי",
+      "lat": 31.9257549,
+      "lng": 34.8639629,
+      "store": "סולתם",
+      "sourceUrl": "https://soltam.co.il/stores-list/",
+      "coordinateSourceUrl": "https://soltam.co.il/wp-content/uploads/agile-store-locator/locator-data.json",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "soltam-69",
+      "name": "תל אביב",
+      "city": "תל אביב",
+      "address": "וייצמן 14, קניון איכילוב",
+      "lat": 32.0814278,
+      "lng": 34.7898728,
+      "store": "סולתם",
+      "sourceUrl": "https://soltam.co.il/stores-list/",
+      "coordinateSourceUrl": "https://soltam.co.il/wp-content/uploads/agile-store-locator/locator-data.json",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "soltam-72",
+      "name": "נתניה",
+      "city": "נתניה",
+      "address": "קניון עיר ימים בני ברמן 2",
+      "lat": 32.2791426,
+      "lng": 34.8470474,
+      "store": "סולתם",
+      "sourceUrl": "https://soltam.co.il/stores-list/",
+      "coordinateSourceUrl": "https://soltam.co.il/wp-content/uploads/agile-store-locator/locator-data.json",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "soltam-73",
+      "name": "ראש העין",
+      "city": "ראש העין",
+      "address": "יגאל אלון 22, שפיר סנטר",
+      "lat": 32.0858979,
+      "lng": 34.9789339,
+      "store": "סולתם",
+      "sourceUrl": "https://soltam.co.il/stores-list/",
+      "coordinateSourceUrl": "https://soltam.co.il/wp-content/uploads/agile-store-locator/locator-data.json",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "soltam-74",
+      "name": "אשדוד סטאר",
+      "city": "אשדוד",
+      "address": "סטאר סנטר",
+      "lat": 31.810908964100125,
+      "lng": 34.65525093516542,
+      "store": "סולתם",
+      "sourceUrl": "https://soltam.co.il/stores-list/",
+      "coordinateSourceUrl": "https://soltam.co.il/wp-content/uploads/agile-store-locator/locator-data.json",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "soltam-78",
+      "name": "קרית אונו",
+      "city": "קרית אונו",
+      "address": "שלמה המלך 37",
+      "lat": 32.0555788,
+      "lng": 34.8633719,
+      "store": "סולתם",
+      "sourceUrl": "https://soltam.co.il/stores-list/",
+      "coordinateSourceUrl": "https://soltam.co.il/wp-content/uploads/agile-store-locator/locator-data.json",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "soltam-88",
+      "name": "מעלה אדומים",
+      "city": "מעלה אדומים",
+      "address": "דרך קדם 5, קניון עופר אדומים",
+      "lat": 31.7715369,
+      "lng": 35.29855939999999,
+      "store": "סולתם",
+      "sourceUrl": "https://soltam.co.il/stores-list/",
+      "coordinateSourceUrl": "https://soltam.co.il/wp-content/uploads/agile-store-locator/locator-data.json",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "soltam-91",
+      "name": "רמת גן",
+      "city": "רמת גן",
+      "address": "קניון איילון - אבא הלל 301, רמת גן",
+      "lat": 32.1003558,
+      "lng": 34.8267131,
+      "store": "סולתם",
+      "sourceUrl": "https://soltam.co.il/stores-list/",
+      "coordinateSourceUrl": "https://soltam.co.il/wp-content/uploads/agile-store-locator/locator-data.json",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "soltam-92",
+      "name": "שדרות",
+      "city": "שדרות",
+      "address": "סמטת הפלדה 8, מתחם פרץ סנטר",
+      "lat": 31.5202208,
+      "lng": 34.5945109,
+      "store": "סולתם",
+      "sourceUrl": "https://soltam.co.il/stores-list/",
+      "coordinateSourceUrl": "https://soltam.co.il/wp-content/uploads/agile-store-locator/locator-data.json",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "soltam-93",
+      "name": "אילת",
+      "city": "אילת",
+      "address": "קניון שבעת הכוכבים דרך הערבה 7",
+      "lat": 29.5560077,
+      "lng": 34.9549108,
+      "store": "סולתם",
+      "sourceUrl": "https://soltam.co.il/stores-list/",
+      "coordinateSourceUrl": "https://soltam.co.il/wp-content/uploads/agile-store-locator/locator-data.json",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "soltam-94",
+      "name": "אשדוד ביג פאשן",
+      "city": "אשדוד",
+      "address": "דרך הרכבת, 1",
+      "lat": 31.7764198,
+      "lng": 34.6641534,
+      "store": "סולתם",
+      "sourceUrl": "https://soltam.co.il/stores-list/",
+      "coordinateSourceUrl": "https://soltam.co.il/wp-content/uploads/agile-store-locator/locator-data.json",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "soltam-96",
+      "name": "ירושלים",
+      "city": "ירושלים",
+      "address": "סנטר 1, ירמיהו 43",
+      "lat": 31.7898675,
+      "lng": 35.20065,
+      "store": "סולתם",
+      "sourceUrl": "https://soltam.co.il/stores-list/",
+      "coordinateSourceUrl": "https://soltam.co.il/wp-content/uploads/agile-store-locator/locator-data.json",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "soltam-98",
+      "name": "בית שאן",
+      "city": "בית שאן",
+      "address": "העמל 100 קניון בית שאן",
+      "lat": 32.511053,
+      "lng": 35.5007623,
+      "store": "סולתם",
+      "sourceUrl": "https://soltam.co.il/stores-list/",
+      "coordinateSourceUrl": "https://soltam.co.il/wp-content/uploads/agile-store-locator/locator-data.json",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    }
+  ],
+  "source": {
+    "store": "סולתם",
+    "aliases": [
+      "סולתם",
+      "SOLTAM",
+      "Soltam"
+    ],
+    "sourceUrl": "https://soltam.co.il/stores-list/",
+    "checkedAt": "2026-09-20",
+    "examined": 73,
+    "included": 35,
+    "coverage": "partial",
+    "note": "קואורדינטות מפורשות מנתוני מאתר סולתם הרשמי, שנצפה נטען עם load_all=1 בדף הסניפים. רק כתובות ומתחמים שהוצלבו נכללו. נקודות סותרות, משווק ומיקומים ללא הצלבה נשארו לבדיקה; לא הוסקו או תוקנו קואורדינטות.",
+    "skipped": [
+      {
+        "officialId": "107",
+        "name": "אונו סנטר",
+        "city": "אור יהודה",
+        "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "99",
+        "name": "אופקים",
+        "city": "אופקים",
+        "reason": "city-coordinate-conflict; explicit source destination inconsistent with city"
+      },
+      {
+        "officialId": "81",
+        "name": "אור יהודה",
+        "city": "אור יהודה",
+        "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "31",
+        "name": "אור עקיבא",
+        "city": "אור עקיבא",
+        "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "29",
+        "name": "אלעד",
+        "city": "אלעד",
+        "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "75",
+        "name": "אשדוד סיטי",
+        "city": "אשדוד",
+        "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "35",
+        "name": "באר שבע",
+        "city": "באר שבע",
+        "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "38",
+        "name": "בית שמש",
+        "city": "בית שמש",
+        "reason": "city-coordinate-conflict; explicit source destination inconsistent with city"
+      },
+      {
+        "officialId": "39",
+        "name": "בני ברק",
+        "city": "בני ברק",
+        "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "89",
+        "name": "גבעת שמואל",
+        "city": "גבעת שמואל",
+        "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "76",
+        "name": "גן יבנה",
+        "city": "גן יבנה",
+        "reason": "venue-coordinate-conflict; destination inconsistent with exact venue/address"
+      },
+      {
+        "officialId": "84",
+        "name": "דימונה",
+        "city": "דימונה",
+        "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "85",
+        "name": "זכרון יעקב",
+        "city": "זכרון יעקב",
+        "reason": "venue-coordinate-conflict; destination inconsistent with exact venue/address"
+      },
+      {
+        "officialId": "106",
+        "name": "חיפה חוצות המפרץ",
+        "city": "חיפה",
+        "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "82",
+        "name": "טירה",
+        "city": "טירה",
+        "reason": "city-coordinate-conflict; explicit source destination inconsistent with city"
+      },
+      {
+        "officialId": "105",
+        "name": "טמרה",
+        "city": "טמרה",
+        "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "49",
+        "name": "יקנעם",
+        "city": "יקנעם",
+        "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "50",
+        "name": "ירושלים",
+        "city": "ירושלים",
+        "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "103",
+        "name": "כרמיאל",
+        "city": "כרמיאל",
+        "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "83",
+        "name": "מבשרת ציון",
+        "city": "מבשרת ציון",
+        "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "86",
+        "name": "מגדל העמק",
+        "city": "מגדל העמק",
+        "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "71",
+        "name": "משווק מורשה - אום אל פאחם",
+        "city": "אום אל פאחם",
+        "reason": "authorized-reseller-pending-voucher-eligibility-review"
+      },
+      {
+        "officialId": "79",
+        "name": "נהריה",
+        "city": "נהריה",
+        "reason": "venue-coordinate-conflict; destination inconsistent with exact venue/address"
+      },
+      {
+        "officialId": "54",
+        "name": "נוף הגליל",
+        "city": "נוף הגליל",
+        "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "55",
+        "name": "נתיבות",
+        "city": "נתיבות",
+        "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "56",
+        "name": "נתניה",
+        "city": "נתניה",
+        "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "57",
+        "name": "עפולה",
+        "city": "עפולה",
+        "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "58",
+        "name": "פתח תקווה",
+        "city": "פתח תקווה",
+        "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "60",
+        "name": "קריית גת",
+        "city": "קריית גת",
+        "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "90",
+        "name": "ראש פינה",
+        "city": "ראש פינה",
+        "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "64",
+        "name": "ראשון לציון",
+        "city": "ראשון לציון",
+        "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "61",
+        "name": "ראשון לציון",
+        "city": "ראשון לציון",
+        "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "62",
+        "name": "ראשון לציון",
+        "city": "ראשון לציון",
+        "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "97",
+        "name": "רמת אביב",
+        "city": "תל אביב",
+        "reason": "venue-coordinate-conflict; destination inconsistent with exact venue/address"
+      },
+      {
+        "officialId": "66",
+        "name": "רמת גן",
+        "city": "רמת גן",
+        "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "77",
+        "name": "רעננה",
+        "city": "רעננה",
+        "reason": "venue-coordinate-conflict; destination inconsistent with exact venue/address"
+      },
+      {
+        "officialId": "70",
+        "name": "תל אביב",
+        "city": "תל אביב",
+        "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "68",
+        "name": "תל אביב",
+        "city": "תל אביב",
+        "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+      }
+    ]
+  }
+}
