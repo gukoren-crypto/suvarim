@@ -1,0 +1,591 @@
+{
+  "sourceUrl": "https://www.golfco.co.il/stores",
+  "checkedAt": "2026-09-20",
+  "allLocatorRows": 90,
+  "excludedOtherBrandRows": 39,
+  "examined": 51,
+  "reviewed": [
+    {
+      "id": "613",
+      "name": "BIG פאשן גלילות",
+      "city": "רמת השרון",
+      "address": "רח' הרב מכר 1",
+      "lat": 32.1491,
+      "lng": 34.805
+    },
+    {
+      "id": "150",
+      "name": "בילו ק. עקרון",
+      "city": "קרית עקרון",
+      "address": "בילו סנטר",
+      "lat": 31.8651,
+      "lng": 34.81654
+    },
+    {
+      "id": "284",
+      "name": "גרנד קניון חיפה",
+      "city": "חיפה",
+      "address": "דרך שמחה גולן 54",
+      "lat": 32.789927,
+      "lng": 35.007887
+    },
+    {
+      "id": "169",
+      "name": "הק. הגדול פ\"ת",
+      "city": "פתח תקווה",
+      "address": "הקניון הגדול",
+      "lat": 32.09351,
+      "lng": 34.86527
+    },
+    {
+      "id": "199",
+      "name": "השרון נתניה",
+      "city": "נתניה",
+      "address": "קניון השרון",
+      "lat": 32.32636,
+      "lng": 34.86186
+    },
+    {
+      "id": "166",
+      "name": "ח.המפרץ חיפה",
+      "city": "חיפה",
+      "address": "מרכז מסחרי חוצות המפרץ",
+      "lat": 32.80595,
+      "lng": 35.05653
+    },
+    {
+      "id": "177",
+      "name": "מבקיעים אשקלון",
+      "city": "אשקלון",
+      "address": "קניון גלובוס סנטר מבקיעים",
+      "lat": 31.62834,
+      "lng": 34.58335
+    },
+    {
+      "id": "158",
+      "name": "מלחה י-ם",
+      "city": "ירושלים",
+      "address": "קניון מלחה",
+      "lat": 31.75171,
+      "lng": 35.18729
+    },
+    {
+      "id": "147",
+      "name": "מרכז ביג אילת",
+      "city": "אילת",
+      "address": "מרכז ביג",
+      "lat": 29.56662,
+      "lng": 34.9597
+    },
+    {
+      "id": "172",
+      "name": "סטריטמול רמת ישי",
+      "city": "רמת ישי",
+      "address": "האקליפטוס 3",
+      "lat": 32.70766,
+      "lng": 35.1737
+    },
+    {
+      "id": "282",
+      "name": "קניון בת ים",
+      "city": "בת ים",
+      "address": "יוספטל 92",
+      "lat": 32.015596,
+      "lng": 34.755187
+    },
+    {
+      "id": "281",
+      "name": "קניון גבעתיים",
+      "city": "גבעתיים",
+      "address": "דרך יצחק רבין 53",
+      "lat": 32.066342,
+      "lng": 34.809998
+    },
+    {
+      "id": "290",
+      "name": "קניון מודיעין",
+      "city": "מודיעין",
+      "address": "לב העיר 2",
+      "lat": 31.898926,
+      "lng": 35.007943
+    },
+    {
+      "id": "610",
+      "name": "קניון סטאר נהריה",
+      "city": "נהריה",
+      "address": "שדרות בן צבי 1",
+      "lat": 33.005036,
+      "lng": 35.101357
+    },
+    {
+      "id": "140",
+      "name": "קניון רחובות",
+      "city": "רחובות",
+      "address": "קניון רחובות",
+      "lat": 31.89353,
+      "lng": 34.80683
+    },
+    {
+      "id": "157",
+      "name": "קניון רמות י-ם",
+      "city": "ירושלים",
+      "address": "קניון רמות",
+      "lat": 31.817833,
+      "lng": 35.194452
+    },
+    {
+      "id": "305",
+      "name": "ראשונים ראשל\"צ",
+      "city": "ראשון לציון",
+      "address": "קניון ראשונים",
+      "lat": 31.949712,
+      "lng": 34.803287
+    },
+    {
+      "id": "151",
+      "name": "רמת אביב ת\"א",
+      "city": "תל אביב",
+      "address": "קניון רמת אביב",
+      "lat": 32.11209,
+      "lng": 34.79745
+    }
+  ],
+  "evidence": {
+    "140": {
+      "corroboratingId": "footlocker-5e1cfb84f561",
+      "corroboratingName": "רחובות",
+      "corroboratingAddress": "בילו 2, רחובות",
+      "sourceUrl": "https://footlocker.co.il/pages/branches",
+      "distanceMeters": 67,
+      "note": "Matched same named city and venue; official Golf&Co coordinates preserved unchanged."
+    },
+    "147": {
+      "corroboratingId": "foxhome-af9a891e9263",
+      "corroboratingName": "אילת",
+      "corroboratingAddress": "מרכז ביג, אילת",
+      "sourceUrl": "https://www.foxhome.co.il/pages/branches",
+      "distanceMeters": 38,
+      "note": "Matched same named city and venue; official Golf&Co coordinates preserved unchanged."
+    },
+    "150": {
+      "corroboratingId": "footlocker-c98e551efbe1",
+      "corroboratingName": "ביל\"ו סנטר",
+      "corroboratingAddress": "בילו סנטר, קרית עקרון",
+      "sourceUrl": "https://footlocker.co.il/pages/branches",
+      "distanceMeters": 24,
+      "note": "Matched same named city and venue; official Golf&Co coordinates preserved unchanged."
+    },
+    "151": {
+      "corroboratingId": "american-eagle-bca77a213748",
+      "corroboratingName": "קניון רמת אביב",
+      "corroboratingAddress": "Einstein 40, תל אביב",
+      "sourceUrl": "https://storelocations.ae.com/il/tel-aviv-district/tel-aviv/33001-einstein-40.html",
+      "distanceMeters": 78,
+      "note": "Matched same named city and venue; official Golf&Co coordinates preserved unchanged."
+    },
+    "157": {
+      "corroboratingId": "golf-284",
+      "corroboratingName": "גולף קניון רמות",
+      "corroboratingAddress": "שדרות גולדה מאיר 255",
+      "sourceUrl": "https://www.golf-il.co.il/stores",
+      "distanceMeters": 0,
+      "note": "Matched same named city and venue; official Golf&Co coordinates preserved unchanged."
+    },
+    "158": {
+      "corroboratingId": "castro-4070",
+      "corroboratingName": "עזריאלי מלחה - נשים גברים וילדים",
+      "corroboratingAddress": "קניון מלחה, בית''ר 1, ירושלים",
+      "sourceUrl": "https://www.castro.com/stores",
+      "distanceMeters": 10,
+      "note": "Matched same named city and venue; official Golf&Co coordinates preserved unchanged."
+    },
+    "166": {
+      "corroboratingId": "golf-299",
+      "corroboratingName": "גולף חוצות המפרץ",
+      "corroboratingAddress": "החרושת 10",
+      "sourceUrl": "https://www.golf-il.co.il/stores",
+      "distanceMeters": 206,
+      "note": "Matched same named city and venue; official Golf&Co coordinates preserved unchanged."
+    },
+    "169": {
+      "corroboratingId": "american-eagle-f27051bb4dbc",
+      "corroboratingName": "הקניון הגדול",
+      "corroboratingAddress": "Jebotinski 72, פתח תקווה",
+      "sourceUrl": "https://storelocations.ae.com/il/center-district/petah-tikva/33009-jebotinski-72.html",
+      "distanceMeters": 40,
+      "note": "Matched same named city and venue; official Golf&Co coordinates preserved unchanged."
+    },
+    "172": {
+      "corroboratingId": "castro-4138",
+      "corroboratingName": "רמת ישי - נשים, גברים וילדים",
+      "corroboratingAddress": "סטריט מול, רח' אקליפטוס 1, רמת ישי",
+      "sourceUrl": "https://www.castro.com/stores",
+      "distanceMeters": 12,
+      "note": "Matched same named city and venue; official Golf&Co coordinates preserved unchanged."
+    },
+    "177": {
+      "corroboratingId": "castro-4165",
+      "corroboratingName": "מבקיעים גלובוס סנטר- נשים, גברים, ילדים ו - HOME",
+      "corroboratingAddress": "חוף אשקלון, צומת, מבקיעים, אשקלון",
+      "sourceUrl": "https://www.castro.com/stores",
+      "distanceMeters": 111,
+      "note": "Matched same named city and venue; official Golf&Co coordinates preserved unchanged."
+    },
+    "199": {
+      "corroboratingId": "laline-38",
+      "corroboratingName": "נתניה",
+      "corroboratingAddress": "הרצל 60, נתניה",
+      "sourceUrl": "https://www.laline.co.il/pages/branches",
+      "distanceMeters": 7,
+      "note": "Matched same named city and venue; official Golf&Co coordinates preserved unchanged."
+    },
+    "281": {
+      "corroboratingId": "castro-4082",
+      "corroboratingName": "עזריאלי גבעתיים - נשים, גברים וילדים",
+      "corroboratingAddress": "קניון גבעתיים, יצחק רבין 53, גבעתיים",
+      "sourceUrl": "https://www.castro.com/stores",
+      "distanceMeters": 0,
+      "note": "Matched same named city and venue; official Golf&Co coordinates preserved unchanged."
+    },
+    "282": {
+      "corroboratingId": "castro-4114",
+      "corroboratingName": "קניון בת-ים - נשים, גברים וילדים",
+      "corroboratingAddress": "קניון בת ים, יוספטל 92, בת ים",
+      "sourceUrl": "https://www.castro.com/stores",
+      "distanceMeters": 0,
+      "note": "Matched same named city and venue; official Golf&Co coordinates preserved unchanged."
+    },
+    "284": {
+      "corroboratingId": "castro-4092",
+      "corroboratingName": "גרנד קניון חיפה - נשים וגברים",
+      "corroboratingAddress": "גראנד קניון, גולן שמחה 54, חיפה",
+      "sourceUrl": "https://www.castro.com/stores",
+      "distanceMeters": 0,
+      "note": "Matched same named city and venue; official Golf&Co coordinates preserved unchanged."
+    },
+    "290": {
+      "corroboratingId": "castro-4105",
+      "corroboratingName": "עזריאלי מודיעין - נשים",
+      "corroboratingAddress": "קניון מודיעין, לב העיר 2, מודיעין",
+      "sourceUrl": "https://www.castro.com/stores",
+      "distanceMeters": 0,
+      "note": "Matched same named city and venue; official Golf&Co coordinates preserved unchanged."
+    },
+    "305": {
+      "corroboratingId": "laline-85",
+      "corroboratingName": "ראשונים",
+      "corroboratingAddress": "שד' נים 2 ראשון לציון",
+      "sourceUrl": "https://www.laline.co.il/pages/branches",
+      "distanceMeters": 61,
+      "note": "Matched same named city and venue; official Golf&Co coordinates preserved unchanged."
+    },
+    "610": {
+      "corroboratingId": "golf-5882",
+      "corroboratingName": "גולף ארנה נהריה",
+      "corroboratingAddress": "שדרות הנשיא בן צבי 1",
+      "sourceUrl": "https://www.golf-il.co.il/stores",
+      "distanceMeters": 36,
+      "note": "Matched same named city and venue; official Golf&Co coordinates preserved unchanged."
+    },
+    "613": {
+      "corroboratingId": "fox-cd50fa184dc5",
+      "corroboratingName": "ביג פאשן גלילות",
+      "corroboratingAddress": "ביג פאשן גלילות, רמת השרון",
+      "sourceUrl": "https://fox.co.il/pages/branches",
+      "distanceMeters": 19,
+      "note": "Matched same named city and venue; official Golf&Co coordinates preserved unchanged."
+    }
+  },
+  "skipped": [
+    {
+      "id": "200",
+      "name": "אאוטלט מבנה ב\"ש",
+      "city": "באר שבע",
+      "address": "מרכז וואן מבנה ב\"ש",
+      "lat": 31.24957,
+      "lng": 34.81177,
+      "reason": "outlet-needs-eligibility-review"
+    },
+    {
+      "id": "307",
+      "name": "אאוטלט מבנה בארות יצחק",
+      "city": "בארות יצחק",
+      "address": "מרכז מסחרי וואן",
+      "lat": 32.0403,
+      "lng": 34.91068,
+      "reason": "outlet-needs-eligibility-review"
+    },
+    {
+      "id": "197",
+      "name": "ארלוזרוב עפולה",
+      "city": "עפולה",
+      "address": "רח ארלוזורוב 8",
+      "lat": 32.60893,
+      "lng": 35.28902,
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "name": "ב.ס.ר אאוטלט פתח תקווה",
+      "city": "פתח תקווה",
+      "address": "ז'בוטינסקי 61, פתח תקווה",
+      "lat": 0,
+      "lng": 0,
+      "reason": "missing-explicit-coordinate"
+    },
+    {
+      "id": "148",
+      "name": "ביג ב\"ש",
+      "city": "באר שבע",
+      "address": "מרכז ביג דרך חברון, באר שבע",
+      "lat": 31.2377,
+      "lng": 34.79347,
+      "reason": "coordinate-conflicts-with-big-beer-sheva-venue"
+    },
+    {
+      "id": "188",
+      "name": "ביג בית שמש",
+      "city": "בית שמש",
+      "address": "ביג בית שמש",
+      "lat": 31.75688,
+      "lng": 34.99024,
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "164",
+      "name": "ביג פאשן אשדוד",
+      "city": "אשדוד",
+      "address": "ביג אשדוד",
+      "lat": 31.80909,
+      "lng": 34.65549,
+      "reason": "big-ashdod-coordinate-points-near-star-center"
+    },
+    {
+      "name": "ביג פולג- מתחם נצב\"א",
+      "city": "נתניה",
+      "address": "גבורי ישראל 5",
+      "lat": 0,
+      "lng": 0,
+      "reason": "missing-explicit-coordinate"
+    },
+    {
+      "id": "190",
+      "name": "ביג ק. שמונה",
+      "city": "קרית שמונה",
+      "address": "מרכז ביג קרית שמונה",
+      "lat": 33.19263,
+      "lng": 35.57122,
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "137",
+      "name": "גרנד ב\"ש",
+      "city": "באר שבע",
+      "address": "גרנד קניון באר שבע, טוביהו 125",
+      "lat": 31.25269,
+      "lng": 34.76869,
+      "reason": "grand-beer-sheva-coordinate-needs-further-review"
+    },
+    {
+      "id": "690",
+      "name": "גרנד ב\"ש",
+      "city": "באר שבע",
+      "address": "גרנד קניון באר שבע, טוביהו 125",
+      "lat": 31.25269,
+      "lng": 34.76869,
+      "reason": "duplicate-grand-beer-sheva-coordinate-needs-review"
+    },
+    {
+      "id": "515",
+      "name": "הדר י-ם",
+      "city": "ירושלים",
+      "address": "קניון הדר י-ם",
+      "lat": 31.81765,
+      "lng": 35.19435,
+      "reason": "hadar-jerusalem-coordinate-points-to-ramot"
+    },
+    {
+      "id": "152",
+      "name": "הלח\"י בני ברק",
+      "city": "בני ברק",
+      "address": "לח\"י 37 בני ברק",
+      "lat": 32.10353,
+      "lng": 34.83549,
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "173",
+      "name": "חונים קונים ראשלצ",
+      "city": "ראשון לציון",
+      "address": "חונים קונים, ראשון לציון לישנסקי 9",
+      "lat": 31.99053,
+      "lng": 34.76484,
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "144",
+      "name": "כלבו שלום ת\"א",
+      "city": "תל אביב",
+      "address": "מגדל שלום, אחד העם 9",
+      "lat": 32.0639,
+      "lng": 34.76976,
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "175",
+      "name": "לב הפסגה פ. זאב",
+      "city": "ירושלים",
+      "address": "קניון פסגת זאב",
+      "lat": 31.82443,
+      "lng": 35.2372,
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "name": "מבנה גן שמואל",
+      "city": "גן שמואל",
+      "address": "פארק מסחרי",
+      "lat": 0,
+      "lng": 0,
+      "reason": "missing-explicit-coordinate"
+    },
+    {
+      "id": "182",
+      "name": "מול כנרת צמח",
+      "city": "צמח",
+      "address": "מול כנרת צמח",
+      "lat": 32.70763,
+      "lng": 35.58598,
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "name": "מרכז ביג כרמיאל",
+      "city": "כרמיאל",
+      "address": "מעלה כמון 2",
+      "lat": 0,
+      "lng": 0,
+      "reason": "missing-explicit-coordinate"
+    },
+    {
+      "id": "163",
+      "name": "סטאר סנטר אשדוד",
+      "city": "אשדוד",
+      "address": "סטאר סנטר אשדוד",
+      "lat": 31.79744,
+      "lng": 34.64827,
+      "reason": "star-center-coordinate-mismatch"
+    },
+    {
+      "id": "168",
+      "name": "סינמול חיפה",
+      "city": "חיפה",
+      "address": "סינמול, ההסתדרות 55",
+      "lat": 32.79377,
+      "lng": 35.03735,
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "187",
+      "name": "פרופיט סנטר חולון",
+      "city": "חולון",
+      "address": "חולון, פרופיט סנטר המרכבה 38",
+      "lat": 32.08416,
+      "lng": 34.79668,
+      "reason": "holon-coordinate-points-to-tel-aviv"
+    },
+    {
+      "id": "304",
+      "name": "ק. הנגב ב\"ש",
+      "city": "באר שבע",
+      "address": "קניון הנגב",
+      "lat": 31.260996,
+      "lng": 34.79836,
+      "reason": "negev-mall-coordinate-mismatch"
+    },
+    {
+      "id": "257",
+      "name": "קניון הקריון",
+      "city": "קריית ביאליק",
+      "address": "דרך עכו 92",
+      "lat": 32.842198,
+      "lng": 35.088878,
+      "reason": "street-number-conflict-92-versus-192"
+    },
+    {
+      "name": "קניון הראל",
+      "city": "מבשרת ציון",
+      "address": "הראל 1",
+      "lat": 0,
+      "lng": 0,
+      "reason": "missing-explicit-coordinate"
+    },
+    {
+      "id": "180",
+      "name": "קניון ערים כ\"ס",
+      "city": "כפר סבא",
+      "address": "קניון ערים",
+      "lat": 32.17699,
+      "lng": 34.90405,
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "142",
+      "name": "קניון צמרת ת\"א",
+      "city": "תל אביב",
+      "address": "ראשון עד חמישי שעות: 09:30-19:30, יום שישי שבת שעות: סגור.",
+      "lat": 32.08915,
+      "lng": 34.79726,
+      "reason": "address-field-contains-opening-hours"
+    },
+    {
+      "name": "קניון קריית אונו",
+      "city": "קריית אונו",
+      "address": "רח ירושלים 35",
+      "lat": 0,
+      "lng": 0,
+      "reason": "missing-explicit-coordinate"
+    },
+    {
+      "id": "612",
+      "name": "קניון שבירו כפר סבא",
+      "city": "כפר סבא",
+      "address": "",
+      "lat": 32.192656,
+      "lng": 34.891657,
+      "reason": "missing-address-and-venue-name-needs-review"
+    },
+    {
+      "name": "קניון שבעת הכוכבים",
+      "city": "הרצליה",
+      "address": "שדרות שבעת הכוכבים 8",
+      "lat": 0,
+      "lng": 0,
+      "reason": "missing-explicit-coordinate"
+    },
+    {
+      "id": "247",
+      "name": "קניותר",
+      "city": "נס ציונה",
+      "address": "האירוסים 53",
+      "lat": 31.930423,
+      "lng": 34.797785,
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "149",
+      "name": "רוגובין יבנה",
+      "city": "יבנה",
+      "address": "קניון רוגובין, יבנה",
+      "lat": 31.86681,
+      "lng": 34.73569,
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "193",
+      "name": "רח' לונץ י-ם",
+      "city": "ירושלים",
+      "address": "פינת הרחובות שמאי לונץ",
+      "lat": 31.78156,
+      "lng": 35.21897,
+      "reason": "specific-venue-needs-further-review"
+    }
+  ]
+}
