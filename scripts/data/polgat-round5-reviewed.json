@@ -1,0 +1,397 @@
+{
+  "sourceUrl": "https://www.golfgroup.co.il/branches",
+  "apiEndpoint": "https://www.golfgroup.co.il/_api/cloud-data/v2/items/query",
+  "checkedAt": "2026-09-20",
+  "examined": 21,
+  "pagingMetadata": {
+    "count": 21,
+    "offset": 0,
+    "total": 21,
+    "tooManyToCount": false,
+    "cursors": {},
+    "hasNext": false
+  },
+  "reviewed": [
+    {
+      "id": "423",
+      "officialId": "101ec1b6-1720-435c-9c69-409cadf0b4d2",
+      "name": "פולגת בילו סנטר",
+      "city": "קרית עקרון",
+      "address": "בילו סנטר",
+      "lat": 31.86503,
+      "lng": 34.81667,
+      "brand": "Polgat",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "479",
+      "officialId": "1557d7ee-9990-4cda-b7f9-aa2daa3c704e",
+      "name": "פולגת קניון קרית אונו",
+      "city": "קרית אונו",
+      "address": "קניון קרית אונו,שלמה המלך 37",
+      "lat": 32.05511,
+      "lng": 34.86412,
+      "brand": "Polgat",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "4",
+      "officialId": "1e08ee66-e162-4066-b781-e17519a810fe",
+      "name": "פולגת קניון מלכת שבא אילת",
+      "city": "אילת",
+      "address": "דרך פעמי השלום 19",
+      "lat": 29.5506933,
+      "lng": 34.9610656,
+      "brand": "Polgat",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "448",
+      "officialId": "2b6308fd-bd44-4232-8d44-eb5277c7bc17",
+      "name": "פולגת מגדל שלום ת\"א",
+      "city": "תל אביב-יפו",
+      "address": "מגדל שלום, אחד העם 9",
+      "lat": 32.0644734,
+      "lng": 34.7699118,
+      "brand": "Polgat",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "453",
+      "officialId": "3d9bcb28-41bb-4f7e-8e00-e43ae11c5408",
+      "name": "פולגת קניון עזריאלי ת\"א",
+      "city": "תל אביב-יפו",
+      "address": "מרכז עזריאלי, מנחם בגין 132",
+      "lat": 32.07438,
+      "lng": 34.79101,
+      "brand": "Polgat",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "346",
+      "officialId": "51daf474-1b3f-46aa-8cfd-977954f70b3c",
+      "name": "פולגת ביג כרמיאל",
+      "city": "כרמיאל",
+      "address": "מרכז ביג כרמיאל, מעלה כמון 2",
+      "lat": 32.9218893,
+      "lng": 35.3279293,
+      "brand": "Polgat",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "429",
+      "officialId": "56bedd6b-c725-464f-b1a0-523d59fe1864",
+      "name": "פולגת מתחם מבנה ב\"ש",
+      "city": "באר שבע",
+      "address": "יצחק נפחא 25",
+      "lat": 31.2467097,
+      "lng": 34.8109025,
+      "brand": "Polgat",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "463",
+      "officialId": "5f07fb25-d1dc-4e24-af22-dd7627a461cc",
+      "name": "פולגת קניון ערים כפר סבא",
+      "city": "כפר סבא",
+      "address": "דוד אלעזר",
+      "lat": 32.1773253,
+      "lng": 34.9048406,
+      "brand": "Polgat",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "461",
+      "officialId": "71d69836-6dcc-4c88-bec2-1034e1cb0327",
+      "name": "פולגת קניון חוצות אשקלון",
+      "city": "אשקלון",
+      "address": "שדרות בן גוריון פינת, נח\"ל 1",
+      "lat": 31.6459673,
+      "lng": 34.5606435,
+      "brand": "Polgat",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "565",
+      "officialId": "753ee351-c009-4d86-97da-e46d968e81c3",
+      "name": "פולגת אאוטלט- בני ברק",
+      "city": "בני ברק",
+      "address": "ששת הימים 28",
+      "lat": 32.0985408,
+      "lng": 34.8271949,
+      "brand": "Polgat",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "424",
+      "officialId": "81ba5cd4-e211-46dc-b676-1559237d4220",
+      "name": "פולגת קניון רמת אביב",
+      "city": "תל אביב-יפו",
+      "address": "קניון רמת אביב, איינשטיין 40",
+      "lat": 32.11273,
+      "lng": 34.79488,
+      "brand": "Polgat",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "454",
+      "officialId": "8e8ce450-ebe8-4101-8ff6-d403c12025e2",
+      "name": "פולגת הקניון הגדול פ\"ת",
+      "city": "פתח תקווה",
+      "address": "הקניון הגדול, ז'בוטינסקי 72",
+      "lat": 32.09175,
+      "lng": 34.86534,
+      "brand": "Polgat",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "433",
+      "officialId": "951d4e2b-52b4-4427-a31c-3dad13f46dba",
+      "name": "פולגת קניון מלחה",
+      "city": "ירושלים",
+      "address": "קניון מלחה, בית''ר 1",
+      "lat": 31.75176,
+      "lng": 35.18721,
+      "brand": "Polgat",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "408",
+      "officialId": "a0d0d479-503a-4507-8928-c3757bb4e69e",
+      "name": "פולגת קניון רחובות",
+      "city": "רחובות",
+      "address": "קניון רחובות, בילו 2",
+      "lat": 31.89225,
+      "lng": 34.80586,
+      "brand": "Polgat",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "489",
+      "officialId": "b0bb38cb-a198-4631-b2e5-65d907b098d0",
+      "name": "פולגת קריון",
+      "city": "קרית ביאליק",
+      "address": "קריון, דרך עכו 192",
+      "lat": 32.8422,
+      "lng": 35.08888,
+      "brand": "Polgat",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "417",
+      "officialId": "d1a68101-df4a-4362-957a-8c61b12af4c3",
+      "name": "פולגת קניון רננים",
+      "city": "רעננה",
+      "address": "קניון רננים, המלאכה 2",
+      "lat": 32.19795,
+      "lng": 34.8804,
+      "brand": "Polgat",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "488",
+      "officialId": "e5b8584e-1b5e-4484-ba29-3744c9a939ae",
+      "name": "פולגת ישפרו סנטר מודיעין",
+      "city": "מודיעין",
+      "address": "שד' המלאכות",
+      "lat": 31.8903,
+      "lng": 34.96206,
+      "brand": "Polgat",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "415",
+      "officialId": "e7054047-bdd6-42a1-84b8-d82740206872",
+      "name": "פולגת מתחם חונים קונים",
+      "city": "ראשון לציון",
+      "address": "לישנסקי 9",
+      "lat": 31.9906733,
+      "lng": 34.7650806,
+      "brand": "Polgat",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "409",
+      "officialId": "ea2a1344-97f6-403b-9e64-8dea4e6efe55",
+      "name": "פולגת ביג פולג- מתחם נצב\"א",
+      "city": "נתניה",
+      "address": "ביג פולג, גבורי ישראל 5",
+      "lat": 32.2760218,
+      "lng": 34.86092118,
+      "brand": "Polgat",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "471",
+      "officialId": "ec10746e-45a6-41fa-a14c-06e0d1e6fad6",
+      "name": "פולגת גרנד קניון חיפה",
+      "city": "חיפה",
+      "address": "גרנד קניון, גולן שמחה 54",
+      "lat": 32.78993,
+      "lng": 35.00789,
+      "brand": "Polgat",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "427",
+      "officialId": "efccb9b0-2f39-4415-aecf-a340967e90e1",
+      "name": "פולגת קניון גן העיר ת\"א",
+      "city": "תל אביב-יפו",
+      "address": "גן העיר, אבן גבירול 71",
+      "lat": 32.08279,
+      "lng": 34.78122,
+      "brand": "Polgat",
+      "isActive": 1,
+      "storelocator": 1
+    }
+  ],
+  "exclusions": {
+    "4": "venue-not-exactly-corroborated; promenade proximity alone does not confirm Queen of Sheba address",
+    "346": "venue-coordinate-conflict; over700m from corroborated BIG Karmiel",
+    "415": "venue-not-independently-corroborated-in-this-round",
+    "429": "venue-not-independently-corroborated-in-this-round",
+    "448": "venue-not-independently-corroborated-in-this-round",
+    "461": "venue-coordinate-conflict; over1800m from corroborated Hutzot Ashkelon",
+    "463": "venue-not-independently-corroborated-in-this-round",
+    "565": "outlet-pending-eligibility-review"
+  },
+  "corroboration": [
+    {
+      "id": "423",
+      "referenceId": "intima-6",
+      "referenceName": "בילו סנטר",
+      "referenceAddress": "בילו סנטר",
+      "sourceUrl": "https://www.intima-il.co.il/stores",
+      "coordinateSourceUrl": "https://www.intima-il.co.il/stores",
+      "distanceMeters": 7
+    },
+    {
+      "id": "479",
+      "referenceId": "footlocker-163a205ad0f1",
+      "referenceName": "קניון קרית אונו",
+      "referenceAddress": "שלמה המלך 37, קרית אונו",
+      "sourceUrl": "https://footlocker.co.il/pages/branches",
+      "coordinateSourceUrl": "https://www.google.com/maps/place/Shlomo+ha-Melekh+St+37,+Kiryat+Ono/@32.0555833,34.860797,17z/data=!3m1!4b1!4m6!3m5!1s0x151d35880979c81d:0x3b992c447e880ab9!8m2!3d32.0555788!4d34.8633719!16s%2Fg%2F11bw3_wht7?entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D",
+      "distanceMeters": 88
+    },
+    {
+      "id": "453",
+      "referenceId": "foxhome-e2a30a52b866",
+      "referenceName": "תל אביב",
+      "referenceAddress": "דרך מנחם בגין 132, תל אביב",
+      "sourceUrl": "https://www.foxhome.co.il/pages/branches",
+      "coordinateSourceUrl": "https://www.waze.com/he/live-map/directions/%D7%AA%D7%9C-%D7%90%D7%91%D7%99%D7%91-%D7%99%D7%A4%D7%95?to=place.ws.il.96670.132",
+      "distanceMeters": 40
+    },
+    {
+      "id": "424",
+      "referenceId": "intima-27",
+      "referenceName": "קניון רמת אביב",
+      "referenceAddress": "איינשטיין 40",
+      "sourceUrl": "https://www.intima-il.co.il/stores",
+      "coordinateSourceUrl": "https://www.intima-il.co.il/stores",
+      "distanceMeters": 8
+    },
+    {
+      "id": "454",
+      "referenceId": "castro-4111",
+      "referenceName": "הקניון הגדול פתח תקווה - נשים וגברים",
+      "referenceAddress": "הקניון הגדול, ז'בוטינסקי 72, פתח תקווה",
+      "sourceUrl": "https://www.castro.com/stores",
+      "coordinateSourceUrl": "https://www.castro.com/stores",
+      "distanceMeters": 1
+    },
+    {
+      "id": "433",
+      "referenceId": "castro-4070",
+      "referenceName": "עזריאלי מלחה - נשים גברים וילדים",
+      "referenceAddress": "קניון מלחה, בית''ר 1, ירושלים",
+      "sourceUrl": "https://www.castro.com/stores",
+      "coordinateSourceUrl": "https://www.castro.com/stores",
+      "distanceMeters": 0
+    },
+    {
+      "id": "408",
+      "referenceId": "castro-4113",
+      "referenceName": "קניון רחובות - נשים גברים וילדים",
+      "referenceAddress": "קניון רחובות, בילו 2, רחובות",
+      "sourceUrl": "https://www.castro.com/stores",
+      "coordinateSourceUrl": "https://www.castro.com/stores",
+      "distanceMeters": 12
+    },
+    {
+      "id": "489",
+      "referenceId": "castro-4091",
+      "referenceName": "קריון -  נשים, גברים וילדים",
+      "referenceAddress": "קריון, עכו 192, קרית ביאליק",
+      "sourceUrl": "https://www.castro.com/stores",
+      "coordinateSourceUrl": "https://www.castro.com/stores",
+      "distanceMeters": 0
+    },
+    {
+      "id": "417",
+      "referenceId": "castro-4094",
+      "referenceName": "קניון רננים - נשים, גברים וילדים",
+      "referenceAddress": "קניון רננים, המלאכה 2, רעננה",
+      "sourceUrl": "https://www.castro.com/stores",
+      "coordinateSourceUrl": "https://www.castro.com/stores",
+      "distanceMeters": 0
+    },
+    {
+      "id": "488",
+      "referenceId": "castro-4104",
+      "referenceName": "ישפרו מודיעין - נשים, גברים וילדים",
+      "referenceAddress": "שד' המלכאות 121, מודיעין",
+      "sourceUrl": "https://www.castro.com/stores",
+      "coordinateSourceUrl": "https://www.castro.com/stores",
+      "distanceMeters": 0
+    },
+    {
+      "id": "409",
+      "referenceId": "footlocker-57b1a64fc606",
+      "referenceName": "גנדן נתניה",
+      "referenceAddress": "מתחם ביג, שדרות גיבורי ישראל 5, נתניה",
+      "sourceUrl": "https://footlocker.co.il/pages/branches",
+      "coordinateSourceUrl": "https://www.google.com/maps/place/Sderot+Giborei+Israel+5,+Netanya/@32.2758857,34.8560932,17z/data=!3m1!4b1!4m6!3m5!1s0x151d4082c5d4c301:0xd20a695fd8dd0b90!8m2!3d32.2758858!4d34.8609641!16s%2Fg%2F11csm0_9gc?entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D",
+      "distanceMeters": 16
+    },
+    {
+      "id": "471",
+      "referenceId": "castro-4092",
+      "referenceName": "גרנד קניון חיפה - נשים וגברים",
+      "referenceAddress": "גראנד קניון, גולן שמחה 54, חיפה",
+      "sourceUrl": "https://www.castro.com/stores",
+      "coordinateSourceUrl": "https://www.castro.com/stores",
+      "distanceMeters": 0
+    },
+    {
+      "id": "427",
+      "referenceId": "castro-4089",
+      "referenceName": "גן העיר תל אביב - נשים וגברים",
+      "referenceAddress": "קניון גן העיר, אבן גבירול 71, תל אביב-יפו",
+      "sourceUrl": "https://www.castro.com/stores",
+      "coordinateSourceUrl": "https://www.castro.com/stores",
+      "distanceMeters": 0
+    }
+  ]
+}

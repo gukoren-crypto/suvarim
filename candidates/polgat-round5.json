@@ -1,0 +1,238 @@
+{
+  "store": "פולגת",
+  "branches": [
+    {
+      "id": "polgat-408",
+      "store": "פולגת",
+      "name": "פולגת קניון רחובות",
+      "city": "רחובות",
+      "address": "קניון רחובות, בילו 2",
+      "lat": 31.89225,
+      "lng": 34.80586,
+      "sourceUrl": "https://www.golfgroup.co.il/branches",
+      "coordinateSourceUrl": "https://www.golfgroup.co.il/branches",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "polgat-409",
+      "store": "פולגת",
+      "name": "פולגת ביג פולג- מתחם נצב\"א",
+      "city": "נתניה",
+      "address": "ביג פולג, גבורי ישראל 5",
+      "lat": 32.2760218,
+      "lng": 34.86092118,
+      "sourceUrl": "https://www.golfgroup.co.il/branches",
+      "coordinateSourceUrl": "https://www.golfgroup.co.il/branches",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "polgat-417",
+      "store": "פולגת",
+      "name": "פולגת קניון רננים",
+      "city": "רעננה",
+      "address": "קניון רננים, המלאכה 2",
+      "lat": 32.19795,
+      "lng": 34.8804,
+      "sourceUrl": "https://www.golfgroup.co.il/branches",
+      "coordinateSourceUrl": "https://www.golfgroup.co.il/branches",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "polgat-423",
+      "store": "פולגת",
+      "name": "פולגת בילו סנטר",
+      "city": "קרית עקרון",
+      "address": "בילו סנטר",
+      "lat": 31.86503,
+      "lng": 34.81667,
+      "sourceUrl": "https://www.golfgroup.co.il/branches",
+      "coordinateSourceUrl": "https://www.golfgroup.co.il/branches",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "polgat-424",
+      "store": "פולגת",
+      "name": "פולגת קניון רמת אביב",
+      "city": "תל אביב-יפו",
+      "address": "קניון רמת אביב, איינשטיין 40",
+      "lat": 32.11273,
+      "lng": 34.79488,
+      "sourceUrl": "https://www.golfgroup.co.il/branches",
+      "coordinateSourceUrl": "https://www.golfgroup.co.il/branches",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "polgat-427",
+      "store": "פולגת",
+      "name": "פולגת קניון גן העיר ת\"א",
+      "city": "תל אביב-יפו",
+      "address": "גן העיר, אבן גבירול 71",
+      "lat": 32.08279,
+      "lng": 34.78122,
+      "sourceUrl": "https://www.golfgroup.co.il/branches",
+      "coordinateSourceUrl": "https://www.golfgroup.co.il/branches",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "polgat-433",
+      "store": "פולגת",
+      "name": "פולגת קניון מלחה",
+      "city": "ירושלים",
+      "address": "קניון מלחה, בית''ר 1",
+      "lat": 31.75176,
+      "lng": 35.18721,
+      "sourceUrl": "https://www.golfgroup.co.il/branches",
+      "coordinateSourceUrl": "https://www.golfgroup.co.il/branches",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "polgat-453",
+      "store": "פולגת",
+      "name": "פולגת קניון עזריאלי ת\"א",
+      "city": "תל אביב-יפו",
+      "address": "מרכז עזריאלי, מנחם בגין 132",
+      "lat": 32.07438,
+      "lng": 34.79101,
+      "sourceUrl": "https://www.golfgroup.co.il/branches",
+      "coordinateSourceUrl": "https://www.golfgroup.co.il/branches",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "polgat-454",
+      "store": "פולגת",
+      "name": "פולגת הקניון הגדול פ\"ת",
+      "city": "פתח תקווה",
+      "address": "הקניון הגדול, ז'בוטינסקי 72",
+      "lat": 32.09175,
+      "lng": 34.86534,
+      "sourceUrl": "https://www.golfgroup.co.il/branches",
+      "coordinateSourceUrl": "https://www.golfgroup.co.il/branches",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "polgat-471",
+      "store": "פולגת",
+      "name": "פולגת גרנד קניון חיפה",
+      "city": "חיפה",
+      "address": "גרנד קניון, גולן שמחה 54",
+      "lat": 32.78993,
+      "lng": 35.00789,
+      "sourceUrl": "https://www.golfgroup.co.il/branches",
+      "coordinateSourceUrl": "https://www.golfgroup.co.il/branches",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "polgat-479",
+      "store": "פולגת",
+      "name": "פולגת קניון קרית אונו",
+      "city": "קרית אונו",
+      "address": "קניון קרית אונו,שלמה המלך 37",
+      "lat": 32.05511,
+      "lng": 34.86412,
+      "sourceUrl": "https://www.golfgroup.co.il/branches",
+      "coordinateSourceUrl": "https://www.golfgroup.co.il/branches",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "polgat-488",
+      "store": "פולגת",
+      "name": "פולגת ישפרו סנטר מודיעין",
+      "city": "מודיעין",
+      "address": "שד' המלאכות",
+      "lat": 31.8903,
+      "lng": 34.96206,
+      "sourceUrl": "https://www.golfgroup.co.il/branches",
+      "coordinateSourceUrl": "https://www.golfgroup.co.il/branches",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "polgat-489",
+      "store": "פולגת",
+      "name": "פולגת קריון",
+      "city": "קרית ביאליק",
+      "address": "קריון, דרך עכו 192",
+      "lat": 32.8422,
+      "lng": 35.08888,
+      "sourceUrl": "https://www.golfgroup.co.il/branches",
+      "coordinateSourceUrl": "https://www.golfgroup.co.il/branches",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    }
+  ],
+  "source": {
+    "store": "פולגת",
+    "aliases": [
+      "פולגת",
+      "POLGAT",
+      "Polgat"
+    ],
+    "sourceUrl": "https://www.golfgroup.co.il/branches",
+    "checkedAt": "2026-09-20",
+    "examined": 21,
+    "included": 13,
+    "coverage": "partial",
+    "note": "נתוני סניפים מפורשים מתוך מסנן Polgat במאתר הרשמי של קבוצת גולף; תגובת המקור נבדקה כמלאה לפי total/hasNext. רק מתחמים וכתובות שהוצלבו נכללו. הכיסוי חלקי בגלל חריגים; לא הוחלפו צירים ולא הוסקו קואורדינטות.",
+    "skipped": [
+      {
+        "officialId": "1e08ee66-e162-4066-b781-e17519a810fe",
+        "name": "פולגת קניון מלכת שבא אילת",
+        "city": "אילת",
+        "reason": "venue-not-exactly-corroborated; promenade proximity alone does not confirm Queen of Sheba address"
+      },
+      {
+        "officialId": "2b6308fd-bd44-4232-8d44-eb5277c7bc17",
+        "name": "פולגת מגדל שלום ת\"א",
+        "city": "תל אביב-יפו",
+        "reason": "venue-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "51daf474-1b3f-46aa-8cfd-977954f70b3c",
+        "name": "פולגת ביג כרמיאל",
+        "city": "כרמיאל",
+        "reason": "venue-coordinate-conflict; over700m from corroborated BIG Karmiel"
+      },
+      {
+        "officialId": "56bedd6b-c725-464f-b1a0-523d59fe1864",
+        "name": "פולגת מתחם מבנה ב\"ש",
+        "city": "באר שבע",
+        "reason": "venue-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "5f07fb25-d1dc-4e24-af22-dd7627a461cc",
+        "name": "פולגת קניון ערים כפר סבא",
+        "city": "כפר סבא",
+        "reason": "venue-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "71d69836-6dcc-4c88-bec2-1034e1cb0327",
+        "name": "פולגת קניון חוצות אשקלון",
+        "city": "אשקלון",
+        "reason": "venue-coordinate-conflict; over1800m from corroborated Hutzot Ashkelon"
+      },
+      {
+        "officialId": "753ee351-c009-4d86-97da-e46d968e81c3",
+        "name": "פולגת אאוטלט- בני ברק",
+        "city": "בני ברק",
+        "reason": "outlet-pending-eligibility-review"
+      },
+      {
+        "officialId": "e7054047-bdd6-42a1-84b8-d82740206872",
+        "name": "פולגת מתחם חונים קונים",
+        "city": "ראשון לציון",
+        "reason": "venue-not-independently-corroborated-in-this-round"
+      }
+    ]
+  }
+}

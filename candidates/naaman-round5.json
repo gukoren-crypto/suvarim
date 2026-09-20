@@ -1,0 +1,827 @@
+{
+  "store": "נעמן פורצלן",
+  "branches": [
+    {
+      "id": "naaman-101",
+      "store": "נעמן פורצלן",
+      "name": "באר שבע - קניון גראנד - חנות משולבת ורדינון + נעמן",
+      "city": "באר שבע",
+      "address": "שדרות דוד טוביהו 125",
+      "lat": 31.25088813,
+      "lng": 34.77173761,
+      "sourceUrl": "https://www.naamanp.co.il/stores",
+      "coordinateSourceUrl": "https://www.naamanp.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "naaman-103",
+      "store": "נעמן פורצלן",
+      "name": "עכו - קניון עזריאלי",
+      "city": "עכו",
+      "address": "החרושת 2",
+      "lat": 32.9231464,
+      "lng": 35.08127862,
+      "sourceUrl": "https://www.naamanp.co.il/stores",
+      "coordinateSourceUrl": "https://www.naamanp.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "naaman-105",
+      "store": "נעמן פורצלן",
+      "name": "מעלות תרשיחא - קניון צים אורבן",
+      "city": "מעלות",
+      "address": "שלמה שרירא 3",
+      "lat": 33.02190847,
+      "lng": 35.2802083,
+      "sourceUrl": "https://www.naamanp.co.il/stores",
+      "coordinateSourceUrl": "https://www.naamanp.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "naaman-109",
+      "store": "נעמן פורצלן",
+      "name": "רמלה - קניון עזריאלי",
+      "city": "רמלה",
+      "address": "דוד רזיאל 1",
+      "lat": 31.92596471,
+      "lng": 34.86384229,
+      "sourceUrl": "https://www.naamanp.co.il/stores",
+      "coordinateSourceUrl": "https://www.naamanp.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "naaman-114",
+      "store": "נעמן פורצלן",
+      "name": "אשקלון קניון גירון",
+      "city": "אשקלון",
+      "address": "שדרות בן גוריון 21",
+      "lat": 31.66387938,
+      "lng": 34.56445266,
+      "sourceUrl": "https://www.naamanp.co.il/stores",
+      "coordinateSourceUrl": "https://www.naamanp.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "naaman-119",
+      "store": "נעמן פורצלן",
+      "name": "ירושלים - קניון עזריאלי מלחה",
+      "city": "ירושלים",
+      "address": "אגודת ספורט בית\"ר 1",
+      "lat": 31.75168695,
+      "lng": 35.18723782,
+      "sourceUrl": "https://www.naamanp.co.il/stores",
+      "coordinateSourceUrl": "https://www.naamanp.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "naaman-120",
+      "store": "נעמן פורצלן",
+      "name": "בית שאן - מתחם צים סנטר - חנות משולבת ורדינון + נעמן",
+      "city": "בית שאן",
+      "address": "העמל 7",
+      "lat": 32.51045638,
+      "lng": 35.50181476,
+      "sourceUrl": "https://www.naamanp.co.il/stores",
+      "coordinateSourceUrl": "https://www.naamanp.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "naaman-122",
+      "store": "נעמן פורצלן",
+      "name": "קרית עקרון - מתחם עופר בילו סנטר",
+      "city": "קרית עקרון",
+      "address": "מתחם בילו סנטר",
+      "lat": 31.86501034,
+      "lng": 34.81673049,
+      "sourceUrl": "https://www.naamanp.co.il/stores",
+      "coordinateSourceUrl": "https://www.naamanp.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "naaman-141",
+      "store": "נעמן פורצלן",
+      "name": "מעלה אדומים קניון עופר",
+      "city": "מעלה אדומים",
+      "address": "דרך קדם 5, קניון עופר, קומה 2 ליד הדואר",
+      "lat": 31.77157206,
+      "lng": 35.29856508,
+      "sourceUrl": "https://www.naamanp.co.il/stores",
+      "coordinateSourceUrl": "https://www.naamanp.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "naaman-142",
+      "store": "נעמן פורצלן",
+      "name": "ירושלים קניון סנטר 1",
+      "city": "ירושלים",
+      "address": "ירמיהו 43",
+      "lat": 31.79009201,
+      "lng": 35.20090186,
+      "sourceUrl": "https://www.naamanp.co.il/stores",
+      "coordinateSourceUrl": "https://www.naamanp.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "naaman-151",
+      "store": "נעמן פורצלן",
+      "name": "חיפה - קניון עופר גרנד",
+      "city": "חיפה",
+      "address": "דרך שמחה גולן 54, קניון גרנד, קומה 3",
+      "lat": 32.789711,
+      "lng": 35.0056337,
+      "sourceUrl": "https://www.naamanp.co.il/stores",
+      "coordinateSourceUrl": "https://www.naamanp.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "naaman-152",
+      "store": "נעמן פורצלן",
+      "name": "רמת גן - קניון איילון",
+      "city": "רמת גן",
+      "address": "אבא הלל 301, קניון איילון, קומה 1 ליד הסופר",
+      "lat": 32.100446,
+      "lng": 34.824422,
+      "sourceUrl": "https://www.naamanp.co.il/stores",
+      "coordinateSourceUrl": "https://www.naamanp.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "naaman-444",
+      "store": "נעמן פורצלן",
+      "name": "חיפה - חוצות המפרץ - חנות משולבת ורדינון + נעמן",
+      "city": "חיפה",
+      "address": "החרושת 10",
+      "lat": 32.80888538699866,
+      "lng": 35.054128631999575,
+      "sourceUrl": "https://www.naamanp.co.il/stores",
+      "coordinateSourceUrl": "https://www.naamanp.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "naaman-476",
+      "store": "נעמן פורצלן",
+      "name": "חולון - קניון עזריאלי",
+      "city": "חולון",
+      "address": "גולדה מאיר 7",
+      "lat": 32.0125689,
+      "lng": 34.7816582,
+      "sourceUrl": "https://www.naamanp.co.il/stores",
+      "coordinateSourceUrl": "https://www.naamanp.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "naaman-482",
+      "store": "נעמן פורצלן",
+      "name": "אשדוד - מתחם סטאר - חנות משולבת ורדינון + נעמן",
+      "city": "אשדוד",
+      "address": "ז'בוטינסקי 43",
+      "lat": 31.8105935,
+      "lng": 34.6560787,
+      "sourceUrl": "https://www.naamanp.co.il/stores",
+      "coordinateSourceUrl": "https://www.naamanp.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "naaman-491",
+      "store": "נעמן פורצלן",
+      "name": "כפר סבא - קניון G - חנות משולבת ורדינון + נעמן",
+      "city": "כפר סבא",
+      "address": "ויצמן 207 כפר סבא",
+      "lat": 32.172128762623984,
+      "lng": 34.928448032813264,
+      "sourceUrl": "https://www.naamanp.co.il/stores",
+      "coordinateSourceUrl": "https://www.naamanp.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "naaman-501",
+      "store": "נעמן פורצלן",
+      "name": "נתניה - קניון עיר ימים",
+      "city": "נתניה",
+      "address": "בני ברמן 2, קניון עיר ימים, קומת כניסה",
+      "lat": 32.2792383,
+      "lng": 34.8459786,
+      "sourceUrl": "https://www.naamanp.co.il/stores",
+      "coordinateSourceUrl": "https://www.naamanp.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "naaman-516",
+      "store": "נעמן פורצלן",
+      "name": "תל אביב - דיזינגוף סנטר",
+      "city": "תל אביב",
+      "address": "דיזינגוף סנטר , דיזינגוף 50",
+      "lat": 32.07527562987438,
+      "lng": 34.77495566009275,
+      "sourceUrl": "https://www.naamanp.co.il/stores",
+      "coordinateSourceUrl": "https://www.naamanp.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "naaman-77",
+      "store": "נעמן פורצלן",
+      "name": "חיפה עזריאלי",
+      "city": "חיפה",
+      "address": "דרך משה פלימן 4, קניון עזריאלי קומה 2 ליד מתחם האוכל",
+      "lat": 32.78974426,
+      "lng": 34.96517995,
+      "sourceUrl": "https://www.naamanp.co.il/stores",
+      "coordinateSourceUrl": "https://www.naamanp.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "naaman-78",
+      "store": "נעמן פורצלן",
+      "name": "לב חדרה",
+      "city": "חדרה",
+      "address": "שד' רוטשילד 40",
+      "lat": 32.43810687,
+      "lng": 34.9219993,
+      "sourceUrl": "https://www.naamanp.co.il/stores",
+      "coordinateSourceUrl": "https://www.naamanp.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "naaman-81",
+      "store": "נעמן פורצלן",
+      "name": "פתח תקווה - עופר הקניון הגדול",
+      "city": "פתח תקווה",
+      "address": "ז'בוטינסקי 72, קניון הגדול, קומה 2",
+      "lat": 32.0934451,
+      "lng": 34.86535455,
+      "sourceUrl": "https://www.naamanp.co.il/stores",
+      "coordinateSourceUrl": "https://www.naamanp.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "naaman-82",
+      "store": "נעמן פורצלן",
+      "name": "נתניה - קניון השרון - חנות משולבת ורדינון + נעמן",
+      "city": "נתניה",
+      "address": "הרצל 60",
+      "lat": 32.32641078,
+      "lng": 34.86175983,
+      "sourceUrl": "https://www.naamanp.co.il/stores",
+      "coordinateSourceUrl": "https://www.naamanp.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "naaman-83",
+      "store": "נעמן פורצלן",
+      "name": "טבריה ביג פאשן",
+      "city": "טבריה",
+      "address": "יהודה הלוי 1",
+      "lat": 32.79065369,
+      "lng": 35.53385865,
+      "sourceUrl": "https://www.naamanp.co.il/stores",
+      "coordinateSourceUrl": "https://www.naamanp.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "naaman-86",
+      "store": "נעמן פורצלן",
+      "name": "בת ים - קניון ביג פאשן - חנות משולבת ורדינון + נעמן",
+      "city": "בת ים",
+      "address": "יוספטל 92",
+      "lat": 32.01537372,
+      "lng": 34.75624241,
+      "sourceUrl": "https://www.naamanp.co.il/stores",
+      "coordinateSourceUrl": "https://www.naamanp.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "naaman-87",
+      "store": "נעמן פורצלן",
+      "name": "רחובות - קניון עופר רחובות",
+      "city": "רחובות",
+      "address": "ביל\"ו 2",
+      "lat": 31.89371514,
+      "lng": 34.80749379,
+      "sourceUrl": "https://www.naamanp.co.il/stores",
+      "coordinateSourceUrl": "https://www.naamanp.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "naaman-89",
+      "store": "נעמן פורצלן",
+      "name": "ראשון לציון - קניון הזהב",
+      "city": "ראשון לציון",
+      "address": "סחרוב דוד 21, קניון הזהב, קומה 1 במתחם הקניון הישן",
+      "lat": 31.99156537,
+      "lng": 34.77419909,
+      "sourceUrl": "https://www.naamanp.co.il/stores",
+      "coordinateSourceUrl": "https://www.naamanp.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "naaman-94",
+      "store": "נעמן פורצלן",
+      "name": "באר שבע ביג",
+      "city": "באר שבע",
+      "address": "דרך חברון 21",
+      "lat": 31.24399379,
+      "lng": 34.8097201,
+      "sourceUrl": "https://www.naamanp.co.il/stores",
+      "coordinateSourceUrl": "https://www.naamanp.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "naaman-97",
+      "store": "נעמן פורצלן",
+      "name": "ירושלים קניון רמות",
+      "city": "ירושלים",
+      "address": "שד' גולדה מאיר 255",
+      "lat": 31.81798216,
+      "lng": 35.19444149,
+      "sourceUrl": "https://www.naamanp.co.il/stores",
+      "coordinateSourceUrl": "https://www.naamanp.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    }
+  ],
+  "source": {
+    "store": "נעמן פורצלן",
+    "aliases": [
+      "נעמן פורצלן",
+      "נעמן",
+      "NAAMAN",
+      "Naaman"
+    ],
+    "sourceUrl": "https://www.naamanp.co.il/stores",
+    "checkedAt": "2026-09-20",
+    "examined": 91,
+    "included": 28,
+    "coverage": "partial",
+    "note": "יעדי Waze מפורשים מרשימת נעמן הרשמית, לאחר התאמת העיר והמתחם. סניפים משולבים המוזכרים ברשימה נכללו כנעמן בלבד; לא נוספו רשומות ורדינון. קואורדינטות משותפות חשודות, עודפים, ירידים וכתובות או מתחמים שדורשים בירור נשארו לבדיקה. אין ברשומה הוכחת זכאות לשובר.",
+    "skipped": [
+      {
+        "officialId": "135",
+        "name": "אופקים - יריד עודפים",
+        "city": "אופקים",
+        "address": "הרצל 33, מול העירייה",
+        "reason": "outlet-or-temporary-fair-needs-review"
+      },
+      {
+        "officialId": "493",
+        "name": "אופקים - מתחם  GT Center - חנות משולבת ורדינון + נעמן",
+        "city": "אופקים",
+        "address": "מנחם בגין 6",
+        "reason": "ofakim-destination-points-near-rehovot"
+      },
+      {
+        "officialId": "102",
+        "name": "אור יהודה - קניון עזריאלי אאוטלט - עודפים - חנות משולבת ורדינון + נעמן",
+        "city": "אור יהודה",
+        "address": "שדרות אליהו סעדון 120",
+        "reason": "outlet-or-temporary-fair-needs-review"
+      },
+      {
+        "officialId": "108",
+        "name": "אור עקיבא קניון אורות",
+        "city": "אור עקיבא",
+        "address": "שד' הנשיא וייצמן 1",
+        "reason": "specific-venue-needs-further-review"
+      },
+      {
+        "officialId": "409",
+        "name": "אלונים קיבוץ - חנות משולבת ורדינון + נעמן",
+        "city": "קיבוץ אלונים",
+        "address": "קיבוץ אלונים",
+        "reason": "shared-placeholder-coordinate-needs-review"
+      },
+      {
+        "officialId": "399",
+        "name": "אריאל - קניון מגה אור - חנות משולבת ורדינון + נעמן",
+        "city": "אריאל",
+        "address": "הבנאי 6, קניון מגה אור רמי לוי, קומה 2",
+        "reason": "shared-placeholder-coordinate-needs-review"
+      },
+      {
+        "officialId": "420",
+        "name": "אשקלון - צומת סילבר - חנות משולבת ורדינון + נעמן",
+        "city": "אשקלון",
+        "address": "צומת סילבר",
+        "reason": "shared-placeholder-coordinate-needs-review"
+      },
+      {
+        "officialId": "509",
+        "name": "באר שבע - מתחם וואן - יריד עודפים - משולב ורדינון + נעמן",
+        "city": "באר שבע",
+        "address": "נפחא יצחק 25",
+        "reason": "outlet-or-temporary-fair-needs-review"
+      },
+      {
+        "officialId": "429",
+        "name": "באר שבע יס פלאנט - יריד עודפים - חנות משולבת ורדינון + נעמן",
+        "city": "באר שבע",
+        "address": "ברוך קטינקא 2",
+        "reason": "outlet-or-temporary-fair-needs-review"
+      },
+      {
+        "officialId": "118",
+        "name": "ביג יוקנעם עילית",
+        "city": "יקנעם עילית",
+        "address": "שד' יצחק רבין 9",
+        "reason": "coordinate-conflicts-with-named-venue-needs-review"
+      },
+      {
+        "officialId": "100",
+        "name": "בית-שמש ביג",
+        "city": "בית שמש",
+        "address": "יגאל אלון 1",
+        "reason": "specific-venue-needs-further-review"
+      },
+      {
+        "officialId": "143",
+        "name": "ביתר עילית - חנות עודפים - משולבת ורדינון + נעמן",
+        "city": "ביתר עלית",
+        "address": "הר\"ן 20",
+        "reason": "outlet-or-temporary-fair-needs-review"
+      },
+      {
+        "officialId": "88",
+        "name": "בני ברק",
+        "city": "בני ברק",
+        "address": "ז'בוטינסקי 14, פינת רבי עקיבא, מול מכון מור",
+        "reason": "specific-venue-needs-further-review"
+      },
+      {
+        "officialId": "149",
+        "name": "בת-ים - קניון בתימון - חנות משולבת ורדינון + נעמן",
+        "city": "בת ים",
+        "address": "ניסנבאום יצחק 33",
+        "reason": "specific-venue-needs-further-review"
+      },
+      {
+        "officialId": "442",
+        "name": "גבעת שמואל - קניון הגבעה - חנות משולבת ורדינון + נעמן",
+        "city": "גבעת שמואל",
+        "address": "יוני נתניהו 29",
+        "reason": "street-number-or-address-discrepancy-needs-review"
+      },
+      {
+        "officialId": "80",
+        "name": "גבעתיים",
+        "city": "גבעתיים",
+        "address": "ויצמן 26",
+        "reason": "specific-venue-needs-further-review"
+      },
+      {
+        "officialId": "117",
+        "name": "דימונה קניון פרץ סנטר",
+        "city": "דימונה",
+        "address": "אזור תעשיה 395, כביש 25",
+        "reason": "specific-venue-needs-further-review"
+      },
+      {
+        "officialId": "140",
+        "name": "הרצליה רחוב הס",
+        "city": "הרצליה",
+        "address": "הס 48 (שער העיר)",
+        "reason": "specific-venue-needs-further-review"
+      },
+      {
+        "officialId": "403",
+        "name": "חדרה - קניון פוליגון - חנות משולבת ורדינון + נעמן",
+        "city": "חדרה",
+        "address": "צה\"ל 35",
+        "reason": "shared-placeholder-coordinate-needs-review"
+      },
+      {
+        "officialId": "148",
+        "name": "חולון מבנה - יריד עודפים - חנות משולבת ורדינון + נעמן",
+        "city": "חולון",
+        "address": "המשביר 1, אזור תעשיה חולון",
+        "reason": "outlet-or-temporary-fair-needs-review"
+      },
+      {
+        "officialId": "144",
+        "name": "חיפה סיטי - יריד עודפים",
+        "city": "חיפה",
+        "address": "בן גוריון 6",
+        "reason": "outlet-or-temporary-fair-needs-review"
+      },
+      {
+        "officialId": "508",
+        "name": "חריש",
+        "city": "חריש",
+        "address": "גפן 4",
+        "reason": "specific-venue-needs-further-review"
+      },
+      {
+        "officialId": "125",
+        "name": "ירושלים - פסגת זאב",
+        "city": "ירושלים",
+        "address": "שדרות משה דיין 106, קניון לב הפסגה, קומה 2",
+        "reason": "specific-venue-needs-further-review"
+      },
+      {
+        "officialId": "412",
+        "name": "ירושלים - קניון אחים ישראל - עודפים - חנות משולבת ורדינון + נעמן",
+        "city": "ירושלים",
+        "address": "יד חרוצים 18",
+        "reason": "outlet-or-temporary-fair-needs-review"
+      },
+      {
+        "officialId": "486",
+        "name": "יריד חוצות המפרץ",
+        "city": "חיפה",
+        "address": "חוצות המפרץ, חיפה",
+        "reason": "outlet-or-temporary-fair-needs-review"
+      },
+      {
+        "officialId": "503",
+        "name": "ירכא - קניון כנעאן - עודפים - חנות משולבת ורדינון + נעמן",
+        "city": "ירכא",
+        "address": "קניון כנעאן",
+        "reason": "outlet-or-temporary-fair-needs-review"
+      },
+      {
+        "officialId": "139",
+        "name": "כפר-סבא רוטשילד - יריד עודפים",
+        "city": "כפר סבא",
+        "address": "רוטשילד 48",
+        "reason": "outlet-or-temporary-fair-needs-review"
+      },
+      {
+        "officialId": "469",
+        "name": "כרמי גת נעמן",
+        "city": "כרמי גת",
+        "address": "שדרות לכיש 153",
+        "reason": "specific-venue-needs-further-review"
+      },
+      {
+        "officialId": "137",
+        "name": "כרמיאל קניון חוצות",
+        "city": "כרמיאל",
+        "address": "מעלות כמון 5, קניון חוצות, קומה 2 ליד הקולנוע",
+        "reason": "specific-venue-needs-further-review"
+      },
+      {
+        "officialId": "512",
+        "name": "מבשרת ציון - חנות משולבת ורדינון + נעמן",
+        "city": "מבשרת ציון",
+        "address": "שדרות החוצבים 2",
+        "reason": "specific-venue-needs-further-review"
+      },
+      {
+        "officialId": "423",
+        "name": "מגדל העמק - חנות משולבת ורדינון + נעמן",
+        "city": "מגדל העמק",
+        "address": "הזית 7",
+        "reason": "shared-placeholder-coordinate-needs-review"
+      },
+      {
+        "officialId": "106",
+        "name": "מודיעין עזריאלי",
+        "city": "מודיעין",
+        "address": "לב העיר 14, קניון עזריאלי קומה 1 ליד זארה",
+        "reason": "street-number-or-address-discrepancy-needs-review"
+      },
+      {
+        "officialId": "402",
+        "name": "מחלף ינאי - קניון אם הדרך - חנות משולבת ורדינון + נעמן",
+        "city": "מחלף ינאי",
+        "address": "כביש החוף, מחלף ינאי",
+        "reason": "shared-placeholder-coordinate-needs-review"
+      },
+      {
+        "officialId": "98",
+        "name": "נהריה",
+        "city": "נהריה",
+        "address": "האירית 2, שכונת עין שרה",
+        "reason": "specific-venue-needs-further-review"
+      },
+      {
+        "officialId": "484",
+        "name": "נוף הגליל - קניון מבנה - חנות משולבת ורדינון + נעמן",
+        "city": "נוף הגליל",
+        "address": "קניון מבנה, דרך החטיבות, נצרת",
+        "reason": "specific-venue-needs-further-review"
+      },
+      {
+        "officialId": "121",
+        "name": "נס ציונה - ישפרו סנטר",
+        "city": "נס ציונה",
+        "address": "הפטיש 6, מתחם ישפרו סנטר, מול המעליות",
+        "reason": "specific-venue-needs-further-review"
+      },
+      {
+        "officialId": "110",
+        "name": "נשר מבנה תל חנן - משולבת נעמן + ורדינון",
+        "city": "נשר",
+        "address": "בר יהודה 147, תל חנן",
+        "reason": "specific-venue-needs-further-review"
+      },
+      {
+        "officialId": "104",
+        "name": "נתיבות צים סנטר",
+        "city": "נתיבות",
+        "address": "בעלי המלאכה 5",
+        "reason": "tzim-versus-globus-venue-needs-review"
+      },
+      {
+        "officialId": "453",
+        "name": "נתניה - מתחם ביג פולג - עודפים - חנות משולבת ורדינון + נעמן",
+        "city": "נתניה",
+        "address": "גיבורי ישראל 5",
+        "reason": "outlet-or-temporary-fair-needs-review"
+      },
+      {
+        "officialId": "99",
+        "name": "נתניה - קרית שרונים",
+        "city": "נתניה",
+        "address": "טום לנטוס 26, מרכז מסחרי קריית השרון",
+        "reason": "specific-venue-needs-further-review"
+      },
+      {
+        "officialId": "489",
+        "name": "עד הלום - יריד משולב עודפים",
+        "city": "עד הלום",
+        "address": "אודם 1, עד הלום",
+        "reason": "outlet-or-temporary-fair-needs-review"
+      },
+      {
+        "officialId": "419",
+        "name": "עפולה - קניון העמקים - עודפים - חנות משולבת ורדינון + נעמן",
+        "city": "עפולה",
+        "address": "יהושוע חנקין 14",
+        "reason": "outlet-or-temporary-fair-needs-review"
+      },
+      {
+        "officialId": "112",
+        "name": "עפולה פרנדלי עמק סנטר - חנות עודפים",
+        "city": "עפולה",
+        "address": "שדרות רבין 18 עפולה",
+        "reason": "outlet-or-temporary-fair-needs-review"
+      },
+      {
+        "officialId": "405",
+        "name": "ערד - מתחם צים סנטר - חנות משולבת ורדינון + נעמן",
+        "city": "ערד",
+        "address": "שמיר 11",
+        "reason": "shared-placeholder-coordinate-needs-review"
+      },
+      {
+        "officialId": "90",
+        "name": "פתח תקווה - חובבי ציון",
+        "city": "פתח תקווה",
+        "address": "חובבי ציון 21",
+        "reason": "specific-venue-needs-further-review"
+      },
+      {
+        "officialId": "415",
+        "name": "פתח תקווה - מגשימים קריית מטלון - חנות משולבת ורדינון + נעמן",
+        "city": "פתח תקווה",
+        "address": "מגשימים 20, קרית מטלון",
+        "reason": "shared-placeholder-coordinate-needs-review"
+      },
+      {
+        "officialId": "111",
+        "name": "קריית ביאליק - קניון קריון עופר",
+        "city": "קרית ביאליק",
+        "address": "דרך עכו 153, קניון עופר קריון, כניסה דרך שער עופר, קומת כניסה",
+        "reason": "street-number-or-address-discrepancy-needs-review"
+      },
+      {
+        "officialId": "93",
+        "name": "קריית גת - קניון לב העיר",
+        "city": "קרית גת",
+        "address": "כיכר פ\"ז 3, קניון לב העיר",
+        "reason": "specific-venue-needs-further-review"
+      },
+      {
+        "officialId": "515",
+        "name": "קריית גת, שכונת כרמי גת - חנות משולבת ורדינון + נעמן",
+        "city": "קרית גת",
+        "address": "שדרות לכיש 153, כרמי גת",
+        "reason": "duplicate-karmei-gat-destination-needs-venue-review"
+      },
+      {
+        "officialId": "136",
+        "name": "קרית אתא - קניון שער הצפון - חנות משולבת ורדינון + נעמן",
+        "city": "קרית אתא",
+        "address": "דרך חיפה 30",
+        "reason": "street-number-or-address-discrepancy-needs-review"
+      },
+      {
+        "officialId": "147",
+        "name": "קרית שמונה - חנות משולבת ורדינון + נעמן",
+        "city": "קרית שמונה",
+        "address": "תל חי 77",
+        "reason": "specific-venue-needs-further-review"
+      },
+      {
+        "officialId": "107",
+        "name": "ראש העין - קניון לב אפק",
+        "city": "ראש העין",
+        "address": "בזק 1",
+        "reason": "specific-venue-needs-further-review"
+      },
+      {
+        "officialId": "445",
+        "name": "ראש פינה - קניון החאן - חנות משולבת ורדינון + נעמן",
+        "city": "ראש פינה",
+        "address": "מעלה גיא אוני 1",
+        "reason": "specific-venue-needs-further-review"
+      },
+      {
+        "officialId": "145",
+        "name": "ראשון לציון - קניון שער ראשון",
+        "city": "ראשון לציון",
+        "address": "גולדה מאיר 1",
+        "reason": "street-number-or-address-discrepancy-needs-review"
+      },
+      {
+        "officialId": "127",
+        "name": "ראשון לציון אחוזת ראשונים",
+        "city": "ראשון לציון",
+        "address": "הנחשול 30, נווה ים, מרכז מסחרי של אחוזת ראשון, בכניסה ליד בנק הפועלים",
+        "reason": "specific-venue-needs-further-review"
+      },
+      {
+        "officialId": "467",
+        "name": "רגבה - מושב - חנות משולבת ורדינון + נעמן",
+        "city": "מושב רגבה",
+        "address": "מושב רגבה",
+        "reason": "specific-venue-needs-further-review"
+      },
+      {
+        "officialId": "433",
+        "name": "רמלה - קניון רמלוד - חנות משולבת ורדינון + נעמן",
+        "city": "רמלה",
+        "address": "צופית 40",
+        "reason": "specific-venue-needs-further-review"
+      },
+      {
+        "officialId": "79",
+        "name": "רמת גן - ביאליק",
+        "city": "רמת גן",
+        "address": "ביאליק 58",
+        "reason": "street-number-or-address-discrepancy-needs-review"
+      },
+      {
+        "officialId": "123",
+        "name": "רמת גן - קניון עופר מרום נווה",
+        "city": "רמת גן",
+        "address": "חיים לנדאו 7",
+        "reason": "coordinate-conflicts-with-named-venue-needs-review"
+      },
+      {
+        "officialId": "116",
+        "name": "רעננה - אחוזה",
+        "city": "רעננה",
+        "address": "אחוזה 142",
+        "reason": "specific-venue-needs-further-review"
+      },
+      {
+        "officialId": "160",
+        "name": "שוהם",
+        "city": "שוהם",
+        "address": "שוהם מרקט, הדקל 30",
+        "reason": "shared-placeholder-coordinate-needs-review"
+      },
+      {
+        "officialId": "138",
+        "name": "שילת - מרכז מסחרי ירדן - עודפים",
+        "city": "שילת",
+        "address": "חרמון 2, מתחם ירדן א.ת שילת",
+        "reason": "outlet-or-temporary-fair-needs-review"
+      },
+      {
+        "officialId": "398",
+        "name": "תל אביב - קניון TLV - חנות משולבת ורדינון + נעמן",
+        "city": "תל אביב",
+        "address": "קרליבך 6",
+        "reason": "shared-placeholder-coordinate-needs-review"
+      }
+    ]
+  }
+}
