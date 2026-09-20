@@ -1,0 +1,698 @@
+{
+  "sourceUrl": "https://www.castro.com/stores",
+  "checkedAt": "2026-09-20",
+  "examined": 75,
+  "reviewed": [
+    {
+      "officialId": "4070",
+      "name": "עזריאלי מלחה - נשים גברים וילדים",
+      "city": "ירושלים",
+      "address": "קניון מלחה, בית''ר 1",
+      "waze": "waze://?ll=31.75176,35.187206&navigate=yes",
+      "lat": 31.75176,
+      "lng": 35.187206,
+      "reviewEvidence": "Official explicit Waze destination; city/venue cross-check with already reviewed ללין / מלחה - ירושלים (24 m)."
+    },
+    {
+      "officialId": "4074",
+      "name": "קניון איילון - נשים, גברים וילדים",
+      "city": "רמת גן",
+      "address": "קניון איילון, אבא הילל 301",
+      "waze": "waze://?ll=32.100593,34.826686&navigate=yes",
+      "lat": 32.100593,
+      "lng": 34.826686,
+      "reviewEvidence": "Official explicit Waze destination; city/venue cross-check with already reviewed ללין / איילון (18 m)."
+    },
+    {
+      "officialId": "4082",
+      "name": "עזריאלי גבעתיים - נשים, גברים וילדים",
+      "city": "גבעתיים",
+      "address": "קניון גבעתיים, יצחק רבין 53",
+      "waze": "waze://?ll=32.066342,34.809998&navigate=yes",
+      "lat": 32.066342,
+      "lng": 34.809998,
+      "reviewEvidence": "Official explicit Waze destination; city/venue cross-check with already reviewed ללין / גבעתיים (31 m)."
+    },
+    {
+      "officialId": "4089",
+      "name": "גן העיר תל אביב - נשים וגברים",
+      "city": "תל אביב-יפו",
+      "address": "קניון גן העיר, אבן גבירול 71",
+      "waze": "waze://?ll=32.082792,34.781216&navigate=yes",
+      "lat": 32.082792,
+      "lng": 34.781216,
+      "reviewEvidence": "Official explicit Waze destination; city/venue cross-check with already reviewed פוט לוקר / גן העיר תל אביב (115 m)."
+    },
+    {
+      "officialId": "4091",
+      "name": "קריון -  נשים, גברים וילדים",
+      "city": "קרית ביאליק",
+      "address": "קריון, עכו 192",
+      "waze": "waze://?ll=32.842198,35.088878&navigate=yes",
+      "lat": 32.842198,
+      "lng": 35.088878,
+      "reviewEvidence": "Official explicit Waze destination; city/venue cross-check with already reviewed פוקס הום / קרית ביאליק (302 m)."
+    },
+    {
+      "officialId": "4092",
+      "name": "גרנד קניון חיפה - נשים וגברים",
+      "city": "חיפה",
+      "address": "גראנד קניון, גולן שמחה 54",
+      "waze": "waze://?ll=32.789927,35.007887&navigate=yes",
+      "lat": 32.789927,
+      "lng": 35.007887,
+      "reviewEvidence": "Official explicit Waze destination; city/venue cross-check with already reviewed פוט לוקר / גרנד קניון חיפה (21 m)."
+    },
+    {
+      "officialId": "4094",
+      "name": "קניון רננים - נשים, גברים וילדים",
+      "city": "רעננה",
+      "address": "קניון רננים, המלאכה 2",
+      "waze": "waze://?ll=32.197951,34.880404&navigate=yes",
+      "lat": 32.197951,
+      "lng": 34.880404,
+      "reviewEvidence": "Official explicit Waze destination; city/venue cross-check with already reviewed פוט לוקר / קניון רננים (195 m)."
+    },
+    {
+      "officialId": "4096",
+      "name": "ביג כרמיאל - נשים, גברים, ילדים ו - HOME",
+      "city": "כרמיאל",
+      "address": "ביג כרמיאל, מעלה כמון 2",
+      "waze": "waze://?ll=32.92744,35.323449&navigate=yes",
+      "lat": 32.92744,
+      "lng": 35.323449,
+      "reviewEvidence": "Official explicit Waze destination; city/venue cross-check with already reviewed פוקס הום / כרמיאל (31 m)."
+    },
+    {
+      "officialId": "4097",
+      "name": "עזריאלי חיפה - נשים, גברים, ילדים ו - HOME",
+      "city": "חיפה",
+      "address": "קניון חיפה, פלימן משה 4",
+      "waze": "waze://?ll=32.789871,34.965652&navigate=yes",
+      "lat": 32.789871,
+      "lng": 34.965652,
+      "reviewEvidence": "Official explicit Waze destination; city/venue cross-check with already reviewed ללין / קניון חיפה (23 m)."
+    },
+    {
+      "officialId": "4100",
+      "name": "דיזנגוף סנטר - נשים, גברים וילדים",
+      "city": "תל אביב-יפו",
+      "address": "דיזנגוף סנטר, דיזנגוף 50",
+      "waze": "waze://?ll=32.075341,34.77527&navigate=yes",
+      "lat": 32.075341,
+      "lng": 34.77527,
+      "reviewEvidence": "Official explicit Waze destination; city/venue cross-check with already reviewed פוט לוקר / דיזינגוף סנטר תל אביב (40 m)."
+    },
+    {
+      "officialId": "4104",
+      "name": "ישפרו מודיעין - נשים, גברים וילדים",
+      "city": "מודיעין",
+      "address": "שד' המלכאות 121",
+      "waze": "waze://?ll=31.890302,34.962058&navigate=yes",
+      "lat": 31.890302,
+      "lng": 34.962058,
+      "reviewEvidence": "Official explicit Waze destination; city/venue cross-check with already reviewed ללין / מודיעין ישפרו (95 m)."
+    },
+    {
+      "officialId": "4105",
+      "name": "עזריאלי מודיעין - נשים",
+      "city": "מודיעין",
+      "address": "קניון מודיעין, לב העיר 2",
+      "waze": "waze://?ll=31.898926,35.007943&navigate=yes",
+      "lat": 31.898926,
+      "lng": 35.007943,
+      "reviewEvidence": "Official explicit Waze destination; city/venue cross-check with already reviewed אמריקן איגל / עזריאלי מודיעין (82 m)."
+    },
+    {
+      "officialId": "4106",
+      "name": "קניון אדומים - נשים, גברים וילדים",
+      "city": "מעלה אדומים",
+      "address": "קניון מעלה אדומים, קדם 5",
+      "waze": "waze://?ll=31.772064,35.299157&navigate=yes",
+      "lat": 31.772064,
+      "lng": 35.299157,
+      "reviewEvidence": "Official explicit Waze destination; city/venue cross-check with already reviewed ללין / מעלה אדומים (95 m)."
+    },
+    {
+      "officialId": "4111",
+      "name": "הקניון הגדול פתח תקווה - נשים וגברים",
+      "city": "פתח תקווה",
+      "address": "הקניון הגדול, ז'בוטינסקי 72",
+      "waze": "waze://?ll=32.091745,34.865341&navigate=yes",
+      "lat": 32.091745,
+      "lng": 34.865341,
+      "reviewEvidence": "Official explicit Waze destination; city/venue cross-check with already reviewed פוט לוקר / הקניון הגדול פתח תקווה (162 m)."
+    },
+    {
+      "officialId": "4113",
+      "name": "קניון רחובות - נשים גברים וילדים",
+      "city": "רחובות",
+      "address": "קניון רחובות, בילו 2",
+      "waze": "waze://?ll=31.892166,34.805774&navigate=yes",
+      "lat": 31.892166,
+      "lng": 34.805774,
+      "reviewEvidence": "Official explicit Waze destination; city/venue cross-check with already reviewed אמריקן איגל / קניון רחובות (41 m)."
+    },
+    {
+      "officialId": "4114",
+      "name": "קניון בת-ים - נשים, גברים וילדים",
+      "city": "בת ים",
+      "address": "קניון בת ים, יוספטל 92",
+      "waze": "waze://?ll=32.015596,34.755187&navigate=yes",
+      "lat": 32.015596,
+      "lng": 34.755187,
+      "reviewEvidence": "Official explicit Waze destination; city/venue cross-check with already reviewed פוקס הום / בת ים (82 m)."
+    },
+    {
+      "officialId": "4116",
+      "name": "עזריאלי עכו - נשים גברים וילדים",
+      "city": "עכו",
+      "address": "קניון עזריאלי, החרושת 2",
+      "waze": "waze://?ll=32.92332,35.081223&navigate=yes",
+      "lat": 32.92332,
+      "lng": 35.081223,
+      "reviewEvidence": "Official explicit Waze destination; city/venue cross-check with already reviewed פוט לוקר / עכו (41 m)."
+    },
+    {
+      "officialId": "4120",
+      "name": "ביג נצרת - נשים וגברים",
+      "city": "נצרת",
+      "address": "מתחם BIG, תופיק זאיד 53",
+      "waze": "waze://?ll=32.696159,35.301052&navigate=yes",
+      "lat": 32.696159,
+      "lng": 35.301052,
+      "reviewEvidence": "Official explicit Waze destination; city/venue cross-check with already reviewed ללין / נצרת (12 m)."
+    },
+    {
+      "officialId": "4122",
+      "name": "כפר-סבא G - נשים וגברים",
+      "city": "כפר סבא",
+      "address": "מרכז ויצמן, 207",
+      "waze": "waze://?ll=32.17147,34.928003&navigate=yes",
+      "lat": 32.17147,
+      "lng": 34.928003,
+      "reviewEvidence": "Official explicit Waze destination; city/venue cross-check with already reviewed פוקס הום / כפר סבא (17 m)."
+    },
+    {
+      "officialId": "4123",
+      "name": "נתיבות- נשים,גברים, ילדים ו - HOME",
+      "city": "נתיבות",
+      "address": "בעלי המלאכה 203",
+      "waze": "waze://?ll=31.418213,34.595217&navigate=yes",
+      "lat": 31.418213,
+      "lng": 34.595217,
+      "reviewEvidence": "Official explicit Waze destination; city/venue cross-check with already reviewed פוקס הום / נתיבות (285 m)."
+    },
+    {
+      "officialId": "4124",
+      "name": "ביג אילת - נשים גברים וילדים",
+      "city": "אילת",
+      "address": "מרכז ביג, הסתת 20",
+      "waze": "waze://?ll=29.567473,34.960036&navigate=yes",
+      "lat": 29.567473,
+      "lng": 34.960036,
+      "reviewEvidence": "Official explicit Waze destination; city/venue cross-check with already reviewed אמריקן איגל / ביג אילת (124 m)."
+    },
+    {
+      "officialId": "4129",
+      "name": "גולד הזהב - נשים",
+      "city": "ראשון לציון",
+      "address": "קניון הזהב, דוד סחרוב 21",
+      "waze": "waze://?ll=31.991602,34.774156&navigate=yes",
+      "lat": 31.991602,
+      "lng": 34.774156,
+      "reviewEvidence": "Official explicit Waze destination; city/venue cross-check with already reviewed פוט לוקר / קניון הזהב (111 m)."
+    },
+    {
+      "officialId": "4130",
+      "name": "עיר ימים – נשים, גברים",
+      "city": "נתניה",
+      "address": "קניון עיר ימים, בני ברמן 2",
+      "waze": "waze://?ll=32.279689,34.845054&navigate=yes",
+      "lat": 32.279689,
+      "lng": 34.845054,
+      "reviewEvidence": "Official explicit Waze destination; city/venue cross-check with already reviewed פוקס / קניון עיר ימים נתניה (163 m)."
+    },
+    {
+      "officialId": "4135",
+      "name": "אייסמול אילת - נשים גברים וילדים",
+      "city": "אילת",
+      "address": "קאמפן 8",
+      "waze": "waze://?ll=29.5545137,34.9665957&navigate=yes",
+      "lat": 29.5545137,
+      "lng": 34.9665957,
+      "reviewEvidence": "Official explicit Waze destination; city/venue cross-check with already reviewed פוט לוקר / אילת אייס מול (68 m)."
+    },
+    {
+      "officialId": "4138",
+      "name": "רמת ישי - נשים, גברים וילדים",
+      "city": "רמת ישי",
+      "address": "סטריט מול, רח' אקליפטוס 1",
+      "waze": "waze://?ll=32.707762,35.173658&navigate=yes",
+      "lat": 32.707762,
+      "lng": 35.173658,
+      "reviewEvidence": "Official explicit Waze destination; city/venue cross-check with already reviewed פוט לוקר / סטריט מול (33 m)."
+    },
+    {
+      "officialId": "4140",
+      "name": "ביג פאשן טבריה - נשים, גברים וילדים",
+      "city": "טבריה",
+      "address": "יהודה הלוי 2",
+      "waze": "waze://?ll=32.790745,35.533681&navigate=yes",
+      "lat": 32.790745,
+      "lng": 35.533681,
+      "reviewEvidence": "Official explicit Waze destination; city/venue cross-check with already reviewed ללין / טבריה (22 m)."
+    },
+    {
+      "officialId": "4144",
+      "name": "עין שמר - נשים, גברים וילדים HOME",
+      "city": "עין שמר",
+      "address": "מתחם אלונית, צומת כרכור",
+      "waze": "waze://?ll=32.465548,34.993353&navigate=yes",
+      "lat": 32.465548,
+      "lng": 34.993353,
+      "reviewEvidence": "Official explicit Waze destination; city/venue cross-check with already reviewed פוקס הום / עין שמר (128 m)."
+    },
+    {
+      "officialId": "4145",
+      "name": "גראנד באר שבע - נשים, גברים, ילדים ו - HOME",
+      "city": "באר שבע",
+      "address": "שד' טוביהו 125",
+      "waze": "waze://?ll=31.250295,34.771623&navigate=yes",
+      "lat": 31.250295,
+      "lng": 34.771623,
+      "reviewEvidence": "Official explicit Waze destination; city/venue cross-check with already reviewed אמריקן איגל / גרנד קניון באר שבע (5 m)."
+    },
+    {
+      "officialId": "4147",
+      "name": "נצרת דודג '- נשים, גברים וילדים",
+      "city": "נצרת עלית",
+      "address": "דרך העמק",
+      "waze": "waze://?ll=32.693979,35.303748&navigate=yes",
+      "lat": 32.693979,
+      "lng": 35.303748,
+      "reviewEvidence": "Official explicit Waze destination; city/venue cross-check with already reviewed ללין / נצרת דודג (112 m)."
+    },
+    {
+      "officialId": "4149",
+      "name": "ארנה נהריה - נשים, גברים וילדים",
+      "city": "נהריה",
+      "address": "שדרות בן צבי 1",
+      "waze": "waze://?ll=33.00474,35.09983&navigate=yes",
+      "lat": 33.00474,
+      "lng": 35.09983,
+      "reviewEvidence": "Official explicit Waze destination; city/venue cross-check with already reviewed פוט לוקר / ארנה,נהריה (104 m)."
+    },
+    {
+      "officialId": "4151",
+      "name": "מעלות - נשים, גברים וילדים",
+      "city": "מעלות תרשיחא",
+      "address": "שלמה שרירא 3 - צים סנטר",
+      "waze": "waze://?ll=33.020617,35.280848&navigate=yes",
+      "lat": 33.020617,
+      "lng": 35.280848,
+      "reviewEvidence": "Official explicit Waze destination; city/venue cross-check with already reviewed פוקס הום / מעלות (132 m)."
+    },
+    {
+      "officialId": "4152",
+      "name": "ביג רגבה - נשים, גברים וילדים",
+      "city": "רגבה",
+      "address": "מתחם BIG",
+      "waze": "waze://?ll=32.97473,35.094822&navigate=yes",
+      "lat": 32.97473,
+      "lng": 35.094822,
+      "reviewEvidence": "Official explicit Waze destination; city/venue cross-check with already reviewed פוקס הום / רגבה (33 m)."
+    },
+    {
+      "officialId": "4153",
+      "name": "ביג פאשן אשדוד- נשים, גברים, ילדים ו - HOME",
+      "city": "אשדוד",
+      "address": "דרך אריאל שרון 1",
+      "waze": "waze://?ll=31.779199,34.663991&navigate=yes",
+      "lat": 31.779199,
+      "lng": 34.663991,
+      "reviewEvidence": "Official explicit Waze destination; city/venue cross-check with already reviewed אמריקן איגל / ביג פאשן אשדוד (283 m)."
+    },
+    {
+      "officialId": "4161",
+      "name": "ביג באר שבע - נשים, גברים, ילדים ו - HOME",
+      "city": "באר שבע",
+      "address": "דרך חברון 21",
+      "waze": "waze://?ll=31.244077,34.809702&navigate=yes",
+      "lat": 31.244077,
+      "lng": 34.809702,
+      "reviewEvidence": "Official explicit Waze destination; city/venue cross-check with already reviewed פוט לוקר / ביג באר שבע (25 m)."
+    },
+    {
+      "officialId": "4165",
+      "name": "מבקיעים גלובוס סנטר- נשים, גברים, ילדים ו - HOME",
+      "city": "אשקלון",
+      "address": "חוף אשקלון, צומת, מבקיעים",
+      "waze": "waze://?ll=31.62736,34.583591&navigate=yes",
+      "lat": 31.62736,
+      "lng": 34.583591,
+      "reviewEvidence": "Official explicit Waze destination; city/venue cross-check with already reviewed פוט לוקר / גלובוס אשקלון (45 m)."
+    },
+    {
+      "officialId": "4166",
+      "name": "מול החוף וילג' - נשים, גברים, ילדים ו - HOME",
+      "city": "חדרה",
+      "address": "שכטמן 10",
+      "waze": "waze://?ll=32.442528,34.895954&navigate=yes",
+      "lat": 32.442528,
+      "lng": 34.895954,
+      "reviewEvidence": "Official explicit Waze destination; city/venue cross-check with already reviewed ללין / מול החוף חדרה (137 m)."
+    },
+    {
+      "officialId": "4169",
+      "name": "מתחם G ראשון לציון - נשים, גברים, ילדים ו - HOME",
+      "city": "ראשון לציון",
+      "address": "ילדי טהרן 5",
+      "waze": "waze://?ll=31.985015,34.769418&navigate=yes",
+      "lat": 31.985015,
+      "lng": 34.769418,
+      "reviewEvidence": "Official explicit Waze destination; city/venue cross-check with already reviewed ללין / סינמה סיטי ראשל\"צ (120 m)."
+    },
+    {
+      "officialId": "4177",
+      "name": "עזריאלי הוד השרון - ילדים",
+      "city": "הוד השרון",
+      "address": "ז'בוטינסקי 3",
+      "waze": "waze://?ll=32.144386,34.892184&navigate=yes",
+      "lat": 32.144386,
+      "lng": 34.892184,
+      "reviewEvidence": "Official explicit Waze destination; city/venue cross-check with already reviewed פוקס הום / עזריאלי מרגלית השרון (90 m)."
+    },
+    {
+      "officialId": "5341",
+      "name": "ראש העין ילדים",
+      "city": "ראש העין",
+      "address": "יגאל אלון פינת ניסים אלוני מתחם שפיר",
+      "waze": "waze://?ll=32.08570236,34.97992725&navigate=yes",
+      "lat": 32.08570236,
+      "lng": 34.97992725,
+      "reviewEvidence": "Official explicit Waze destination; city/venue cross-check with already reviewed פוקס / קניון שפיר ראש העין (25 m)."
+    },
+    {
+      "officialId": "10946",
+      "name": "עזריאלי חולון - נשים וגברים",
+      "city": "חולון",
+      "address": "קניון חולון, גולדה מאיר 7",
+      "waze": "waze://?ll=32.012001,34.779392&navigate=yes",
+      "lat": 32.012001,
+      "lng": 34.779392,
+      "reviewEvidence": "Official explicit Waze destination; city/venue cross-check with already reviewed פוקס / קניון חולון (27 m)."
+    },
+    {
+      "officialId": "10947",
+      "name": "קניוןן קרית אונו - נשים, גברים וילדים",
+      "city": "קרית אונו",
+      "address": "שלמה המלך 37",
+      "waze": "waze://?ll=32.05576973,34.8633719&navigate=yes",
+      "lat": 32.05576973,
+      "lng": 34.8633719,
+      "reviewEvidence": "Official explicit Waze destination; city/venue cross-check with already reviewed אמריקן איגל / קניון קרית אונו (9 m)."
+    },
+    {
+      "officialId": "10948",
+      "name": "נתניה השרון- נשים, גברים וילדים",
+      "city": "נתניה",
+      "address": "הרצל 60 נתניה",
+      "waze": "waze://?ll=32.32649335,34.86178041&navigate=yes",
+      "lat": 32.32649335,
+      "lng": 34.86178041,
+      "reviewEvidence": "Official explicit Waze destination; city/venue cross-check with already reviewed ללין / נתניה (14 m)."
+    },
+    {
+      "officialId": "12667",
+      "name": "ביג גלילות",
+      "city": "רמת השרון",
+      "address": "רמת השרון",
+      "waze": "waze://?ll=32.14928451,34.80511604&navigate=yes",
+      "lat": 32.14928451,
+      "lng": 34.80511604,
+      "reviewEvidence": "Official explicit Waze destination; city/venue cross-check with already reviewed פוקס / ביג פאשן גלילות (11 m)."
+    }
+  ],
+  "skipped": [
+    {
+      "officialId": "4073",
+      "name": "עזריאלי הנגב - נשים, גברים, ילדים ו - HOME",
+      "city": "באר שבע",
+      "address": "קניון הנגב, צומת אלי כהן",
+      "waze": "waze://?ll=31.24443,34.810619&navigate=yes",
+      "reason": "source-coordinate-mismatch-negev-points-near-big"
+    },
+    {
+      "officialId": "4077",
+      "name": "ביל'ו סנטר OUTLET - נשים, גברים וילדים",
+      "city": "קרית עקרון",
+      "address": "צומת ביל'ו",
+      "waze": "waze://?ll=31.865029,34.816666&navigate=yes",
+      "reason": "outlet-needs-eligibility-review"
+    },
+    {
+      "officialId": "4087",
+      "name": "מרכז ביג קרית אתא - נשים, גברים, ילדים ו - HOME",
+      "city": "קרית אתא",
+      "address": "מרכז ביג, רח ההסתדרות 248",
+      "waze": "waze://?ll=32.810842,35.072383&navigate=yes",
+      "reason": "location-needs-further-venue-review"
+    },
+    {
+      "officialId": "4090",
+      "name": "יפו השעון - נשים,וגברים",
+      "city": "תל אביב-יפו",
+      "address": "רזיאל 29",
+      "waze": "waze://?ll=32.054858,34.756274&navigate=yes",
+      "reason": "location-needs-further-venue-review"
+    },
+    {
+      "officialId": "4095",
+      "name": "קניותר - נשים, גברים וילדים",
+      "city": "נס ציונה",
+      "address": "קניון קניותר, האירוסים 53",
+      "waze": "waze://?ll=31.930423,34.797785&navigate=yes",
+      "reason": "location-needs-further-venue-review"
+    },
+    {
+      "officialId": "4101",
+      "name": "ביג גליל עליון - נשים וגברים",
+      "city": "קרית שמונה",
+      "address": "קניון גליל עליון, הבנים 1",
+      "waze": "waze://?ll=33.192661,35.571187&navigate=yes",
+      "reason": "location-needs-further-venue-review"
+    },
+    {
+      "officialId": "4121",
+      "name": "סירקין – נשים, גברים וילדים",
+      "city": "פתח תקווה",
+      "address": "אלעזר פרידמן 9",
+      "waze": "waze://?ll=32.079757,34.902135&navigate=yes",
+      "reason": "location-needs-further-venue-review"
+    },
+    {
+      "officialId": "4126",
+      "name": "ביג קרית גת-  נשים וגברים",
+      "city": "קרית גת",
+      "address": "מתחם ביג, דרך הדרום 3",
+      "waze": "waze://?ll=31.602836,34.77253&navigate=yes",
+      "reason": "location-needs-further-venue-review"
+    },
+    {
+      "officialId": "4133",
+      "name": "חוצות המפרץ OUTLET - נשים וגברים",
+      "city": "חיפה",
+      "address": "חוצות המפרץ",
+      "waze": "waze://?ll=32.807787,35.056191&navigate=yes",
+      "reason": "outlet-needs-eligibility-review"
+    },
+    {
+      "officialId": "4136",
+      "name": "בית שמש - נשים, גברים וילדים",
+      "city": "בית שמש",
+      "address": "מתחם ביג פאשן",
+      "waze": "waze://?ll=31.75744,34.989648&navigate=yes",
+      "reason": "location-needs-further-venue-review"
+    },
+    {
+      "officialId": "4141",
+      "name": "מתחם פרץ דימונה - נשים, גברים וילדים HOME",
+      "city": "דימונה",
+      "address": "כביש 25, פרץ סנטר",
+      "waze": "waze://?ll=31.060153,35.020346&navigate=yes",
+      "reason": "location-needs-further-venue-review"
+    },
+    {
+      "officialId": "4146",
+      "name": "ביג קסטינה - נשים, גברים וילדים",
+      "city": "קרית מלאכי",
+      "address": "אזהת באר טוביה",
+      "waze": "waze://?ll=31.728059,34.755053&navigate=yes",
+      "reason": "location-needs-further-venue-review"
+    },
+    {
+      "officialId": "4148",
+      "name": "מרכז רוגובין נתניה - נשים גברים וילדים",
+      "city": "נתניה",
+      "address": "המחקר 3",
+      "waze": "waze://?ll=32.291731,34.862396&navigate=yes",
+      "reason": "location-needs-further-venue-review"
+    },
+    {
+      "officialId": "4155",
+      "name": "מתחם G יבנה- גברים, נשים וילדים",
+      "city": "יבנה",
+      "address": "הקישון 7",
+      "waze": "waze://?ll=31.867193,34.741917&navigate=yes",
+      "reason": "location-needs-further-venue-review"
+    },
+    {
+      "officialId": "4156",
+      "name": "עזריאלי רמלה - נשים, גברים וילדים",
+      "city": "רמלה",
+      "address": "שדרות דוד רזיאל, 1",
+      "waze": "waze://?ll=31.9230196,34.8625676&navigate=yes",
+      "reason": "location-needs-further-venue-review"
+    },
+    {
+      "officialId": "4157",
+      "name": "שפרעם - נשים, גברים וילדים",
+      "city": "שפרעם",
+      "address": "רחוב אל-עין כניסה מערבית",
+      "waze": "waze://?ll=32.81724,35.152422&navigate=yes",
+      "reason": "location-needs-further-venue-review"
+    },
+    {
+      "officialId": "4170",
+      "name": "עזריאלי חולון - ילדים",
+      "city": "חולון",
+      "address": "גולדה מאיר 7",
+      "waze": "waze://?ll=32.012475,34.779548&navigate=yes",
+      "reason": "duplicate-department-at-same-venue"
+    },
+    {
+      "officialId": "4173",
+      "name": "גן העיר - ילדים",
+      "city": "תל אביב-יפו",
+      "address": "קניון גן העיר, אבן גבירול 71",
+      "waze": "waze://?ll=32.082792,34.781216&navigate=yes",
+      "reason": "duplicate-department-at-same-destination"
+    },
+    {
+      "officialId": "4175",
+      "name": "ביג גליל עליון - ילדים",
+      "city": "קרית שמונה",
+      "address": "קניון גליל עליון, הבנים 1",
+      "waze": "waze://?ll=33.192661,35.571187&navigate=yes",
+      "reason": "location-needs-further-venue-review"
+    },
+    {
+      "officialId": "4176",
+      "name": "עזריאלי מודיעין",
+      "city": "מודיעין",
+      "address": "לב העיר 2",
+      "waze": "waze://?ll=31.900026,35.007382&navigate=yes",
+      "reason": "duplicate-department-at-same-venue"
+    },
+    {
+      "officialId": "4179",
+      "name": "הקניון הגדול פתח תקווה - ילדים",
+      "city": "פתח תקווה",
+      "address": "ז'בוטינסקי 72, הקניון הגדול",
+      "waze": "waze://?ll=32.091745,34.865341&navigate=yes",
+      "reason": "duplicate-department-at-same-destination"
+    },
+    {
+      "officialId": "4185",
+      "name": "ביג נצרת - ילדים",
+      "city": "נצרת",
+      "address": "זיאד תופיק 1",
+      "waze": "waze://?ll=32.696159,35.301052&navigate=yes",
+      "reason": "duplicate-department-at-same-destination"
+    },
+    {
+      "officialId": "4186",
+      "name": "כפר-סבא G - ילדים",
+      "city": "כפר סבא",
+      "address": "מרכז ויצמן, 207",
+      "waze": "waze://?ll=32.17147,34.928003&navigate=yes",
+      "reason": "duplicate-department-at-same-destination"
+    },
+    {
+      "officialId": "4187",
+      "name": "ביג קרית גת- ילדים",
+      "city": "קרית גת",
+      "address": "מתחם ביג, דרך הדרום 3",
+      "waze": "waze://?ll=31.602836,34.77253&navigate=yes",
+      "reason": "location-needs-further-venue-review"
+    },
+    {
+      "officialId": "4188",
+      "name": "גולד הזהב - ילדים",
+      "city": "ראשון לציון",
+      "address": "קניון הזהב, דוד סחרוב 21",
+      "waze": "waze://?ll=31.991602,34.774156&navigate=yes",
+      "reason": "duplicate-department-at-same-destination"
+    },
+    {
+      "officialId": "4198",
+      "name": "עזריאלי מודיעין - גברים",
+      "city": "מודיעין",
+      "address": "קניון מודיעין, לב העיר 2",
+      "waze": "waze://?ll=31.898926,35.007943&navigate=yes",
+      "reason": "duplicate-department-at-same-destination"
+    },
+    {
+      "officialId": "4200",
+      "name": "גולד הזהב - גברים",
+      "city": "ראשון לציון",
+      "address": "קניון הזהב, דוד סחרוב 21",
+      "waze": "waze://?ll=31.991602,34.774156&navigate=yes",
+      "reason": "duplicate-department-at-same-destination"
+    },
+    {
+      "officialId": "4306",
+      "name": "גן העיר - HOME",
+      "city": "תל אביב-יפו",
+      "address": "קניון גן העיר, אבן גבירול 71",
+      "waze": "waze://?ll=32.082792,34.781216&navigate=yes",
+      "reason": "duplicate-department-at-same-destination"
+    },
+    {
+      "officialId": "11069",
+      "name": "גרנד קניון חיפה - ילדים",
+      "city": "חיפה",
+      "address": "גראנד קניון, גולן שמחה 54",
+      "waze": "waze://?ll=32.789927,35.007887&navigate=yes",
+      "reason": "duplicate-department-at-same-destination"
+    },
+    {
+      "officialId": "11195",
+      "name": "עזריאלי הרצליה OUTLET - נשים, גברים וילדים",
+      "city": "הרצליה",
+      "address": "מדינת היהודים 85",
+      "waze": "waze://?ll=32.167128,34.81128&navigate=yes",
+      "reason": "outlet-needs-eligibility-review"
+    },
+    {
+      "officialId": "12974",
+      "name": "חנות מטה - משרדים (לעובדים בלבד)",
+      "city": "בת ים",
+      "address": "אורט ישראל 31",
+      "waze": "waze://?ll=32.008101,34.745829&navigate=yes",
+      "reason": "employees-only"
+    },
+    {
+      "officialId": "4103",
+      "name": "עפולה G - נשים, גברים וילדים",
+      "city": "עפולה",
+      "address": "עמק סנטר, יצחק רבין 18",
+      "waze": "waze://?ll=32.620379,35.311543&navigate=yes",
+      "lat": 32.620379,
+      "lng": 35.311543,
+      "reviewEvidence": "Official explicit Waze destination; city/venue cross-check with already reviewed פוט לוקר / עפולה מתחם E center (105 m).",
+      "reason": "venue-name-mismatch-needs-review-g-emek-versus-e-center"
+    }
+  ]
+}

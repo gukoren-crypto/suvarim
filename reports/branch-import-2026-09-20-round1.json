@@ -1,0 +1,436 @@
+{
+  "checkedAt": "2026-09-20T06:31:50.015Z",
+  "files": [
+    "candidates/foxhome.json",
+    "candidates/shilav.json",
+    "candidates/new-chain.json"
+  ],
+  "added": [
+    {
+      "id": "foxhome-1bd843928522",
+      "store": "פוקס הום",
+      "name": "רגבה",
+      "city": "רגבה"
+    },
+    {
+      "id": "foxhome-91a919656c7a",
+      "store": "פוקס הום",
+      "name": "אום אל פחם",
+      "city": "אום אל פחם"
+    },
+    {
+      "id": "foxhome-cbd6c5b9e0f3",
+      "store": "פוקס הום",
+      "name": "אשדוד",
+      "city": "אשדוד"
+    },
+    {
+      "id": "foxhome-630bf5751388",
+      "store": "פוקס הום",
+      "name": "ירושלים",
+      "city": "ירושלים"
+    },
+    {
+      "id": "foxhome-826a04fb416c",
+      "store": "פוקס הום",
+      "name": "ירושלים",
+      "city": "ירושלים"
+    },
+    {
+      "id": "foxhome-af77d92093c2",
+      "store": "פוקס הום",
+      "name": "נתניה",
+      "city": "נתניה"
+    },
+    {
+      "id": "foxhome-c95d361f22d8",
+      "store": "פוקס הום",
+      "name": "ראש העין",
+      "city": "ראש העין"
+    },
+    {
+      "id": "foxhome-39b41509dbae",
+      "store": "פוקס הום",
+      "name": "כרמיאל",
+      "city": "כרמיאל"
+    },
+    {
+      "id": "foxhome-e2a30a52b866",
+      "store": "פוקס הום",
+      "name": "תל אביב",
+      "city": "תל אביב"
+    },
+    {
+      "id": "foxhome-327191fab329",
+      "store": "פוקס הום",
+      "name": "רמלה",
+      "city": "רמלה"
+    },
+    {
+      "id": "foxhome-6fe073123841",
+      "store": "פוקס הום",
+      "name": "חולון",
+      "city": "חולון"
+    },
+    {
+      "id": "foxhome-84df95f05f65",
+      "store": "פוקס הום",
+      "name": "מודיעין",
+      "city": "מודיעין"
+    },
+    {
+      "id": "foxhome-480a3f6c2f16",
+      "store": "פוקס הום",
+      "name": "אשקלון",
+      "city": "אשקלון"
+    },
+    {
+      "id": "foxhome-36dffdbdf260",
+      "store": "פוקס הום",
+      "name": "כפר סבא",
+      "city": "כפר סבא"
+    },
+    {
+      "id": "foxhome-8cffa1f10fa0",
+      "store": "פוקס הום",
+      "name": "טבריה",
+      "city": "טבריה"
+    },
+    {
+      "id": "foxhome-5385ff128d54",
+      "store": "פוקס הום",
+      "name": "בת ים",
+      "city": "בת ים"
+    },
+    {
+      "id": "foxhome-20dbf037a3cd",
+      "store": "פוקס הום",
+      "name": "גבעתיים",
+      "city": "גבעתיים"
+    },
+    {
+      "id": "foxhome-e906638100aa",
+      "store": "פוקס הום",
+      "name": "אריאל",
+      "city": "אריאל"
+    },
+    {
+      "id": "foxhome-03afc33a520d",
+      "store": "פוקס הום",
+      "name": "שדרות",
+      "city": "שדרות"
+    },
+    {
+      "id": "foxhome-1053b7ae8b18",
+      "store": "פוקס הום",
+      "name": "גוש עציון",
+      "city": "גוש עציון"
+    },
+    {
+      "id": "foxhome-a256a0feb7a3",
+      "store": "פוקס הום",
+      "name": "נתיבות",
+      "city": "נתיבות"
+    },
+    {
+      "id": "foxhome-39bb4d0eda7f",
+      "store": "פוקס הום",
+      "name": "גן יבנה",
+      "city": "גן יבנה"
+    },
+    {
+      "id": "foxhome-58d22082eb1b",
+      "store": "פוקס הום",
+      "name": "חריש",
+      "city": "חריש"
+    },
+    {
+      "id": "foxhome-13ef0594fe2b",
+      "store": "פוקס הום",
+      "name": "שוהם",
+      "city": "שוהם"
+    },
+    {
+      "id": "foxhome-def53905a9e9",
+      "store": "פוקס הום",
+      "name": "אשדוד",
+      "city": "אשדוד"
+    },
+    {
+      "id": "foxhome-42d53293386f",
+      "store": "פוקס הום",
+      "name": "אשקלון",
+      "city": "אשקלון"
+    },
+    {
+      "id": "foxhome-c41b6c69c4a5",
+      "store": "פוקס הום",
+      "name": "דימונה",
+      "city": "דימונה"
+    },
+    {
+      "id": "foxhome-b48d1adc3070",
+      "store": "פוקס הום",
+      "name": "מודיעין",
+      "city": "מודיעין"
+    },
+    {
+      "id": "foxhome-af9a891e9263",
+      "store": "פוקס הום",
+      "name": "אילת",
+      "city": "אילת"
+    },
+    {
+      "id": "foxhome-9ad657b0ea2e",
+      "store": "פוקס הום",
+      "name": "פרדס חנה",
+      "city": "פרדס חנה"
+    },
+    {
+      "id": "foxhome-74f68c32ecbb",
+      "store": "פוקס הום",
+      "name": "קרית ביאליק",
+      "city": "קרית ביאליק"
+    },
+    {
+      "id": "foxhome-6983e8d6e89f",
+      "store": "פוקס הום",
+      "name": "קרית גת",
+      "city": "קרית גת"
+    },
+    {
+      "id": "foxhome-eb67ba8f663c",
+      "store": "פוקס הום",
+      "name": "קרית אונו",
+      "city": "קרית אונו"
+    },
+    {
+      "id": "foxhome-f9ae8513c849",
+      "store": "פוקס הום",
+      "name": "אופקים",
+      "city": "אופקים"
+    },
+    {
+      "id": "foxhome-21fe0de6ceb8",
+      "store": "פוקס הום",
+      "name": "זכרון יעקב",
+      "city": "זכרון יעקב"
+    },
+    {
+      "id": "american-eagle-09e64fc8f567",
+      "store": "אמריקן איגל",
+      "name": "עזריאלי רמלה",
+      "city": "רמלה"
+    },
+    {
+      "id": "american-eagle-0a7082c358ce",
+      "store": "אמריקן איגל",
+      "name": "עזריאלי תל אביב",
+      "city": "תל אביב"
+    },
+    {
+      "id": "american-eagle-0bab5011f1ae",
+      "store": "אמריקן איגל",
+      "name": "גרנד קניון חיפה",
+      "city": "חיפה"
+    },
+    {
+      "id": "american-eagle-1a2e44206679",
+      "store": "אמריקן איגל",
+      "name": "ביג פאשן טבריה",
+      "city": "טבריה"
+    },
+    {
+      "id": "american-eagle-1b79561b72fe",
+      "store": "אמריקן איגל",
+      "name": "קניון חיפה",
+      "city": "חיפה"
+    },
+    {
+      "id": "american-eagle-2136ed7c45ab",
+      "store": "אמריקן איגל",
+      "name": "קניון הנגב",
+      "city": "באר שבע"
+    },
+    {
+      "id": "american-eagle-35ee371e3639",
+      "store": "אמריקן איגל",
+      "name": "קניון רחובות",
+      "city": "רחובות"
+    },
+    {
+      "id": "american-eagle-48c13290cfb2",
+      "store": "אמריקן איגל",
+      "name": "קניון ראשונים",
+      "city": "ראשון לציון"
+    },
+    {
+      "id": "american-eagle-503c4a6040ea",
+      "store": "אמריקן איגל",
+      "name": "גרנד קניון באר שבע",
+      "city": "באר שבע"
+    },
+    {
+      "id": "american-eagle-62849250ac3f",
+      "store": "אמריקן איגל",
+      "name": "ביג פאשן אשדוד",
+      "city": "אשדוד"
+    },
+    {
+      "id": "american-eagle-6aa5ad7e5619",
+      "store": "אמריקן איגל",
+      "name": "קניון גבעתיים",
+      "city": "גבעתיים"
+    },
+    {
+      "id": "american-eagle-6cd525f02861",
+      "store": "אמריקן איגל",
+      "name": "ממילא",
+      "city": "ירושלים"
+    },
+    {
+      "id": "american-eagle-74e16dac9019",
+      "store": "אמריקן איגל",
+      "name": "ביג נצרת",
+      "city": "נצרת"
+    },
+    {
+      "id": "american-eagle-778d0591be50",
+      "store": "אמריקן איגל",
+      "name": "מתחם G כפר סבא",
+      "city": "כפר סבא"
+    },
+    {
+      "id": "american-eagle-7c398701129c",
+      "store": "אמריקן איגל",
+      "name": "מול החוף וילג׳",
+      "city": "חדרה"
+    },
+    {
+      "id": "american-eagle-870c8e3164ab",
+      "store": "אמריקן איגל",
+      "name": "קניון שבעת הכוכבים",
+      "city": "הרצליה"
+    },
+    {
+      "id": "american-eagle-94331e1c1cb5",
+      "store": "אמריקן איגל",
+      "name": "ביג באר שבע",
+      "city": "באר שבע"
+    },
+    {
+      "id": "american-eagle-94847a4b29aa",
+      "store": "אמריקן איגל",
+      "name": "סטאר סנטר אשדוד",
+      "city": "אשדוד"
+    },
+    {
+      "id": "american-eagle-a0dccbfdd7f3",
+      "store": "אמריקן איגל",
+      "name": "קניון מלחה",
+      "city": "ירושלים"
+    },
+    {
+      "id": "american-eagle-a3d2c4a2259d",
+      "store": "אמריקן איגל",
+      "name": "קניון עיר ימים",
+      "city": "נתניה"
+    },
+    {
+      "id": "american-eagle-a63f13df7396",
+      "store": "אמריקן איגל",
+      "name": "קניון הדר תלפיות",
+      "city": "ירושלים"
+    },
+    {
+      "id": "american-eagle-aed049e40545",
+      "store": "אמריקן איגל",
+      "name": "קניון מבשרת",
+      "city": "מבשרת ציון"
+    },
+    {
+      "id": "american-eagle-b0ef799b5828",
+      "store": "אמריקן איגל",
+      "name": "דיזנגוף סנטר",
+      "city": "תל אביב"
+    },
+    {
+      "id": "american-eagle-b3e8b06f4470",
+      "store": "אמריקן איגל",
+      "name": "קניון קרית אונו",
+      "city": "קרית אונו"
+    },
+    {
+      "id": "american-eagle-b4ed615d5cb3",
+      "store": "אמריקן איגל",
+      "name": "עזריאלי מודיעין",
+      "city": "מודיעין"
+    },
+    {
+      "id": "american-eagle-bca77a213748",
+      "store": "אמריקן איגל",
+      "name": "קניון רמת אביב",
+      "city": "תל אביב"
+    },
+    {
+      "id": "american-eagle-cab5b88c6169",
+      "store": "אמריקן איגל",
+      "name": "ביג אילת",
+      "city": "אילת"
+    },
+    {
+      "id": "american-eagle-cbb93b3dc8a5",
+      "store": "אמריקן איגל",
+      "name": "ביג כרמיאל",
+      "city": "כרמיאל"
+    },
+    {
+      "id": "american-eagle-d4d142388032",
+      "store": "אמריקן איגל",
+      "name": "קניון הזהב",
+      "city": "ראשון לציון"
+    },
+    {
+      "id": "american-eagle-da7983abad4a",
+      "store": "אמריקן איגל",
+      "name": "קניון רננים",
+      "city": "רעננה"
+    },
+    {
+      "id": "american-eagle-f27051bb4dbc",
+      "store": "אמריקן איגל",
+      "name": "הקניון הגדול",
+      "city": "פתח תקווה"
+    },
+    {
+      "id": "american-eagle-f77a6f3ecce8",
+      "store": "אמריקן איגל",
+      "name": "טיילת רויאל ביץ׳",
+      "city": "אילת"
+    }
+  ],
+  "updated": [],
+  "duplicates": [],
+  "reviewRequired": [],
+  "retained": [],
+  "chains": [
+    {
+      "store": "פוקס הום",
+      "examined": 106,
+      "included": 45,
+      "retained": 0
+    },
+    {
+      "store": "שילב",
+      "examined": 91,
+      "included": 4,
+      "retained": 0
+    },
+    {
+      "store": "אמריקן איגל",
+      "examined": 44,
+      "included": 32,
+      "retained": 0
+    }
+  ]
+}

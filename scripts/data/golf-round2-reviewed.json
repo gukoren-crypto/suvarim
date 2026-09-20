@@ -1,0 +1,902 @@
+{
+  "sourceUrl": "https://www.golf-il.co.il/stores",
+  "checkedAt": "2026-09-20",
+  "exclusions": {
+    "232": "venue-coordinate-not-independently-corroborated-in-this-round",
+    "233": "city-coordinate-conflict; Ness Ziona branch points to Rehovot",
+    "234": "city-coordinate-conflict; Rehovot Mall pin near Ness Ziona",
+    "235": "venue-coordinate-conflict; Poleg pin several kilometers south",
+    "238": "venue-coordinate-not-independently-corroborated-in-this-round",
+    "241": "venue-coordinate-not-independently-corroborated-in-this-round",
+    "243": "invalid-coordinate-outside-Israel; source latitude -31.3473, longitude 25.86626",
+    "246": "venue-coordinate-not-independently-corroborated-in-this-round",
+    "247": "venue-coordinate-needs-review; Neve Zeev branch points near central Beer Sheva",
+    "249": "venue-coordinate-not-independently-corroborated-in-this-round",
+    "250": "venue-coordinate-conflict; BIG Beer Sheva pin west of the venue",
+    "251": "venue-coordinate-conflict; Malha Mall branch points east of the mall",
+    "252": "venue-coordinate-not-independently-corroborated-in-this-round",
+    "253": "duplicate-address-of-outlet-307; branch classification requires confirmation",
+    "254": "venue-coordinate-not-independently-corroborated-in-this-round",
+    "255": "venue-coordinate-not-independently-corroborated-in-this-round",
+    "256": "venue-coordinate-not-independently-corroborated-in-this-round",
+    "260": "venue-coordinate-not-independently-corroborated-in-this-round",
+    "261": "venue-coordinate-not-independently-corroborated-in-this-round",
+    "262": "venue-coordinate-not-independently-corroborated-in-this-round",
+    "263": "venue-coordinate-not-independently-corroborated-in-this-round",
+    "265": "venue-coordinate-conflict; Ein Shemer pin over 1km from corroborated venue",
+    "267": "venue-coordinate-not-independently-corroborated-in-this-round",
+    "268": "venue-coordinate-not-independently-corroborated-in-this-round",
+    "270": "venue-coordinate-not-independently-corroborated-in-this-round",
+    "272": "venue-coordinate-conflict; Ayalon Mall branch points to southern Ramat Gan",
+    "273": "city-coordinate-conflict; Tzemach branch points to Tel Aviv",
+    "276": "venue-coordinate-conflict; Grand Haifa pin over 600m from corroborated mall",
+    "277": "venue-coordinate-not-independently-corroborated-in-this-round",
+    "281": "venue-coordinate-conflict; Maale Adumim Mall pin over 490m from corroborated mall",
+    "282": "venue-coordinate-not-independently-corroborated-in-this-round",
+    "285": "venue-coordinate-conflict; Haifa Mall pin over 1km from corroborated mall",
+    "287": "venue-coordinate-not-independently-corroborated-in-this-round",
+    "289": "venue-coordinate-not-independently-corroborated-in-this-round",
+    "290": "venue-coordinate-not-independently-corroborated-in-this-round",
+    "292": "city-coordinate-conflict; Sakhnin branch points near Haifa",
+    "293": "venue-coordinate-not-independently-corroborated-in-this-round",
+    "294": "venue-coordinate-not-independently-corroborated-in-this-round",
+    "298": "venue-coordinate-needs-review; BIG Eilat branch points near beachfront",
+    "301": "city-coordinate-conflict; Ashkelon branch points near Emek Hefer",
+    "303": "outlet-excluded-pending-voucher-eligibility-review",
+    "304": "outlet-excluded-pending-voucher-eligibility-review",
+    "306": "outlet-excluded-pending-voucher-eligibility-review",
+    "307": "outlet-excluded-pending-voucher-eligibility-review",
+    "308": "outlet-excluded-pending-voucher-eligibility-review",
+    "309": "outlet-excluded-pending-voucher-eligibility-review",
+    "310": "outlet-excluded-pending-voucher-eligibility-review",
+    "3154": "venue-coordinate-not-independently-corroborated-in-this-round",
+    "3829": "venue-coordinate-not-independently-corroborated-in-this-round",
+    "3830": "venue-coordinate-not-independently-corroborated-in-this-round",
+    "3832": "venue-coordinate-needs-review; BIG Kiryat Gat coordinate needs confirmation",
+    "5324": "outlet-excluded-pending-voucher-eligibility-review",
+    "5884": "duplicate-official-location-of-8237; same Grand Beer Sheva name/address within one meter",
+    "5886": "outlet-excluded-pending-voucher-eligibility-review",
+    "6904": "outlet-excluded-pending-voucher-eligibility-review",
+    "7612": "venue-coordinate-not-independently-corroborated-in-this-round",
+    "7814": "venue-coordinate-not-independently-corroborated-in-this-round",
+    "8136": "venue-coordinate-conflict; MORE Harish pin over 1km from corroborated venue",
+    "8540": "venue-coordinate-not-independently-corroborated-in-this-round"
+  },
+  "reviewed": [
+    {
+      "id": "6904",
+      "name": "ב.ס.ר אאוטלט פתח תקווה",
+      "city": "פתח תקווה",
+      "address": "ז'בוטינסקי 61",
+      "lat": 32.09083,
+      "lng": 34.87238
+    },
+    {
+      "id": "8136",
+      "name": "גולף MORE חריש",
+      "city": "חריש",
+      "address": "דרך ארץ 35",
+      "lat": 32.46185,
+      "lng": 35.04535
+    },
+    {
+      "id": "309",
+      "name": "גולף אאוטלט נעימי בית שמש",
+      "city": "בית שמש",
+      "address": "דרך יצחק רבין 2",
+      "lat": 31.74621,
+      "lng": 34.98868
+    },
+    {
+      "id": "307",
+      "name": "גולף אאוטלט קניון ישראל י-ם",
+      "city": "ירושלים",
+      "address": "יד חרוצים 18",
+      "lat": 31.75098,
+      "lng": 35.21577
+    },
+    {
+      "id": "304",
+      "name": "גולף אאוטלט- ביג ירכא",
+      "city": "ירכא",
+      "address": "מרכז מסחרי ירכא",
+      "lat": 32.9564,
+      "lng": 35.1832
+    },
+    {
+      "id": "5324",
+      "name": "גולף אאוטלט- בני ברק",
+      "city": "בני ברק",
+      "address": "ששת הימים 26",
+      "lat": 32.13299,
+      "lng": 34.83815
+    },
+    {
+      "id": "308",
+      "name": "גולף אאוטלט- טופ סנטר",
+      "city": "אשדוד",
+      "address": "האורגים 6",
+      "lat": 31.81075,
+      "lng": 34.6625
+    },
+    {
+      "id": "306",
+      "name": "גולף אאוטלט- מבנה באר שבע",
+      "city": "באר שבע",
+      "address": "יצחק נפחא 25",
+      "lat": 31.25107,
+      "lng": 34.81276
+    },
+    {
+      "id": "310",
+      "name": "גולף אאוטלט- קניון סירקין",
+      "city": "פתח תקוה",
+      "address": "אלעזר פרידמן 9",
+      "lat": 32.07985,
+      "lng": 34.90247
+    },
+    {
+      "id": "303",
+      "name": "גולף אאוטלט- קריית גת",
+      "city": "קרית גת",
+      "address": "דרך ישראל פולג אזור תעשיה",
+      "lat": 31.55175,
+      "lng": 34.79201
+    },
+    {
+      "id": "5886",
+      "name": "גולף אאוטלט- רכטר אילת",
+      "city": "אילת",
+      "address": "התמרים 13",
+      "lat": 29.56328,
+      "lng": 34.95082
+    },
+    {
+      "id": "5882",
+      "name": "גולף ארנה נהריה",
+      "city": "נהריה",
+      "address": "שדרות הנשיא בן צבי 1",
+      "lat": 33.00486,
+      "lng": 35.10104
+    },
+    {
+      "id": "298",
+      "name": "גולף ביג אילת",
+      "city": "אילת",
+      "address": "הסתת 20",
+      "lat": 29.56658,
+      "lng": 34.95982
+    },
+    {
+      "id": "250",
+      "name": "גולף ביג באר שבע",
+      "city": "באר שבע",
+      "address": "דרך חברון 21",
+      "lat": 31.23984,
+      "lng": 34.79942
+    },
+    {
+      "id": "255",
+      "name": "גולף ביג יוקנעם",
+      "city": "יוקנעם",
+      "address": "שדרות יצחק רבין 9",
+      "lat": 32.64768,
+      "lng": 35.09598
+    },
+    {
+      "id": "3829",
+      "name": "גולף ביג כרמיאל",
+      "city": "כרמיאל",
+      "address": "מעלה כמון 2",
+      "lat": 32.92427,
+      "lng": 35.32602
+    },
+    {
+      "id": "257",
+      "name": "גולף ביג נצרת",
+      "city": "נצרת",
+      "address": "תופיק זאיד 53",
+      "lat": 32.69606,
+      "lng": 35.29788
+    },
+    {
+      "id": "236",
+      "name": "גולף ביג פאשן אשדוד",
+      "city": "אשדוד",
+      "address": "דרך הרכבת 1",
+      "lat": 31.77576,
+      "lng": 34.66225
+    },
+    {
+      "id": "6602",
+      "name": "גולף ביג פאשן גלילות",
+      "city": "רמת השרון",
+      "address": "הרב מכר 1 צומת גלילות",
+      "lat": 32.1487,
+      "lng": 34.8057
+    },
+    {
+      "id": "235",
+      "name": "גולף ביג פולג- מתחם נצב\"א",
+      "city": "נתניה",
+      "address": "ביג פולג, גבורי ישראל 5",
+      "lat": 32.22836,
+      "lng": 34.87594
+    },
+    {
+      "id": "7814",
+      "name": "גולף ביג פוריה",
+      "city": "טבריה",
+      "address": "המברג 1",
+      "lat": 32.78279,
+      "lng": 35.49831
+    },
+    {
+      "id": "3832",
+      "name": "גולף ביג קריית גת",
+      "city": "קרית גת",
+      "address": "דרך הדרום 3",
+      "lat": 31.62748,
+      "lng": 34.79398
+    },
+    {
+      "id": "243",
+      "name": "גולף בילו סנטר",
+      "city": "קרית עקרון",
+      "address": "צומת ביל'ו",
+      "lat": -31.3473,
+      "lng": 25.86626
+    },
+    {
+      "id": "293",
+      "name": "גולף בית קלקא",
+      "city": "תל אביב-יפו",
+      "address": "דרך מנחם בגין 116",
+      "lat": 32.07087,
+      "lng": 34.78946
+    },
+    {
+      "id": "254",
+      "name": "גולף בן יהודה ירושלים",
+      "city": "ירושלים",
+      "address": "בן יהודה 23",
+      "lat": 31.78121,
+      "lng": 35.21677
+    },
+    {
+      "id": "268",
+      "name": "גולף גלובוס סנטר נתיבות",
+      "city": "נתיבות",
+      "address": "בעלי המלאכה 5",
+      "lat": 31.41753,
+      "lng": 34.59334
+    },
+    {
+      "id": "8237",
+      "name": "גולף גרנד באר שבע",
+      "city": "באר שבע",
+      "address": "טוביהו 125",
+      "lat": 31.2503,
+      "lng": 34.7718
+    },
+    {
+      "id": "5884",
+      "name": "גולף גרנד באר שבע",
+      "city": "באר שבע",
+      "address": "טוביהו 125",
+      "lat": 31.2502981,
+      "lng": 34.7718042
+    },
+    {
+      "id": "276",
+      "name": "גולף גרנד קניון חיפה",
+      "city": "חיפה",
+      "address": "גולן שמחה 54",
+      "lat": 32.78791,
+      "lng": 35.01432
+    },
+    {
+      "id": "248",
+      "name": "גולף דיזינגוף סנטר",
+      "city": "תל אביב-יפו",
+      "address": "דיזנגוף 50",
+      "lat": 32.07522,
+      "lng": 34.7757
+    },
+    {
+      "id": "5885",
+      "name": "גולף דימונה",
+      "city": "דימונה",
+      "address": "גולדה מאיר/המעפיל",
+      "lat": 31.07282,
+      "lng": 35.03165
+    },
+    {
+      "id": "263",
+      "name": "גולף דרך המכבים ראשל\"צ",
+      "city": "ראשון לציון",
+      "address": "מכבים 62 א.ת מזרחי",
+      "lat": 31.9846,
+      "lng": 34.8112
+    },
+    {
+      "id": "229",
+      "name": "גולף הדר תלפיות",
+      "city": "ירושלים",
+      "address": "גנרל פייר קניג 26",
+      "lat": 31.7529,
+      "lng": 35.214
+    },
+    {
+      "id": "238",
+      "name": "גולף חונים קונים",
+      "city": "ראשון לציון",
+      "address": "לישנסקי 9",
+      "lat": 31.99018,
+      "lng": 34.76469
+    },
+    {
+      "id": "299",
+      "name": "גולף חוצות המפרץ",
+      "city": "חיפה",
+      "address": "החרושת 10",
+      "lat": 32.80686,
+      "lng": 35.05462
+    },
+    {
+      "id": "3154",
+      "name": "גולף יכין סנטר",
+      "city": "פתח תקוה",
+      "address": "שחם 17",
+      "lat": 32.08649,
+      "lng": 34.8589
+    },
+    {
+      "id": "8540",
+      "name": "גולף כפר עציון",
+      "city": "כפר עציון",
+      "address": "כפר עציון 1",
+      "lat": 31.651623,
+      "lng": 35.11433747
+    },
+    {
+      "id": "267",
+      "name": "גולף לב הפסגה פ. זאב",
+      "city": "פסגת זאב",
+      "address": "שדרות משה דיין 106",
+      "lat": 31.82413,
+      "lng": 35.23736
+    },
+    {
+      "id": "244",
+      "name": "גולף מבנה גן שמואל",
+      "city": "גן שמואל",
+      "address": "פארק מסחרי",
+      "lat": 32.44816,
+      "lng": 34.95394
+    },
+    {
+      "id": "262",
+      "name": "גולף מבנה תל חנן",
+      "city": "נשר",
+      "address": "דרך בר יהודה 147",
+      "lat": 32.77482,
+      "lng": 35.04295
+    },
+    {
+      "id": "3830",
+      "name": "גולף מגדל שלום",
+      "city": "תל אביב-יפו",
+      "address": "אחד העם 9",
+      "lat": 32.06378,
+      "lng": 34.76966
+    },
+    {
+      "id": "273",
+      "name": "גולף מול כנרת",
+      "city": "צמח",
+      "address": "צמח",
+      "lat": 32.0738,
+      "lng": 34.77776
+    },
+    {
+      "id": "7612",
+      "name": "גולף מיקס חדרה",
+      "city": "חדרה",
+      "address": "צה\"ל 35",
+      "lat": 32.44044,
+      "lng": 34.9308
+    },
+    {
+      "id": "282",
+      "name": "גולף מרכז G בעמק",
+      "city": "עפולה",
+      "address": "יצחק רבין 18",
+      "lat": 32.61853,
+      "lng": 35.31371
+    },
+    {
+      "id": "290",
+      "name": "גולף מרכז מגה אור",
+      "city": "מודיעין",
+      "address": "שדרת המלאכות 14",
+      "lat": 31.8905,
+      "lng": 34.9627
+    },
+    {
+      "id": "265",
+      "name": "גולף מתחם אלון עין שמר",
+      "city": "עין שמר",
+      "address": "עין שמר",
+      "lat": 32.46292,
+      "lng": 35.00737
+    },
+    {
+      "id": "247",
+      "name": "גולף נווה זאב באר שבע",
+      "city": "באר שבע",
+      "address": "זבוטינסקי 30",
+      "lat": 31.24841,
+      "lng": 34.8085
+    },
+    {
+      "id": "232",
+      "name": "גולף נתנזון חיפה",
+      "city": "חיפה",
+      "address": "נתנזון 25",
+      "lat": 32.81686,
+      "lng": 35.0012
+    },
+    {
+      "id": "264",
+      "name": "גולף סטריט-מול",
+      "city": "רמת ישי",
+      "address": "אקליפטוס 3",
+      "lat": 32.70733,
+      "lng": 35.174
+    },
+    {
+      "id": "287",
+      "name": "גולף סינמול",
+      "city": "חיפה",
+      "address": "ההסתדרות 55",
+      "lat": 32.79189,
+      "lng": 35.03634
+    },
+    {
+      "id": "277",
+      "name": "גולף פרופיט סנטר",
+      "city": "חולון",
+      "address": "המרכבה 38",
+      "lat": 32.00606,
+      "lng": 34.80675
+    },
+    {
+      "id": "253",
+      "name": "גולף קניון אחים ישראל",
+      "city": "ירושלים",
+      "address": "יד חרוצים 18",
+      "lat": 31.75098,
+      "lng": 35.21577
+    },
+    {
+      "id": "272",
+      "name": "גולף קניון איילון",
+      "city": "רמת גן",
+      "address": "דרך אבא הילל סילבר 301",
+      "lat": 32.06869,
+      "lng": 34.82468
+    },
+    {
+      "id": "294",
+      "name": "גולף קניון אם הדרך",
+      "city": "בית חירות",
+      "address": "בית חרות",
+      "lat": 32.37893,
+      "lng": 34.86934
+    },
+    {
+      "id": "271",
+      "name": "גולף קניון בת ים",
+      "city": "בת ים",
+      "address": "יוספטל 92",
+      "lat": 32.01552,
+      "lng": 34.7559
+    },
+    {
+      "id": "275",
+      "name": "גולף קניון גבעתיים",
+      "city": "גבעתיים",
+      "address": "יצחק רבין 53",
+      "lat": 32.06646,
+      "lng": 34.8106
+    },
+    {
+      "id": "301",
+      "name": "גולף קניון גלובוס סנטר מבקיעים",
+      "city": "אשקלון",
+      "address": "צומת קצא\"א, על כביש 4",
+      "lat": 32.3459,
+      "lng": 34.90008
+    },
+    {
+      "id": "245",
+      "name": "גולף קניון גן העיר",
+      "city": "תל אביב-יפו",
+      "address": "אבן גבירול 71",
+      "lat": 32.08231,
+      "lng": 34.78106
+    },
+    {
+      "id": "252",
+      "name": "גולף קניון הראל",
+      "city": "מבשרת ציון",
+      "address": "הראל 1",
+      "lat": 31.80607,
+      "lng": 35.15332
+    },
+    {
+      "id": "242",
+      "name": "גולף קניון השרון",
+      "city": "נתניה",
+      "address": "הרצל 60",
+      "lat": 32.32635,
+      "lng": 34.86247
+    },
+    {
+      "id": "246",
+      "name": "גולף קניון חוצות שפיים",
+      "city": "שפיים",
+      "address": "מרכז מסחרי שפיים",
+      "lat": 32.221,
+      "lng": 34.8283
+    },
+    {
+      "id": "288",
+      "name": "גולף קניון מודיעין",
+      "city": "מודיעין",
+      "address": "לב העיר 2",
+      "lat": 31.89894,
+      "lng": 35.00796
+    },
+    {
+      "id": "251",
+      "name": "גולף קניון מלחה",
+      "city": "ירושלים",
+      "address": "דרך אגודת ספורט בית\"ר 1",
+      "lat": 31.7596,
+      "lng": 35.21532
+    },
+    {
+      "id": "281",
+      "name": "גולף קניון מעלה אדומים",
+      "city": "מעלה אדומים",
+      "address": "דרך קדם 5",
+      "lat": 31.77548,
+      "lng": 35.30381
+    },
+    {
+      "id": "260",
+      "name": "גולף קניון סטאר סנטר",
+      "city": "אשדוד",
+      "address": "ז'בוטינסקי 45",
+      "lat": 31.81129,
+      "lng": 34.64912
+    },
+    {
+      "id": "292",
+      "name": "גולף קניון סכנין",
+      "city": "סכנין",
+      "address": "קניון סכנין",
+      "lat": 32.7748,
+      "lng": 35.01384
+    },
+    {
+      "id": "285",
+      "name": "גולף קניון עזריאלי חיפה",
+      "city": "חיפה",
+      "address": "פלימן משה 4",
+      "lat": 32.78195,
+      "lng": 34.97653
+    },
+    {
+      "id": "270",
+      "name": "גולף קניון ערים",
+      "city": "כפר סבא",
+      "address": "דוד אלעזר",
+      "lat": 32.17825,
+      "lng": 34.9051
+    },
+    {
+      "id": "283",
+      "name": "גולף קניון קריית אונו",
+      "city": "קרית אונו",
+      "address": "שלמה המלך 37",
+      "lat": 32.05567,
+      "lng": 34.86339
+    },
+    {
+      "id": "261",
+      "name": "גולף קניון רוטשילד",
+      "city": "ראשון לציון",
+      "address": "רוטשילד 45",
+      "lat": 31.96336,
+      "lng": 34.80143
+    },
+    {
+      "id": "234",
+      "name": "גולף קניון רחובות",
+      "city": "רחובות",
+      "address": "בילו 2",
+      "lat": 31.92843,
+      "lng": 34.7964
+    },
+    {
+      "id": "284",
+      "name": "גולף קניון רמות",
+      "city": "ירושלים",
+      "address": "שדרות גולדה מאיר 255",
+      "lat": 31.81783,
+      "lng": 35.19445
+    },
+    {
+      "id": "240",
+      "name": "גולף קניון רננים",
+      "city": "רעננה",
+      "address": "המלאכה 2",
+      "lat": 32.19778,
+      "lng": 34.87847
+    },
+    {
+      "id": "256",
+      "name": "גולף קניון שבעת הכוכבים",
+      "city": "הרצליה",
+      "address": "שדרות שבעת הכוכבים 8",
+      "lat": 32.1622,
+      "lng": 34.82087
+    },
+    {
+      "id": "233",
+      "name": "גולף קניותר",
+      "city": "נס ציונה",
+      "address": "האירוסים 53",
+      "lat": 31.93058,
+      "lng": 34.7984
+    },
+    {
+      "id": "6299",
+      "name": "גולף רגבה",
+      "city": "רגבה",
+      "address": "מושב רגבה ד.נ גלילי מערבי, רגבה",
+      "lat": 32.9778,
+      "lng": 35.1021
+    },
+    {
+      "id": "289",
+      "name": "גולף שד.הנשיא עפולה",
+      "city": "עפולה",
+      "address": "הנשיא וייצמן 18",
+      "lat": 32.60955,
+      "lng": 35.28947
+    },
+    {
+      "id": "241",
+      "name": "גולף שפרעם",
+      "city": "שפרעם",
+      "address": "רחוב אלעין",
+      "lat": 32.80583,
+      "lng": 35.16895
+    },
+    {
+      "id": "249",
+      "name": "גולף תחנה מרכזית ירושלים",
+      "city": "ירושלים",
+      "address": "יפו 224 תחנה מרכזית",
+      "lat": 31.78923,
+      "lng": 35.20322
+    }
+  ],
+  "corroboration": [
+    {
+      "officialId": "5882",
+      "referenceId": "footlocker-8e9a7cd73534",
+      "referenceName": "ארנה,נהריה",
+      "referenceAddress": "שדרות בן צבי 1 נהריה",
+      "referenceSourceUrl": "https://footlocker.co.il/pages/branches",
+      "referenceCoordinateSourceUrl": "https://www.google.com/maps/place/HaNassi+Ben+Tsvi+Ave+1,+Nahariya/@33.0048991,35.0983415,17z/data=!3m1!4b1!4m6!3m5!1s0x151dce5ecf0f6049:0x850bc27df6c32fdf!8m2!3d33.0048991!4d35.1009164!16s%2Fg%2F11bz_0m_g5?entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D",
+      "distanceMeters": 12,
+      "note": "Named venue or street address match; original Golf coordinate preserved"
+    },
+    {
+      "officialId": "257",
+      "referenceId": "fox-765f68cc16c5",
+      "referenceName": "ביג פאשן נצרת",
+      "referenceAddress": "ביג פאשן נצרת, נצרת",
+      "referenceSourceUrl": "https://fox.co.il/pages/branches",
+      "referenceCoordinateSourceUrl": "https://waze.com/ul?ll=32.6953002,35.2981652&navigate=yes",
+      "distanceMeters": 89,
+      "note": "Named venue or street address match; original Golf coordinate preserved"
+    },
+    {
+      "officialId": "236",
+      "referenceId": "laline-50",
+      "referenceName": "ביג פאשן אשדוד",
+      "referenceAddress": "רחוב דרך אריאל שרון 1 אשדוד",
+      "referenceSourceUrl": "https://www.laline.co.il/pages/branches",
+      "referenceCoordinateSourceUrl": "https://ul.waze.com/ul?place=ChIJx6NN5iRPHBURb8t2RHxEBvk&ll=31.77650400%2C34.66360510&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+      "distanceMeters": 152,
+      "note": "Named venue or street address match; original Golf coordinate preserved"
+    },
+    {
+      "officialId": "6602",
+      "referenceId": "laline-57",
+      "referenceName": "ביג גלילות",
+      "referenceAddress": "ביג גלילות",
+      "referenceSourceUrl": "https://www.laline.co.il/pages/branches",
+      "referenceCoordinateSourceUrl": "https://ul.waze.com/ul?place=ChIJlZ1ye0JJHRURVTgoAA3Mjcc&ll=32.14896240%2C34.80519040&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+      "distanceMeters": 56,
+      "note": "Named venue or street address match; original Golf coordinate preserved"
+    },
+    {
+      "officialId": "8237",
+      "referenceId": "american-eagle-503c4a6040ea",
+      "referenceName": "גרנד קניון באר שבע",
+      "referenceAddress": "Tuvyahu David 125, באר שבע",
+      "referenceSourceUrl": "https://storelocations.ae.com/il/south-district/beer-sheva/33023-tuvyahu-david-125.html",
+      "referenceCoordinateSourceUrl": "https://storelocations.ae.com/il/south-district/beer-sheva/33023-tuvyahu-david-125.html",
+      "distanceMeters": 21,
+      "note": "Named venue or street address match; original Golf coordinate preserved"
+    },
+    {
+      "officialId": "248",
+      "referenceId": "american-eagle-b0ef799b5828",
+      "referenceName": "דיזנגוף סנטר",
+      "referenceAddress": "Dizingoff 50, תל אביב",
+      "referenceSourceUrl": "https://storelocations.ae.com/il/tel-aviv-district/tel-aviv/33010-dizingoff-50.html",
+      "referenceCoordinateSourceUrl": "https://storelocations.ae.com/il/tel-aviv-district/tel-aviv/33010-dizingoff-50.html",
+      "distanceMeters": 56,
+      "note": "Named venue or street address match; original Golf coordinate preserved"
+    },
+    {
+      "officialId": "5885",
+      "referenceId": "foxhome-c41b6c69c4a5",
+      "referenceName": "דימונה",
+      "referenceAddress": "שדרות גולדה מאיר 1, דימונה",
+      "referenceSourceUrl": "https://www.foxhome.co.il/pages/branches",
+      "referenceCoordinateSourceUrl": "https://www.waze.com/he/live-map/directions/%D7%93%D7%99%D7%9E%D7%95%D7%A0%D7%94?to=place.ws.il.115172.1",
+      "distanceMeters": 162,
+      "note": "Named venue or street address match; original Golf coordinate preserved"
+    },
+    {
+      "officialId": "229",
+      "referenceId": "american-eagle-a63f13df7396",
+      "referenceName": "קניון הדר תלפיות",
+      "referenceAddress": "Pier Kenig 26, ירושלים",
+      "referenceSourceUrl": "https://storelocations.ae.com/il/jerusalem-district/talpiyot/33027-pier-kenig-26.html",
+      "referenceCoordinateSourceUrl": "https://storelocations.ae.com/il/jerusalem-district/talpiyot/33027-pier-kenig-26.html",
+      "distanceMeters": 81,
+      "note": "Named venue or street address match; original Golf coordinate preserved"
+    },
+    {
+      "officialId": "299",
+      "referenceId": "footlocker-e1084fbec4cc",
+      "referenceName": "חוצות המפרץ",
+      "referenceAddress": "חוצות המפרץ",
+      "referenceSourceUrl": "https://footlocker.co.il/pages/branches",
+      "referenceCoordinateSourceUrl": "https://www.google.com/maps/place/%D7%97%D7%95%D7%A6%D7%95%D7%AA+%D7%94%D7%9E%D7%A4%D7%A8%D7%A5%E2%80%AD/@32.8092826,35.0527742,17z/data=!4m10!1m2!2m1!1z15fXldem15XXpSDXlNee16TXqNel!3m6!1s0x151db0b9e5001eb5:0xcbebe846c79db0b5!8m2!3d32.8087231!4d35.0541179!15sChXXl9eV16bXldeqINeU157XpNeo16VaFyIV15fXldem15XXqiDXlNee16TXqNelkgEPc2hvcHBpbmdfY2VudGVy4AEA!16s%2Fg%2F1vsmv87y?entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D",
+      "distanceMeters": 212,
+      "note": "Named venue or street address match; original Golf coordinate preserved"
+    },
+    {
+      "officialId": "244",
+      "referenceId": "laline-69",
+      "referenceName": "גן שמואל",
+      "referenceAddress": "פארק מסחרי, גן שמואל",
+      "referenceSourceUrl": "https://www.laline.co.il/pages/branches",
+      "referenceCoordinateSourceUrl": "https://ul.waze.com/ul?place=ChIJZzmMxwESHRURdxjAUmHYawI&ll=32.44798200%2C34.95377710&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+      "distanceMeters": 25,
+      "note": "Named venue or street address match; original Golf coordinate preserved"
+    },
+    {
+      "officialId": "264",
+      "referenceId": "footlocker-1c8d19cda320",
+      "referenceName": "סטריט מול",
+      "referenceAddress": "אקליפטוס 3, רמת ישי",
+      "referenceSourceUrl": "https://footlocker.co.il/pages/branches",
+      "referenceCoordinateSourceUrl": "https://www.google.com/maps/place/%D7%A7%D7%A0%D7%99%D7%95%D7%9F+%D7%A1%D7%98%D7%A8%D7%99%D7%98+%D7%9E%D7%95%D7%9C,+Ekaliptus+St+3,+Ramat+Yishay%E2%80%AD/@32.7075242,35.1712835,17z/data=!3m1!4b1!4m6!3m5!1s0x151db286e0c14e41:0x6e97370d3c6e9571!8m2!3d32.7075197!4d35.1738584!16s%2Fg%2F11f5k1yqx9?entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D",
+      "distanceMeters": 25,
+      "note": "Named venue or street address match; original Golf coordinate preserved"
+    },
+    {
+      "officialId": "271",
+      "referenceId": "foxhome-5385ff128d54",
+      "referenceName": "בת ים",
+      "referenceAddress": "קניון בת ים. יוספטל 92, בת ים",
+      "referenceSourceUrl": "https://www.foxhome.co.il/pages/branches",
+      "referenceCoordinateSourceUrl": "https://www.waze.com/he/live-map/directions/il/%D7%9E%D7%97%D7%95%D7%96-%D7%94%D7%9E%D7%A8%D7%9B%D7%96/%D7%91%D7%AA-%D7%99%D7%9D/%D7%A7%D7%A0%D7%99%D7%95%D7%9F?to=place.ChIJLeZclGuzAhURHA7ZwXTC-tM",
+      "distanceMeters": 36,
+      "note": "Named venue or street address match; original Golf coordinate preserved"
+    },
+    {
+      "officialId": "275",
+      "referenceId": "laline-88",
+      "referenceName": "גבעתיים",
+      "referenceAddress": "דרך יצחק רבין 53, גבעתיים",
+      "referenceSourceUrl": "https://www.laline.co.il/pages/branches",
+      "referenceCoordinateSourceUrl": "https://ul.waze.com/ul?place=ChIJK_iAKKlLHRURIuuxZDhpeik&ll=32.06659450%2C34.81014990&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+      "distanceMeters": 45,
+      "note": "Named venue or street address match; original Golf coordinate preserved"
+    },
+    {
+      "officialId": "245",
+      "referenceId": "footlocker-6d61d042e436",
+      "referenceName": "גן העיר תל אביב",
+      "referenceAddress": "אבן גבירול 71, תל אביב",
+      "referenceSourceUrl": "https://footlocker.co.il/pages/branches",
+      "referenceCoordinateSourceUrl": "https://www.google.com/maps/place/Shlomo+Ibn+Gabirol+St+71,+Tel+Aviv-Jaffa/@32.0822869,34.777576,17z/data=!3m1!4b1!4m6!3m5!1s0x151d4b8f4782cceb:0x11b06176fae4b522!8m2!3d32.0822869!4d34.7801509!16s%2Fg%2F11bw3wprnz?entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D",
+      "distanceMeters": 86,
+      "note": "Named venue or street address match; original Golf coordinate preserved"
+    },
+    {
+      "officialId": "242",
+      "referenceId": "laline-38",
+      "referenceName": "נתניה",
+      "referenceAddress": "הרצל 60, נתניה",
+      "referenceSourceUrl": "https://www.laline.co.il/pages/branches",
+      "referenceCoordinateSourceUrl": "https://ul.waze.com/ul?place=ChIJV_UeuKpqHRURHvcumAfYjnM&ll=32.32641080%2C34.86189930&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+      "distanceMeters": 54,
+      "note": "Named venue or street address match; original Golf coordinate preserved"
+    },
+    {
+      "officialId": "288",
+      "referenceId": "american-eagle-b4ed615d5cb3",
+      "referenceName": "עזריאלי מודיעין",
+      "referenceAddress": "Lev Ha-Ir 2, מודיעין",
+      "referenceSourceUrl": "https://storelocations.ae.com/il/center-district/modiin/33021-lev-ha-ir-2.html",
+      "referenceCoordinateSourceUrl": "https://storelocations.ae.com/il/center-district/modiin/33021-lev-ha-ir-2.html",
+      "distanceMeters": 81,
+      "note": "Named venue or street address match; original Golf coordinate preserved"
+    },
+    {
+      "officialId": "283",
+      "referenceId": "american-eagle-b3e8b06f4470",
+      "referenceName": "קניון קרית אונו",
+      "referenceAddress": "Shlomo Ha-Melech 37, קרית אונו",
+      "referenceSourceUrl": "https://storelocations.ae.com/il/tel-aviv-district/kiryat-ono/33005-shlomo-ha-melech-37.html",
+      "referenceCoordinateSourceUrl": "https://storelocations.ae.com/il/tel-aviv-district/kiryat-ono/33005-shlomo-ha-melech-37.html",
+      "distanceMeters": 3,
+      "note": "Named venue or street address match; original Golf coordinate preserved"
+    },
+    {
+      "officialId": "284",
+      "referenceId": "foxhome-826a04fb416c",
+      "referenceName": "ירושלים",
+      "referenceAddress": "קניון רמות- שדרות גולדה מאיר, ירושלים",
+      "referenceSourceUrl": "https://www.foxhome.co.il/pages/branches",
+      "referenceCoordinateSourceUrl": "https://www.waze.com/he/live-map/directions/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D/%D7%A7%D7%A0%D7%99%D7%95%D7%9F-%D7%A8%D7%9E%D7%95%D7%AA?to=place.ChIJtdXVdw_WAhUR9BY5rEF71bk",
+      "distanceMeters": 37,
+      "note": "Named venue or street address match; original Golf coordinate preserved"
+    },
+    {
+      "officialId": "240",
+      "referenceId": "american-eagle-da7983abad4a",
+      "referenceName": "קניון רננים",
+      "referenceAddress": "Hamelacha 2, רעננה",
+      "referenceSourceUrl": "https://storelocations.ae.com/il/center-district/raanana/33003-hamelacha-2.html",
+      "referenceCoordinateSourceUrl": "https://storelocations.ae.com/il/center-district/raanana/33003-hamelacha-2.html",
+      "distanceMeters": 50,
+      "note": "Named venue or street address match; original Golf coordinate preserved"
+    },
+    {
+      "officialId": "6299",
+      "referenceId": "fox-f1ffd71e2726",
+      "referenceName": "מתחם ביג רגבה",
+      "referenceAddress": "מתחם ביג רגבה, רגבה",
+      "referenceSourceUrl": "https://fox.co.il/pages/branches",
+      "referenceCoordinateSourceUrl": "https://waze.com/ul?ll=32.97796249,35.09967041&navigate=yes",
+      "distanceMeters": 227,
+      "note": "Named venue or street address match; original Golf coordinate preserved"
+    }
+  ],
+  "examined": 79
+}

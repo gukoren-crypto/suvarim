@@ -12,6 +12,8 @@ const aliases = [
   ["מנגו", "MANGO"],
   ["מיננה", "MINENE"],
   ["קונברס", "CONVERSE"],
+  ["גולף", "GOLF"],
+  ["קסטרו", "CASTRO"],
 ];
 const normalize = (name) =>
   name.trim().toLocaleLowerCase().replace(/\s+/g, " ");

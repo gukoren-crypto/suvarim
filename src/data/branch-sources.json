@@ -1465,6 +1465,650 @@
         }
       ],
       "retainedFromPrevious": 0
+    },
+    {
+      "store": "קסטרו",
+      "aliases": [
+        "קסטרו",
+        "CASTRO",
+        "Castro"
+      ],
+      "sourceUrl": "https://www.castro.com/stores",
+      "checkedAt": "2026-09-20",
+      "examined": 75,
+      "included": 43,
+      "coverage": "partial",
+      "note": "יעדי ניווט Waze מפורשים מדף הסניפים הרשמי; נבדקה התאמה לעיר ולמתחם מול מיקומים שכבר נבדקו. מחלקות באותו מתחם אוחדו למיקום אחד. עודפים, חנות לעובדים בלבד, יעד חשוד ומיקומים הדורשים בדיקה נוספת לא צורפו. אין ברשומה הוכחה לזכאות לשובר, והכיסוי חלקי.",
+      "skipped": [
+        {
+          "officialId": "4175",
+          "name": "ביג גליל עליון - ילדים",
+          "city": "קרית שמונה",
+          "address": "קניון גליל עליון, הבנים 1",
+          "waze": "waze://?ll=33.192661,35.571187&navigate=yes",
+          "reason": "location-needs-further-venue-review"
+        },
+        {
+          "officialId": "4101",
+          "name": "ביג גליל עליון - נשים וגברים",
+          "city": "קרית שמונה",
+          "address": "קניון גליל עליון, הבנים 1",
+          "waze": "waze://?ll=33.192661,35.571187&navigate=yes",
+          "reason": "location-needs-further-venue-review"
+        },
+        {
+          "officialId": "4185",
+          "name": "ביג נצרת - ילדים",
+          "city": "נצרת",
+          "address": "זיאד תופיק 1",
+          "waze": "waze://?ll=32.696159,35.301052&navigate=yes",
+          "reason": "duplicate-department-at-same-destination"
+        },
+        {
+          "officialId": "4146",
+          "name": "ביג קסטינה - נשים, גברים וילדים",
+          "city": "קרית מלאכי",
+          "address": "אזהת באר טוביה",
+          "waze": "waze://?ll=31.728059,34.755053&navigate=yes",
+          "reason": "location-needs-further-venue-review"
+        },
+        {
+          "officialId": "4126",
+          "name": "ביג קרית גת-  נשים וגברים",
+          "city": "קרית גת",
+          "address": "מתחם ביג, דרך הדרום 3",
+          "waze": "waze://?ll=31.602836,34.77253&navigate=yes",
+          "reason": "location-needs-further-venue-review"
+        },
+        {
+          "officialId": "4187",
+          "name": "ביג קרית גת- ילדים",
+          "city": "קרית גת",
+          "address": "מתחם ביג, דרך הדרום 3",
+          "waze": "waze://?ll=31.602836,34.77253&navigate=yes",
+          "reason": "location-needs-further-venue-review"
+        },
+        {
+          "officialId": "4077",
+          "name": "ביל'ו סנטר OUTLET - נשים, גברים וילדים",
+          "city": "קרית עקרון",
+          "address": "צומת ביל'ו",
+          "waze": "waze://?ll=31.865029,34.816666&navigate=yes",
+          "reason": "outlet-needs-eligibility-review"
+        },
+        {
+          "officialId": "4136",
+          "name": "בית שמש - נשים, גברים וילדים",
+          "city": "בית שמש",
+          "address": "מתחם ביג פאשן",
+          "waze": "waze://?ll=31.75744,34.989648&navigate=yes",
+          "reason": "location-needs-further-venue-review"
+        },
+        {
+          "officialId": "4200",
+          "name": "גולד הזהב - גברים",
+          "city": "ראשון לציון",
+          "address": "קניון הזהב, דוד סחרוב 21",
+          "waze": "waze://?ll=31.991602,34.774156&navigate=yes",
+          "reason": "duplicate-department-at-same-destination"
+        },
+        {
+          "officialId": "4188",
+          "name": "גולד הזהב - ילדים",
+          "city": "ראשון לציון",
+          "address": "קניון הזהב, דוד סחרוב 21",
+          "waze": "waze://?ll=31.991602,34.774156&navigate=yes",
+          "reason": "duplicate-department-at-same-destination"
+        },
+        {
+          "officialId": "4306",
+          "name": "גן העיר - HOME",
+          "city": "תל אביב-יפו",
+          "address": "קניון גן העיר, אבן גבירול 71",
+          "waze": "waze://?ll=32.082792,34.781216&navigate=yes",
+          "reason": "duplicate-department-at-same-destination"
+        },
+        {
+          "officialId": "4173",
+          "name": "גן העיר - ילדים",
+          "city": "תל אביב-יפו",
+          "address": "קניון גן העיר, אבן גבירול 71",
+          "waze": "waze://?ll=32.082792,34.781216&navigate=yes",
+          "reason": "duplicate-department-at-same-destination"
+        },
+        {
+          "officialId": "11069",
+          "name": "גרנד קניון חיפה - ילדים",
+          "city": "חיפה",
+          "address": "גראנד קניון, גולן שמחה 54",
+          "waze": "waze://?ll=32.789927,35.007887&navigate=yes",
+          "reason": "duplicate-department-at-same-destination"
+        },
+        {
+          "officialId": "4179",
+          "name": "הקניון הגדול פתח תקווה - ילדים",
+          "city": "פתח תקווה",
+          "address": "ז'בוטינסקי 72, הקניון הגדול",
+          "waze": "waze://?ll=32.091745,34.865341&navigate=yes",
+          "reason": "duplicate-department-at-same-destination"
+        },
+        {
+          "officialId": "4133",
+          "name": "חוצות המפרץ OUTLET - נשים וגברים",
+          "city": "חיפה",
+          "address": "חוצות המפרץ",
+          "waze": "waze://?ll=32.807787,35.056191&navigate=yes",
+          "reason": "outlet-needs-eligibility-review"
+        },
+        {
+          "officialId": "12974",
+          "name": "חנות מטה - משרדים (לעובדים בלבד)",
+          "city": "בת ים",
+          "address": "אורט ישראל 31",
+          "waze": "waze://?ll=32.008101,34.745829&navigate=yes",
+          "reason": "employees-only"
+        },
+        {
+          "officialId": "4090",
+          "name": "יפו השעון - נשים,וגברים",
+          "city": "תל אביב-יפו",
+          "address": "רזיאל 29",
+          "waze": "waze://?ll=32.054858,34.756274&navigate=yes",
+          "reason": "location-needs-further-venue-review"
+        },
+        {
+          "officialId": "4186",
+          "name": "כפר-סבא G - ילדים",
+          "city": "כפר סבא",
+          "address": "מרכז ויצמן, 207",
+          "waze": "waze://?ll=32.17147,34.928003&navigate=yes",
+          "reason": "duplicate-department-at-same-destination"
+        },
+        {
+          "officialId": "4087",
+          "name": "מרכז ביג קרית אתא - נשים, גברים, ילדים ו - HOME",
+          "city": "קרית אתא",
+          "address": "מרכז ביג, רח ההסתדרות 248",
+          "waze": "waze://?ll=32.810842,35.072383&navigate=yes",
+          "reason": "location-needs-further-venue-review"
+        },
+        {
+          "officialId": "4148",
+          "name": "מרכז רוגובין נתניה - נשים גברים וילדים",
+          "city": "נתניה",
+          "address": "המחקר 3",
+          "waze": "waze://?ll=32.291731,34.862396&navigate=yes",
+          "reason": "location-needs-further-venue-review"
+        },
+        {
+          "officialId": "4155",
+          "name": "מתחם G יבנה- גברים, נשים וילדים",
+          "city": "יבנה",
+          "address": "הקישון 7",
+          "waze": "waze://?ll=31.867193,34.741917&navigate=yes",
+          "reason": "location-needs-further-venue-review"
+        },
+        {
+          "officialId": "4141",
+          "name": "מתחם פרץ דימונה - נשים, גברים וילדים HOME",
+          "city": "דימונה",
+          "address": "כביש 25, פרץ סנטר",
+          "waze": "waze://?ll=31.060153,35.020346&navigate=yes",
+          "reason": "location-needs-further-venue-review"
+        },
+        {
+          "officialId": "4121",
+          "name": "סירקין – נשים, גברים וילדים",
+          "city": "פתח תקווה",
+          "address": "אלעזר פרידמן 9",
+          "waze": "waze://?ll=32.079757,34.902135&navigate=yes",
+          "reason": "location-needs-further-venue-review"
+        },
+        {
+          "officialId": "4073",
+          "name": "עזריאלי הנגב - נשים, גברים, ילדים ו - HOME",
+          "city": "באר שבע",
+          "address": "קניון הנגב, צומת אלי כהן",
+          "waze": "waze://?ll=31.24443,34.810619&navigate=yes",
+          "reason": "source-coordinate-mismatch-negev-points-near-big"
+        },
+        {
+          "officialId": "11195",
+          "name": "עזריאלי הרצליה OUTLET - נשים, גברים וילדים",
+          "city": "הרצליה",
+          "address": "מדינת היהודים 85",
+          "waze": "waze://?ll=32.167128,34.81128&navigate=yes",
+          "reason": "outlet-needs-eligibility-review"
+        },
+        {
+          "officialId": "4170",
+          "name": "עזריאלי חולון - ילדים",
+          "city": "חולון",
+          "address": "גולדה מאיר 7",
+          "waze": "waze://?ll=32.012475,34.779548&navigate=yes",
+          "reason": "duplicate-department-at-same-venue"
+        },
+        {
+          "officialId": "4176",
+          "name": "עזריאלי מודיעין",
+          "city": "מודיעין",
+          "address": "לב העיר 2",
+          "waze": "waze://?ll=31.900026,35.007382&navigate=yes",
+          "reason": "duplicate-department-at-same-venue"
+        },
+        {
+          "officialId": "4198",
+          "name": "עזריאלי מודיעין - גברים",
+          "city": "מודיעין",
+          "address": "קניון מודיעין, לב העיר 2",
+          "waze": "waze://?ll=31.898926,35.007943&navigate=yes",
+          "reason": "duplicate-department-at-same-destination"
+        },
+        {
+          "officialId": "4156",
+          "name": "עזריאלי רמלה - נשים, גברים וילדים",
+          "city": "רמלה",
+          "address": "שדרות דוד רזיאל, 1",
+          "waze": "waze://?ll=31.9230196,34.8625676&navigate=yes",
+          "reason": "location-needs-further-venue-review"
+        },
+        {
+          "officialId": "4103",
+          "name": "עפולה G - נשים, גברים וילדים",
+          "city": "עפולה",
+          "address": "עמק סנטר, יצחק רבין 18",
+          "waze": "waze://?ll=32.620379,35.311543&navigate=yes",
+          "reason": "venue-name-mismatch-needs-review-g-emek-versus-e-center"
+        },
+        {
+          "officialId": "4095",
+          "name": "קניותר - נשים, גברים וילדים",
+          "city": "נס ציונה",
+          "address": "קניון קניותר, האירוסים 53",
+          "waze": "waze://?ll=31.930423,34.797785&navigate=yes",
+          "reason": "location-needs-further-venue-review"
+        },
+        {
+          "officialId": "4157",
+          "name": "שפרעם - נשים, גברים וילדים",
+          "city": "שפרעם",
+          "address": "רחוב אל-עין כניסה מערבית",
+          "waze": "waze://?ll=32.81724,35.152422&navigate=yes",
+          "reason": "location-needs-further-venue-review"
+        }
+      ],
+      "retainedFromPrevious": 0
+    },
+    {
+      "store": "גולף",
+      "aliases": [
+        "גולף",
+        "GOLF",
+        "Golf"
+      ],
+      "sourceUrl": "https://www.golf-il.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "examined": 79,
+      "included": 20,
+      "coverage": "partial",
+      "note": "מיקומים מפורשים לכל סניף מתוך data-latitude/data-longitude ברשימת הסניפים הרשמית של גולף; לא מרכז תצוגת מפה ולא גיאוקוד משוער. הושמטו עודפים עד בירור זכאות, כפילויות וסתירות בין המיקום לעיר או למתחם. הרשימה אינה כוללת GOLF KIDS ואינה מוכיחה זכאות לשובר.",
+      "skipped": [
+        {
+          "officialId": "6904",
+          "name": "ב.ס.ר אאוטלט פתח תקווה",
+          "city": "פתח תקווה",
+          "reason": "outlet-excluded-pending-voucher-eligibility-review"
+        },
+        {
+          "officialId": "8136",
+          "name": "גולף MORE חריש",
+          "city": "חריש",
+          "reason": "venue-coordinate-conflict; MORE Harish pin over 1km from corroborated venue"
+        },
+        {
+          "officialId": "309",
+          "name": "גולף אאוטלט נעימי בית שמש",
+          "city": "בית שמש",
+          "reason": "outlet-excluded-pending-voucher-eligibility-review"
+        },
+        {
+          "officialId": "307",
+          "name": "גולף אאוטלט קניון ישראל י-ם",
+          "city": "ירושלים",
+          "reason": "outlet-excluded-pending-voucher-eligibility-review"
+        },
+        {
+          "officialId": "304",
+          "name": "גולף אאוטלט- ביג ירכא",
+          "city": "ירכא",
+          "reason": "outlet-excluded-pending-voucher-eligibility-review"
+        },
+        {
+          "officialId": "5324",
+          "name": "גולף אאוטלט- בני ברק",
+          "city": "בני ברק",
+          "reason": "outlet-excluded-pending-voucher-eligibility-review"
+        },
+        {
+          "officialId": "308",
+          "name": "גולף אאוטלט- טופ סנטר",
+          "city": "אשדוד",
+          "reason": "outlet-excluded-pending-voucher-eligibility-review"
+        },
+        {
+          "officialId": "306",
+          "name": "גולף אאוטלט- מבנה באר שבע",
+          "city": "באר שבע",
+          "reason": "outlet-excluded-pending-voucher-eligibility-review"
+        },
+        {
+          "officialId": "310",
+          "name": "גולף אאוטלט- קניון סירקין",
+          "city": "פתח תקוה",
+          "reason": "outlet-excluded-pending-voucher-eligibility-review"
+        },
+        {
+          "officialId": "303",
+          "name": "גולף אאוטלט- קריית גת",
+          "city": "קרית גת",
+          "reason": "outlet-excluded-pending-voucher-eligibility-review"
+        },
+        {
+          "officialId": "5886",
+          "name": "גולף אאוטלט- רכטר אילת",
+          "city": "אילת",
+          "reason": "outlet-excluded-pending-voucher-eligibility-review"
+        },
+        {
+          "officialId": "298",
+          "name": "גולף ביג אילת",
+          "city": "אילת",
+          "reason": "venue-coordinate-needs-review; BIG Eilat branch points near beachfront"
+        },
+        {
+          "officialId": "250",
+          "name": "גולף ביג באר שבע",
+          "city": "באר שבע",
+          "reason": "venue-coordinate-conflict; BIG Beer Sheva pin west of the venue"
+        },
+        {
+          "officialId": "255",
+          "name": "גולף ביג יוקנעם",
+          "city": "יוקנעם",
+          "reason": "venue-coordinate-not-independently-corroborated-in-this-round"
+        },
+        {
+          "officialId": "3829",
+          "name": "גולף ביג כרמיאל",
+          "city": "כרמיאל",
+          "reason": "venue-coordinate-not-independently-corroborated-in-this-round"
+        },
+        {
+          "officialId": "235",
+          "name": "גולף ביג פולג- מתחם נצב\"א",
+          "city": "נתניה",
+          "reason": "venue-coordinate-conflict; Poleg pin several kilometers south"
+        },
+        {
+          "officialId": "7814",
+          "name": "גולף ביג פוריה",
+          "city": "טבריה",
+          "reason": "venue-coordinate-not-independently-corroborated-in-this-round"
+        },
+        {
+          "officialId": "3832",
+          "name": "גולף ביג קריית גת",
+          "city": "קרית גת",
+          "reason": "venue-coordinate-needs-review; BIG Kiryat Gat coordinate needs confirmation"
+        },
+        {
+          "officialId": "243",
+          "name": "גולף בילו סנטר",
+          "city": "קרית עקרון",
+          "reason": "invalid-coordinate-outside-Israel; source latitude -31.3473, longitude 25.86626"
+        },
+        {
+          "officialId": "293",
+          "name": "גולף בית קלקא",
+          "city": "תל אביב-יפו",
+          "reason": "venue-coordinate-not-independently-corroborated-in-this-round"
+        },
+        {
+          "officialId": "254",
+          "name": "גולף בן יהודה ירושלים",
+          "city": "ירושלים",
+          "reason": "venue-coordinate-not-independently-corroborated-in-this-round"
+        },
+        {
+          "officialId": "268",
+          "name": "גולף גלובוס סנטר נתיבות",
+          "city": "נתיבות",
+          "reason": "venue-coordinate-not-independently-corroborated-in-this-round"
+        },
+        {
+          "officialId": "5884",
+          "name": "גולף גרנד באר שבע",
+          "city": "באר שבע",
+          "reason": "duplicate-official-location-of-8237; same Grand Beer Sheva name/address within one meter"
+        },
+        {
+          "officialId": "276",
+          "name": "גולף גרנד קניון חיפה",
+          "city": "חיפה",
+          "reason": "venue-coordinate-conflict; Grand Haifa pin over 600m from corroborated mall"
+        },
+        {
+          "officialId": "263",
+          "name": "גולף דרך המכבים ראשל\"צ",
+          "city": "ראשון לציון",
+          "reason": "venue-coordinate-not-independently-corroborated-in-this-round"
+        },
+        {
+          "officialId": "238",
+          "name": "גולף חונים קונים",
+          "city": "ראשון לציון",
+          "reason": "venue-coordinate-not-independently-corroborated-in-this-round"
+        },
+        {
+          "officialId": "3154",
+          "name": "גולף יכין סנטר",
+          "city": "פתח תקוה",
+          "reason": "venue-coordinate-not-independently-corroborated-in-this-round"
+        },
+        {
+          "officialId": "8540",
+          "name": "גולף כפר עציון",
+          "city": "כפר עציון",
+          "reason": "venue-coordinate-not-independently-corroborated-in-this-round"
+        },
+        {
+          "officialId": "267",
+          "name": "גולף לב הפסגה פ. זאב",
+          "city": "פסגת זאב",
+          "reason": "venue-coordinate-not-independently-corroborated-in-this-round"
+        },
+        {
+          "officialId": "262",
+          "name": "גולף מבנה תל חנן",
+          "city": "נשר",
+          "reason": "venue-coordinate-not-independently-corroborated-in-this-round"
+        },
+        {
+          "officialId": "3830",
+          "name": "גולף מגדל שלום",
+          "city": "תל אביב-יפו",
+          "reason": "venue-coordinate-not-independently-corroborated-in-this-round"
+        },
+        {
+          "officialId": "273",
+          "name": "גולף מול כנרת",
+          "city": "צמח",
+          "reason": "city-coordinate-conflict; Tzemach branch points to Tel Aviv"
+        },
+        {
+          "officialId": "7612",
+          "name": "גולף מיקס חדרה",
+          "city": "חדרה",
+          "reason": "venue-coordinate-not-independently-corroborated-in-this-round"
+        },
+        {
+          "officialId": "282",
+          "name": "גולף מרכז G בעמק",
+          "city": "עפולה",
+          "reason": "venue-coordinate-not-independently-corroborated-in-this-round"
+        },
+        {
+          "officialId": "290",
+          "name": "גולף מרכז מגה אור",
+          "city": "מודיעין",
+          "reason": "venue-coordinate-not-independently-corroborated-in-this-round"
+        },
+        {
+          "officialId": "265",
+          "name": "גולף מתחם אלון עין שמר",
+          "city": "עין שמר",
+          "reason": "venue-coordinate-conflict; Ein Shemer pin over 1km from corroborated venue"
+        },
+        {
+          "officialId": "247",
+          "name": "גולף נווה זאב באר שבע",
+          "city": "באר שבע",
+          "reason": "venue-coordinate-needs-review; Neve Zeev branch points near central Beer Sheva"
+        },
+        {
+          "officialId": "232",
+          "name": "גולף נתנזון חיפה",
+          "city": "חיפה",
+          "reason": "venue-coordinate-not-independently-corroborated-in-this-round"
+        },
+        {
+          "officialId": "287",
+          "name": "גולף סינמול",
+          "city": "חיפה",
+          "reason": "venue-coordinate-not-independently-corroborated-in-this-round"
+        },
+        {
+          "officialId": "277",
+          "name": "גולף פרופיט סנטר",
+          "city": "חולון",
+          "reason": "venue-coordinate-not-independently-corroborated-in-this-round"
+        },
+        {
+          "officialId": "253",
+          "name": "גולף קניון אחים ישראל",
+          "city": "ירושלים",
+          "reason": "duplicate-address-of-outlet-307; branch classification requires confirmation"
+        },
+        {
+          "officialId": "272",
+          "name": "גולף קניון איילון",
+          "city": "רמת גן",
+          "reason": "venue-coordinate-conflict; Ayalon Mall branch points to southern Ramat Gan"
+        },
+        {
+          "officialId": "294",
+          "name": "גולף קניון אם הדרך",
+          "city": "בית חירות",
+          "reason": "venue-coordinate-not-independently-corroborated-in-this-round"
+        },
+        {
+          "officialId": "301",
+          "name": "גולף קניון גלובוס סנטר מבקיעים",
+          "city": "אשקלון",
+          "reason": "city-coordinate-conflict; Ashkelon branch points near Emek Hefer"
+        },
+        {
+          "officialId": "252",
+          "name": "גולף קניון הראל",
+          "city": "מבשרת ציון",
+          "reason": "venue-coordinate-not-independently-corroborated-in-this-round"
+        },
+        {
+          "officialId": "246",
+          "name": "גולף קניון חוצות שפיים",
+          "city": "שפיים",
+          "reason": "venue-coordinate-not-independently-corroborated-in-this-round"
+        },
+        {
+          "officialId": "251",
+          "name": "גולף קניון מלחה",
+          "city": "ירושלים",
+          "reason": "venue-coordinate-conflict; Malha Mall branch points east of the mall"
+        },
+        {
+          "officialId": "281",
+          "name": "גולף קניון מעלה אדומים",
+          "city": "מעלה אדומים",
+          "reason": "venue-coordinate-conflict; Maale Adumim Mall pin over 490m from corroborated mall"
+        },
+        {
+          "officialId": "260",
+          "name": "גולף קניון סטאר סנטר",
+          "city": "אשדוד",
+          "reason": "venue-coordinate-not-independently-corroborated-in-this-round"
+        },
+        {
+          "officialId": "292",
+          "name": "גולף קניון סכנין",
+          "city": "סכנין",
+          "reason": "city-coordinate-conflict; Sakhnin branch points near Haifa"
+        },
+        {
+          "officialId": "285",
+          "name": "גולף קניון עזריאלי חיפה",
+          "city": "חיפה",
+          "reason": "venue-coordinate-conflict; Haifa Mall pin over 1km from corroborated mall"
+        },
+        {
+          "officialId": "270",
+          "name": "גולף קניון ערים",
+          "city": "כפר סבא",
+          "reason": "venue-coordinate-not-independently-corroborated-in-this-round"
+        },
+        {
+          "officialId": "261",
+          "name": "גולף קניון רוטשילד",
+          "city": "ראשון לציון",
+          "reason": "venue-coordinate-not-independently-corroborated-in-this-round"
+        },
+        {
+          "officialId": "234",
+          "name": "גולף קניון רחובות",
+          "city": "רחובות",
+          "reason": "city-coordinate-conflict; Rehovot Mall pin near Ness Ziona"
+        },
+        {
+          "officialId": "256",
+          "name": "גולף קניון שבעת הכוכבים",
+          "city": "הרצליה",
+          "reason": "venue-coordinate-not-independently-corroborated-in-this-round"
+        },
+        {
+          "officialId": "233",
+          "name": "גולף קניותר",
+          "city": "נס ציונה",
+          "reason": "city-coordinate-conflict; Ness Ziona branch points to Rehovot"
+        },
+        {
+          "officialId": "289",
+          "name": "גולף שד.הנשיא עפולה",
+          "city": "עפולה",
+          "reason": "venue-coordinate-not-independently-corroborated-in-this-round"
+        },
+        {
+          "officialId": "241",
+          "name": "גולף שפרעם",
+          "city": "שפרעם",
+          "reason": "venue-coordinate-not-independently-corroborated-in-this-round"
+        },
+        {
+          "officialId": "249",
+          "name": "גולף תחנה מרכזית ירושלים",
+          "city": "ירושלים",
+          "reason": "venue-coordinate-not-independently-corroborated-in-this-round"
+        }
+      ],
+      "retainedFromPrevious": 0
     }
   ]
 }

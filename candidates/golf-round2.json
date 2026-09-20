@@ -1,0 +1,635 @@
+{
+  "store": "גולף",
+  "branches": [
+    {
+      "id": "golf-229",
+      "name": "גולף הדר תלפיות",
+      "city": "ירושלים",
+      "address": "גנרל פייר קניג 26",
+      "lat": 31.7529,
+      "lng": 35.214,
+      "store": "גולף",
+      "sourceUrl": "https://www.golf-il.co.il/stores",
+      "coordinateSourceUrl": "https://www.golf-il.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "golf-236",
+      "name": "גולף ביג פאשן אשדוד",
+      "city": "אשדוד",
+      "address": "דרך הרכבת 1",
+      "lat": 31.77576,
+      "lng": 34.66225,
+      "store": "גולף",
+      "sourceUrl": "https://www.golf-il.co.il/stores",
+      "coordinateSourceUrl": "https://www.golf-il.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "golf-240",
+      "name": "גולף קניון רננים",
+      "city": "רעננה",
+      "address": "המלאכה 2",
+      "lat": 32.19778,
+      "lng": 34.87847,
+      "store": "גולף",
+      "sourceUrl": "https://www.golf-il.co.il/stores",
+      "coordinateSourceUrl": "https://www.golf-il.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "golf-242",
+      "name": "גולף קניון השרון",
+      "city": "נתניה",
+      "address": "הרצל 60",
+      "lat": 32.32635,
+      "lng": 34.86247,
+      "store": "גולף",
+      "sourceUrl": "https://www.golf-il.co.il/stores",
+      "coordinateSourceUrl": "https://www.golf-il.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "golf-244",
+      "name": "גולף מבנה גן שמואל",
+      "city": "גן שמואל",
+      "address": "פארק מסחרי",
+      "lat": 32.44816,
+      "lng": 34.95394,
+      "store": "גולף",
+      "sourceUrl": "https://www.golf-il.co.il/stores",
+      "coordinateSourceUrl": "https://www.golf-il.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "golf-245",
+      "name": "גולף קניון גן העיר",
+      "city": "תל אביב-יפו",
+      "address": "אבן גבירול 71",
+      "lat": 32.08231,
+      "lng": 34.78106,
+      "store": "גולף",
+      "sourceUrl": "https://www.golf-il.co.il/stores",
+      "coordinateSourceUrl": "https://www.golf-il.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "golf-248",
+      "name": "גולף דיזינגוף סנטר",
+      "city": "תל אביב-יפו",
+      "address": "דיזנגוף 50",
+      "lat": 32.07522,
+      "lng": 34.7757,
+      "store": "גולף",
+      "sourceUrl": "https://www.golf-il.co.il/stores",
+      "coordinateSourceUrl": "https://www.golf-il.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "golf-257",
+      "name": "גולף ביג נצרת",
+      "city": "נצרת",
+      "address": "תופיק זאיד 53",
+      "lat": 32.69606,
+      "lng": 35.29788,
+      "store": "גולף",
+      "sourceUrl": "https://www.golf-il.co.il/stores",
+      "coordinateSourceUrl": "https://www.golf-il.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "golf-264",
+      "name": "גולף סטריט-מול",
+      "city": "רמת ישי",
+      "address": "אקליפטוס 3",
+      "lat": 32.70733,
+      "lng": 35.174,
+      "store": "גולף",
+      "sourceUrl": "https://www.golf-il.co.il/stores",
+      "coordinateSourceUrl": "https://www.golf-il.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "golf-271",
+      "name": "גולף קניון בת ים",
+      "city": "בת ים",
+      "address": "יוספטל 92",
+      "lat": 32.01552,
+      "lng": 34.7559,
+      "store": "גולף",
+      "sourceUrl": "https://www.golf-il.co.il/stores",
+      "coordinateSourceUrl": "https://www.golf-il.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "golf-275",
+      "name": "גולף קניון גבעתיים",
+      "city": "גבעתיים",
+      "address": "יצחק רבין 53",
+      "lat": 32.06646,
+      "lng": 34.8106,
+      "store": "גולף",
+      "sourceUrl": "https://www.golf-il.co.il/stores",
+      "coordinateSourceUrl": "https://www.golf-il.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "golf-283",
+      "name": "גולף קניון קריית אונו",
+      "city": "קרית אונו",
+      "address": "שלמה המלך 37",
+      "lat": 32.05567,
+      "lng": 34.86339,
+      "store": "גולף",
+      "sourceUrl": "https://www.golf-il.co.il/stores",
+      "coordinateSourceUrl": "https://www.golf-il.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "golf-284",
+      "name": "גולף קניון רמות",
+      "city": "ירושלים",
+      "address": "שדרות גולדה מאיר 255",
+      "lat": 31.81783,
+      "lng": 35.19445,
+      "store": "גולף",
+      "sourceUrl": "https://www.golf-il.co.il/stores",
+      "coordinateSourceUrl": "https://www.golf-il.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "golf-288",
+      "name": "גולף קניון מודיעין",
+      "city": "מודיעין",
+      "address": "לב העיר 2",
+      "lat": 31.89894,
+      "lng": 35.00796,
+      "store": "גולף",
+      "sourceUrl": "https://www.golf-il.co.il/stores",
+      "coordinateSourceUrl": "https://www.golf-il.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "golf-299",
+      "name": "גולף חוצות המפרץ",
+      "city": "חיפה",
+      "address": "החרושת 10",
+      "lat": 32.80686,
+      "lng": 35.05462,
+      "store": "גולף",
+      "sourceUrl": "https://www.golf-il.co.il/stores",
+      "coordinateSourceUrl": "https://www.golf-il.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "golf-5882",
+      "name": "גולף ארנה נהריה",
+      "city": "נהריה",
+      "address": "שדרות הנשיא בן צבי 1",
+      "lat": 33.00486,
+      "lng": 35.10104,
+      "store": "גולף",
+      "sourceUrl": "https://www.golf-il.co.il/stores",
+      "coordinateSourceUrl": "https://www.golf-il.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "golf-5885",
+      "name": "גולף דימונה",
+      "city": "דימונה",
+      "address": "גולדה מאיר/המעפיל",
+      "lat": 31.07282,
+      "lng": 35.03165,
+      "store": "גולף",
+      "sourceUrl": "https://www.golf-il.co.il/stores",
+      "coordinateSourceUrl": "https://www.golf-il.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "golf-6299",
+      "name": "גולף רגבה",
+      "city": "רגבה",
+      "address": "מושב רגבה ד.נ גלילי מערבי, רגבה",
+      "lat": 32.9778,
+      "lng": 35.1021,
+      "store": "גולף",
+      "sourceUrl": "https://www.golf-il.co.il/stores",
+      "coordinateSourceUrl": "https://www.golf-il.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "golf-6602",
+      "name": "גולף ביג פאשן גלילות",
+      "city": "רמת השרון",
+      "address": "הרב מכר 1 צומת גלילות",
+      "lat": 32.1487,
+      "lng": 34.8057,
+      "store": "גולף",
+      "sourceUrl": "https://www.golf-il.co.il/stores",
+      "coordinateSourceUrl": "https://www.golf-il.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "golf-8237",
+      "name": "גולף גרנד באר שבע",
+      "city": "באר שבע",
+      "address": "טוביהו 125",
+      "lat": 31.2503,
+      "lng": 34.7718,
+      "store": "גולף",
+      "sourceUrl": "https://www.golf-il.co.il/stores",
+      "coordinateSourceUrl": "https://www.golf-il.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    }
+  ],
+  "source": {
+    "store": "גולף",
+    "aliases": [
+      "גולף",
+      "GOLF",
+      "Golf"
+    ],
+    "sourceUrl": "https://www.golf-il.co.il/stores",
+    "checkedAt": "2026-09-20",
+    "examined": 79,
+    "included": 20,
+    "coverage": "partial",
+    "note": "מיקומים מפורשים לכל סניף מתוך data-latitude/data-longitude ברשימת הסניפים הרשמית של גולף; לא מרכז תצוגת מפה ולא גיאוקוד משוער. הושמטו עודפים עד בירור זכאות, כפילויות וסתירות בין המיקום לעיר או למתחם. הרשימה אינה כוללת GOLF KIDS ואינה מוכיחה זכאות לשובר.",
+    "skipped": [
+      {
+        "officialId": "6904",
+        "name": "ב.ס.ר אאוטלט פתח תקווה",
+        "city": "פתח תקווה",
+        "reason": "outlet-excluded-pending-voucher-eligibility-review"
+      },
+      {
+        "officialId": "8136",
+        "name": "גולף MORE חריש",
+        "city": "חריש",
+        "reason": "venue-coordinate-conflict; MORE Harish pin over 1km from corroborated venue"
+      },
+      {
+        "officialId": "309",
+        "name": "גולף אאוטלט נעימי בית שמש",
+        "city": "בית שמש",
+        "reason": "outlet-excluded-pending-voucher-eligibility-review"
+      },
+      {
+        "officialId": "307",
+        "name": "גולף אאוטלט קניון ישראל י-ם",
+        "city": "ירושלים",
+        "reason": "outlet-excluded-pending-voucher-eligibility-review"
+      },
+      {
+        "officialId": "304",
+        "name": "גולף אאוטלט- ביג ירכא",
+        "city": "ירכא",
+        "reason": "outlet-excluded-pending-voucher-eligibility-review"
+      },
+      {
+        "officialId": "5324",
+        "name": "גולף אאוטלט- בני ברק",
+        "city": "בני ברק",
+        "reason": "outlet-excluded-pending-voucher-eligibility-review"
+      },
+      {
+        "officialId": "308",
+        "name": "גולף אאוטלט- טופ סנטר",
+        "city": "אשדוד",
+        "reason": "outlet-excluded-pending-voucher-eligibility-review"
+      },
+      {
+        "officialId": "306",
+        "name": "גולף אאוטלט- מבנה באר שבע",
+        "city": "באר שבע",
+        "reason": "outlet-excluded-pending-voucher-eligibility-review"
+      },
+      {
+        "officialId": "310",
+        "name": "גולף אאוטלט- קניון סירקין",
+        "city": "פתח תקוה",
+        "reason": "outlet-excluded-pending-voucher-eligibility-review"
+      },
+      {
+        "officialId": "303",
+        "name": "גולף אאוטלט- קריית גת",
+        "city": "קרית גת",
+        "reason": "outlet-excluded-pending-voucher-eligibility-review"
+      },
+      {
+        "officialId": "5886",
+        "name": "גולף אאוטלט- רכטר אילת",
+        "city": "אילת",
+        "reason": "outlet-excluded-pending-voucher-eligibility-review"
+      },
+      {
+        "officialId": "298",
+        "name": "גולף ביג אילת",
+        "city": "אילת",
+        "reason": "venue-coordinate-needs-review; BIG Eilat branch points near beachfront"
+      },
+      {
+        "officialId": "250",
+        "name": "גולף ביג באר שבע",
+        "city": "באר שבע",
+        "reason": "venue-coordinate-conflict; BIG Beer Sheva pin west of the venue"
+      },
+      {
+        "officialId": "255",
+        "name": "גולף ביג יוקנעם",
+        "city": "יוקנעם",
+        "reason": "venue-coordinate-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "3829",
+        "name": "גולף ביג כרמיאל",
+        "city": "כרמיאל",
+        "reason": "venue-coordinate-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "235",
+        "name": "גולף ביג פולג- מתחם נצב\"א",
+        "city": "נתניה",
+        "reason": "venue-coordinate-conflict; Poleg pin several kilometers south"
+      },
+      {
+        "officialId": "7814",
+        "name": "גולף ביג פוריה",
+        "city": "טבריה",
+        "reason": "venue-coordinate-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "3832",
+        "name": "גולף ביג קריית גת",
+        "city": "קרית גת",
+        "reason": "venue-coordinate-needs-review; BIG Kiryat Gat coordinate needs confirmation"
+      },
+      {
+        "officialId": "243",
+        "name": "גולף בילו סנטר",
+        "city": "קרית עקרון",
+        "reason": "invalid-coordinate-outside-Israel; source latitude -31.3473, longitude 25.86626"
+      },
+      {
+        "officialId": "293",
+        "name": "גולף בית קלקא",
+        "city": "תל אביב-יפו",
+        "reason": "venue-coordinate-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "254",
+        "name": "גולף בן יהודה ירושלים",
+        "city": "ירושלים",
+        "reason": "venue-coordinate-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "268",
+        "name": "גולף גלובוס סנטר נתיבות",
+        "city": "נתיבות",
+        "reason": "venue-coordinate-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "5884",
+        "name": "גולף גרנד באר שבע",
+        "city": "באר שבע",
+        "reason": "duplicate-official-location-of-8237; same Grand Beer Sheva name/address within one meter"
+      },
+      {
+        "officialId": "276",
+        "name": "גולף גרנד קניון חיפה",
+        "city": "חיפה",
+        "reason": "venue-coordinate-conflict; Grand Haifa pin over 600m from corroborated mall"
+      },
+      {
+        "officialId": "263",
+        "name": "גולף דרך המכבים ראשל\"צ",
+        "city": "ראשון לציון",
+        "reason": "venue-coordinate-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "238",
+        "name": "גולף חונים קונים",
+        "city": "ראשון לציון",
+        "reason": "venue-coordinate-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "3154",
+        "name": "גולף יכין סנטר",
+        "city": "פתח תקוה",
+        "reason": "venue-coordinate-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "8540",
+        "name": "גולף כפר עציון",
+        "city": "כפר עציון",
+        "reason": "venue-coordinate-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "267",
+        "name": "גולף לב הפסגה פ. זאב",
+        "city": "פסגת זאב",
+        "reason": "venue-coordinate-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "262",
+        "name": "גולף מבנה תל חנן",
+        "city": "נשר",
+        "reason": "venue-coordinate-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "3830",
+        "name": "גולף מגדל שלום",
+        "city": "תל אביב-יפו",
+        "reason": "venue-coordinate-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "273",
+        "name": "גולף מול כנרת",
+        "city": "צמח",
+        "reason": "city-coordinate-conflict; Tzemach branch points to Tel Aviv"
+      },
+      {
+        "officialId": "7612",
+        "name": "גולף מיקס חדרה",
+        "city": "חדרה",
+        "reason": "venue-coordinate-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "282",
+        "name": "גולף מרכז G בעמק",
+        "city": "עפולה",
+        "reason": "venue-coordinate-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "290",
+        "name": "גולף מרכז מגה אור",
+        "city": "מודיעין",
+        "reason": "venue-coordinate-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "265",
+        "name": "גולף מתחם אלון עין שמר",
+        "city": "עין שמר",
+        "reason": "venue-coordinate-conflict; Ein Shemer pin over 1km from corroborated venue"
+      },
+      {
+        "officialId": "247",
+        "name": "גולף נווה זאב באר שבע",
+        "city": "באר שבע",
+        "reason": "venue-coordinate-needs-review; Neve Zeev branch points near central Beer Sheva"
+      },
+      {
+        "officialId": "232",
+        "name": "גולף נתנזון חיפה",
+        "city": "חיפה",
+        "reason": "venue-coordinate-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "287",
+        "name": "גולף סינמול",
+        "city": "חיפה",
+        "reason": "venue-coordinate-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "277",
+        "name": "גולף פרופיט סנטר",
+        "city": "חולון",
+        "reason": "venue-coordinate-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "253",
+        "name": "גולף קניון אחים ישראל",
+        "city": "ירושלים",
+        "reason": "duplicate-address-of-outlet-307; branch classification requires confirmation"
+      },
+      {
+        "officialId": "272",
+        "name": "גולף קניון איילון",
+        "city": "רמת גן",
+        "reason": "venue-coordinate-conflict; Ayalon Mall branch points to southern Ramat Gan"
+      },
+      {
+        "officialId": "294",
+        "name": "גולף קניון אם הדרך",
+        "city": "בית חירות",
+        "reason": "venue-coordinate-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "301",
+        "name": "גולף קניון גלובוס סנטר מבקיעים",
+        "city": "אשקלון",
+        "reason": "city-coordinate-conflict; Ashkelon branch points near Emek Hefer"
+      },
+      {
+        "officialId": "252",
+        "name": "גולף קניון הראל",
+        "city": "מבשרת ציון",
+        "reason": "venue-coordinate-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "246",
+        "name": "גולף קניון חוצות שפיים",
+        "city": "שפיים",
+        "reason": "venue-coordinate-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "251",
+        "name": "גולף קניון מלחה",
+        "city": "ירושלים",
+        "reason": "venue-coordinate-conflict; Malha Mall branch points east of the mall"
+      },
+      {
+        "officialId": "281",
+        "name": "גולף קניון מעלה אדומים",
+        "city": "מעלה אדומים",
+        "reason": "venue-coordinate-conflict; Maale Adumim Mall pin over 490m from corroborated mall"
+      },
+      {
+        "officialId": "260",
+        "name": "גולף קניון סטאר סנטר",
+        "city": "אשדוד",
+        "reason": "venue-coordinate-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "292",
+        "name": "גולף קניון סכנין",
+        "city": "סכנין",
+        "reason": "city-coordinate-conflict; Sakhnin branch points near Haifa"
+      },
+      {
+        "officialId": "285",
+        "name": "גולף קניון עזריאלי חיפה",
+        "city": "חיפה",
+        "reason": "venue-coordinate-conflict; Haifa Mall pin over 1km from corroborated mall"
+      },
+      {
+        "officialId": "270",
+        "name": "גולף קניון ערים",
+        "city": "כפר סבא",
+        "reason": "venue-coordinate-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "261",
+        "name": "גולף קניון רוטשילד",
+        "city": "ראשון לציון",
+        "reason": "venue-coordinate-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "234",
+        "name": "גולף קניון רחובות",
+        "city": "רחובות",
+        "reason": "city-coordinate-conflict; Rehovot Mall pin near Ness Ziona"
+      },
+      {
+        "officialId": "256",
+        "name": "גולף קניון שבעת הכוכבים",
+        "city": "הרצליה",
+        "reason": "venue-coordinate-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "233",
+        "name": "גולף קניותר",
+        "city": "נס ציונה",
+        "reason": "city-coordinate-conflict; Ness Ziona branch points to Rehovot"
+      },
+      {
+        "officialId": "289",
+        "name": "גולף שד.הנשיא עפולה",
+        "city": "עפולה",
+        "reason": "venue-coordinate-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "241",
+        "name": "גולף שפרעם",
+        "city": "שפרעם",
+        "reason": "venue-coordinate-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "249",
+        "name": "גולף תחנה מרכזית ירושלים",
+        "city": "ירושלים",
+        "reason": "venue-coordinate-not-independently-corroborated-in-this-round"
+      }
+    ]
+  }
+}
