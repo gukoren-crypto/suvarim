@@ -5482,6 +5482,196 @@
         }
       ],
       "retainedFromPrevious": 0
+    },
+    {
+      "store": "ACE",
+      "aliases": [
+        "אייס",
+        "ACE",
+        "Ace"
+      ],
+      "sourceUrl": "https://www.ace.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "examined": 21,
+      "included": 7,
+      "coverage": "partial",
+      "note": "יעדי Waze מפורשים מדף הסניפים הרשמי. נכללו רק סניפי ACE וסניפים המוגדרים במקור כמשותפים ACE/AUTODEPOT; אוטודיפו בלבד אינו נכלל. נבדקו29 רשומות במקור המעורב, מהן21 חנויות ACE או משותפות;6 אוטודיפו בלבד ומחסן ומפעל אינם בספירת הרשת. כתובות ומתחמים הוצלבו; לא הוסקו קואורדינטות.",
+      "skipped": [
+        {
+          "officialId": "58",
+          "name": "באר שבע, מתחם ביג",
+          "city": "באר_שבע",
+          "reason": "address-conflict-needs-review"
+        },
+        {
+          "officialId": "51",
+          "name": "בילו סנטר",
+          "city": "קרית_עקרון",
+          "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+        },
+        {
+          "officialId": "72",
+          "name": "בית שמש, מתחם ביג",
+          "city": "בית_שמש",
+          "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+        },
+        {
+          "officialId": "26",
+          "name": "בני ברק, איילון",
+          "city": "בני_ברק",
+          "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+        },
+        {
+          "officialId": "18",
+          "name": "חולון, מתחם הסיירים סנטר",
+          "city": "חולון",
+          "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+        },
+        {
+          "officialId": "49",
+          "name": "ירושלים, תלפיות",
+          "city": "ירושלים",
+          "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+        },
+        {
+          "officialId": "32",
+          "name": "כפר סבא, מתחם G",
+          "city": "כפר_סבא",
+          "reason": "address-conflict-needs-review"
+        },
+        {
+          "officialId": "31",
+          "name": "מודיעין, שילת",
+          "city": "שילת",
+          "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+        },
+        {
+          "officialId": "42",
+          "name": "נצרת, עופר סנטר",
+          "city": "נוף_הגליל",
+          "reason": "address-conflict-needs-review"
+        },
+        {
+          "officialId": "24",
+          "name": "עין שמר",
+          "city": "עין_שמר",
+          "reason": "venue-coordinate-conflict"
+        },
+        {
+          "officialId": "56",
+          "name": "פתח תקווה, סגולה",
+          "city": "פתח_תקווה",
+          "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+        },
+        {
+          "officialId": "34",
+          "name": "קרית אתא, מתחם ביג",
+          "city": "קרית_אתא",
+          "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+        },
+        {
+          "officialId": "69",
+          "name": "רמלוד",
+          "city": "רמלוד",
+          "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+        },
+        {
+          "officialId": "67",
+          "name": "תל אביב, סינרמה",
+          "city": "תל_אביב",
+          "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+        }
+      ],
+      "retainedFromPrevious": 0
+    },
+    {
+      "store": "אופטיקנה",
+      "aliases": [
+        "אופטיקנה",
+        "OPTICANA",
+        "Opticana"
+      ],
+      "sourceUrl": "https://www.opticana.co.il/storelocator/",
+      "checkedAt": "2026-09-20",
+      "examined": 14,
+      "included": 6,
+      "coverage": "partial",
+      "note": "מדגם מוגבל של 14 דפי סניפים רשמיים שהתגלו בחיפוש; אינו רשימה ארצית. קואורדינטות מיעד Waze של הסניף בהסכמה עם נתוני GeoCoordinates. רשימת ברירת המחדל הציגה קאטליה ולא הוסבה לאופטיקנה. ההשמטות נבדקו בתאריך הבסיס וממתינות לבירור; אין הוכחת זכאות לשובר.",
+      "skipped": [
+        {
+          "officialId": "10",
+          "name": "נתניה - הרצל",
+          "city": "נתניה",
+          "address": "הרצל 14",
+          "sourceUrl": "https://www.opticana.co.il/storelocator/index/store/?store=10",
+          "checkedAt": "2026-09-20",
+          "reason": "specific-address-or-venue-needs-further-review"
+        },
+        {
+          "officialId": "68",
+          "name": "בית שמש - ביג פאשן",
+          "city": "בית שמש",
+          "address": "שדרות יגאל אלון 3, קומה 2",
+          "sourceUrl": "https://www.opticana.co.il/storelocator/index/store/?store=68",
+          "checkedAt": "2026-09-20",
+          "reason": "specific-address-or-venue-needs-further-review"
+        },
+        {
+          "officialId": "51",
+          "name": "קריית גת - קניון לב העיר",
+          "city": "קריית גת",
+          "address": "כיכר פז 3 , קניון לב העיר, קומה 1",
+          "sourceUrl": "https://www.opticana.co.il/storelocator/index/store/?store=51",
+          "checkedAt": "2026-09-20",
+          "reason": "specific-address-or-venue-needs-further-review"
+        },
+        {
+          "officialId": "14",
+          "name": "ראשון לציון - קניון רוטשילד",
+          "city": "ראשון לציון",
+          "address": "רוטשילד 45, קומת כניסה",
+          "sourceUrl": "https://www.opticana.co.il/storelocator/index/store/?store=14",
+          "checkedAt": "2026-09-20",
+          "reason": "specific-address-or-venue-needs-further-review"
+        },
+        {
+          "officialId": "57",
+          "name": "אילת - קניון מלכת שבא",
+          "city": "אילת",
+          "address": "רחוב פעמי השלום 19, טיילת הילטון, ליד הגשר",
+          "sourceUrl": "https://www.opticana.co.il/storelocator/index/store/?store=57",
+          "checkedAt": "2026-09-20",
+          "reason": "specific-address-or-venue-needs-further-review"
+        },
+        {
+          "officialId": "9",
+          "name": "רחובות - הרצל",
+          "city": "רחובות",
+          "address": "הרצל 171",
+          "sourceUrl": "https://www.opticana.co.il/storelocator/index/store/?store=9",
+          "checkedAt": "2026-09-20",
+          "reason": "specific-address-or-venue-needs-further-review"
+        },
+        {
+          "officialId": "47",
+          "name": "קניון חוצות כרמיאל",
+          "city": "כרמיאל",
+          "address": "מעלה כמון 5, קומת כניסה",
+          "sourceUrl": "https://www.opticana.co.il/storelocator/index/store/?store=47",
+          "checkedAt": "2026-09-20",
+          "reason": "distinct-nearby-commercial-centres-need-review"
+        },
+        {
+          "officialId": "5",
+          "name": "חיפה - הרצל",
+          "city": "חיפה",
+          "address": "",
+          "sourceUrl": "https://www.opticana.co.il/storelocator/index/store/?store=5",
+          "checkedAt": "2026-09-20",
+          "reason": "official-detail-request-failed"
+        }
+      ],
+      "retainedFromPrevious": 0
     }
   ]
 }

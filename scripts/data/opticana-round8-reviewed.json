@@ -1,0 +1,333 @@
+{
+  "sourceUrl": "https://www.opticana.co.il/storelocator/",
+  "checkedAt": "2026-09-20",
+  "examined": 14,
+  "scope": "Fourteen non-Cattleya Opticana detail URLs discovered through web search; nationwide coverage unknown. Default locator returned eight Cattleya rows, excluded from this count.",
+  "discoveryQueries": [
+    "site:opticana.co.il/storelocator/index/store קניון",
+    "site:opticana.co.il/storelocator/index/store ביג",
+    "site:opticana.co.il/storelocator/index/store חיפה",
+    "site:opticana.co.il/storelocator/index/store ירושלים",
+    "site:opticana.co.il/storelocator/index/store \"בת ים\""
+  ],
+  "reviewed": [
+    {
+      "id": "75",
+      "name": "אילת - קניון מול הים",
+      "city": "אילת",
+      "address": "הפלמ\"ח 1, קומה 1",
+      "lat": 29.54987,
+      "lng": 34.95371,
+      "schemaLat": 29.54987,
+      "schemaLng": 34.95371,
+      "waze": "https://waze.com/ul?ll=29.54987,34.95371&navigate=yes",
+      "sourceUrl": "https://www.opticana.co.il/storelocator/index/store/?store=75"
+    },
+    {
+      "id": "25",
+      "name": "חיפה - גרנד קניון",
+      "city": "חיפה",
+      "address": "דרך שמחה גולן 54, קומה 2",
+      "lat": 32.78959,
+      "lng": 35.00747,
+      "schemaLat": 32.78959,
+      "schemaLng": 35.00747,
+      "waze": "https://waze.com/ul?ll=32.78959,35.00747&navigate=yes",
+      "sourceUrl": "https://www.opticana.co.il/storelocator/index/store/?store=25"
+    },
+    {
+      "id": "6",
+      "name": "ירושלים - קניון עזריאלי מלחה",
+      "city": "ירושלים",
+      "address": "דרך אגודת ספורט בית\"ר 1, קומה 2",
+      "lat": 31.7522,
+      "lng": 35.18726,
+      "schemaLat": 31.7522,
+      "schemaLng": 35.18726,
+      "waze": "https://waze.com/ul?ll=31.75220,35.18726&navigate=yes",
+      "sourceUrl": "https://www.opticana.co.il/storelocator/index/store/?store=6"
+    },
+    {
+      "id": "13",
+      "name": "רחובות - קניון רחובות",
+      "city": "רחובות",
+      "address": "ביל\"ו 2",
+      "lat": 31.89361,
+      "lng": 34.80695,
+      "schemaLat": 31.89361,
+      "schemaLng": 34.80695,
+      "waze": "https://waze.com/ul?ll=31.89361,34.80695&navigate=yes",
+      "sourceUrl": "https://www.opticana.co.il/storelocator/index/store/?store=13"
+    },
+    {
+      "id": "19",
+      "name": "באר שבע - קניון הנגב",
+      "city": "באר שבע",
+      "address": "רח' יצחק בן צבי 2, קומה 2",
+      "lat": 31.24389,
+      "lng": 34.79584,
+      "schemaLat": 31.24389,
+      "schemaLng": 34.79584,
+      "waze": "https://waze.com/ul?ll=31.24389,34.79584&navigate=yes",
+      "sourceUrl": "https://www.opticana.co.il/storelocator/index/store/?store=19"
+    },
+    {
+      "id": "44",
+      "name": "נתניה - קניון עופר השרון",
+      "city": "נתניה",
+      "address": "הרצל 60, קומת ראשונה",
+      "lat": 32.32584,
+      "lng": 34.86179,
+      "schemaLat": 32.32584,
+      "schemaLng": 34.86179,
+      "waze": "https://waze.com/ul?ll=32.32584,34.86179&navigate=yes",
+      "sourceUrl": "https://www.opticana.co.il/storelocator/index/store/?store=44"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "75",
+      "supportingBranchId": "vardinon-49",
+      "name": "אילת - קניון מול הים",
+      "address": "הפלמ\"ח 1",
+      "sourceUrl": "https://www.vardinon.co.il/stores?brand=%D7%95%D7%A8%D7%93%D7%99%D7%A0%D7%95%D7%9F",
+      "distanceMeters": 3,
+      "reason": "Same specifically named mall and city; own branch destination retained."
+    },
+    {
+      "id": "25",
+      "supportingBranchId": "american-eagle-0bab5011f1ae",
+      "name": "גרנד קניון חיפה",
+      "address": "Simha Golan 54, חיפה",
+      "sourceUrl": "https://storelocations.ae.com/il/haifa-district/haifa/33014-simha-golan-54.html",
+      "distanceMeters": 8,
+      "reason": "Same specifically named mall and city; own branch destination retained."
+    },
+    {
+      "id": "6",
+      "supportingBranchId": "polgat-433",
+      "name": "פולגת קניון מלחה",
+      "address": "קניון מלחה, בית''ר 1",
+      "sourceUrl": "https://www.golfgroup.co.il/branches",
+      "distanceMeters": 49,
+      "reason": "Same specifically named mall and city; own branch destination retained."
+    },
+    {
+      "id": "13",
+      "supportingBranchId": "golf-co-140",
+      "name": "קניון רחובות",
+      "address": "קניון רחובות",
+      "sourceUrl": "https://www.golfco.co.il/stores",
+      "distanceMeters": 14,
+      "reason": "Same specifically named mall and city; own branch destination retained."
+    },
+    {
+      "id": "19",
+      "supportingBranchId": "american-eagle-2136ed7c45ab",
+      "name": "קניון הנגב",
+      "address": "Eli Ha-Cohen Junction, באר שבע",
+      "sourceUrl": "https://storelocations.ae.com/il/south-district/beer-sheva/33013-eli-ha-cohen-junction.html",
+      "distanceMeters": 51,
+      "reason": "Same specifically named mall and city; own branch destination retained."
+    },
+    {
+      "id": "44",
+      "supportingBranchId": "golf-co-199",
+      "name": "השרון נתניה",
+      "address": "קניון השרון",
+      "sourceUrl": "https://www.golfco.co.il/stores",
+      "distanceMeters": 58,
+      "reason": "Same specifically named mall and city; own branch destination retained."
+    }
+  ],
+  "skipped": [
+    {
+      "id": "10",
+      "name": "נתניה - הרצל",
+      "city": "נתניה",
+      "address": "הרצל 14",
+      "lat": 32.3293,
+      "lng": 34.85468,
+      "schemaLat": 32.3293,
+      "schemaLng": 34.85468,
+      "waze": "https://waze.com/ul?ll=32.32930,34.85468&navigate=yes",
+      "sourceUrl": "https://www.opticana.co.il/storelocator/index/store/?store=10",
+      "reason": "specific-address-or-venue-needs-further-review"
+    },
+    {
+      "id": "68",
+      "name": "בית שמש - ביג פאשן",
+      "city": "בית שמש",
+      "address": "שדרות יגאל אלון 3, קומה 2",
+      "lat": 31.75628,
+      "lng": 34.98975,
+      "schemaLat": 31.75628,
+      "schemaLng": 34.98975,
+      "waze": "https://waze.com/ul?ll=31.75628,34.98975&navigate=yes",
+      "sourceUrl": "https://www.opticana.co.il/storelocator/index/store/?store=68",
+      "reason": "specific-address-or-venue-needs-further-review"
+    },
+    {
+      "id": "51",
+      "name": "קריית גת - קניון לב העיר",
+      "city": "קריית גת",
+      "address": "כיכר פז 3 , קניון לב העיר, קומה 1",
+      "lat": 31.60702,
+      "lng": 34.77323,
+      "schemaLat": 31.60702,
+      "schemaLng": 34.77323,
+      "waze": "https://waze.com/ul?ll=31.60702,34.77323&navigate=yes",
+      "sourceUrl": "https://www.opticana.co.il/storelocator/index/store/?store=51",
+      "reason": "specific-address-or-venue-needs-further-review"
+    },
+    {
+      "id": "14",
+      "name": "ראשון לציון - קניון רוטשילד",
+      "city": "ראשון לציון",
+      "address": "רוטשילד 45, קומת כניסה",
+      "lat": 31.96367,
+      "lng": 34.80153,
+      "schemaLat": 31.96367,
+      "schemaLng": 34.80153,
+      "waze": "https://waze.com/ul?ll=31.96367,34.80153&navigate=yes",
+      "sourceUrl": "https://www.opticana.co.il/storelocator/index/store/?store=14",
+      "reason": "specific-address-or-venue-needs-further-review"
+    },
+    {
+      "id": "57",
+      "name": "אילת - קניון מלכת שבא",
+      "city": "אילת",
+      "address": "רחוב פעמי השלום 19, טיילת הילטון, ליד הגשר",
+      "lat": 29.55001,
+      "lng": 34.96095,
+      "schemaLat": 29.55001,
+      "schemaLng": 34.96095,
+      "waze": "https://waze.com/ul?ll=29.55001,34.96095&navigate=yes",
+      "sourceUrl": "https://www.opticana.co.il/storelocator/index/store/?store=57",
+      "reason": "specific-address-or-venue-needs-further-review"
+    },
+    {
+      "id": "9",
+      "name": "רחובות - הרצל",
+      "city": "רחובות",
+      "address": "הרצל 171",
+      "lat": 31.89757,
+      "lng": 34.81062,
+      "schemaLat": 31.89757,
+      "schemaLng": 34.81062,
+      "waze": "https://waze.com/ul?ll=31.89757,34.81062&navigate=yes",
+      "sourceUrl": "https://www.opticana.co.il/storelocator/index/store/?store=9",
+      "reason": "specific-address-or-venue-needs-further-review"
+    },
+    {
+      "id": "47",
+      "name": "קניון חוצות כרמיאל",
+      "city": "כרמיאל",
+      "address": "מעלה כמון 5, קומת כניסה",
+      "lat": 32.92819,
+      "lng": 35.32566,
+      "schemaLat": 32.92819,
+      "schemaLng": 35.32566,
+      "waze": "https://waze.com/ul?ll=32.92819,35.32566&navigate=yes",
+      "sourceUrl": "https://www.opticana.co.il/storelocator/index/store/?store=47",
+      "reason": "distinct-nearby-commercial-centres-need-review"
+    },
+    {
+      "id": "5",
+      "name": "חיפה - הרצל",
+      "city": "חיפה",
+      "sourceUrl": "https://www.opticana.co.il/storelocator/index/store/?store=5",
+      "reason": "official-detail-request-failed"
+    }
+  ],
+  "otherBrandListing": [
+    {
+      "id": "79",
+      "name": "אילת - קניון מול הים - קאטליה חנות המותג",
+      "city": "אילת",
+      "address": "הפלמ\"ח 1, קניון מול-הים, קומת קרקע, בקרבת כניסת שער הים, אילת",
+      "lat": 29.54987,
+      "lng": 34.95371,
+      "waze": "https://waze.com/ul?ll=29.54987,34.95371&navigate=yes",
+      "cattleya": true,
+      "reason": "cattleya-brand-not-opticana-identity"
+    },
+    {
+      "id": "87",
+      "name": "אילת - קניון פארק הקרח - קאטליה",
+      "city": "אילת",
+      "address": "קאמפן 8, קומה 2, אילת",
+      "lat": 29.55409,
+      "lng": 34.9656,
+      "waze": "https://waze.com/ul?ll=29.55409,34.96560&navigate=yes",
+      "cattleya": true,
+      "reason": "cattleya-brand-not-opticana-identity"
+    },
+    {
+      "id": "82",
+      "name": "באר שבע - קניון גרנד - קאטליה",
+      "city": "באר שבע",
+      "address": "שדרות דוד טוביהו 125, קומת כניסה, באר שבע",
+      "lat": 31.25024,
+      "lng": 34.77109,
+      "waze": "https://waze.com/ul?ll=31.25024,34.77109&navigate=yes",
+      "cattleya": true,
+      "reason": "cattleya-brand-not-opticana-identity"
+    },
+    {
+      "id": "89",
+      "name": "גלילות - ביג פאשן - קאטליה",
+      "city": "גלילות",
+      "address": "צומת הרב מכר 1 , רמת השרון",
+      "lat": 32.14801587442448,
+      "lng": 34.805326187722734,
+      "waze": "https://waze.com/ul?ll=32.14801587442448,34.805326187722734&navigate=yes",
+      "cattleya": true,
+      "reason": "cattleya-brand-not-opticana-identity"
+    },
+    {
+      "id": "90",
+      "name": "נתניה - קניון עיר ימים - קאטליה",
+      "city": "נתניה",
+      "address": "בני ברמן 2, קומה 1, נתניה",
+      "lat": 32.27929,
+      "lng": 34.84654,
+      "waze": "https://waze.com/ul?ll=32.27929,34.84654&navigate=yes",
+      "cattleya": true,
+      "reason": "cattleya-brand-not-opticana-identity"
+    },
+    {
+      "id": "81",
+      "name": "פתח תקווה - הקניון הגדול - קאטליה",
+      "city": "פתח תקווה",
+      "address": "ז'בוטינסקי 72, קומת כניסה, פתח תקווה",
+      "lat": 32.0936,
+      "lng": 34.86606,
+      "waze": "https://waze.com/ul?ll=32.09360,34.86606&navigate=yes",
+      "cattleya": true,
+      "reason": "cattleya-brand-not-opticana-identity"
+    },
+    {
+      "id": "83",
+      "name": "קריית ביאליק - קניון עופר קריון - קאטליה",
+      "city": "קריית ביאליק",
+      "address": "דרך עכו 192, קומת כניסה, קריית ביאליק, קריית ביאליק",
+      "lat": 32.84307,
+      "lng": 35.09104,
+      "waze": "https://waze.com/ul?ll=32.84307,35.09104&navigate=yes",
+      "cattleya": true,
+      "reason": "cattleya-brand-not-opticana-identity"
+    },
+    {
+      "id": "86",
+      "name": "ראשון לציון - קניון הזהב - אגף חדש - קאטליה",
+      "city": "ראשון לציון",
+      "address": "סחרוב דוד 21, שער מילאנו , קומת 1, מתחם חדש, ראשון לציון",
+      "lat": 31.99029,
+      "lng": 34.7736,
+      "waze": "https://waze.com/ul?ll=31.99029,34.77360&navigate=yes",
+      "cattleya": true,
+      "reason": "cattleya-brand-not-opticana-identity"
+    }
+  ]
+}

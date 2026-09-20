@@ -22,16 +22,23 @@ const aliases = [
   ["קרביץ", "KRAVITZ"],
   ["סטימצקי", "STEIMATZKY"],
   ["סולתם", "SOLTAM"],
+  ["אופטיקנה", "OPTICANA"],
+  ["ACE", "אייס"],
   ["קסטרו", "CASTRO"],
 ];
 const normalize = (name) =>
   name.trim().toLocaleLowerCase().replace(/\s+/g, " ");
+const aliasKeys = new Map();
+for (const names of aliases) {
+  const canonical = normalize(names[0]);
+  for (const name of names) {
+    const key = normalize(name);
+    if (!aliasKeys.has(key)) aliasKeys.set(key, canonical);
+  }
+}
 export function storeKey(name) {
   const value = normalize(name);
-  const group = aliases.find((names) =>
-    names.some((n) => normalize(n) === value),
-  );
-  return group ? normalize(group[0]) : value;
+  return aliasKeys.get(value) ?? value;
 }
 export const sameStore = (a, b) => storeKey(a) === storeKey(b);
 export function branchesForStores(names, manual = [], shared = catalog) {

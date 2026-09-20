@@ -1,0 +1,196 @@
+{
+  "store": "ACE",
+  "branches": [
+    {
+      "id": "ace-29",
+      "store": "ACE",
+      "name": "אשקלון מבקיעים",
+      "city": "אשקלון",
+      "address": "מתחם גלובוס סנטר אשקלון/מבקיעים, אשקלון",
+      "lat": 31.627206,
+      "lng": 34.583695,
+      "sourceUrl": "https://www.ace.co.il/stores/branch/index/id/29",
+      "coordinateSourceUrl": "https://waze.com/ul?ll=31.627206,34.583695&navigate=yes",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "ace-41",
+      "store": "ACE",
+      "name": "ראשון לציון, מתחם G",
+      "city": "ראשון לציון",
+      "address": "ילדי טהרן 5, ראשון לציון",
+      "lat": 31.985056,
+      "lng": 34.769429,
+      "sourceUrl": "https://www.ace.co.il/stores/branch/index/id/41",
+      "coordinateSourceUrl": "https://waze.com/ul?ll=31.985056,34.769429&navigate=yes",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "ace-43",
+      "store": "ACE",
+      "name": "רגבה, מתחם ביג",
+      "city": "רגבה",
+      "address": "ביג רגבה, נהריה",
+      "lat": 32.975168,
+      "lng": 35.094779,
+      "sourceUrl": "https://www.ace.co.il/stores/branch/index/id/43",
+      "coordinateSourceUrl": "https://waze.com/ul?ll=32.975168,35.094779&navigate=yes",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "ace-44",
+      "store": "ACE",
+      "name": "אשדוד, סטאר סנטר",
+      "city": "אשדוד",
+      "address": "זבוטינסקי 39, אשדוד",
+      "lat": 31.809632,
+      "lng": 34.655771,
+      "sourceUrl": "https://www.ace.co.il/stores/branch/index/id/44",
+      "coordinateSourceUrl": "https://waze.com/ul?ll=31.809632,34.655771&navigate=yes",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "ace-50",
+      "store": "ACE",
+      "name": "יהוד, מתחם ביג",
+      "city": "יהוד",
+      "address": "רחוב אלטלף 4 מתחם ביג, יהוד",
+      "lat": 32.02624,
+      "lng": 34.900276,
+      "sourceUrl": "https://www.ace.co.il/stores/branch/index/id/50",
+      "coordinateSourceUrl": "https://waze.com/ul?ll=32.02624,34.900276&navigate=yes",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "ace-52",
+      "store": "ACE",
+      "name": "חיפה, חוצות המפרץ",
+      "city": "חיפה",
+      "address": "החרושת 10, חיפה",
+      "lat": 32.807835,
+      "lng": 35.055067,
+      "sourceUrl": "https://www.ace.co.il/stores/branch/index/id/52",
+      "coordinateSourceUrl": "https://waze.com/ul?ll=32.807835,35.055067&navigate=yes",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "ace-75",
+      "store": "ACE",
+      "name": "נתניה, פולג",
+      "city": "נתניה",
+      "address": "גיבורי ישראל 5, נתניה",
+      "lat": 32.276367,
+      "lng": 34.860502,
+      "sourceUrl": "https://www.ace.co.il/stores/branch/index/id/75",
+      "coordinateSourceUrl": "https://waze.com/ul?ll=32.276367,34.860502&navigate=yes",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    }
+  ],
+  "source": {
+    "store": "ACE",
+    "aliases": [
+      "אייס",
+      "ACE",
+      "Ace"
+    ],
+    "sourceUrl": "https://www.ace.co.il/stores",
+    "checkedAt": "2026-09-20",
+    "examined": 21,
+    "included": 7,
+    "coverage": "partial",
+    "note": "יעדי Waze מפורשים מדף הסניפים הרשמי. נכללו רק סניפי ACE וסניפים המוגדרים במקור כמשותפים ACE/AUTODEPOT; אוטודיפו בלבד אינו נכלל. נבדקו29 רשומות במקור המעורב, מהן21 חנויות ACE או משותפות;6 אוטודיפו בלבד ומחסן ומפעל אינם בספירת הרשת. כתובות ומתחמים הוצלבו; לא הוסקו קואורדינטות.",
+    "skipped": [
+      {
+        "officialId": "58",
+        "name": "באר שבע, מתחם ביג",
+        "city": "באר_שבע",
+        "reason": "address-conflict-needs-review"
+      },
+      {
+        "officialId": "51",
+        "name": "בילו סנטר",
+        "city": "קרית_עקרון",
+        "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "72",
+        "name": "בית שמש, מתחם ביג",
+        "city": "בית_שמש",
+        "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "26",
+        "name": "בני ברק, איילון",
+        "city": "בני_ברק",
+        "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "18",
+        "name": "חולון, מתחם הסיירים סנטר",
+        "city": "חולון",
+        "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "49",
+        "name": "ירושלים, תלפיות",
+        "city": "ירושלים",
+        "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "32",
+        "name": "כפר סבא, מתחם G",
+        "city": "כפר_סבא",
+        "reason": "address-conflict-needs-review"
+      },
+      {
+        "officialId": "31",
+        "name": "מודיעין, שילת",
+        "city": "שילת",
+        "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "42",
+        "name": "נצרת, עופר סנטר",
+        "city": "נוף_הגליל",
+        "reason": "address-conflict-needs-review"
+      },
+      {
+        "officialId": "24",
+        "name": "עין שמר",
+        "city": "עין_שמר",
+        "reason": "venue-coordinate-conflict"
+      },
+      {
+        "officialId": "56",
+        "name": "פתח תקווה, סגולה",
+        "city": "פתח_תקווה",
+        "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "34",
+        "name": "קרית אתא, מתחם ביג",
+        "city": "קרית_אתא",
+        "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "69",
+        "name": "רמלוד",
+        "city": "רמלוד",
+        "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "67",
+        "name": "תל אביב, סינרמה",
+        "city": "תל_אביב",
+        "reason": "venue-or-exact-address-not-independently-corroborated-in-this-round"
+      }
+    ]
+  }
+}

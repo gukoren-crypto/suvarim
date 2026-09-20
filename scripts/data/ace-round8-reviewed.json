@@ -1,0 +1,391 @@
+{
+  "sourceUrl": "https://www.ace.co.il/stores",
+  "checkedAt": "2026-09-20",
+  "examined": 29,
+  "reviewed": [
+    {
+      "id": "44",
+      "brand": "סניפי_אייס",
+      "city": "אשדוד",
+      "name": "אשדוד, סטאר סנטר",
+      "address": "זבוטינסקי 39, אשדוד",
+      "lat": 31.809632,
+      "lng": 34.655771,
+      "waze": "https://waze.com/ul?ll=31.809632,34.655771&navigate=yes"
+    },
+    {
+      "id": "87",
+      "brand": "סניפי_אוטודיפו",
+      "city": "אשדוד",
+      "name": "אשדוד, סטאר סנטר",
+      "address": "מתחם סטאר סנטר, אשדוד",
+      "lat": 31.811494,
+      "lng": 34.654646,
+      "waze": "https://waze.com/ul?ll=31.811494,34.654646&navigate=yes"
+    },
+    {
+      "id": "29",
+      "brand": "סניפים_משותפים_אייס_+_אוטודיפו",
+      "city": "אשקלון",
+      "name": "אשקלון מבקיעים",
+      "address": "מתחם גלובוס סנטר אשקלון/מבקיעים, אשקלון",
+      "lat": 31.627206,
+      "lng": 34.583695,
+      "waze": "https://waze.com/ul?ll=31.627206,34.583695&navigate=yes"
+    },
+    {
+      "id": "58",
+      "brand": "סניפים_משותפים_אייס_+_אוטודיפו",
+      "city": "באר_שבע",
+      "name": "באר שבע, מתחם ביג",
+      "address": "דרך חברון 58, באר שבע",
+      "lat": 31.241675,
+      "lng": 34.810607,
+      "waze": "https://waze.com/ul?ll=31.241675,34.810607&navigate=yes"
+    },
+    {
+      "id": "51",
+      "brand": "סניפים_משותפים_אייס_+_אוטודיפו",
+      "city": "קרית_עקרון",
+      "name": "בילו סנטר",
+      "address": "בילו סנטר, קרית עקרון",
+      "lat": 31.862146,
+      "lng": 34.81748,
+      "waze": "https://waze.com/ul?ll=31.862146,34.81748&navigate=yes"
+    },
+    {
+      "id": "72",
+      "brand": "סניפי_אייס",
+      "city": "בית_שמש",
+      "name": "בית שמש, מתחם ביג",
+      "address": "יגאל אלון 1, בית שמש",
+      "lat": 31.756849,
+      "lng": 34.987511,
+      "waze": "https://waze.com/ul?ll=31.756849,34.987511&navigate=yes"
+    },
+    {
+      "id": "71",
+      "brand": "סניפי_אוטודיפו",
+      "city": "בית_שמש",
+      "name": "בית שמש, מתחם ביג",
+      "address": "יגאל אלון 1, בית שמש",
+      "lat": 31.757145,
+      "lng": 34.986672,
+      "waze": "https://waze.com/ul?ll=31.757145,34.986672&navigate=yes"
+    },
+    {
+      "id": "82",
+      "brand": "סניפי_אוטודיפו",
+      "city": "בני_ברק",
+      "name": "בני ברק, איילון ",
+      "address": "מבצע קדש 56, בני ברק",
+      "lat": 32.09953,
+      "lng": 34.828809,
+      "waze": "https://waze.com/ul?ll=32.09953,34.828809&navigate=yes"
+    },
+    {
+      "id": "26",
+      "brand": "סניפי_אייס",
+      "city": "בני_ברק",
+      "name": "בני ברק, איילון",
+      "address": "מבצע קדש 56, בני ברק",
+      "lat": 32.099959,
+      "lng": 34.829419,
+      "waze": "https://waze.com/ul?ll=32.099959,34.829419&navigate=yes"
+    },
+    {
+      "id": "18",
+      "brand": "סניפים_משותפים_אייס_+_אוטודיפו",
+      "city": "חולון",
+      "name": "חולון, מתחם הסיירים סנטר",
+      "address": "המרכבה 38, חולון",
+      "lat": 32.00182,
+      "lng": 34.80352,
+      "waze": "https://waze.com/ul?ll=32.00182,34.80352&navigate=yes"
+    },
+    {
+      "id": "52",
+      "brand": "סניפי_אייס",
+      "city": "חיפה",
+      "name": "חיפה, חוצות המפרץ",
+      "address": "החרושת 10, חיפה",
+      "lat": 32.807835,
+      "lng": 35.055067,
+      "waze": "https://waze.com/ul?ll=32.807835,35.055067&navigate=yes"
+    },
+    {
+      "id": "81",
+      "brand": "סניפי_אוטודיפו",
+      "city": "חיפה",
+      "name": "חיפה, חוצות המפרץ",
+      "address": "צומת וולקן, חיפה",
+      "lat": 32.80992,
+      "lng": 35.056841,
+      "waze": "https://waze.com/ul?ll=32.80992,35.056841&navigate=yes"
+    },
+    {
+      "id": "50",
+      "brand": "סניפי_אייס",
+      "city": "יהוד",
+      "name": "יהוד, מתחם ביג",
+      "address": "רחוב אלטלף 4 מתחם ביג, יהוד",
+      "lat": 32.02624,
+      "lng": 34.900276,
+      "waze": "https://waze.com/ul?ll=32.02624,34.900276&navigate=yes"
+    },
+    {
+      "id": "49",
+      "brand": "סניפים_משותפים_אייס_+_אוטודיפו",
+      "city": "ירושלים",
+      "name": "ירושלים, תלפיות",
+      "address": "האומן 17, ירושלים",
+      "lat": 31.750615,
+      "lng": 35.209098,
+      "waze": "https://waze.com/ul?ll=31.750615,35.209098&navigate=yes"
+    },
+    {
+      "id": "32",
+      "brand": "סניפי_אייס",
+      "city": "כפר_סבא",
+      "name": "כפר סבא, מתחם G",
+      "address": "ויצמן 301, כפר סבא",
+      "lat": 32.171175,
+      "lng": 34.927376,
+      "waze": "https://waze.com/ul?ll=32.171175,34.927376&navigate=yes"
+    },
+    {
+      "id": "86",
+      "brand": "סניפי_אוטודיפו",
+      "city": "כפר_סבא",
+      "name": "כפר סבא",
+      "address": "התעש 10, כפר סבא",
+      "lat": 32.173663,
+      "lng": 34.925961,
+      "waze": "https://waze.com/ul?ll=32.173663,34.925961&navigate=yes"
+    },
+    {
+      "id": "31",
+      "brand": "סניפי_אייס",
+      "city": "שילת",
+      "name": "מודיעין, שילת",
+      "address": "אזור תעשיה, שילת",
+      "lat": 31.915796,
+      "lng": 35.02296,
+      "waze": "https://waze.com/ul?ll=31.915796,35.02296&navigate=yes"
+    },
+    {
+      "id": "601",
+      "brand": "סניפי_אייס",
+      "city": "קרית_אתא",
+      "name": "מחסן לוגיסטי צפון",
+      "address": "התעשיה 52, קרית אתא",
+      "lat": 32.80101,
+      "lng": 35.066595,
+      "waze": "https://waze.com/ul?ll=32.80101,35.066595&navigate=yes"
+    },
+    {
+      "id": "92",
+      "brand": "סניפי_אייס",
+      "city": "אשדוד",
+      "name": "מפעל ספץ",
+      "address": "המדע 52, אשדוד",
+      "lat": 31.832703,
+      "lng": 34.684948,
+      "waze": "https://waze.com/ul?ll=31.832703,34.684948&navigate=yes"
+    },
+    {
+      "id": "42",
+      "brand": "סניפים_משותפים_אייס_+_אוטודיפו",
+      "city": "נוף_הגליל",
+      "name": "נצרת, עופר סנטר",
+      "address": "דרך אריאל שרון 41, נוף הגליל",
+      "lat": 32.692421,
+      "lng": 35.305103,
+      "waze": "https://waze.com/ul?ll=32.692421,35.305103&navigate=yes"
+    },
+    {
+      "id": "75",
+      "brand": "סניפי_אייס",
+      "city": "נתניה",
+      "name": "נתניה, פולג",
+      "address": "גיבורי ישראל 5, נתניה",
+      "lat": 32.276367,
+      "lng": 34.860502,
+      "waze": "https://waze.com/ul?ll=32.276367,34.860502&navigate=yes"
+    },
+    {
+      "id": "85",
+      "brand": "סניפי_אוטודיפו",
+      "city": "נתניה",
+      "name": "נתניה",
+      "address": "יד חרוצים 8, נתניה",
+      "lat": 0,
+      "lng": 0,
+      "waze": "https://waze.com/ul?ll=,&navigate=yes"
+    },
+    {
+      "id": "24",
+      "brand": "סניפים_משותפים_אייס_+_אוטודיפו",
+      "city": "עין_שמר",
+      "name": "עין שמר",
+      "address": "צומת כרכור, עין שמר",
+      "lat": 32.47586,
+      "lng": 34.97629,
+      "waze": "https://waze.com/ul?ll=32.47586,34.97629&navigate=yes"
+    },
+    {
+      "id": "56",
+      "brand": "סניפים_משותפים_אייס_+_אוטודיפו",
+      "city": "פתח_תקווה",
+      "name": "פתח תקווה, סגולה",
+      "address": "הרב פינטו 17 , פתח תקווה",
+      "lat": 32.10115,
+      "lng": 34.893997,
+      "waze": "https://waze.com/ul?ll=32.10115,34.893997&navigate=yes"
+    },
+    {
+      "id": "34",
+      "brand": "סניפי_אייס",
+      "city": "קרית_אתא",
+      "name": "קרית אתא, מתחם ביג",
+      "address": "שדרות ההסתדרות 248, קרית אתא",
+      "lat": 32.811759,
+      "lng": 35.072994,
+      "waze": "https://waze.com/ul?ll=32.811759,35.072994&navigate=yes"
+    },
+    {
+      "id": "41",
+      "brand": "סניפים_משותפים_אייס_+_אוטודיפו",
+      "city": "ראשון_לציון",
+      "name": "ראשון לציון, מתחם G ",
+      "address": "ילדי טהרן 5, ראשון לציון",
+      "lat": 31.985056,
+      "lng": 34.769429,
+      "waze": "https://waze.com/ul?ll=31.985056,34.769429&navigate=yes"
+    },
+    {
+      "id": "43",
+      "brand": "סניפים_משותפים_אייס_+_אוטודיפו",
+      "city": "נהריה",
+      "name": "רגבה, מתחם ביג",
+      "address": "ביג רגבה, נהריה",
+      "lat": 32.975168,
+      "lng": 35.094779,
+      "waze": "https://waze.com/ul?ll=32.975168,35.094779&navigate=yes"
+    },
+    {
+      "id": "69",
+      "brand": "סניפי_אייס",
+      "city": "רמלוד",
+      "name": "רמלוד",
+      "address": "צומת אחיסמך, כביש 40, רמלוד",
+      "lat": 31.932962,
+      "lng": 34.889508,
+      "waze": "https://waze.com/ul?ll=31.932962,34.889508&navigate=yes"
+    },
+    {
+      "id": "67",
+      "brand": "סניפים_משותפים_אייס_+_אוטודיפו",
+      "city": "תל_אביב",
+      "name": "תל אביב, סינרמה",
+      "address": "יגאל אלון 59, תל אביב",
+      "lat": 32.064038,
+      "lng": 34.791697,
+      "waze": "https://waze.com/ul?ll=32.064038,34.791697&navigate=yes"
+    }
+  ],
+  "exclusions": {
+    "18": "venue-or-exact-address-not-independently-corroborated-in-this-round",
+    "24": "venue-coordinate-conflict",
+    "26": "venue-or-exact-address-not-independently-corroborated-in-this-round",
+    "31": "venue-or-exact-address-not-independently-corroborated-in-this-round",
+    "32": "address-conflict-needs-review",
+    "34": "venue-or-exact-address-not-independently-corroborated-in-this-round",
+    "42": "address-conflict-needs-review",
+    "49": "venue-or-exact-address-not-independently-corroborated-in-this-round",
+    "51": "venue-or-exact-address-not-independently-corroborated-in-this-round",
+    "56": "venue-or-exact-address-not-independently-corroborated-in-this-round",
+    "58": "address-conflict-needs-review",
+    "67": "venue-or-exact-address-not-independently-corroborated-in-this-round",
+    "69": "venue-or-exact-address-not-independently-corroborated-in-this-round",
+    "71": "other-brand-autodepot-only",
+    "72": "venue-or-exact-address-not-independently-corroborated-in-this-round",
+    "81": "other-brand-autodepot-only",
+    "82": "other-brand-autodepot-only",
+    "85": "other-brand-autodepot-only",
+    "86": "other-brand-autodepot-only",
+    "87": "other-brand-autodepot-only",
+    "92": "non-retail-warehouse-or-factory",
+    "601": "non-retail-warehouse-or-factory"
+  },
+  "corroboration": [
+    {
+      "id": "44",
+      "referenceId": "foxhome-cbd6c5b9e0f3",
+      "referenceName": "אשדוד",
+      "referenceAddress": "סטאר סנטר, אשדוד",
+      "sourceUrl": "https://www.foxhome.co.il/pages/branches",
+      "coordinateSourceUrl": "https://www.waze.com/he/live-map/directions/%D7%9E%D7%AA%D7%97%D7%9D-%D7%A7%D7%A0%D7%99%D7%95%D7%AA-%D7%A1%D7%98%D7%90%D7%A8-%D7%A1%D7%A0%D7%98%D7%A8-%D7%96%D7%91%D7%95%D7%98%D7%99%D7%A0%D7%A1%D7%A7%D7%99-44-%D7%90%D7%A9%D7%93%D7%95%D7%93?to=place.w.22741310.227150957.276037",
+      "distanceMeters": 91
+    },
+    {
+      "id": "29",
+      "referenceId": "castro-4165",
+      "referenceName": "מבקיעים גלובוס סנטר- נשים, גברים, ילדים ו - HOME",
+      "referenceAddress": "חוף אשקלון, צומת, מבקיעים, אשקלון",
+      "sourceUrl": "https://www.castro.com/stores",
+      "coordinateSourceUrl": "https://www.castro.com/stores",
+      "distanceMeters": 20
+    },
+    {
+      "id": "52",
+      "referenceId": "golf-299",
+      "referenceName": "גולף חוצות המפרץ",
+      "referenceAddress": "החרושת 10",
+      "sourceUrl": "https://www.golf-il.co.il/stores",
+      "coordinateSourceUrl": "https://www.golf-il.co.il/stores",
+      "distanceMeters": 116
+    },
+    {
+      "id": "50",
+      "referenceId": "footlocker-89a7759fcf42",
+      "referenceName": "ביג יהוד",
+      "referenceAddress": "אלטלף 4, יהוד",
+      "sourceUrl": "https://footlocker.co.il/pages/branches",
+      "coordinateSourceUrl": "https://www.google.com/maps/place/Altalef+St+4,+Yahud+Monoson/@32.0262441,34.898426,17z/data=!3m1!4b1!4m6!3m5!1s0x151d3538524453c9:0x1af4a09d627dbbf3!8m2!3d32.0262441!4d34.9010009!16s%2Fg%2F11w8pv28nj?entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D",
+      "distanceMeters": 68
+    },
+    {
+      "id": "75",
+      "referenceId": "polgat-409",
+      "referenceName": "פולגת ביג פולג- מתחם נצב\"א",
+      "referenceAddress": "ביג פולג, גבורי ישראל 5",
+      "sourceUrl": "https://www.golfgroup.co.il/branches",
+      "coordinateSourceUrl": "https://www.golfgroup.co.il/branches",
+      "distanceMeters": 55
+    },
+    {
+      "id": "41",
+      "referenceId": "castro-4169",
+      "referenceName": "מתחם G ראשון לציון - נשים, גברים, ילדים ו - HOME",
+      "referenceAddress": "ילדי טהרן 5, ראשון לציון",
+      "sourceUrl": "https://www.castro.com/stores",
+      "coordinateSourceUrl": "https://www.castro.com/stores",
+      "distanceMeters": 5
+    },
+    {
+      "id": "43",
+      "referenceId": "foxhome-1bd843928522",
+      "referenceName": "רגבה",
+      "referenceAddress": "מתחם ביג רגבה, רגבה",
+      "sourceUrl": "https://www.foxhome.co.il/pages/branches",
+      "coordinateSourceUrl": "https://www.waze.com/he/live-map/directions/%D7%91%D7%99%D7%92-%D7%A8%D7%92%D7%91%D7%94?to=place.w.23003466.230034657.8793",
+      "distanceMeters": 28
+    }
+  ],
+  "blockedPriorSource": {
+    "store": "הום סטייל",
+    "sourceUrl": "https://www.homestyle.co.il/pages/%D7%A8%D7%A9%D7%99%D7%9E%D7%AA-%D7%A1%D7%A0%D7%99%D7%A4%D7%99%D7%9D",
+    "reason": "Official page inspected: store names/addresses/phones but no explicit per-store coordinates or navigation destinations found"
+  }
+}
