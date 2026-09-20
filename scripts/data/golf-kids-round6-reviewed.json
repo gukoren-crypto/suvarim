@@ -1,0 +1,1919 @@
+{
+  "sourceUrl": "https://www.golfgroup.co.il/branches",
+  "checkedAt": "2026-09-20",
+  "examined": 83,
+  "pagingMetadata": [
+    {
+      "count": 50,
+      "offset": 0,
+      "total": 83,
+      "hasNext": true
+    },
+    {
+      "count": 33,
+      "offset": 50,
+      "total": 83,
+      "hasNext": false
+    }
+  ],
+  "reviewed": [
+    {
+      "id": "29",
+      "officialId": "078409b6-6e8b-448a-bc0a-24ff7bf3003f",
+      "name": " נווה זאב ב\"ש",
+      "city": "באר שבע",
+      "address": "נווה זאב, זבוטינסקי 30",
+      "lat": 34.77420111,
+      "lng": 31.2394714,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "322",
+      "officialId": "0a2c252b-f88f-4152-bd90-ead50fc5d980",
+      "name": "רוגובין יבנה",
+      "city": "יבנה",
+      "address": "קניון רוגובין",
+      "lat": 34.73569,
+      "lng": 31.86681,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "351",
+      "officialId": "0b43dd65-f2df-48ea-a24c-bb3b478ff86a",
+      "name": " ד.המכבים ראשל\"צ",
+      "city": "ראשון לציון",
+      "address": "מכבים 62 א.ת מזרחי",
+      "lat": 34.81162,
+      "lng": 31.98428,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "874",
+      "officialId": "0bd52745-bf73-461f-aea0-27b7919c7155",
+      "name": "קידס גדרה",
+      "city": "גדרה",
+      "address": "קניון פרוייקט המושבה",
+      "lat": 34.78411124,
+      "lng": 31.80450602,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "860",
+      "officialId": "10add5d3-06e3-4183-84ed-b74ca0c7589c",
+      "name": "עזריאלי עכו",
+      "city": "עכו",
+      "address": "קניון עזריאלי עכו, החרושת 2",
+      "lat": 32.92332,
+      "lng": 35.081223,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "359",
+      "officialId": "12a1a1b0-dab7-42b6-82ae-be66875f83be",
+      "name": "גא\"ק הקניון הגדול פ\"ת",
+      "city": "פתח תקווה",
+      "address": "הקניון הגדול,זאב ז'בוטינסקי 72 ",
+      "lat": 32.091745,
+      "lng": 34.865341,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "378",
+      "officialId": "1379acda-be6d-478a-a1aa-5fde95056183",
+      "name": "עמק סנטר עפולה",
+      "city": "עפולה",
+      "address": "עפולה, G בעמק, יצחק רבין 18",
+      "lat": 35.31298,
+      "lng": 32.61979,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "366",
+      "officialId": "139ce7a6-4000-4f40-b727-e97eff82f5bb",
+      "name": "מול כנרת צמח",
+      "city": "צמח",
+      "address": "מול כנרת צמח",
+      "lat": 35.58598,
+      "lng": 32.70763,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "368",
+      "officialId": "146f92c5-6674-4fcf-afaa-b2d984d34860",
+      "name": "גבעתיים",
+      "city": "גבעתיים",
+      "address": "קניון גבעתיים,יצחק רבין 53",
+      "lat": 34.80981,
+      "lng": 32.06697,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "308",
+      "officialId": "155729b9-85ad-448e-9ca4-6444e5435675",
+      "name": "קניון רחובות",
+      "city": "רחובות",
+      "address": "קניון רחובות, בילו 2",
+      "lat": 34.80683,
+      "lng": 31.89353,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "326",
+      "officialId": "18783ac9-b836-4fc0-8dc6-ca681512f711",
+      "name": "מבנה גן שמואל",
+      "city": "גן שמואל",
+      "address": "מרכז מסחרי גן שמואל",
+      "lat": 34.95378,
+      "lng": 32.44817,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "53",
+      "officialId": "1eca7550-58c2-4d18-8728-439afb7ae02b",
+      "name": "עין שמר",
+      "city": "עין שמר",
+      "address": "עין שמר",
+      "lat": 32.465548,
+      "lng": 34.993353,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "847",
+      "officialId": "1eeb5c01-a1a4-42c4-9a80-b4ce34ecda6b",
+      "name": "סינמול חיפה",
+      "city": "חיפה",
+      "address": "סינמול, ההסתדרות 55",
+      "lat": 32.792519,
+      "lng": 35.037241,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "565",
+      "officialId": "242f83f4-9883-4534-b6f9-305faf68d5f6",
+      "name": "קידס אאוטלט",
+      "city": "רמת גן",
+      "address": "ששת הימים 28 (מול קניון איילון)",
+      "lat": 32.098784,
+      "lng": 34.8279,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "857",
+      "officialId": "281d5d98-d0df-40af-bfa8-7bcbc654706c",
+      "name": "לב הפסגה פ. זאב",
+      "city": "ירושלים",
+      "address": "קניון פסגת זאב, שדרות משה דיין 106",
+      "lat": 35.23714396,
+      "lng": 31.82432338,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "336",
+      "officialId": "295b2152-73de-4c26-8ed7-ee8ccddb3fbc",
+      "name": "גא\"ק ק.הנגב ב\"ש",
+      "city": "באר שבע",
+      "address": "קניון הנגב",
+      "lat": 31.24443,
+      "lng": 34.810619,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "834",
+      "officialId": "2e2225f8-7615-4c91-aed7-bc0df5f8ddc5",
+      "name": "הראל מבשרת",
+      "city": "מבשרת ירושלים",
+      "address": "קניון הראל, הראל 1",
+      "lat": 35.148915,
+      "lng": 31.80029672,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "721",
+      "officialId": "2ee74f28-b8bc-4f09-b76d-adb51068982e",
+      "name": " מבנה ב\"ש",
+      "city": "באר שבע",
+      "address": "מרכז וואן מבנה ב\"ש",
+      "lat": 34.81219348,
+      "lng": 31.24812087,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "321",
+      "officialId": "2eea20db-76f3-43f7-ad2b-e7af5b23db20",
+      "name": " ביג ב\"ש",
+      "city": "באר שבע",
+      "address": "מרכז ביג דרך חברון 21",
+      "lat": 34.79347,
+      "lng": 31.2377,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "28",
+      "officialId": "30563b60-7764-41ad-b12f-84236f26966a",
+      "name": "חוצות שפיים",
+      "city": "שפיים",
+      "address": "מרכז מסחרי שפיים",
+      "lat": 32.22096,
+      "lng": 34.828344,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "853",
+      "officialId": "30ed1770-dfe3-4152-8b4c-c5aa29d42208",
+      "name": " קניון גנים פ\"ת",
+      "city": "פתח תקווה",
+      "address": "העצמאות 65 כפר גנים",
+      "lat": 34.86999753,
+      "lng": 32.07441266,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "891",
+      "officialId": "316dbb2b-c7e0-4cc6-95ef-37820071a555",
+      "name": " מרכז מסחרי שהם",
+      "city": "שוהם",
+      "address": "מרכז מסחרי שוהם",
+      "lat": 34.94681784,
+      "lng": 31.99903009,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "881",
+      "officialId": "39473016-e5b0-4465-989b-2df23bb4b735",
+      "name": "עזריאלי חיפה",
+      "city": "חיפה",
+      "address": "קניון עזריאלי חיפה, פלימן משה 4",
+      "lat": 32.789871,
+      "lng": 34.965652,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "862",
+      "officialId": "3e6ed3a2-34d9-4b9c-a68a-dc1243fce83b",
+      "name": "מרכז פנורמה חיפה",
+      "city": "חיפה",
+      "address": "מגדל פנורמה",
+      "lat": 34.98768439,
+      "lng": 32.80657012,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "358",
+      "officialId": "3f5c4e28-58ec-4298-bb4f-8fdac1a8f47d",
+      "name": "גלובס נתיבות",
+      "city": "נתיבות",
+      "address": "גלובוס סנטר ,בעלי המלאכה 5",
+      "lat": 34.59922,
+      "lng": 31.41866,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "350",
+      "officialId": "412c6bf6-50b9-4684-8342-97f7ac0177ac",
+      "name": "מבנה תל חנן",
+      "city": "תל חנן",
+      "address": "מתחם תל חנן, בר יהודה 174 נשר",
+      "lat": 35.04065,
+      "lng": 32.77957,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "19",
+      "officialId": "43eaac3d-db53-475c-a578-539a4a6ed86f",
+      "name": "שפרעם",
+      "city": "שפרעם",
+      "address": "רחוב אלעין",
+      "lat": 32.81724,
+      "lng": 35.152422,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "831",
+      "officialId": "44b9acc4-4f6c-4254-8ea6-ea31ac3e9723",
+      "name": "תחנה מרכזית י-ם",
+      "city": "ירושלים",
+      "address": "רח יפו 224 תחנה מרכזית, נצבא",
+      "lat": 35.20242389,
+      "lng": 31.78877801,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "876",
+      "officialId": "4c561592-1895-461b-ba97-3d851e67f1a3",
+      "name": "הגעתון נהריה",
+      "city": "נהריה",
+      "address": "רח הגעתון פינת רחוב הרצל",
+      "lat": 35.09612709,
+      "lng": 33.00642391,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "361",
+      "officialId": "4c82cd3c-6831-4a01-b5b8-f221e247445a",
+      "name": "חוצות אשקלון",
+      "city": "אשקלון",
+      "address": "קניון חוצות, שדרות בן גוריון פינת נח\"ל 1",
+      "lat": 34.58993,
+      "lng": 31.66131,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "331",
+      "officialId": "4d4271d9-f2c2-4530-8001-eea87a4fd528",
+      "name": "גא\"ק הדר י-ם",
+      "city": "ירושלים",
+      "address": "קניון הדר י-ם",
+      "lat": 35.21545,
+      "lng": 31.75106,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "880",
+      "officialId": "4d990351-a8a1-4ae9-a229-7df0202c0a14",
+      "name": "קניון רמות י-ם",
+      "city": "ירושלים",
+      "address": "קניון רמות,שדרות גולדה מאיר 255",
+      "lat": 31.817719,
+      "lng": 35.194423,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "828",
+      "officialId": "525a5ddb-00d7-4183-8eb2-dc1f14511222",
+      "name": "מרום נווה רמת גן",
+      "city": "רמת גן",
+      "address": "קניון מרום סנטר, חיים לנדאו 7",
+      "lat": 34.82817817,
+      "lng": 32.07173944,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "823",
+      "officialId": "5275ddea-f004-4243-ba5e-c46b0d11aba2",
+      "name": "בילו ק. עקרון",
+      "city": "קרית עקרון",
+      "address": "צומת בילו",
+      "lat": 34.81653737,
+      "lng": 31.86510146,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "816",
+      "officialId": "53066373-29ef-47e6-a5ee-6c4a5671357b",
+      "name": "ש.הצפון ק.אתא",
+      "city": "קרית אתא",
+      "address": "קניון שער הצפון, דרך חיפה 30",
+      "lat": 32.8055847,
+      "lng": 35.0745285,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "338",
+      "officialId": "5426ab1f-c289-4912-9e9f-05dc3fe347ec",
+      "name": "ביג יוקנעם",
+      "city": "יקנעם",
+      "address": "מרכז ביג יוקנעם, שדרות יצחק רבין 9",
+      "lat": 35.09278,
+      "lng": 32.64284,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "360",
+      "officialId": "5f3137ef-afe4-48fb-8252-69bcfd90e2c4",
+      "name": "מבקיעים אשקלון",
+      "city": "אשקלון",
+      "address": "צומת קצא\"א על כביש 4",
+      "lat": 34.58335,
+      "lng": 31.62834,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "373",
+      "officialId": "5fb14ef5-221d-448f-bbc3-a129afcd1665",
+      "name": "ביג בית שמש",
+      "city": "בית שמש",
+      "address": "ביג בית שמש, שדרות יגאל אלון 1",
+      "lat": 34.99024,
+      "lng": 31.75688,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "836",
+      "officialId": "618ea538-b88d-49f3-a331-cd0ede37ad2b",
+      "name": "בן יהודה י-ם",
+      "city": "ירושלים",
+      "address": "בן יהודה 23",
+      "lat": 31.782105,
+      "lng": 35.219176,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "385",
+      "officialId": "68dde482-bb49-4615-8ace-e7fd927f2637",
+      "name": "מודיעין",
+      "city": "מודיעין",
+      "address": "קניון מודיעין",
+      "lat": 35.00781,
+      "lng": 31.89921,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "859",
+      "officialId": "6a961dc3-994f-40cb-bdd9-be18359497e7",
+      "name": "הגבעה ג.שמואל",
+      "city": "גבעת שמואל",
+      "address": "קניון הגבעה רח' יוני נתניהו 23",
+      "lat": 34.8547351,
+      "lng": 32.07739678,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "44",
+      "officialId": "6b7049ae-c60e-474c-acb9-9e66e1d14bf1",
+      "name": " סטאר אשדוד",
+      "city": "אשדוד",
+      "address": "מתחם סטאר סנטר, ז'בוטינסקי 45",
+      "lat": 31.810391,
+      "lng": 34.656597,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "344",
+      "officialId": "6bfa0878-e963-48a9-b0c7-a8fc9b2694a4",
+      "name": "קניותר נס ציונה",
+      "city": "נס ציונה",
+      "address": "קניותר, רח' האיריסים 53",
+      "lat": 34.79824,
+      "lng": 31.93053,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "327",
+      "officialId": "70b07bb0-0e05-4891-b61c-091c6badb60e",
+      "name": " גן העיר ת\"א",
+      "city": "תל אביב",
+      "address": "גן העיר, תל אביב אבן גבירול 71",
+      "lat": 34.78063,
+      "lng": 32.08262,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "370",
+      "officialId": "7a230f33-6464-4fb6-a224-1f44a05f8c10",
+      "name": "אאוטלט קרית גת",
+      "city": "קרית גת",
+      "address": "דרך ישראל פולג אזור תעשיה",
+      "lat": 34.78353,
+      "lng": 31.60538,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "334",
+      "officialId": "7a4e125d-6e3b-4932-9ca0-ec365096b797",
+      "name": "אאוטלט חוצות המפרץ חיפה",
+      "city": "חיפה",
+      "address": "מרכז מסחרי חוצות המפרץ, החרושת 10",
+      "lat": 35.05652,
+      "lng": 32.806,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "383",
+      "officialId": "7a84a7c5-ce99-4934-afe4-7d52d67683d9",
+      "name": "אאוטלט ביג ירכא",
+      "city": "ירכא",
+      "address": "מרכז מסחרי ביג ירכא",
+      "lat": 32.95629,
+      "lng": 35.18321,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "877",
+      "officialId": "7dd3c19d-32d4-487c-ace9-54323ceb62f2",
+      "name": "מעלה אדומים",
+      "city": "מעלה אדומים",
+      "address": "קניון אדומים, דרך קדם 1",
+      "lat": 31.772064,
+      "lng": 35.299157,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "592",
+      "officialId": "88c75c2f-c071-46b2-b4d9-9c3c126a279b",
+      "name": "אאוטלט ק. סירקין פ\"ת",
+      "city": "פתח תקווה",
+      "address": "קניון סירקין, אלעזר פרישמן 19",
+      "lat": 32.079757,
+      "lng": 34.902135,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "47",
+      "officialId": "8968da7f-a951-4150-a319-4f270c5a1504",
+      "name": " רוטשילד ראשל\"צ",
+      "city": "ראשון לציון",
+      "address": "קניון רוטשילד,רוטשילד 45",
+      "lat": 31.963861,
+      "lng": 34.7997589,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "391",
+      "officialId": "8e59f40f-aa02-46f2-92e4-6b72867d19a2",
+      "name": "השרון נתניה",
+      "city": "נתניה",
+      "address": "קניון השרון, הרצל 60",
+      "lat": 34.86186,
+      "lng": 32.32636,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "309",
+      "officialId": "8f88d372-0003-4b4e-a6f6-a09d98810796",
+      "name": "נצבא נתניה",
+      "city": "נתניה",
+      "address": "ביג פולג, נתניה גבורי ישראל 5",
+      "lat": 34.85954,
+      "lng": 32.27571,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "49",
+      "officialId": "937e7495-7940-4f58-80d3-791c46c00c2d",
+      "name": "שדרות הנשיא עפולה",
+      "city": "עפולה",
+      "address": "שדרות הנשיא 18",
+      "lat": 35.28837819,
+      "lng": 32.61043596,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "819",
+      "officialId": "945e3083-481e-47ea-aba4-19f0e8f58255",
+      "name": "קידס רחובות א.הנשיא",
+      "city": "רחובות",
+      "address": "אחוזת הנשיא רחובות",
+      "lat": 34.80683,
+      "lng": 31.89353,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "815",
+      "officialId": "9480d15d-96eb-4d89-a6cb-c79026604d1b",
+      "name": "דרורים ב. דרור",
+      "city": "נתניה",
+      "address": "צומת בני דרור",
+      "lat": 34.89406523,
+      "lng": 32.26019394,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "372",
+      "officialId": "989ffc53-6a12-4ddd-9f38-0c9a076751f8",
+      "name": "פרופיט סנטר חולון",
+      "city": "חולון",
+      "address": "פרופיט סנטר המרכבה 38",
+      "lat": 34.79668,
+      "lng": 32.08416,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "356",
+      "officialId": "99a80762-63d2-4db1-a387-03f361025e28",
+      "name": "גא\"ק קניון הקריון",
+      "city": "קרית ביאליק",
+      "address": "קניון הקריון",
+      "lat": 32.842198,
+      "lng": 35.088878,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "504",
+      "officialId": "9d5d73ec-db38-46dd-a579-264a1a8df9ba",
+      "name": "אאוטלט מבנה בארות יצחק",
+      "city": "בארות יצחק",
+      "address": "מרכז מסחרי וואן",
+      "lat": 32.079757,
+      "lng": 34.902135,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "325",
+      "officialId": "a33b9fb5-302b-4ac1-85c3-0e112a16776a",
+      "name": "בני ברק",
+      "city": "בני ברק",
+      "address": "לח\"י 37 בני ברק",
+      "lat": 32.103515,
+      "lng": 34.83594,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 0
+    },
+    {
+      "id": "306",
+      "officialId": "a63ca003-5995-46c4-a489-b1a9283afe5d",
+      "name": "הרצל נתניה",
+      "city": "נתניה",
+      "address": "נתניה, הרצל 9",
+      "lat": 34.85431,
+      "lng": 32.32986,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "316",
+      "officialId": "a7163ae0-ddea-494a-9e9b-93dcbd9518e3",
+      "name": " כלבו שלום ת\"א",
+      "city": "תל אביב",
+      "address": "מגדל שלום אחד העם 9",
+      "lat": 34.76976,
+      "lng": 32.0639,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "374",
+      "officialId": "a7dce44a-8155-406e-9da6-b3cd19c56e12",
+      "name": "אם הדרך ב. חירות",
+      "city": "כפר ויתקין",
+      "address": "אם הדרך, כפר ויתקין",
+      "lat": 34.86737,
+      "lng": 32.38358,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "892",
+      "officialId": "a9f7e758-d9a1-484d-ac09-0900c5fc2441",
+      "name": " אם המושבות פ\"ת",
+      "city": "פתח תקווה",
+      "address": " קניון אם המושבות",
+      "lat": 34.87474798,
+      "lng": 32.09970319,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "323",
+      "officialId": "b0f8531a-0140-4e5a-8964-73dd26c42a14",
+      "name": "בילו ק. עקרון (גא\"ק)",
+      "city": "קרית עקרון",
+      "address": "בילו סנטר, צומת בילו ",
+      "lat": 34.81654,
+      "lng": 31.8651,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "833",
+      "officialId": "b384e9bc-89cf-48c8-b8ec-254876e3613a",
+      "name": "מלחה י-ם",
+      "city": "ירושלים",
+      "address": "קניון מלחה,דרך אגודת ספורט מיתר 1",
+      "lat": 31.75176,
+      "lng": 35.187206,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "806",
+      "officialId": "c507879c-ede7-4767-979a-f49e4a42b6cc",
+      "name": "אורות א.עקיבא",
+      "city": "אור עקיבא",
+      "address": "קניון אורות , שדרות הנשיא וייצמן 1",
+      "lat": 34.92696356,
+      "lng": 32.50210266,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "302",
+      "officialId": "caa6211c-5c65-4e9c-86be-054af217b897",
+      "name": "קניון ישראל י-ם",
+      "city": "ירושלים",
+      "address": "קניון אחים ישראל, ירושלים יד חרוצים 18",
+      "lat": 35.21545,
+      "lng": 31.75106,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "320",
+      "officialId": "ccf4dc24-e290-4dd2-8aa0-6e5633a5dc26",
+      "name": "ביג אילת",
+      "city": "אילת",
+      "address": "מרכז ביג אילת, הסתת 20",
+      "lat": 34.9597,
+      "lng": 29.56662,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "352",
+      "officialId": "cd47838b-a1db-4e84-aace-e032fe7d65db",
+      "name": "סטריטמול רמת ישי",
+      "city": "רמת ישי",
+      "address": "האקליפטוס 3",
+      "lat": 35.1737,
+      "lng": 32.70766,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "339",
+      "officialId": "cee91699-e5f1-4e90-ad88-17bf008fafbf",
+      "name": "ש.הכוכבים הרצליה",
+      "city": "הרצליה",
+      "address": "קניון שבעת הכוכבים, שדרות שבעת הכוכבים 8",
+      "lat": 34.82377,
+      "lng": 32.16567,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "371",
+      "officialId": "de124cc6-4c56-48d6-83bf-d5dd32ab60da",
+      "name": "גרנד חיפה",
+      "city": "חיפה",
+      "address": "גרנד קניון, דרך שמחה גולן 54",
+      "lat": 35.00777,
+      "lng": 32.78992,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "363",
+      "officialId": "de7be5a5-1d5a-45e5-bb96-effa0759fb0f",
+      "name": " קניון ערים  כ\"ס",
+      "city": "כפר סבא",
+      "address": "קניון ערים, דוד אלעזר",
+      "lat": 34.90405,
+      "lng": 32.17699,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "380",
+      "officialId": "dfe0844b-1da5-4178-8fe6-75d701397497",
+      "name": "רח' לונץ י-ם",
+      "city": "ירושלים",
+      "address": "פינת הרחובות שמאי לונץ",
+      "lat": 35.21897,
+      "lng": 31.78156,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "90",
+      "officialId": "e308ea34-0863-4182-800e-3d98140069e6",
+      "name": "סכנין",
+      "city": "סכנין",
+      "address": "קניון סכניו",
+      "lat": 32.860995,
+      "lng": 35.31021647,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 0
+    },
+    {
+      "id": "364",
+      "officialId": "e74dd246-ed22-4331-a0cb-321fe44fcfb9",
+      "name": "קניון בת ים",
+      "city": "בת ים",
+      "address": "קניון בת ים,יוספטל 92",
+      "lat": 34.75621,
+      "lng": 32.01531,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "355",
+      "officialId": "e87fb147-0aa2-47a9-8705-6a2855824cf8",
+      "name": " כפר סבא הירוקה ",
+      "city": "כפר סבא",
+      "address": "קניון שבירו, רפפורט 10",
+      "lat": 34.89125,
+      "lng": 32.19257,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "21",
+      "officialId": "ef847e2d-6eb4-4153-8294-7ce86472fa70",
+      "name": "יכין סנטר פ\"ת",
+      "city": "פתח תקווה",
+      "address": "השחם 17",
+      "lat": 32.091745,
+      "lng": 34.865341,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "303",
+      "officialId": "f291b31a-c9fa-4ac7-b356-dbacbe896cc6",
+      "name": "מלכת שבא אילת",
+      "city": "אילת",
+      "address": "קניון מלכת שבא, דרך פעמי השלום 19",
+      "lat": 29.55089,
+      "lng": 34.96223,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "340",
+      "officialId": "f3edff5f-c4c0-4da8-9fe7-b00fe2bf047b",
+      "name": "ביג נצרת",
+      "city": "נצרת",
+      "address": "מרכז ביג נצרת, תופיק זאיד 53",
+      "lat": 35.3011,
+      "lng": 32.69618,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "354",
+      "officialId": "f57f472b-794c-4ee3-b203-967297358c97",
+      "name": "חונים קונים ראשלצ",
+      "city": "ראשון לציון",
+      "address": "חונים קונים,  לישנסקי 9",
+      "lat": 34.76484,
+      "lng": 31.99053,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "346",
+      "officialId": "f5c06e35-a2c2-40e6-9c81-d065cc685e15",
+      "name": "ביג כרמיאל",
+      "city": "כרמיאל",
+      "address": "מרכז ביג כרמיאל, מעלה כמון 2",
+      "lat": 35.32186,
+      "lng": 32.92688,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "379",
+      "officialId": "f9ec5d1a-c551-457f-9a9b-db1b90f43bc7",
+      "name": "קניון ק. אונו",
+      "city": "קרית אונו",
+      "address": "קניון קרית אונו,רח ירושליים 35",
+      "lat": 34.86432,
+      "lng": 32.0584,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    },
+    {
+      "id": "65",
+      "officialId": "ffe6abf4-596b-4088-bc92-12d29a21a4ab",
+      "name": "איילון רמת גן",
+      "city": "רמת גן",
+      "address": "קניון איילון, אבא הילל 301",
+      "lat": 32.100593,
+      "lng": 34.826686,
+      "brand": "Golf Kids & Baby",
+      "isActive": 1,
+      "storelocator": 1
+    }
+  ],
+  "exclusions": {
+    "19": "venue-not-independently-corroborated-in-this-round",
+    "21": "venue-coordinate-conflict; destination matches different mall",
+    "28": "venue-not-independently-corroborated-in-this-round",
+    "29": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "47": "venue-not-independently-corroborated-in-this-round",
+    "49": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "90": "venue-not-independently-corroborated-in-this-round",
+    "302": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "303": "venue-not-independently-corroborated-in-this-round",
+    "306": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "308": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "309": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "316": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "320": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "321": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "322": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "323": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "325": "venue-not-independently-corroborated-in-this-round",
+    "326": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "327": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "331": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "334": "outlet-pending-eligibility-review",
+    "336": "venue-coordinate-conflict; destination matches different mall",
+    "338": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "339": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "340": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "344": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "346": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "350": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "351": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "352": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "354": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "355": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "358": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "360": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "361": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "363": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "364": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "366": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "368": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "370": "outlet-pending-eligibility-review",
+    "371": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "372": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "373": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "374": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "378": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "379": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "380": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "383": "outlet-pending-eligibility-review",
+    "385": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "391": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "504": "outlet-pending-eligibility-review",
+    "565": "outlet-pending-eligibility-review",
+    "592": "outlet-pending-eligibility-review",
+    "721": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "806": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "815": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "819": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "823": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "828": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "831": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "834": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "836": "venue-not-independently-corroborated-in-this-round",
+    "847": "venue-not-independently-corroborated-in-this-round",
+    "853": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "857": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "859": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "862": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "874": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "876": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "891": "invalid-coordinate-order-or-outside-Israel; no-axis-swap",
+    "892": "invalid-coordinate-order-or-outside-Israel; no-axis-swap"
+  },
+  "preservedBranches": [
+    {
+      "id": "golf-kids-342",
+      "name": "ביג פאשן אשדוד",
+      "city": "אשדוד",
+      "address": "דרך הרכבת 1",
+      "lat": 31.7766,
+      "lng": 34.66419,
+      "store": "GOLF KIDS",
+      "sourceUrl": "https://www.golfkids.co.il/stores",
+      "coordinateSourceUrl": "https://www.golfkids.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "golf-kids-356",
+      "name": "קניון הקריון",
+      "city": "קרית ביאליק",
+      "address": "דרך עכו 192",
+      "lat": 32.842198,
+      "lng": 35.088878,
+      "store": "GOLF KIDS",
+      "sourceUrl": "https://www.golfkids.co.il/stores",
+      "coordinateSourceUrl": "https://www.golfkids.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "golf-kids-359",
+      "name": "הקניון הגדול",
+      "city": "פתח תקווה",
+      "address": "זאב ז'בוטינסקי 72",
+      "lat": 32.091745,
+      "lng": 34.865341,
+      "store": "GOLF KIDS",
+      "sourceUrl": "https://www.golfkids.co.il/stores",
+      "coordinateSourceUrl": "https://www.golfkids.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "golf-kids-390",
+      "name": "ביג גלילות",
+      "city": "רמת השרון",
+      "address": "מתחם גלילות, כביש 2",
+      "lat": 32.149,
+      "lng": 34.805,
+      "store": "GOLF KIDS",
+      "sourceUrl": "https://www.golfkids.co.il/stores",
+      "coordinateSourceUrl": "https://www.golfkids.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "golf-kids-44",
+      "name": "מתחם סטאר סנטר",
+      "city": "אשדוד",
+      "address": "ז'בוטינסקי 45",
+      "lat": 31.810391,
+      "lng": 34.656597,
+      "store": "GOLF KIDS",
+      "sourceUrl": "https://www.golfkids.co.il/stores",
+      "coordinateSourceUrl": "https://www.golfkids.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "golf-kids-53",
+      "name": "מתחם אלון עין שמר",
+      "city": "עין שמר",
+      "address": "עין שמר",
+      "lat": 32.465548,
+      "lng": 34.993353,
+      "store": "GOLF KIDS",
+      "sourceUrl": "https://www.golfkids.co.il/stores",
+      "coordinateSourceUrl": "https://www.golfkids.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "golf-kids-65",
+      "name": "קניון איילון",
+      "city": "רמת גן",
+      "address": "אבא הילל 301",
+      "lat": 32.100593,
+      "lng": 34.826686,
+      "store": "GOLF KIDS",
+      "sourceUrl": "https://www.golfkids.co.il/stores",
+      "coordinateSourceUrl": "https://www.golfkids.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "golf-kids-816",
+      "name": "קניון שער הצפון",
+      "city": "קרית אתא",
+      "address": "דרך חיפה 30",
+      "lat": 32.8055847,
+      "lng": 35.0745285,
+      "store": "GOLF KIDS",
+      "sourceUrl": "https://www.golfkids.co.il/stores",
+      "coordinateSourceUrl": "https://www.golfkids.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "golf-kids-833",
+      "name": "קניון מלחה",
+      "city": "ירושלים",
+      "address": "דרך אגודת ספורט מיתר 1",
+      "lat": 31.75176,
+      "lng": 35.187206,
+      "store": "GOLF KIDS",
+      "sourceUrl": "https://www.golfkids.co.il/stores",
+      "coordinateSourceUrl": "https://www.golfkids.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "golf-kids-860",
+      "name": "עזריאלי עכו",
+      "city": "עכו",
+      "address": "קניון עזריאלי עכו, החרושת 2",
+      "lat": 32.92332,
+      "lng": 35.081223,
+      "store": "GOLF KIDS",
+      "sourceUrl": "https://www.golfkids.co.il/stores",
+      "coordinateSourceUrl": "https://www.golfkids.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "golf-kids-877",
+      "name": "קניון אדומים",
+      "city": "מעלה אדומים",
+      "address": "דרך קדם 1",
+      "lat": 31.772064,
+      "lng": 35.299157,
+      "store": "GOLF KIDS",
+      "sourceUrl": "https://www.golfkids.co.il/stores",
+      "coordinateSourceUrl": "https://www.golfkids.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "golf-kids-880",
+      "name": "קניון רמות",
+      "city": "ירושלים",
+      "address": "שדרות גולדה מאיר 255",
+      "lat": 31.817719,
+      "lng": 35.194423,
+      "store": "GOLF KIDS",
+      "sourceUrl": "https://www.golfkids.co.il/stores",
+      "coordinateSourceUrl": "https://www.golfkids.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "golf-kids-881",
+      "name": "קניון עזריאלי",
+      "city": "חיפה",
+      "address": "פלימן משה 4",
+      "lat": 32.789871,
+      "lng": 34.965652,
+      "store": "GOLF KIDS",
+      "sourceUrl": "https://www.golfkids.co.il/stores",
+      "coordinateSourceUrl": "https://www.golfkids.co.il/stores",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    }
+  ],
+  "retainedAbsentIds": [
+    "golf-kids-342",
+    "golf-kids-390"
+  ],
+  "preservedSource": {
+    "store": "GOLF KIDS",
+    "aliases": [
+      "GOLF KIDS",
+      "Golf Kids",
+      "גולף קידס"
+    ],
+    "sourceUrl": "https://www.golfkids.co.il/stores",
+    "checkedAt": "2026-09-20",
+    "examined": 119,
+    "included": 13,
+    "coverage": "partial",
+    "note": "מיקומים מפורשים ברשימת הסניפים הרשמית של GOLF KIDS שהוצלבו ברמת המתחם. קואורדינטות הפוכות או אפס לא תוקנו; ירידים, עודפים, כפילויות ומיקומים שלא אומתו נשארו להשלמה. זוהי רשת נפרדת מגולף וגולף אנד קו. רישום מיקום אינו הוכחת זכאות לשובר.",
+    "skipped": [
+      {
+        "officialId": "327",
+        "name": "גן העיר",
+        "city": "תל אביב",
+        "reason": "invalid-coordinate-order-or-outside-Israel; do-not-swap-or-infer"
+      },
+      {
+        "officialId": "721",
+        "name": "מבנה מרכז וואן",
+        "city": "באר שבע",
+        "reason": "invalid-coordinate-order-or-outside-Israel; do-not-swap-or-infer"
+      },
+      {
+        "officialId": "891",
+        "name": "מרכז מסחרי שהם",
+        "city": "שוהם",
+        "reason": "invalid-coordinate-order-or-outside-Israel; do-not-swap-or-infer"
+      },
+      {
+        "officialId": "29",
+        "name": "נווה זאב",
+        "city": "באר שבע",
+        "reason": "invalid-coordinate-order-or-outside-Israel; do-not-swap-or-infer"
+      },
+      {
+        "officialId": "892",
+        "name": "קניון אם המושבות",
+        "city": "פתח תקווה",
+        "reason": "invalid-coordinate-order-or-outside-Israel; do-not-swap-or-infer"
+      },
+      {
+        "officialId": "853",
+        "name": "קניון גנים",
+        "city": "פתח תקווה",
+        "reason": "invalid-coordinate-order-or-outside-Israel; do-not-swap-or-infer"
+      },
+      {
+        "officialId": "316",
+        "name": "קניון כלבו שלום",
+        "city": "תל אביב",
+        "reason": "invalid-coordinate-order-or-outside-Israel; do-not-swap-or-infer"
+      },
+      {
+        "officialId": "363",
+        "name": "קניון ערים",
+        "city": "כפר סבא",
+        "reason": "invalid-coordinate-order-or-outside-Israel; do-not-swap-or-infer"
+      },
+      {
+        "officialId": "383",
+        "name": "אאוטלט ביג ירכא",
+        "city": "ירכא",
+        "reason": "outlet-pending-eligibility-review"
+      },
+      {
+        "officialId": "370",
+        "name": "אאוטלט קרית גת",
+        "city": "קרית גת",
+        "reason": "outlet-pending-eligibility-review"
+      },
+      {
+        "officialId": "819",
+        "name": "אחוזת הנשיא רחובות",
+        "city": "רחובות",
+        "reason": "invalid-coordinate-order-or-outside-Israel; do-not-swap-or-infer"
+      },
+      {
+        "officialId": "374",
+        "name": "אם הדרך",
+        "city": "כפר ויתקין",
+        "reason": "invalid-coordinate-order-or-outside-Israel; do-not-swap-or-infer"
+      },
+      {
+        "officialId": "373",
+        "name": "ביג פאשן",
+        "city": "בית שמש",
+        "reason": "invalid-coordinate-order-or-outside-Israel; do-not-swap-or-infer"
+      },
+      {
+        "officialId": "866",
+        "name": "ביג פאשן טבריה",
+        "city": "טבריה",
+        "reason": "invalid-coordinate-order-or-outside-Israel; do-not-swap-or-infer"
+      },
+      {
+        "officialId": "16",
+        "name": "ביג פוריה",
+        "city": "צפון",
+        "reason": "missing-coordinates-zero"
+      },
+      {
+        "officialId": "823",
+        "name": "בילו ק. עקרון",
+        "city": "קרית עקרון",
+        "reason": "invalid-coordinate-order-or-outside-Israel; do-not-swap-or-infer"
+      },
+      {
+        "officialId": "358",
+        "name": "גלובוס סנטר",
+        "city": "נתיבות",
+        "reason": "invalid-coordinate-order-or-outside-Israel; do-not-swap-or-infer"
+      },
+      {
+        "officialId": "305",
+        "name": "גרנד ב\"ש",
+        "city": "באר שבע",
+        "reason": "invalid-coordinate-order-or-outside-Israel; do-not-swap-or-infer"
+      },
+      {
+        "officialId": "348",
+        "name": "גרנד קניון",
+        "city": "באר שבע",
+        "reason": "invalid-coordinate-order-or-outside-Israel; do-not-swap-or-infer"
+      },
+      {
+        "officialId": "371",
+        "name": "גרנד קניון",
+        "city": "חיפה",
+        "reason": "invalid-coordinate-order-or-outside-Israel; do-not-swap-or-infer"
+      },
+      {
+        "officialId": "829",
+        "name": "דיזינגוף סנטר",
+        "city": "תל אביב",
+        "reason": "missing-coordinates-zero"
+      },
+      {
+        "officialId": "351",
+        "name": "דרך המכבים",
+        "city": "ראשון לציון",
+        "reason": "invalid-coordinate-order-or-outside-Israel; do-not-swap-or-infer"
+      },
+      {
+        "officialId": "805",
+        "name": "הדר יוסף",
+        "city": "מרכז",
+        "reason": "missing-coordinates-zero"
+      },
+      {
+        "officialId": "306",
+        "name": "הרצל נתניה",
+        "city": "נתניה",
+        "reason": "invalid-coordinate-order-or-outside-Israel; do-not-swap-or-infer"
+      },
+      {
+        "officialId": "354",
+        "name": "חונים קונים",
+        "city": "ראשון לציון",
+        "reason": "invalid-coordinate-order-or-outside-Israel; do-not-swap-or-infer"
+      },
+      {
+        "officialId": "28",
+        "name": "חוצות שפיים",
+        "city": "שפיים",
+        "reason": "venue-coordinate-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "172",
+        "name": "יריד אורות א.עקיבא",
+        "city": "אור עקיבא",
+        "reason": "fair-or-temporary-location-excluded; duplicate venue or unclear permanence"
+      },
+      {
+        "officialId": "134",
+        "name": "יריד גן עיר",
+        "city": "תל אביב",
+        "reason": "fair-or-temporary-location-excluded; duplicate venue or unclear permanence"
+      },
+      {
+        "officialId": "222",
+        "name": "יריד גרנד חיפה",
+        "city": "חיפה",
+        "reason": "fair-or-temporary-location-excluded; duplicate venue or unclear permanence"
+      },
+      {
+        "officialId": "139",
+        "name": "יריד דרורים ב. דרור",
+        "city": "נתניה",
+        "reason": "fair-or-temporary-location-excluded; duplicate venue or unclear permanence"
+      },
+      {
+        "officialId": "217",
+        "name": "יריד הראל מבשרת",
+        "city": "מבשרת ירושלים",
+        "reason": "fair-or-temporary-location-excluded; duplicate venue or unclear permanence"
+      },
+      {
+        "officialId": "216",
+        "name": "יריד לב הפסגה פ. זאב",
+        "city": "ירושלים",
+        "reason": "fair-or-temporary-location-excluded; duplicate venue or unclear permanence"
+      },
+      {
+        "officialId": "111",
+        "name": "יריד מודיעין",
+        "city": "מודיעין",
+        "reason": "fair-or-temporary-location-excluded; duplicate venue or unclear permanence"
+      },
+      {
+        "officialId": "215",
+        "name": "יריד נצבא נתניה",
+        "city": "נתניה",
+        "reason": "fair-or-temporary-location-excluded; duplicate venue or unclear permanence"
+      },
+      {
+        "officialId": "129",
+        "name": "יריד סינמול חיפה",
+        "city": "חיפה",
+        "reason": "fair-or-temporary-location-excluded; duplicate venue or unclear permanence"
+      },
+      {
+        "officialId": "155",
+        "name": "יריד עזריאלי חיפה",
+        "city": "חיפה",
+        "reason": "fair-or-temporary-location-excluded; duplicate venue or unclear permanence"
+      },
+      {
+        "officialId": "138",
+        "name": "יריד עכו",
+        "city": "עכו",
+        "reason": "fair-or-temporary-location-excluded; duplicate venue or unclear permanence"
+      },
+      {
+        "officialId": "188",
+        "name": "יריד ק.הנגב ב\"ש",
+        "city": "באר שבע",
+        "reason": "fair-or-temporary-location-excluded; duplicate venue or unclear permanence"
+      },
+      {
+        "officialId": "181",
+        "name": "יריד קניון הקריון",
+        "city": "קרית ביאליק",
+        "reason": "fair-or-temporary-location-excluded; duplicate venue or unclear permanence"
+      },
+      {
+        "officialId": "218",
+        "name": "יריד קניון מלחה",
+        "city": "ירושלים",
+        "reason": "fair-or-temporary-location-excluded; duplicate venue or unclear permanence"
+      },
+      {
+        "officialId": "149",
+        "name": "יריד קניון רחובות",
+        "city": "רחובות",
+        "reason": "fair-or-temporary-location-excluded; duplicate venue or unclear permanence"
+      },
+      {
+        "officialId": "213",
+        "name": "יריד קניותר נס ציונה",
+        "city": "נס ציונה",
+        "reason": "fair-or-temporary-location-excluded; duplicate venue or unclear permanence"
+      },
+      {
+        "officialId": "177",
+        "name": "יריד רוטשילד ראשל\"צ",
+        "city": "ראשון לציון",
+        "reason": "fair-or-temporary-location-excluded; duplicate venue or unclear permanence"
+      },
+      {
+        "officialId": "135",
+        "name": "יריד רננים רעננה",
+        "city": "רעננה",
+        "reason": "fair-or-temporary-location-excluded; duplicate venue or unclear permanence"
+      },
+      {
+        "officialId": "144",
+        "name": "יריד ש.הכוכבים הרצליה",
+        "city": "הרצליה",
+        "reason": "fair-or-temporary-location-excluded; duplicate venue or unclear permanence"
+      },
+      {
+        "officialId": "326",
+        "name": "מבנה גן שמואל",
+        "city": "גן שמואל",
+        "reason": "invalid-coordinate-order-or-outside-Israel; do-not-swap-or-infer"
+      },
+      {
+        "officialId": "366",
+        "name": "מול כנרת צמח",
+        "city": "צמח",
+        "reason": "invalid-coordinate-order-or-outside-Israel; do-not-swap-or-infer"
+      },
+      {
+        "officialId": "320",
+        "name": "מרכז ביג",
+        "city": "אילת",
+        "reason": "invalid-coordinate-order-or-outside-Israel; do-not-swap-or-infer"
+      },
+      {
+        "officialId": "321",
+        "name": "מרכז ביג",
+        "city": "באר שבע",
+        "reason": "invalid-coordinate-order-or-outside-Israel; do-not-swap-or-infer"
+      },
+      {
+        "officialId": "338",
+        "name": "מרכז ביג יוקנעם",
+        "city": "יקנעם",
+        "reason": "invalid-coordinate-order-or-outside-Israel; do-not-swap-or-infer"
+      },
+      {
+        "officialId": "346",
+        "name": "מרכז ביג כרמיאל",
+        "city": "כרמיאל",
+        "reason": "invalid-coordinate-order-or-outside-Israel; do-not-swap-or-infer"
+      },
+      {
+        "officialId": "340",
+        "name": "מרכז ביג נצרת",
+        "city": "נצרת",
+        "reason": "invalid-coordinate-order-or-outside-Israel; do-not-swap-or-infer"
+      },
+      {
+        "officialId": "504",
+        "name": "מרכז מסחרי וואן",
+        "city": "בארות יצחק",
+        "reason": "venue-coordinate-conflict; official pin does not match named venue"
+      },
+      {
+        "officialId": "334",
+        "name": "מרכז מסחרי חוצות המפרץ",
+        "city": "חיפה",
+        "reason": "invalid-coordinate-order-or-outside-Israel; do-not-swap-or-infer"
+      },
+      {
+        "officialId": "360",
+        "name": "מרכז מסחרי מבקיעים",
+        "city": "אשקלון",
+        "reason": "invalid-coordinate-order-or-outside-Israel; do-not-swap-or-infer"
+      },
+      {
+        "officialId": "862",
+        "name": "מרכז פנורמה",
+        "city": "חיפה",
+        "reason": "invalid-coordinate-order-or-outside-Israel; do-not-swap-or-infer"
+      },
+      {
+        "officialId": "319",
+        "name": "מרכז קונגרסים",
+        "city": "חיפה",
+        "reason": "invalid-coordinate-order-or-outside-Israel; do-not-swap-or-infer"
+      },
+      {
+        "officialId": "25",
+        "name": "מתחם חצר הכפר",
+        "city": "ירושלים",
+        "reason": "missing-coordinates-zero"
+      },
+      {
+        "officialId": "318",
+        "name": "מתחם מיקס",
+        "city": "חדרה",
+        "reason": "missing-coordinates-zero"
+      },
+      {
+        "officialId": "350",
+        "name": "מתחם תל חנן",
+        "city": "תל חנן",
+        "reason": "invalid-coordinate-order-or-outside-Israel; do-not-swap-or-infer"
+      },
+      {
+        "officialId": "309",
+        "name": "נצבא סנטר פולג",
+        "city": "נתניה",
+        "reason": "invalid-coordinate-order-or-outside-Israel; do-not-swap-or-infer"
+      },
+      {
+        "officialId": "352",
+        "name": "סטריט מול",
+        "city": "רמת ישי",
+        "reason": "invalid-coordinate-order-or-outside-Israel; do-not-swap-or-infer"
+      },
+      {
+        "officialId": "323",
+        "name": "עופר בילו סנטר",
+        "city": "קרית עקרון",
+        "reason": "invalid-coordinate-order-or-outside-Israel; do-not-swap-or-infer"
+      },
+      {
+        "officialId": "344",
+        "name": "עופר קניותר",
+        "city": "נס ציונה",
+        "reason": "invalid-coordinate-order-or-outside-Israel; do-not-swap-or-infer"
+      },
+      {
+        "officialId": "378",
+        "name": "עמק סנטר",
+        "city": "עפולה",
+        "reason": "invalid-coordinate-order-or-outside-Israel; do-not-swap-or-infer"
+      },
+      {
+        "officialId": "372",
+        "name": "פרופיט סנטר",
+        "city": "חולון",
+        "reason": "invalid-coordinate-order-or-outside-Israel; do-not-swap-or-infer"
+      },
+      {
+        "officialId": "307",
+        "name": "קידס אאוטלט",
+        "city": "רמת גן",
+        "reason": "outlet-pending-eligibility-review"
+      },
+      {
+        "officialId": "849",
+        "name": "קניון  יכין סנטר",
+        "city": "פתח תקווה",
+        "reason": "venue-coordinate-conflict; official pin does not match named venue"
+      },
+      {
+        "officialId": "546",
+        "name": "קניון MORE,",
+        "city": "חריש",
+        "reason": "missing-coordinates-zero"
+      },
+      {
+        "officialId": "806",
+        "name": "קניון אורות",
+        "city": "אור עקיבא",
+        "reason": "invalid-coordinate-order-or-outside-Israel; do-not-swap-or-infer"
+      },
+      {
+        "officialId": "302",
+        "name": "קניון אחים ישראל",
+        "city": "ירושלים",
+        "reason": "invalid-coordinate-order-or-outside-Israel; do-not-swap-or-infer"
+      },
+      {
+        "officialId": "219",
+        "name": "קניון איילון",
+        "city": "רמת גן",
+        "reason": "duplicate-official-location-of-65"
+      },
+      {
+        "officialId": "364",
+        "name": "קניון בת ים",
+        "city": "בת ים",
+        "reason": "invalid-coordinate-order-or-outside-Israel; do-not-swap-or-infer"
+      },
+      {
+        "officialId": "368",
+        "name": "קניון גבעתיים",
+        "city": "גבעתיים",
+        "reason": "invalid-coordinate-order-or-outside-Israel; do-not-swap-or-infer"
+      },
+      {
+        "officialId": "815",
+        "name": "קניון דרורים",
+        "city": "נתניה",
+        "reason": "invalid-coordinate-order-or-outside-Israel; do-not-swap-or-infer"
+      },
+      {
+        "officialId": "859",
+        "name": "קניון הגבעה",
+        "city": "גבעת שמואל",
+        "reason": "invalid-coordinate-order-or-outside-Israel; do-not-swap-or-infer"
+      },
+      {
+        "officialId": "331",
+        "name": "קניון הדר",
+        "city": "ירושלים",
+        "reason": "invalid-coordinate-order-or-outside-Israel; do-not-swap-or-infer"
+      },
+      {
+        "officialId": "336",
+        "name": "קניון הנגב",
+        "city": "באר שבע",
+        "reason": "venue-coordinate-conflict; official pin does not match named venue"
+      },
+      {
+        "officialId": "834",
+        "name": "קניון הראל",
+        "city": "מבשרת ירושלים",
+        "reason": "invalid-coordinate-order-or-outside-Israel; do-not-swap-or-infer"
+      },
+      {
+        "officialId": "391",
+        "name": "קניון השרון",
+        "city": "נתניה",
+        "reason": "invalid-coordinate-order-or-outside-Israel; do-not-swap-or-infer"
+      },
+      {
+        "officialId": "157",
+        "name": "קניון השרון",
+        "city": "נתניה",
+        "reason": "invalid-coordinate-order-or-outside-Israel; do-not-swap-or-infer"
+      },
+      {
+        "officialId": "361",
+        "name": "קניון חוצות",
+        "city": "אשקלון",
+        "reason": "invalid-coordinate-order-or-outside-Israel; do-not-swap-or-infer"
+      },
+      {
+        "officialId": "385",
+        "name": "קניון מודיעין",
+        "city": "מודיעין",
+        "reason": "invalid-coordinate-order-or-outside-Israel; do-not-swap-or-infer"
+      },
+      {
+        "officialId": "303",
+        "name": "קניון מלכת שבא",
+        "city": "אילת",
+        "reason": "venue-coordinate-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "828",
+        "name": "קניון מרום סנטר",
+        "city": "רמת גן",
+        "reason": "invalid-coordinate-order-or-outside-Israel; do-not-swap-or-infer"
+      },
+      {
+        "officialId": "382",
+        "name": "קניון סטאר",
+        "city": "נהריה",
+        "reason": "invalid-coordinate-order-or-outside-Israel; do-not-swap-or-infer"
+      },
+      {
+        "officialId": "847",
+        "name": "קניון סינמול",
+        "city": "חיפה",
+        "reason": "venue-coordinate-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "592",
+        "name": "קניון סירקין",
+        "city": "פתח תקווה",
+        "reason": "venue-coordinate-conflict; official pin does not match named venue"
+      },
+      {
+        "officialId": "808",
+        "name": "קניון עזריאלי",
+        "city": "רמלה",
+        "reason": "venue-coordinate-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "857",
+        "name": "קניון פסגת זאב",
+        "city": "ירושלים",
+        "reason": "invalid-coordinate-order-or-outside-Israel; do-not-swap-or-infer"
+      },
+      {
+        "officialId": "874",
+        "name": "קניון פרוייקט המושבה",
+        "city": "גדרה",
+        "reason": "invalid-coordinate-order-or-outside-Israel; do-not-swap-or-infer"
+      },
+      {
+        "officialId": "379",
+        "name": "קניון קרית אונו",
+        "city": "קרית אונו",
+        "reason": "invalid-coordinate-order-or-outside-Israel; do-not-swap-or-infer"
+      },
+      {
+        "officialId": "854",
+        "name": "קניון ראשונים",
+        "city": "ראשון לציון",
+        "reason": "invalid-coordinate-order-or-outside-Israel; do-not-swap-or-infer"
+      },
+      {
+        "officialId": "322",
+        "name": "קניון רוגובין",
+        "city": "יבנה",
+        "reason": "invalid-coordinate-order-or-outside-Israel; do-not-swap-or-infer"
+      },
+      {
+        "officialId": "47",
+        "name": "קניון רוטשילד",
+        "city": "ראשון לציון",
+        "reason": "venue-coordinate-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "308",
+        "name": "קניון רחובות",
+        "city": "רחובות",
+        "reason": "invalid-coordinate-order-or-outside-Israel; do-not-swap-or-infer"
+      },
+      {
+        "officialId": "317",
+        "name": "קניון רננים",
+        "city": "רעננה",
+        "reason": "invalid-coordinate-order-or-outside-Israel; do-not-swap-or-infer"
+      },
+      {
+        "officialId": "355",
+        "name": "קניון שבירו",
+        "city": "כפר סבא",
+        "reason": "invalid-coordinate-order-or-outside-Israel; do-not-swap-or-infer"
+      },
+      {
+        "officialId": "339",
+        "name": "קניון שבעת הכוכבים",
+        "city": "הרצליה",
+        "reason": "invalid-coordinate-order-or-outside-Israel; do-not-swap-or-infer"
+      },
+      {
+        "officialId": "380",
+        "name": "רח' לונץ",
+        "city": "ירושלים",
+        "reason": "invalid-coordinate-order-or-outside-Israel; do-not-swap-or-infer"
+      },
+      {
+        "officialId": "836",
+        "name": "רחוב בן יהודה",
+        "city": "ירושלים",
+        "reason": "venue-coordinate-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "825",
+        "name": "רמת השרון",
+        "city": "רמת השרון",
+        "reason": "invalid-coordinate-order-or-outside-Israel; do-not-swap-or-infer"
+      },
+      {
+        "officialId": "876",
+        "name": "שדרות הגעתון",
+        "city": "נהריה",
+        "reason": "invalid-coordinate-order-or-outside-Israel; do-not-swap-or-infer"
+      },
+      {
+        "officialId": "49",
+        "name": "שדרות הנשיא",
+        "city": "עפולה",
+        "reason": "invalid-coordinate-order-or-outside-Israel; do-not-swap-or-infer"
+      },
+      {
+        "officialId": "19",
+        "name": "שפרעם",
+        "city": "שפרעם",
+        "reason": "venue-coordinate-conflict; official pin does not match named venue"
+      },
+      {
+        "officialId": "831",
+        "name": "תחנה מרכזית נצבא",
+        "city": "ירושלים",
+        "reason": "invalid-coordinate-order-or-outside-Israel; do-not-swap-or-infer"
+      }
+    ],
+    "retainedFromPrevious": 0
+  }
+}

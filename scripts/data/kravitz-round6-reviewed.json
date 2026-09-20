@@ -1,0 +1,938 @@
+{
+  "sourceUrl": "https://www.kravitz.co.il/pages/store-locator",
+  "coordinateSourceUrl": "https://stockist.co/api/v1/map_pqkngpy3/locations/search?latitude=32&longitude=35&distance=50000",
+  "widgetId": "map_pqkngpy3",
+  "officialEmbedEvidence": "<stockist-store-locator data-stockist-widget-tag=\"map_pqkngpy3\">",
+  "widgetConfigurationUrl": "https://stockist.co/api/v1/map_pqkngpy3/widget.js",
+  "configuredMaxResults": 100,
+  "checkedAt": "2026-09-20",
+  "examined": 72,
+  "reviewed": [
+    {
+      "id": "loc_xp2wypr6",
+      "name": "קרביץ מרכז מסחרי שוהם",
+      "city": "שוהם",
+      "address": "שד’ עמק איילון 30 , שוהם",
+      "lat": 31.99935111,
+      "lng": 34.94649591,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-מרכז-מסחרי-שוהם"
+    },
+    {
+      "id": "loc_g297v2x7",
+      "name": "קרביץ קניון מודיעין",
+      "city": "מודיעין",
+      "address": "לב העיר 2, מודיעין",
+      "lat": 31.89946502,
+      "lng": 35.00714903,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-קניון-מודיעין"
+    },
+    {
+      "id": "loc_vmwyvmkm",
+      "name": "קרביץ קרית אונו",
+      "city": "קרית אונו",
+      "address": "רח' שלמה המלך 37 קרית אונו",
+      "lat": 32.05525991,
+      "lng": 34.86320301,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-קרית-אונו"
+    },
+    {
+      "id": "loc_zzn2wzrw",
+      "name": "קרביץ קניון עזריאלי הוד השרון",
+      "city": "הוד השרון",
+      "address": "ז'בוטינסקי 3 קניון עזריאלי הוד השרון",
+      "lat": 32.143499,
+      "lng": 34.892155,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-קניון-עזריאלי-הוד-השרון"
+    },
+    {
+      "id": "loc_rkg8mkrq",
+      "name": "קרביץ קניון גבעתיים",
+      "city": "גבעתיים",
+      "address": "דרך רבין 53 גבעתיים",
+      "lat": 32.0666106,
+      "lng": 34.81030096,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-קניון-גבעתיים"
+    },
+    {
+      "id": "loc_yz8npzev",
+      "name": "קרביץ עזריאלי ראשונים",
+      "city": "ראשון לציון",
+      "address": "שד' נים 2 ראשון לציון",
+      "lat": 31.9496762,
+      "lng": 34.8035103,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-עזריאלי-ראשונים"
+    },
+    {
+      "id": "loc_pq8egq5k",
+      "name": "קרביץ G כפר סבא",
+      "city": "כפר סבא",
+      "address": "ויצמן 207, כפר סבא",
+      "lat": 32.17076048,
+      "lng": 34.92825596,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-g-כפר-סבא"
+    },
+    {
+      "id": "loc_m78w27zv",
+      "name": "קרביץ קניון חולון",
+      "city": "חולון",
+      "address": "גולדה מאיר 7, חולון",
+      "lat": 32.01224302,
+      "lng": 34.77936101,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-קניון-חולון"
+    },
+    {
+      "id": "loc_vmq77g8m",
+      "name": "קרביץ עזריאלי תל אביב",
+      "city": "תל אביב",
+      "address": "רחוב מנחם בגין 132",
+      "lat": 32.07395881,
+      "lng": 34.79132701,
+      "website": "https://www.kravitz.co.il/pages/%D7%A7%D7%A0%D7%99%D7%95%D7%9F-%D7%A2%D7%96%D7%A8%D7%99%D7%90%D7%9C%D7%99-%D7%AA%D7%9C-%D7%90%D7%91%D7%99%D7%91"
+    },
+    {
+      "id": "loc_qzyj5zry",
+      "name": "קרביץ קניון הזהב ראשון לציון",
+      "city": "ראשון לציון",
+      "address": "רח' סחרוב 21 קניון הזהב ראשל\"צ",
+      "lat": 31.990007,
+      "lng": 34.774016,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-קניון-הזהב-ראשון-לציון"
+    },
+    {
+      "id": "loc_69ew89g5",
+      "name": "קרביץ איכילוב קניון ויצמן",
+      "city": "תל אביב",
+      "address": "רח' ויצמן 14 קניון ויצמן ת\"א",
+      "lat": 32.08138308,
+      "lng": 34.78896224,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-איכילוב-קניון-ויצמן"
+    },
+    {
+      "id": "loc_69e25j75",
+      "name": "קניון עופר רחובות",
+      "city": "רחובות",
+      "address": "בילו 2 קניון עופר",
+      "lat": 31.89231887,
+      "lng": 34.80586773,
+      "website": "https://www.kravitz.co.il/pages/%D7%A7%D7%A0%D7%99%D7%95%D7%9F-%D7%A2%D7%95%D7%A4%D7%A8-%D7%A8%D7%97%D7%95%D7%91%D7%95%D7%AA"
+    },
+    {
+      "id": "loc_57ep57vn",
+      "name": "קרביץ דיזינגוף סנטר",
+      "city": "תל אביב",
+      "address": "דיזינגוף 50 תל אביב",
+      "lat": 32.075143,
+      "lng": 34.77570801,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-דיזינגוף-סנטר"
+    },
+    {
+      "id": "loc_wynpqyxx",
+      "name": "קרביץ רמת אביב",
+      "city": "תל אביב",
+      "address": "קניון רמת אביב איינשטיין 40",
+      "lat": 32.11232802,
+      "lng": 34.79572701,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-רמת-אביב"
+    },
+    {
+      "id": "loc_vmwyvmem",
+      "name": "קרביץ קניון בת ים",
+      "city": "בת ים",
+      "address": "רח' יוספטל 92 קניון בת ים",
+      "lat": 32.0154963,
+      "lng": 34.7552205,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-קניון-בת-ים"
+    },
+    {
+      "id": "loc_95wek52y",
+      "name": "קרביץ שבעת הכוכבים",
+      "city": "הרצליה",
+      "address": "שדרות שבעת הכוכבים 8 הרצליה",
+      "lat": 32.16393764,
+      "lng": 34.82503414,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-שבעת-הכוכבים"
+    },
+    {
+      "id": "loc_xp2wyp96",
+      "name": "קרביץ רננים",
+      "city": "רעננה",
+      "address": "המלאכה 2",
+      "lat": 32.1979971,
+      "lng": 34.88040683,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-רננים"
+    },
+    {
+      "id": "loc_rkg8mkeq",
+      "name": "קרביץ קניון השרון",
+      "city": "נתניה",
+      "address": "הרצל 60, נתניה",
+      "lat": 32.32682256,
+      "lng": 34.86191536,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-קניון-השרון"
+    },
+    {
+      "id": "loc_jyw8py2e",
+      "name": "קרביץ סימול אשדוד",
+      "city": "אשדוד",
+      "address": "אשדוד, הגדוד העברי 6",
+      "lat": 31.79209136,
+      "lng": 34.63882371,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-סימול-אשדוד"
+    },
+    {
+      "id": "loc_k6zyw65q",
+      "name": "קרביץ חדרה",
+      "city": "חדרה",
+      "address": "רוטישלד 40, חדרה",
+      "lat": 32.43768102,
+      "lng": 34.92143997,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-חדרה"
+    },
+    {
+      "id": "loc_xp2wypz6",
+      "name": "קרביץ אשקלון",
+      "city": "אשקלון",
+      "address": "שד' בן גוריון 21 אשקלון",
+      "lat": 31.66420172,
+      "lng": 34.56548049,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-אשקלון"
+    },
+    {
+      "id": "loc_qzyj8jqy",
+      "name": "קרביץ באר שבע הנגב",
+      "city": "באר שבע",
+      "address": "שד' רגר",
+      "lat": 31.2438,
+      "lng": 34.7952,
+      "website": "https://www.kravitz.co.il/pages/%D7%A7%D7%A8%D7%91%D7%99%D7%A5-%D7%91%D7%90%D7%A8-%D7%A9%D7%91%D7%A2-%D7%94%D7%A0%D7%92%D7%91"
+    },
+    {
+      "id": "loc_69ew89r5",
+      "name": "קרביץ גרנד קניון חיפה",
+      "city": "חיפה",
+      "address": "דרך שמחת גולן 54 חיפה",
+      "lat": 32.7897693,
+      "lng": 35.0080075,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-גרנד-קניון-חיפה"
+    },
+    {
+      "id": "loc_rkg8mkpq",
+      "name": "קרביץ עזריאלי קניון חיפה",
+      "city": "חיפה",
+      "address": "פלימן 4, חיפה",
+      "lat": 32.78983649,
+      "lng": 34.96545912,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-קניון-חיפה-עזריאלי"
+    },
+    {
+      "id": "loc_yz8npz2v",
+      "name": "קרביץ ביג טבריה",
+      "city": "טבריה",
+      "address": "רח' יהודה הלוי 1 טבריה",
+      "lat": 32.79156508,
+      "lng": 35.53516529,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-ביג-טבריה"
+    },
+    {
+      "id": "loc_pq8egqkk",
+      "name": "קרביץ ביג כרמיאל",
+      "city": "כרמיאל",
+      "address": "רח' מעלה כמון 2 א.ת. כרמיאל",
+      "lat": 32.92729761,
+      "lng": 35.32429712,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-ביג-כרמיאל"
+    },
+    {
+      "id": "loc_n9zne955",
+      "name": "קרביץ ארנה נהריה",
+      "city": "נהריה",
+      "address": "שד' בן צבי 1 נהריה",
+      "lat": 33.00572969,
+      "lng": 35.10051909,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-ארנה-נהריה"
+    },
+    {
+      "id": "loc_jyw8pyxe",
+      "name": "קרביץ ביג אילת",
+      "city": "אילת",
+      "address": "הסתת 20",
+      "lat": 29.5672588,
+      "lng": 34.96011147,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-ביג-אילת"
+    }
+  ],
+  "evidence": {
+    "loc_xp2wypr6": {
+      "corroboratingId": "laline-58",
+      "corroboratingName": "שוהם",
+      "corroboratingAddress": "שדרות עמק איילון 30, שוהם",
+      "sourceUrl": "https://www.laline.co.il/pages/branches",
+      "distanceMeters": 49,
+      "note": "Official Kravitz per-branch Stockist coordinate retained; same specific named venue/address corroborated."
+    },
+    "loc_g297v2x7": {
+      "corroboratingId": "footlocker-0ab79dd54442",
+      "corroboratingName": "קניון מודיעין",
+      "corroboratingAddress": "לב העיר 2, מודיעין",
+      "sourceUrl": "https://footlocker.co.il/pages/branches",
+      "distanceMeters": 53,
+      "note": "Official Kravitz per-branch Stockist coordinate retained; same specific named venue/address corroborated."
+    },
+    "loc_vmwyvmkm": {
+      "corroboratingId": "foxhome-eb67ba8f663c",
+      "corroboratingName": "קרית אונו",
+      "corroboratingAddress": "שלמה המלך 37, קרית אונו",
+      "sourceUrl": "https://www.foxhome.co.il/pages/branches",
+      "distanceMeters": 27,
+      "note": "Official Kravitz per-branch Stockist coordinate retained; same specific named venue/address corroborated."
+    },
+    "loc_zzn2wzrw": {
+      "corroboratingId": "foxhome-2c8506a04fa4",
+      "corroboratingName": "עזריאלי מרגלית השרון",
+      "corroboratingAddress": "עזריאלי מרגלית השרון",
+      "sourceUrl": "https://www.foxhome.co.il/pages/branches",
+      "distanceMeters": 35,
+      "note": "Official Kravitz per-branch Stockist coordinate retained; same specific named venue/address corroborated."
+    },
+    "loc_rkg8mkrq": {
+      "corroboratingId": "laline-88",
+      "corroboratingName": "גבעתיים",
+      "corroboratingAddress": "דרך יצחק רבין 53, גבעתיים",
+      "sourceUrl": "https://www.laline.co.il/pages/branches",
+      "distanceMeters": 14,
+      "note": "Official Kravitz per-branch Stockist coordinate retained; same specific named venue/address corroborated."
+    },
+    "loc_yz8npzev": {
+      "corroboratingId": "golf-co-305",
+      "corroboratingName": "ראשונים ראשל\"צ",
+      "corroboratingAddress": "קניון ראשונים",
+      "sourceUrl": "https://www.golfco.co.il/stores",
+      "distanceMeters": 21,
+      "note": "Official Kravitz per-branch Stockist coordinate retained; same specific named venue/address corroborated."
+    },
+    "loc_pq8egq5k": {
+      "corroboratingId": "castro-4122",
+      "corroboratingName": "כפר-סבא G - נשים וגברים",
+      "corroboratingAddress": "מרכז ויצמן, 207, כפר סבא",
+      "sourceUrl": "https://www.castro.com/stores",
+      "distanceMeters": 82,
+      "note": "Official Kravitz per-branch Stockist coordinate retained; same specific named venue/address corroborated."
+    },
+    "loc_m78w27zv": {
+      "corroboratingId": "fox-3b0cb93f2c79",
+      "corroboratingName": "קניון חולון",
+      "corroboratingAddress": "קניון חולון, חולון",
+      "sourceUrl": "https://fox.co.il/pages/branches",
+      "distanceMeters": 0,
+      "note": "Official Kravitz per-branch Stockist coordinate retained; same specific named venue/address corroborated."
+    },
+    "loc_vmq77g8m": {
+      "corroboratingId": "foxhome-e2a30a52b866",
+      "corroboratingName": "תל אביב",
+      "corroboratingAddress": "דרך מנחם בגין 132, תל אביב",
+      "sourceUrl": "https://www.foxhome.co.il/pages/branches",
+      "distanceMeters": 48,
+      "note": "Official Kravitz per-branch Stockist coordinate retained; same specific named venue/address corroborated."
+    },
+    "loc_qzyj5zry": {
+      "corroboratingId": "fox-0c77d9ee99d5",
+      "corroboratingName": "קניון הזהב",
+      "corroboratingAddress": "קניון הזהב, ראשון לציון",
+      "sourceUrl": "https://fox.co.il/pages/branches",
+      "distanceMeters": 12,
+      "note": "Official Kravitz per-branch Stockist coordinate retained; same specific named venue/address corroborated."
+    },
+    "loc_69ew89g5": {
+      "corroboratingId": "laline-95",
+      "corroboratingName": "איכילוב",
+      "corroboratingAddress": "ויצמן 14, איכילוב, תל אביב",
+      "sourceUrl": "https://www.laline.co.il/pages/branches",
+      "distanceMeters": 33,
+      "note": "Official Kravitz per-branch Stockist coordinate retained; same specific named venue/address corroborated."
+    },
+    "loc_69e25j75": {
+      "corroboratingId": "polgat-408",
+      "corroboratingName": "פולגת קניון רחובות",
+      "corroboratingAddress": "קניון רחובות, בילו 2",
+      "sourceUrl": "https://www.golfgroup.co.il/branches",
+      "distanceMeters": 8,
+      "note": "Official Kravitz per-branch Stockist coordinate retained; same specific named venue/address corroborated."
+    },
+    "loc_57ep57vn": {
+      "corroboratingId": "golf-248",
+      "corroboratingName": "גולף דיזינגוף סנטר",
+      "corroboratingAddress": "דיזנגוף 50",
+      "sourceUrl": "https://www.golf-il.co.il/stores",
+      "distanceMeters": 9,
+      "note": "Official Kravitz per-branch Stockist coordinate retained; same specific named venue/address corroborated."
+    },
+    "loc_wynpqyxx": {
+      "corroboratingId": "footlocker-5b9ddc544929",
+      "corroboratingName": "קניון רמת אביב",
+      "corroboratingAddress": "אינשטיין 40, תל אביב",
+      "sourceUrl": "https://footlocker.co.il/pages/branches",
+      "distanceMeters": 19,
+      "note": "Official Kravitz per-branch Stockist coordinate retained; same specific named venue/address corroborated."
+    },
+    "loc_vmwyvmem": {
+      "corroboratingId": "castro-4114",
+      "corroboratingName": "קניון בת-ים - נשים, גברים וילדים",
+      "corroboratingAddress": "קניון בת ים, יוספטל 92, בת ים",
+      "sourceUrl": "https://www.castro.com/stores",
+      "distanceMeters": 12,
+      "note": "Official Kravitz per-branch Stockist coordinate retained; same specific named venue/address corroborated."
+    },
+    "loc_95wek52y": {
+      "corroboratingId": "laline-66",
+      "corroboratingName": "הרצליה",
+      "corroboratingAddress": "שדרות שבעת הכוכבים 8, הרצליה",
+      "sourceUrl": "https://www.laline.co.il/pages/branches",
+      "distanceMeters": 161,
+      "note": "Official Kravitz per-branch Stockist coordinate retained; same specific named venue/address corroborated."
+    },
+    "loc_xp2wyp96": {
+      "corroboratingId": "castro-4094",
+      "corroboratingName": "קניון רננים - נשים, גברים וילדים",
+      "corroboratingAddress": "קניון רננים, המלאכה 2, רעננה",
+      "sourceUrl": "https://www.castro.com/stores",
+      "distanceMeters": 5,
+      "note": "Official Kravitz per-branch Stockist coordinate retained; same specific named venue/address corroborated."
+    },
+    "loc_rkg8mkeq": {
+      "corroboratingId": "castro-10948",
+      "corroboratingName": "נתניה השרון- נשים, גברים וילדים",
+      "corroboratingAddress": "הרצל 60 נתניה, נתניה",
+      "sourceUrl": "https://www.castro.com/stores",
+      "distanceMeters": 39,
+      "note": "Official Kravitz per-branch Stockist coordinate retained; same specific named venue/address corroborated."
+    },
+    "loc_jyw8py2e": {
+      "corroboratingId": "foxhome-def53905a9e9",
+      "corroboratingName": "אשדוד",
+      "corroboratingAddress": "הגדוד העברי 6, אשדוד",
+      "sourceUrl": "https://www.foxhome.co.il/pages/branches",
+      "distanceMeters": 56,
+      "note": "Official Kravitz per-branch Stockist coordinate retained; same specific named venue/address corroborated."
+    },
+    "loc_k6zyw65q": {
+      "corroboratingId": "laline-98",
+      "corroboratingName": "חדרה",
+      "corroboratingAddress": "שדרות רוטשילד 40, חדרה",
+      "sourceUrl": "https://www.laline.co.il/pages/branches",
+      "distanceMeters": 67,
+      "note": "Official Kravitz per-branch Stockist coordinate retained; same specific named venue/address corroborated."
+    },
+    "loc_xp2wypz6": {
+      "corroboratingId": "laline-81",
+      "corroboratingName": "אשקלון",
+      "corroboratingAddress": "קניון גירון, שד' בן גוריון 21, אשקלון",
+      "sourceUrl": "https://www.laline.co.il/pages/branches",
+      "distanceMeters": 93,
+      "note": "Official Kravitz per-branch Stockist coordinate retained; same specific named venue/address corroborated."
+    },
+    "loc_qzyj8jqy": {
+      "corroboratingId": "american-eagle-2136ed7c45ab",
+      "corroboratingName": "קניון הנגב",
+      "corroboratingAddress": "Eli Ha-Cohen Junction, באר שבע",
+      "sourceUrl": "https://storelocations.ae.com/il/south-district/beer-sheva/33013-eli-ha-cohen-junction.html",
+      "distanceMeters": 43,
+      "note": "Official Kravitz per-branch Stockist coordinate retained; same specific named venue/address corroborated."
+    },
+    "loc_69ew89r5": {
+      "corroboratingId": "footlocker-ce2d48ff0795",
+      "corroboratingName": "גרנד קניון חיפה",
+      "corroboratingAddress": "דרך שמחה גולן 54, חיפה",
+      "sourceUrl": "https://footlocker.co.il/pages/branches",
+      "distanceMeters": 0,
+      "note": "Official Kravitz per-branch Stockist coordinate retained; same specific named venue/address corroborated."
+    },
+    "loc_rkg8mkpq": {
+      "corroboratingId": "castro-4097",
+      "corroboratingName": "עזריאלי חיפה - נשים, גברים, ילדים ו - HOME",
+      "corroboratingAddress": "קניון חיפה, פלימן משה 4, חיפה",
+      "sourceUrl": "https://www.castro.com/stores",
+      "distanceMeters": 19,
+      "note": "Official Kravitz per-branch Stockist coordinate retained; same specific named venue/address corroborated."
+    },
+    "loc_yz8npz2v": {
+      "corroboratingId": "naaman-83",
+      "corroboratingName": "טבריה ביג פאשן",
+      "corroboratingAddress": "יהודה הלוי 1",
+      "sourceUrl": "https://www.naamanp.co.il/stores",
+      "distanceMeters": 159,
+      "note": "Official Kravitz per-branch Stockist coordinate retained; same specific named venue/address corroborated."
+    },
+    "loc_pq8egqkk": {
+      "corroboratingId": "vardinon-21",
+      "corroboratingName": "כרמיאל - מתחם ביג",
+      "corroboratingAddress": "מעלה כמון 2",
+      "sourceUrl": "https://www.vardinon.co.il/stores?brand=%D7%95%D7%A8%D7%93%D7%99%D7%A0%D7%95%D7%9F",
+      "distanceMeters": 73,
+      "note": "Official Kravitz per-branch Stockist coordinate retained; same specific named venue/address corroborated."
+    },
+    "loc_n9zne955": {
+      "corroboratingId": "footlocker-8e9a7cd73534",
+      "corroboratingName": "ארנה,נהריה",
+      "corroboratingAddress": "שדרות בן צבי 1 נהריה",
+      "sourceUrl": "https://footlocker.co.il/pages/branches",
+      "distanceMeters": 99,
+      "note": "Official Kravitz per-branch Stockist coordinate retained; same specific named venue/address corroborated."
+    },
+    "loc_jyw8pyxe": {
+      "corroboratingId": "intima-5",
+      "corroboratingName": "מרכז ביג אילת",
+      "corroboratingAddress": "הסתת 20",
+      "sourceUrl": "https://www.intima-il.co.il/stores",
+      "distanceMeters": 19,
+      "note": "Official Kravitz per-branch Stockist coordinate retained; same specific named venue/address corroborated."
+    }
+  },
+  "skipped": [
+    {
+      "id": "loc_n9zne925",
+      "name": "קרביץ ראש העין",
+      "city": "ראש העין",
+      "address": "ניסים אלוני 12, ראש העין",
+      "lat": 32.08436041,
+      "lng": 34.97867839,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-ראש-העין",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "loc_pq8egqrk",
+      "name": "קרביץ סביונים",
+      "city": "יהוד",
+      "address": "רח' משה דיין 3 קניון סביונים יהוד",
+      "lat": 32.0306231,
+      "lng": 34.8782733,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-סביונים",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "loc_zzn2wzew",
+      "name": "קרביץ קניון סירקין",
+      "city": "פתח תקווה",
+      "address": "אליעזר פרידמן 9 קניון סירקין, פ\"ת",
+      "lat": 32.07986261,
+      "lng": 34.90209382,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-קניון-סירקין",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "loc_k6zyw6eq",
+      "name": "קרביץ קניון גנים פתח תקווה",
+      "city": "פתח תקווה",
+      "address": "העצמאות 65 פתח תקווה",
+      "lat": 32.07470655,
+      "lng": 34.86948245,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-קניון-גנים-פתח-תקווה",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "loc_wynpqyrx",
+      "name": "קרביץ רמלה עזריאלי",
+      "city": "רמלה",
+      "address": "דוד רזיאל 1, רמלה",
+      "lat": 31.9234069,
+      "lng": 34.862751,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-רמלה-עזריאלי",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "loc_8y52kyp6",
+      "name": "קרביץ קניון גבעת שמואל",
+      "city": "גבעת שמואל",
+      "address": "יוני נתניהו 29 גבעת שמואל",
+      "lat": 32.0774317,
+      "lng": 34.8554532,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-קניון-גבעת-שמואל",
+      "reason": "street-number-discrepancy-needs-review"
+    },
+    {
+      "id": "loc_69ew89q5",
+      "name": "קרביץ אבנת פתח תקווה",
+      "city": "פתח תקווה",
+      "address": "קניון אבנת רח' ז'בוטינסקי 75 פ\"ת",
+      "lat": 32.09195291,
+      "lng": 34.85690803,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-אבנת-פתח-תקווה",
+      "reason": "coordinate-or-address-conflicts-with-named-venue"
+    },
+    {
+      "id": "loc_2mrvemz9",
+      "name": "קרביץ מרום נווה",
+      "city": "רמת גן",
+      "address": "רמת גן, לנדאו 7",
+      "lat": 32.07092099,
+      "lng": 34.82840302,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-מרום-נווה",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "loc_95wek5ny",
+      "name": "קרביץ שער ראשון",
+      "city": "אשון לציון",
+      "address": "ההסתדרות 6 תחנה מרכזית, ראשון לציון",
+      "lat": 31.9666346,
+      "lng": 34.8025409,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-שער-ראשון",
+      "reason": "coordinate-or-address-conflicts-with-named-venue"
+    },
+    {
+      "id": "loc_k6zyw6nq",
+      "name": "קרביץ קניון איילון",
+      "city": "איילון",
+      "address": "אבא הילל 301 רמת גן",
+      "lat": 32.0991969,
+      "lng": 34.8269694,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-קניון-איילון",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "loc_zzn2wzqw",
+      "name": "קרביץ קניותר נס ציונה",
+      "city": "נסציונה",
+      "address": "האירוסים 53, נס ציונה",
+      "lat": 31.93039089,
+      "lng": 34.79832582,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-קניותר-נס-ציונה",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "loc_7g5nxgpq",
+      "name": "קרביץ קניון כפר סבא",
+      "city": "כפר סבא",
+      "address": "כצנלסון 14 קניון ערים כ\"ס",
+      "lat": 32.17870638,
+      "lng": 34.90336311,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-קניון-כפר-סבא",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "loc_jyw8py6e",
+      "name": "קרביץ ביג גלילות",
+      "city": "רמת השרון",
+      "address": null,
+      "lat": 32.14312527,
+      "lng": 34.83808571,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-ביג-גלילות",
+      "reason": "missing-address-needs-review"
+    },
+    {
+      "id": "loc_7g5nxgwq",
+      "name": "קרביץ אוניברסיטת תל אביב",
+      "city": "תל אביב",
+      "address": "חיים לבנון 55 תל אביב",
+      "lat": 32.11104299,
+      "lng": 34.80136786,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-אוניברסיטת-תל-אביב",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "loc_k6zyw6jq",
+      "name": "קרביץ בילו סנטר",
+      "city": "רחובות",
+      "address": "בילו סנטר, קריית עקרון",
+      "lat": 31.8644818,
+      "lng": 34.8161836,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-בילו-סנטר",
+      "reason": "city-field-needs-review"
+    },
+    {
+      "id": "loc_g297v287",
+      "name": "קרביץ ביג בית שמש",
+      "city": "בית שמש",
+      "address": "יגאל אלון 1, בית שמש",
+      "lat": 31.75663998,
+      "lng": 34.98619796,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-ביג-בית-שמש",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "loc_95wek56y",
+      "name": "קרביץ מלחה",
+      "city": "ירושלים",
+      "address": "אגודת בית\"ר 1 מלחה י-ם",
+      "lat": 31.78900519,
+      "lng": 35.17515632,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-מלחה",
+      "reason": "coordinate-or-address-conflicts-with-named-venue"
+    },
+    {
+      "id": "loc_qzyj5z2y",
+      "name": "קרביץ אריאל",
+      "city": "אריאל",
+      "address": null,
+      "lat": 31.79010521,
+      "lng": 35.20327577,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-אריאל",
+      "reason": "missing-address-needs-review"
+    },
+    {
+      "id": "loc_69ew89y5",
+      "name": "קרביץ דרורים",
+      "city": "דרורים",
+      "address": "גלבוע 1, בני דרור",
+      "lat": 32.261193,
+      "lng": 34.89754098,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-דרורים",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "loc_7g5nxgjq",
+      "name": "קרביץ מדרחוב ירושלים",
+      "city": "ירושלים",
+      "address": "בן יהודה 16, ירושלים",
+      "lat": 31.781501,
+      "lng": 35.21724898,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-מדרחוב-ירושלים",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "loc_8y52kyz6",
+      "name": "קרביץ קניון עיר ימים",
+      "city": null,
+      "address": "בני ברמן 2, נתניה",
+      "lat": 32.27905601,
+      "lng": 34.84659997,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-קניון-עיר-ימים",
+      "reason": "city-field-needs-review"
+    },
+    {
+      "id": "loc_ex6e7x8v",
+      "name": "קרביץ תלפיות",
+      "city": "ירושלים",
+      "address": "יד חרוצים 18 י-ם",
+      "lat": 31.75093501,
+      "lng": 35.21564896,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-תלפיות",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "loc_ex6e7xzv",
+      "name": "קרביץ מעלה אדומים",
+      "city": "מעלה אדומים",
+      "address": "דרך קדם 5 מעלה אדומים",
+      "lat": 31.778236,
+      "lng": 35.30678799,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-מעלה-אדומים",
+      "reason": "coordinate-or-address-conflicts-with-named-venue"
+    },
+    {
+      "id": "loc_yz8npzmv",
+      "name": "קרביץ ביג פאשיין אשדוד",
+      "city": "אשדוד",
+      "address": "דרך אריאל שרון 1 אשדוד",
+      "lat": 31.79297122,
+      "lng": 34.63642416,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-ביג-פאשיין-אשדוד",
+      "reason": "coordinate-or-address-conflicts-with-named-venue"
+    },
+    {
+      "id": "loc_2mrvem79",
+      "name": "קרביץ כרמי גת",
+      "city": "קרית גת",
+      "address": "שדרות לכיש 153, קרית גת",
+      "lat": 31.61778349,
+      "lng": 34.76643052,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-כרמי-גת",
+      "reason": "coordinate-or-address-conflicts-with-named-venue"
+    },
+    {
+      "id": "loc_57ep57qn",
+      "name": "קרביץ ביג קריית גת",
+      "city": "קרית גת",
+      "address": "מתחם ביג דרך הדרום 3",
+      "lat": 31.60319299,
+      "lng": 34.7725,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-ביג-קריית-גת",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "loc_xp2wypm6",
+      "name": "קרביץ מבנה גן שמואל",
+      "city": "גן שמואל",
+      "address": "פארק מסחרי קיבוץ גן שמואל",
+      "lat": 32.451918,
+      "lng": 34.95036,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-מבנה-גן-שמואל",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "loc_m78w275v",
+      "name": "קרביץ ביג פרדס חנה",
+      "city": "פרדס חנה",
+      "address": "תדהר 1 פרדס חנה",
+      "lat": 32.48952532,
+      "lng": 34.97344573,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-ביג-פרדס-חנה",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "loc_ex6e7xgv",
+      "name": "קרביץ אור עקיבא",
+      "city": "אור עקיבא",
+      "address": "אור עקיבא, מרכז העיר",
+      "lat": 32.5076,
+      "lng": 34.9187,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-אור-עקיבא",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "loc_zzn2wzmw",
+      "name": "קרביץ זכרון",
+      "city": "זכרון יעקוב",
+      "address": "הדגן 2, זכרון יעקב",
+      "lat": 32.56895499,
+      "lng": 34.95486096,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-זכרון-לציון",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "loc_m7jqej8v",
+      "name": "קרביץ ביג יוקנעם",
+      "city": "יקנעם",
+      "address": "כתובת: שדרות יצחק רבין 9",
+      "lat": 32.64397619,
+      "lng": 35.09261447,
+      "website": "https://www.kravitz.co.il/pages/%D7%A7%D7%A8%D7%91%D7%99%D7%A5-%D7%91%D7%99%D7%92-%D7%99%D7%95%D7%A7%D7%A0%D7%A2%D7%9D",
+      "reason": "coordinate-or-address-conflicts-with-named-venue"
+    },
+    {
+      "id": "loc_m78w27jv",
+      "name": "קרביץ עפולה",
+      "city": "עפולה",
+      "address": "שדרות יצחק רבין 18, עפולה",
+      "lat": 32.62019657,
+      "lng": 35.31108217,
+      "website": "https://www.kravitz.co.il/pages/afula-new",
+      "reason": "coordinate-or-address-conflicts-with-named-venue"
+    },
+    {
+      "id": "loc_vmwyvmzm",
+      "name": "קרביץ מגדל העמק",
+      "city": "מגדלה עמק",
+      "address": "שד' שמואל עמור 77 פרץ סנטר מגדל העמק",
+      "lat": 32.6781,
+      "lng": 35.243,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-מגדל-העמק",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "loc_57ep57jn",
+      "name": "קרביץ באר שבע הנגב",
+      "city": "באר שבע",
+      "address": "שד' רגר קניון הנגב ב\"ש",
+      "lat": 31.27512055,
+      "lng": 34.7960004,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-באר-שבע-הנגב",
+      "reason": "coordinate-or-address-conflicts-with-named-venue"
+    },
+    {
+      "id": "loc_8y52kyw6",
+      "name": "קרביץ בקמפוס אוניברסיטת חיפה",
+      "city": "חיפה",
+      "address": "חיפה , שדרות אבא חושי 199",
+      "lat": 32.76624035,
+      "lng": 35.01419649,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-בקמפוס-אוניברסיטת-חיפה",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "loc_m78w27nv",
+      "name": "קרביץ וואן פלאזה באר שבע",
+      "city": "באר שבע",
+      "address": "נפחא 25, באר שבע",
+      "lat": 31.24811989,
+      "lng": 34.81134241,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-וואן-פלאזה-בש",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "loc_rkg8mk5q",
+      "name": "קרביץ בן גוריון",
+      "city": "באר שבע",
+      "address": null,
+      "lat": 31.24574512,
+      "lng": 34.7925157,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-בן-גוריון-באר-שבע",
+      "reason": "missing-address-needs-review"
+    },
+    {
+      "id": "loc_g297v257",
+      "name": "קרביץ גרנד קניון באר שבע",
+      "city": "באר שבע",
+      "address": "שדרות דוד טוביהו 125, באר שבע",
+      "lat": 31.2477114,
+      "lng": 34.77755829,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-גרנד-קניון-באר-שבע",
+      "reason": "coordinate-or-address-conflicts-with-named-venue"
+    },
+    {
+      "id": "loc_qzyj5zgy",
+      "name": "קרביץ ביג קריות",
+      "city": "קריות",
+      "address": "שד' ההסתדרות 248 ביג קריות",
+      "lat": 32.8115,
+      "lng": 35.0717,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-ביג-קריות",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "loc_8y52kym6",
+      "name": "קרביץ קריון",
+      "city": "קריות",
+      "address": "דרך עכו 192, קריית ביאליק",
+      "lat": 32.8426499,
+      "lng": 35.08940786,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-קריון",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "loc_n9zne985",
+      "name": "קרביץ ביג פוריה",
+      "city": "פוריה",
+      "address": "המברג 1 טבריה",
+      "lat": 32.781187,
+      "lng": 35.49886903,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-ביג-פוריה",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "loc_2mrvem59",
+      "name": "קרביץ ביג רגבה",
+      "city": "רגבה",
+      "address": "רגבה, דואר נע גליל מערבי",
+      "lat": 32.977372,
+      "lng": 35.098485,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-ביג-רגבה",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "loc_7g5nxgyq",
+      "name": "קרביץ ראש פינה",
+      "city": "ראש פינה",
+      "address": "האגס 1, ראש פינה",
+      "lat": 32.97041831,
+      "lng": 35.55193343,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-ראש-פינה",
+      "reason": "specific-venue-needs-further-review"
+    },
+    {
+      "id": "loc_wynpqykx",
+      "name": "קרביץ ביג קריית שמונה",
+      "city": "קריית שמונה",
+      "address": "אזור תעשייה דרומי, קריית שמונה",
+      "lat": 33.212256,
+      "lng": 35.5694027,
+      "website": "https://www.kravitz.co.il/pages/קרביץ-ביג-קריית-שמונה",
+      "reason": "specific-venue-needs-further-review"
+    }
+  ],
+  "detailPageVerification": {
+    "checkedAt": "2026-09-20",
+    "count": 28,
+    "allHttp200": true,
+    "note": "All official detail pages checked live. Tel Aviv Azrieli uses a differently worded page title than its locator name. Navigation links may be opaque Waze venue IDs; coordinates are exclusively from own Stockist branch row."
+  }
+}

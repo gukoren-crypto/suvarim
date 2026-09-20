@@ -19,6 +19,7 @@ const aliases = [
   ["ורדינון", "VARDINON"],
   ["נעמן פורצלן", "נעמן", "NAAMAN"],
   ["פולגת", "POLGAT"],
+  ["קרביץ", "KRAVITZ"],
   ["קסטרו", "CASTRO"],
 ];
 const normalize = (name) =>
