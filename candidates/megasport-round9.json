@@ -1,0 +1,656 @@
+{
+  "store": "מגה ספורט",
+  "branches": [
+    {
+      "id": "megasport-07bd83cc6df0",
+      "store": "מגה ספורט",
+      "name": "מגה ספורט עזריאלי מודיעין",
+      "city": "מודיעין מכבים רעות",
+      "address": "קניון עזריאלי מודיעין, לב העיר 2",
+      "lat": 31.8996612,
+      "lng": 35.0076632,
+      "sourceUrl": "https://www.megasport.co.il/pages/store-locator",
+      "coordinateSourceUrl": "https://www.megasport.co.il/pages/store-locator",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "megasport-0ccde6fb8075",
+      "store": "מגה ספורט",
+      "name": "מגה ספורט אייס מול אילת",
+      "city": "אילת",
+      "address": "קאמפן 8",
+      "lat": 29.554104,
+      "lng": 34.9656096,
+      "sourceUrl": "https://www.megasport.co.il/pages/store-locator",
+      "coordinateSourceUrl": "https://www.megasport.co.il/pages/store-locator",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "megasport-0fdce6c03e5d",
+      "store": "מגה ספורט",
+      "name": "מגה ספורט נתניה - עיר ימים",
+      "city": "נתניה",
+      "address": "בני ברמן 2, פולג",
+      "lat": 32.2793161,
+      "lng": 34.8461338,
+      "sourceUrl": "https://www.megasport.co.il/pages/store-locator",
+      "coordinateSourceUrl": "https://www.megasport.co.il/pages/store-locator",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "megasport-129212242d84",
+      "store": "מגה ספורט",
+      "name": "מגה ספורט גראנד קניון - חיפה",
+      "city": "חיפה",
+      "address": "גראנד קניון, דרך שמחה גולן 54",
+      "lat": 32.7899284,
+      "lng": 35.0085247,
+      "sourceUrl": "https://www.megasport.co.il/pages/store-locator",
+      "coordinateSourceUrl": "https://www.megasport.co.il/pages/store-locator",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "megasport-2028d10c7749",
+      "store": "מגה ספורט",
+      "name": "מגה ספורט חדרה",
+      "city": "חדרה",
+      "address": "קניון מול החוף שכטמן 10, VILLAGE",
+      "lat": 32.4424186,
+      "lng": 34.8949194,
+      "sourceUrl": "https://www.megasport.co.il/pages/store-locator",
+      "coordinateSourceUrl": "https://www.megasport.co.il/pages/store-locator",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "megasport-31d8dfd3e35c",
+      "store": "מגה ספורט",
+      "name": "מגה ספורט - יהוד",
+      "city": "יהוד",
+      "address": "אלטלף 4",
+      "lat": 32.0257483,
+      "lng": 34.9013557,
+      "sourceUrl": "https://www.megasport.co.il/pages/store-locator",
+      "coordinateSourceUrl": "https://www.megasport.co.il/pages/store-locator",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "megasport-4b86dd142f65",
+      "store": "מגה ספורט",
+      "name": "מגה ספורט רמת ישי",
+      "city": "רמת ישי",
+      "address": "קניון סטריט מול, אקליפטוס 3",
+      "lat": 32.707439,
+      "lng": 35.1738001,
+      "sourceUrl": "https://www.megasport.co.il/pages/store-locator",
+      "coordinateSourceUrl": "https://www.megasport.co.il/pages/store-locator",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "megasport-4b966d942649",
+      "store": "מגה ספורט",
+      "name": "מגה ספורט פתח תקווה",
+      "city": "פתח תקווה",
+      "address": "הקניון הגדול, דבוטינסקי 72-74",
+      "lat": 32.0937749,
+      "lng": 34.8660508,
+      "sourceUrl": "https://www.megasport.co.il/pages/store-locator",
+      "coordinateSourceUrl": "https://www.megasport.co.il/pages/store-locator",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "megasport-555a941f9743",
+      "store": "מגה ספורט",
+      "name": "מגה ספורט קרית אונו",
+      "city": "קרית אונו",
+      "address": "קניון קרית אונו",
+      "lat": 32.055506,
+      "lng": 34.864252,
+      "sourceUrl": "https://www.megasport.co.il/pages/store-locator",
+      "coordinateSourceUrl": "https://www.megasport.co.il/pages/store-locator",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "megasport-5ff26419063a",
+      "store": "מגה ספורט",
+      "name": "מגה ספורט עזריאלי חולון",
+      "city": "חולון",
+      "address": "גולדה מאיר 7",
+      "lat": 32.0125644,
+      "lng": 34.7790833,
+      "sourceUrl": "https://www.megasport.co.il/pages/store-locator",
+      "coordinateSourceUrl": "https://www.megasport.co.il/pages/store-locator",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "megasport-6237ebbf2b64",
+      "store": "מגה ספורט",
+      "name": "מגה ספורט שרונים - הוד השרון",
+      "city": "הוד השרון",
+      "address": "הירקון 2 א.ת נווה נאמן,קניון שרונים",
+      "lat": 32.1330324,
+      "lng": 34.9021597,
+      "sourceUrl": "https://www.megasport.co.il/pages/store-locator",
+      "coordinateSourceUrl": "https://www.megasport.co.il/pages/store-locator",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "megasport-6308763bb1f0",
+      "store": "מגה ספורט",
+      "name": "מגה ספורט עזריאלי - תל אביב",
+      "city": "ת\"א",
+      "address": "קניון עזריאלי",
+      "lat": 32.0741627,
+      "lng": 34.7915232,
+      "sourceUrl": "https://www.megasport.co.il/pages/store-locator",
+      "coordinateSourceUrl": "https://www.megasport.co.il/pages/store-locator",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "megasport-68db1dc4a700",
+      "store": "מגה ספורט",
+      "name": "מגה ספורט ביג טבריה",
+      "city": "טבריה",
+      "address": "יהודה הלוי 1, ביג פאשיין",
+      "lat": 32.790537,
+      "lng": 35.533934,
+      "sourceUrl": "https://www.megasport.co.il/pages/store-locator",
+      "coordinateSourceUrl": "https://www.megasport.co.il/pages/store-locator",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "megasport-79df4b264e54",
+      "store": "מגה ספורט",
+      "name": "מגה ספורט - עכו",
+      "city": "עכו",
+      "address": "החרושת 2",
+      "lat": 32.9233803,
+      "lng": 35.0813753,
+      "sourceUrl": "https://www.megasport.co.il/pages/store-locator",
+      "coordinateSourceUrl": "https://www.megasport.co.il/pages/store-locator",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "megasport-7a4f0117c7a6",
+      "store": "מגה ספורט",
+      "name": "מגה ספורט ארנה - נהריה",
+      "city": "נהריה",
+      "address": "שדרות הנשיא בן צבי 1",
+      "lat": 33.0052741,
+      "lng": 35.099971,
+      "sourceUrl": "https://www.megasport.co.il/pages/store-locator",
+      "coordinateSourceUrl": "https://www.megasport.co.il/pages/store-locator",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "megasport-88e76e2ded51",
+      "store": "מגה ספורט",
+      "name": "מגה ספורט מבקיעים - אשקלון",
+      "city": "אשקלון",
+      "address": "גלובוס סנטר, צומת מבקיעים",
+      "lat": 31.627497,
+      "lng": 34.581837,
+      "sourceUrl": "https://www.megasport.co.il/pages/store-locator",
+      "coordinateSourceUrl": "https://www.megasport.co.il/pages/store-locator",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "megasport-916ffb30069d",
+      "store": "מגה ספורט",
+      "name": "מגה ספורט צומת סילבר - אשקלון",
+      "city": "אשקלון",
+      "address": "צומת סילבר מתחם פאוור סנטר",
+      "lat": 31.67491,
+      "lng": 34.606547,
+      "sourceUrl": "https://www.megasport.co.il/pages/store-locator",
+      "coordinateSourceUrl": "https://www.megasport.co.il/pages/store-locator",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "megasport-a4800a573ae5",
+      "store": "מגה ספורט",
+      "name": "מגה ספורט - נוף הגליל",
+      "city": "נוף הגליל",
+      "address": "דרך העמק 41",
+      "lat": 32.6929587,
+      "lng": 35.3050046,
+      "sourceUrl": "https://www.megasport.co.il/pages/store-locator",
+      "coordinateSourceUrl": "https://www.megasport.co.il/pages/store-locator",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "megasport-ab2742214394",
+      "store": "מגה ספורט",
+      "name": "מגה ספורט הנגב - באר שבע",
+      "city": "באר שבע",
+      "address": "קניון הנגב",
+      "lat": 31.243815,
+      "lng": 34.795059,
+      "sourceUrl": "https://www.megasport.co.il/pages/store-locator",
+      "coordinateSourceUrl": "https://www.megasport.co.il/pages/store-locator",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "megasport-ad48f0507317",
+      "store": "מגה ספורט",
+      "name": "מגה ספורט - מודיעין",
+      "city": "מודיעין",
+      "address": "מתחם ישפרו סנטר",
+      "lat": 31.890508,
+      "lng": 34.962691,
+      "sourceUrl": "https://www.megasport.co.il/pages/store-locator",
+      "coordinateSourceUrl": "https://www.megasport.co.il/pages/store-locator",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "megasport-b1cb175d122a",
+      "store": "מגה ספורט",
+      "name": "מגה ספורט דיזנגוף סנטר - תל אביב",
+      "city": "ת\"א",
+      "address": "דיזינגוף סנטר",
+      "lat": 32.0749554,
+      "lng": 34.7754305,
+      "sourceUrl": "https://www.megasport.co.il/pages/store-locator",
+      "coordinateSourceUrl": "https://www.megasport.co.il/pages/store-locator",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "megasport-bbdc0a93c416",
+      "store": "מגה ספורט",
+      "name": "מגה ספורט מלחה - ירושלים",
+      "city": "ירושלים",
+      "address": "קניון מלחה, ירושלים",
+      "lat": 31.7511389,
+      "lng": 35.1871734,
+      "sourceUrl": "https://www.megasport.co.il/pages/store-locator",
+      "coordinateSourceUrl": "https://www.megasport.co.il/pages/store-locator",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "megasport-d1c7ba83b87e",
+      "store": "מגה ספורט",
+      "name": "מגה ספורט קריית עקרון - רחובות",
+      "city": "קריית עקרון - רחובות",
+      "address": "בילו סנטר",
+      "lat": 31.864789,
+      "lng": 34.81596,
+      "sourceUrl": "https://www.megasport.co.il/pages/store-locator",
+      "coordinateSourceUrl": "https://www.megasport.co.il/pages/store-locator",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "megasport-e03796aac993",
+      "store": "מגה ספורט",
+      "name": "מגה ספורט ראשונים - ראשון לציון",
+      "city": "ראשון לציון",
+      "address": "שדרות נים 2",
+      "lat": 31.949427,
+      "lng": 34.803046,
+      "sourceUrl": "https://www.megasport.co.il/pages/store-locator",
+      "coordinateSourceUrl": "https://www.megasport.co.il/pages/store-locator",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "megasport-e0de989f8c96",
+      "store": "מגה ספורט",
+      "name": "מגה ספורט - כרמיאל",
+      "city": "כרמיאל",
+      "address": "מעלה כמון 2",
+      "lat": 32.927011,
+      "lng": 35.322649,
+      "sourceUrl": "https://www.megasport.co.il/pages/store-locator",
+      "coordinateSourceUrl": "https://www.megasport.co.il/pages/store-locator",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "megasport-e17b9568730d",
+      "store": "מגה ספורט",
+      "name": "מגה ספורט - הרצליה",
+      "city": "הרצליה",
+      "address": "קניון שבעת הכוכבים",
+      "lat": 32.1648349,
+      "lng": 34.8240096,
+      "sourceUrl": "https://www.megasport.co.il/pages/store-locator",
+      "coordinateSourceUrl": "https://www.megasport.co.il/pages/store-locator",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "megasport-e77b6ee4a046",
+      "store": "מגה ספורט",
+      "name": "מגה ספורט ביג אילת",
+      "city": "אילת",
+      "address": "מתחם ביג, הסתת 20",
+      "lat": 29.5662399,
+      "lng": 34.9589141,
+      "sourceUrl": "https://www.megasport.co.il/pages/store-locator",
+      "coordinateSourceUrl": "https://www.megasport.co.il/pages/store-locator",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "megasport-e839a5a5d599",
+      "store": "מגה ספורט",
+      "name": "מגה ספורט - רחובות",
+      "city": "רחובות",
+      "address": "קניון רחובות, רח בילו 2 קומה ב",
+      "lat": 31.893764,
+      "lng": 34.806807,
+      "sourceUrl": "https://www.megasport.co.il/pages/store-locator",
+      "coordinateSourceUrl": "https://www.megasport.co.il/pages/store-locator",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "megasport-ea0ad120df96",
+      "store": "מגה ספורט",
+      "name": "מגה ספורט גירון - אשקלון",
+      "city": "אשקלון",
+      "address": "שדרות בן גוריון 21",
+      "lat": 31.664538,
+      "lng": 34.565516,
+      "sourceUrl": "https://www.megasport.co.il/pages/store-locator",
+      "coordinateSourceUrl": "https://www.megasport.co.il/pages/store-locator",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    },
+    {
+      "id": "megasport-ff6e4dfd06d5",
+      "store": "מגה ספורט",
+      "name": "מגה ביג אשדוד",
+      "city": "אשדוד",
+      "address": "דרך הרכבת 1 מרכז ביג פאשן",
+      "lat": 31.7759975,
+      "lng": 34.66441,
+      "sourceUrl": "https://www.megasport.co.il/pages/store-locator",
+      "coordinateSourceUrl": "https://www.megasport.co.il/pages/store-locator",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    }
+  ],
+  "source": {
+    "store": "מגה ספורט",
+    "aliases": [
+      "מגה ספורט",
+      "MEGA SPORT",
+      "Mega Sport"
+    ],
+    "sourceUrl": "https://www.megasport.co.il/pages/store-locator",
+    "checkedAt": "2026-09-20",
+    "examined": 65,
+    "included": 30,
+    "coverage": "partial",
+    "note": "חנויות מגה ספורט רגילות בלבד; עודפים ומרלוג הוחרגו. יעדי ניווט מפורשים של הסניף עם התאמת מתחם או כתובת. כפילויות ויעדים חשודים נשארו לבירור. אין ערבוב עם קידס או אונליין ואין הוכחת זכאות לשובר.",
+    "skipped": [
+      {
+        "officialId": "d0bbf2da47da",
+        "name": "מגה ספורט חוצות המפרץ - חיפה",
+        "city": "חיפה",
+        "address": "חוצות המפרץ, צומת וולקן",
+        "reason": "source-coordinate-conflicts-with-named-venue"
+      },
+      {
+        "officialId": "a0eede41e78e",
+        "name": "מגה ספורט ירכא",
+        "city": "ירכא",
+        "address": "אלתאח'ים 46 (טרמינל 2 ), א.ת, מיי בייבי",
+        "reason": "specific-venue-or-address-needs-further-review"
+      },
+      {
+        "officialId": "9e3f353d6405",
+        "name": "מגה ספורט בילו - רחובות",
+        "city": "רחובות",
+        "address": "צומת בי\"לו",
+        "reason": "duplicate-destination-retained-clearer-bilu-centre-record"
+      },
+      {
+        "officialId": "a912bdf90c60",
+        "name": "מגה ספורט - רמת גן",
+        "city": "בני ברק - רמת גן",
+        "address": "מבצע קדש 56 בני ברק",
+        "reason": "specific-venue-or-address-needs-further-review"
+      },
+      {
+        "officialId": "89e22729cbbb",
+        "name": "מגה ספורט - תל-חנן/נשר",
+        "city": "נשר",
+        "address": "בר יהודה 147",
+        "reason": "specific-venue-or-address-needs-further-review"
+      },
+      {
+        "officialId": "afb6c5e873d9",
+        "name": "מגה ספורט - ראשון לציון מערב",
+        "city": "ראשון לציון",
+        "address": "הלחי 4, מתחם הום סנטר-מערב",
+        "reason": "specific-venue-or-address-needs-further-review"
+      },
+      {
+        "officialId": "01f33a4d9042",
+        "name": "מגה ספורט אילת - אזור תעשיה",
+        "city": "אילת",
+        "address": "חטיבת גולני 40 א.ת צפוני מרכז one",
+        "reason": "specific-venue-or-address-needs-further-review"
+      },
+      {
+        "officialId": "f512cb6a4e99",
+        "name": "מגה ספורט - כפר סבא",
+        "city": "כפר סבא",
+        "address": "מתחם G ויצמן 301",
+        "reason": "street-number-discrepancy-needs-review"
+      },
+      {
+        "officialId": "ba3123412ca6",
+        "name": "מגה ספורט - באר שבע",
+        "city": "באר שבע",
+        "address": "מתחם one plaza רח' נפחא 25",
+        "reason": "specific-venue-or-address-needs-further-review"
+      },
+      {
+        "officialId": "e1a99d34137a",
+        "name": "ביג פאשן גלילות",
+        "city": "רמת השרון",
+        "address": "מתחם ביג פאשן גלילות כביש החוף",
+        "reason": "conflicting-explicit-navigation-destinations"
+      },
+      {
+        "officialId": "9fcd4ec1ef19",
+        "name": "מגה ספורט - חולון",
+        "city": "חולון",
+        "address": "המכתש 6",
+        "reason": "conflicting-explicit-navigation-destinations"
+      },
+      {
+        "officialId": "b5915fdf4325",
+        "name": "מגה ספורט - קרית גת",
+        "city": "קרית גת",
+        "address": "דרך הדרום 3",
+        "reason": "conflicting-explicit-navigation-destinations"
+      },
+      {
+        "officialId": "754b9499d528",
+        "name": "מגה ספורט - בית שמש",
+        "city": "בית שמש",
+        "address": "קניון ביג פאשן, יגאל אלון 1",
+        "reason": "specific-venue-or-address-needs-further-review"
+      },
+      {
+        "officialId": "818b4aea643a",
+        "name": "מגה ספורט - רמלה",
+        "city": "רמלה",
+        "address": "דויד רזיאל פינת שמשון",
+        "reason": "specific-venue-or-address-needs-further-review"
+      },
+      {
+        "officialId": "a1bee6c7838d",
+        "name": "מגה ספורט - נמל תל אביב",
+        "city": "תל אביב",
+        "address": "יורדי הסירה 1",
+        "reason": "specific-venue-or-address-needs-further-review"
+      },
+      {
+        "officialId": "1ea3d49bd104",
+        "name": "מגה ספורט אילת - טיילת נפטון",
+        "city": "אילת",
+        "address": "טיילת נפטון, החוף הצפוני אילת",
+        "reason": "specific-venue-or-address-needs-further-review"
+      },
+      {
+        "officialId": "a270a911bd8c",
+        "name": "מגה ספורט - נתניה",
+        "city": "נתניה",
+        "address": "מתחם רוגובין פדרמן רח' המחקר 3",
+        "reason": "specific-venue-or-address-needs-further-review"
+      },
+      {
+        "officialId": "a47586e355d9",
+        "name": "מגה ספורט כנרת",
+        "city": "צומת צמח",
+        "address": "מתחם מול כנרת",
+        "reason": "specific-venue-or-address-needs-further-review"
+      },
+      {
+        "officialId": "343395fbd04a",
+        "name": "מגה ספורט רגבה",
+        "city": "כביש עכו נהריה",
+        "address": "מרכז ביג",
+        "reason": "specific-venue-or-address-needs-further-review"
+      },
+      {
+        "officialId": "e609a51873a2",
+        "name": "מגה ספורט עפולה",
+        "city": "עפולה",
+        "address": "מתחם G בעמק, שדרות רבין 18",
+        "reason": "source-coordinate-conflicts-with-named-venue"
+      },
+      {
+        "officialId": "2bca94142174",
+        "name": "מגה ספורט גליל עליון - קרית שמונה",
+        "city": "גליל עליון - קרית שמונה",
+        "address": "מתחם ביג, קרית שמונה",
+        "reason": "specific-venue-or-address-needs-further-review"
+      },
+      {
+        "officialId": "a94e119ebea4",
+        "name": "מגה ספורט סטאר סנטר - אשדוד",
+        "city": "אשדוד",
+        "address": "ז'בוטינסקי 44 סטאר סנטר",
+        "reason": "street-number-discrepancy-needs-review"
+      },
+      {
+        "officialId": "d40cfc761684",
+        "name": "מגה ספורט קניון רננים - רעננה",
+        "city": "רעננה",
+        "address": "המלאכה 20, קניון רננים",
+        "reason": "street-number-discrepancy-needs-review"
+      },
+      {
+        "officialId": "d3a3ff2507f0",
+        "name": "מגה ספורט עין שמר",
+        "city": "צומת כרכור",
+        "address": "מתחם אלון עין שמר",
+        "reason": "source-coordinate-conflicts-with-named-venue"
+      },
+      {
+        "officialId": "2af8145240c3",
+        "name": "מגה ספורט נס ציונה",
+        "city": "נס ציונה",
+        "address": "הפטיש 6, ישפרו סנטר",
+        "reason": "specific-venue-or-address-needs-further-review"
+      },
+      {
+        "officialId": "e467f12e88db",
+        "name": "מגה ספורט ראש פינה",
+        "city": "צומת ראש פינה",
+        "address": "מתחם שופינה, דרך הגליל רח' התפוח",
+        "reason": "specific-venue-or-address-needs-further-review"
+      },
+      {
+        "officialId": "61281d52bdd8",
+        "name": "מגה ספורט נתיבות",
+        "city": "נתיבות",
+        "address": "מרכז מסחרי גלובוס סנטר. בעלי המלאכה 5",
+        "reason": "street-number-discrepancy-needs-review"
+      },
+      {
+        "officialId": "05a23292176e",
+        "name": "מגה ספורט שדרות",
+        "city": "שדרות",
+        "address": "מתחם מול 7",
+        "reason": "specific-venue-or-address-needs-further-review"
+      },
+      {
+        "officialId": "a04d0b4677d5",
+        "name": "מגה ספורט ערד",
+        "city": "ערד",
+        "address": "מרכז צים",
+        "reason": "specific-venue-or-address-needs-further-review"
+      },
+      {
+        "officialId": "e336009163cd",
+        "name": "מגה ספורט דימונה",
+        "city": "דימונה",
+        "address": "פרץ סנטר",
+        "reason": "specific-venue-or-address-needs-further-review"
+      },
+      {
+        "officialId": "6603b8253ec8",
+        "name": "מגה ספורט בת ים",
+        "city": "בת ים",
+        "address": "הרב ניסנבאום 9",
+        "reason": "specific-venue-or-address-needs-further-review"
+      },
+      {
+        "officialId": "015a9adfca0e",
+        "name": "מגה ספורט צמח",
+        "city": "עמק הירדן",
+        "address": "מול כנרת, ד.נ. 1510501 צמח",
+        "reason": "duplicate-unreviewed-tzemach-record"
+      },
+      {
+        "officialId": "3f182fe2b35f",
+        "name": "מגה ספורט ביג גדרה",
+        "city": "גדרה",
+        "address": "אברהם דורון, גדרה",
+        "reason": "specific-venue-or-address-needs-further-review"
+      },
+      {
+        "officialId": "76828fb40d17",
+        "name": "מגה ספורט מגדל העמק",
+        "city": "מגדל העמק",
+        "address": "7555, מגדל העמק",
+        "reason": "specific-venue-or-address-needs-further-review"
+      },
+      {
+        "officialId": "608788310243",
+        "name": "מגה ספורט - גרנד קניון באר שבע",
+        "city": "באר שבע",
+        "address": "מתחם ביג פאשן גלילות כביגרנד קניון, באר שבעש החוף",
+        "reason": "malformed-address-mixes-distinct-cities"
+      }
+    ]
+  }
+}

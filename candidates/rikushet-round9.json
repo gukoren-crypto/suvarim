@@ -1,0 +1,256 @@
+{
+  "store": "ריקושט",
+  "branches": [
+    {
+      "id": "rikushet-846",
+      "store": "ריקושט",
+      "name": "הרצליה - שבעת הכוכבים",
+      "city": "הרצליה",
+      "address": "קניון שבעת הכוכבים, שדרות שבעת הכוכבים 8",
+      "lat": 32.16516441694621,
+      "lng": 34.82396658348567,
+      "sourceUrl": "https://www.rikushet.co.il/storelocator",
+      "coordinateSourceUrl": "https://www.rikushet.co.il/storelocator",
+      "checkedAt": "2026-09-20",
+      "locationAccuracy": "address-or-venue"
+    }
+  ],
+  "source": {
+    "store": "ריקושט",
+    "aliases": [
+      "ריקושט",
+      "RIKUSHET",
+      "Rikushet"
+    ],
+    "sourceUrl": "https://www.rikushet.co.il/storelocator",
+    "checkedAt": "2026-09-20",
+    "examined": 38,
+    "included": 1,
+    "coverage": "partial",
+    "note": "נבדקו40 רשומות רשמיות;2 סניפי עודפים הופרדו מהיקף38 חנויות רגילות. נכללו רק יעדי Waze עשרוניים מפורשים התואמים לשדות הסניף ולמתחם שאומת. מרבית יעדי המקור רשומים במעלות/דקות/שניות בסדר צירים הפוך ולא תוקנו. עודפים ומיקום ללא הצלבה נשארו לבירור.",
+    "skipped": [
+      {
+        "officialId": "801",
+        "name": "חדרה",
+        "city": "חדרה",
+        "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+      },
+      {
+        "officialId": "849",
+        "name": "אור עקיבא - חדש!",
+        "city": "אור עקיבא",
+        "reason": "venue-not-independently-corroborated-in-this-round"
+      },
+      {
+        "officialId": "845",
+        "name": "אילת",
+        "city": "אילת",
+        "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+      },
+      {
+        "officialId": "836",
+        "name": "אשדוד ביג",
+        "city": "אשדוד",
+        "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+      },
+      {
+        "officialId": "840",
+        "name": "אשקלון",
+        "city": "אשקלון",
+        "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+      },
+      {
+        "officialId": "842",
+        "name": "באר שבע ביג",
+        "city": "באר שבע",
+        "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+      },
+      {
+        "officialId": "827",
+        "name": "בית שאן",
+        "city": "בית שאן",
+        "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+      },
+      {
+        "officialId": "819",
+        "name": "בית שמש",
+        "city": "בית שמש",
+        "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+      },
+      {
+        "officialId": "824",
+        "name": "בת ים",
+        "city": "בת ים",
+        "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+      },
+      {
+        "officialId": "813",
+        "name": "גבעתיים",
+        "city": "גבעתיים",
+        "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+      },
+      {
+        "officialId": "844",
+        "name": "דימונה",
+        "city": "דימונה",
+        "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+      },
+      {
+        "officialId": "825",
+        "name": "חולון",
+        "city": "חולון",
+        "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+      },
+      {
+        "officialId": "809",
+        "name": "חיפה - עופר גרנד קניון",
+        "city": "חיפה",
+        "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+      },
+      {
+        "officialId": "834",
+        "name": "טבריה",
+        "city": "טבריה",
+        "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+      },
+      {
+        "officialId": "837",
+        "name": "ירושלים (תלפיות)",
+        "city": "ירושלים",
+        "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+      },
+      {
+        "officialId": "838",
+        "name": "ירושלים מלחה",
+        "city": "ירושלים",
+        "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+      },
+      {
+        "officialId": "804",
+        "name": "כפר סבא G",
+        "city": "כפר סבא",
+        "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+      },
+      {
+        "officialId": "833",
+        "name": "כרמיאל",
+        "city": "כרמיאל",
+        "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+      },
+      {
+        "officialId": "830",
+        "name": "מודיעין",
+        "city": "מודיעין",
+        "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+      },
+      {
+        "officialId": "821",
+        "name": "נוף הגליל - נצרת",
+        "city": "נוף הגליל - נצרת",
+        "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+      },
+      {
+        "officialId": "841",
+        "name": "נתיבות",
+        "city": "נתיבות",
+        "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+      },
+      {
+        "officialId": "803",
+        "name": "נתניה- עיר ימים",
+        "city": "נתניה",
+        "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+      },
+      {
+        "officialId": "815",
+        "name": "עפולה",
+        "city": "עפולה",
+        "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+      },
+      {
+        "officialId": "811",
+        "name": "פתח תקווה",
+        "city": "פתח תקווה",
+        "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+      },
+      {
+        "officialId": "822",
+        "name": "קריון",
+        "city": "קריית ביאליק",
+        "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+      },
+      {
+        "officialId": "818",
+        "name": "קרית אונו",
+        "city": "קרית אונו",
+        "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+      },
+      {
+        "officialId": "839",
+        "name": "ראש פינה",
+        "city": "ראש פינה",
+        "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+      },
+      {
+        "officialId": "828",
+        "name": "ראשונים",
+        "city": "ראשון לציון",
+        "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+      },
+      {
+        "officialId": "829",
+        "name": "רגבה",
+        "city": "רגבה",
+        "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+      },
+      {
+        "officialId": "831",
+        "name": "רחובות",
+        "city": "רחובות",
+        "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+      },
+      {
+        "officialId": "810",
+        "name": "רמת גן",
+        "city": "רמת גן",
+        "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+      },
+      {
+        "officialId": "806",
+        "name": "רמת השרון",
+        "city": "רמת השרון",
+        "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+      },
+      {
+        "officialId": "807",
+        "name": "רמת ישי",
+        "city": "רמת ישי",
+        "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+      },
+      {
+        "officialId": "812",
+        "name": "רעננה",
+        "city": "רעננה",
+        "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+      },
+      {
+        "officialId": "820",
+        "name": "תל אביב (תחנה מרכזית)",
+        "city": "תל אביב",
+        "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+      },
+      {
+        "officialId": "816",
+        "name": "תל אביב דיזינגוף",
+        "city": "תל אביב",
+        "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+      },
+      {
+        "officialId": "817",
+        "name": "תל אביב עזריאלי",
+        "city": "תל אביב",
+        "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+      }
+    ]
+  }
+}

@@ -1,0 +1,419 @@
+{
+  "sourceUrl": "https://www.rikushet.co.il/storelocator",
+  "checkedAt": "2026-09-20",
+  "examined": 40,
+  "reviewed": [
+    {
+      "id": "801",
+      "name": "חדרה",
+      "city": "חדרה",
+      "address": "קניון עופר לב",
+      "lat": "34°55'27.2",
+      "lng": "32°26'15.9",
+      "waze": "waze://?ll=34°55'27.2,32°26'15.9&navigate=yes"
+    },
+    {
+      "id": "849",
+      "name": "אור עקיבא - חדש!",
+      "city": "אור עקיבא",
+      "address": "שדרות הנשיא ויצמן, מרכז קניות ביג, אור עקיבא",
+      "lat": "32.502675",
+      "lng": "34.919734",
+      "waze": "waze://?ll=32.502675,34.919734&navigate=yes"
+    },
+    {
+      "id": "845",
+      "name": "אילת",
+      "city": "אילת",
+      "address": "מרכז ביג, אזה\"ת הצפוני",
+      "lat": "34°57'42.9",
+      "lng": "29°33'58.3",
+      "waze": "waze://?ll=34°57'42.9,29°33'58.3&navigate=yes"
+    },
+    {
+      "id": "836",
+      "name": "אשדוד ביג",
+      "city": "אשדוד",
+      "address": "אריאל שרון 1 , ביג פאשן",
+      "lat": "34°39'57.2",
+      "lng": "31°46'35.1",
+      "waze": "waze://?ll=34°39'57.2,31°46'35.1&navigate=yes"
+    },
+    {
+      "id": "840",
+      "name": "אשקלון",
+      "city": "אשקלון",
+      "address": "צמות כפר סילבר",
+      "lat": "34°36'39.7",
+      "lng": "31°40'27.0",
+      "waze": "waze://?ll=34°36'39.7,31°40'27.0&navigate=yes"
+    },
+    {
+      "id": "842",
+      "name": "באר שבע ביג",
+      "city": "באר שבע",
+      "address": "מרכז ביג, דרך חברון 4",
+      "lat": "34°48'46.1",
+      "lng": "31°14'33.3",
+      "waze": "waze://?ll=34°48'46.1,31°14'33.3&navigate=yes"
+    },
+    {
+      "id": "832",
+      "name": "ביל\"ו סניף עודפים",
+      "city": "רחובות",
+      "address": "צומת ביל\"ו (קרית עקרון)",
+      "lat": "34°49'37.8",
+      "lng": "31°51'54.2",
+      "waze": "waze://?ll=34°49'37.8,31°51'54.2&navigate=yes"
+    },
+    {
+      "id": "827",
+      "name": "בית שאן",
+      "city": "בית שאן",
+      "address": "העמל 7, צים סנטר",
+      "lat": "35°30'12.9",
+      "lng": "32°30'39.3",
+      "waze": "waze://?ll=35°30'12.9,32°30'39.3&navigate=yes"
+    },
+    {
+      "id": "819",
+      "name": "בית שמש",
+      "city": "בית שמש",
+      "address": "מתחם BIG FASHION יגאל אלון 1",
+      "lat": "34°47'37.0",
+      "lng": "32°03'14.7",
+      "waze": "waze://?ll=34°47'37.0,32°03'14.7&navigate=yes"
+    },
+    {
+      "id": "824",
+      "name": "בת ים",
+      "city": "בת ים",
+      "address": "שדרות יוספטל 92",
+      "lat": "34°45'14.3",
+      "lng": "32°00'54.7",
+      "waze": "waze://?ll=34°45'14.3,32°00'54.7&navigate=yes"
+    },
+    {
+      "id": "813",
+      "name": "גבעתיים",
+      "city": "גבעתיים",
+      "address": "ויצמן 71",
+      "lat": "34°48'39.0",
+      "lng": "32°04'00.8",
+      "waze": "waze://?ll=34°48'39.0,32°04'00.8&navigate=yes"
+    },
+    {
+      "id": "844",
+      "name": "דימונה",
+      "city": "דימונה",
+      "address": "פרץ בוני הנגב",
+      "lat": "35°01'14.4",
+      "lng": "31°03'35.0",
+      "waze": "waze://?ll=35°01'14.4,31°03'35.0&navigate=yes"
+    },
+    {
+      "id": "846",
+      "name": "הרצליה - שבעת הכוכבים",
+      "city": "הרצליה",
+      "address": "קניון שבעת הכוכבים, שדרות שבעת הכוכבים 8",
+      "lat": "32.16516441694621",
+      "lng": "34.82396658348567",
+      "waze": "waze://?ll=32.16516441694621,34.82396658348567&navigate=yes"
+    },
+    {
+      "id": "825",
+      "name": "חולון",
+      "city": "חולון",
+      "address": "קניון חולון",
+      "lat": "34°46'52.1",
+      "lng": "32°00'45.6",
+      "waze": "waze://?ll=34°46'52.1,32°00'45.6&navigate=yes"
+    },
+    {
+      "id": "814",
+      "name": "חיפה - חוצות המפרץ - עודפים",
+      "city": "חיפה",
+      "address": "השיש",
+      "lat": "35°03'30.2",
+      "lng": "32°48'29.1",
+      "waze": "waze://?ll=35°03'30.2,32°48'29.1&navigate=yes"
+    },
+    {
+      "id": "809",
+      "name": "חיפה - עופר גרנד קניון",
+      "city": "חיפה",
+      "address": "דרך שמחה גולן 54",
+      "lat": "35°00'36.0",
+      "lng": "32°47'23.0",
+      "waze": "waze://?ll=35°00'36.0,32°47'23.0&navigate=yes"
+    },
+    {
+      "id": "834",
+      "name": "טבריה",
+      "city": "טבריה",
+      "address": "ביג פאשן דנילוף, יהודה הלוי 1",
+      "lat": "35°32'09.1",
+      "lng": "32°47'25.9",
+      "waze": "waze://?ll=35°32'09.1,32°47'25.9&navigate=yes"
+    },
+    {
+      "id": "837",
+      "name": "ירושלים (תלפיות)",
+      "city": "ירושלים",
+      "address": "רח' פייר קינג 29, פינת רח' רבקה י-ם",
+      "lat": "35°12'59.7",
+      "lng": "31°45'16.9",
+      "waze": "waze://?ll=35°12'59.7,31°45'16.9&navigate=yes"
+    },
+    {
+      "id": "838",
+      "name": "ירושלים מלחה",
+      "city": "ירושלים",
+      "address": "קניון ירושלים, מלחה",
+      "lat": "35°11'22.2",
+      "lng": "31°45'05.8",
+      "waze": "waze://?ll=35°11'22.2,31°45'05.8&navigate=yes"
+    },
+    {
+      "id": "804",
+      "name": "כפר סבא G",
+      "city": "כפר סבא",
+      "address": "המנופים 4, מתחם G",
+      "lat": "34°55'51.2",
+      "lng": "32°10'20.9",
+      "waze": "waze://?ll=34°55'51.2,32°10'20.9&navigate=yes"
+    },
+    {
+      "id": "833",
+      "name": "כרמיאל",
+      "city": "כרמיאל",
+      "address": "מעלה  כמון 9 – מיי סנטר",
+      "lat": "35°19'32.2",
+      "lng": "32°55'37.5",
+      "waze": "waze://?ll=35°19'32.2,32°55'37.5&navigate=yes"
+    },
+    {
+      "id": "830",
+      "name": "מודיעין",
+      "city": "מודיעין",
+      "address": "עזריאלי, לב העיר 2",
+      "lat": "35°00'36.7",
+      "lng": "31°53'59.4",
+      "waze": "waze://?ll=35°00'36.7,31°53'59.4&navigate=yes"
+    },
+    {
+      "id": "821",
+      "name": "נוף הגליל - נצרת",
+      "city": "נוף הגליל - נצרת",
+      "address": "מתחם דודג' סנטר",
+      "lat": "35°18'23.5",
+      "lng": "32°41'36.3",
+      "waze": "waze://?ll=35°18'23.5,32°41'36.3&navigate=yes"
+    },
+    {
+      "id": "841",
+      "name": "נתיבות",
+      "city": "נתיבות",
+      "address": "מתחם GT CENTER ,בעלי המלאכה 203",
+      "lat": "34°35'59.8",
+      "lng": "31°25'07.2",
+      "waze": "waze://?ll=34°35'59.8,31°25'07.2"
+    },
+    {
+      "id": "803",
+      "name": "נתניה- עיר ימים",
+      "city": "נתניה",
+      "address": "קניון עיר ימים, בני ברמן 2",
+      "lat": "34°51'04.8",
+      "lng": "32°16'41.2",
+      "waze": "waze://?ll=34°51'04.8,32°16'41.2&navigate=yes"
+    },
+    {
+      "id": "815",
+      "name": "עפולה",
+      "city": "עפולה",
+      "address": "מתחם פרנדלי עמק סנטר, שדרות יצחק רבין 18",
+      "lat": "35°18'55.6",
+      "lng": "32°37'13.3",
+      "waze": "waze://?ll=35°18'55.6,32°37'13.3&navigate=yes"
+    },
+    {
+      "id": "811",
+      "name": "פתח תקווה",
+      "city": "פתח תקווה",
+      "address": "קניון אבנת",
+      "lat": "34°52'03.7",
+      "lng": "32°05'35.6",
+      "waze": "waze://?ll=34°52'03.7,32°05'35.6&navigate=yes"
+    },
+    {
+      "id": "822",
+      "name": "קריון",
+      "city": "קריית ביאליק",
+      "address": "קניון הקריון",
+      "lat": "35°05'35.9",
+      "lng": "32°50'38.0",
+      "waze": "waze://?ll=35°05'35.9,32°50'38.0&navigate=yes"
+    },
+    {
+      "id": "818",
+      "name": "קרית אונו",
+      "city": "קרית אונו",
+      "address": "קניון קרית אונו",
+      "lat": "34°51'56.0",
+      "lng": "32°03'20.1",
+      "waze": "waze://?ll=34°51'56.0,32°03'20.1&navigate=yes"
+    },
+    {
+      "id": "839",
+      "name": "ראש פינה",
+      "city": "ראש פינה",
+      "address": "קניון סנטר הגליל",
+      "lat": "35°33'09.7",
+      "lng": "32°58'08.4",
+      "waze": "waze://?ll=35°33'09.7,32°58'08.4&navigate=yes"
+    },
+    {
+      "id": "828",
+      "name": "ראשונים",
+      "city": "ראשון לציון",
+      "address": "שדרות נים 2",
+      "lat": "34°48'19.4",
+      "lng": "31°56'58.5",
+      "waze": "waze://?ll=34°48'19.4,31°56'58.5&navigate=yes"
+    },
+    {
+      "id": "829",
+      "name": "רגבה",
+      "city": "רגבה",
+      "address": "מרכז מסחרי ביג",
+      "lat": "35°05'47.8",
+      "lng": "32°58'31.6",
+      "waze": "waze://?ll=35°05'47.8,32°58'31.6&navigate=yes"
+    },
+    {
+      "id": "831",
+      "name": "רחובות",
+      "city": "רחובות",
+      "address": "קניון רחובות, ביל\"ו 2",
+      "lat": "34°48'34.1",
+      "lng": "31°53'37.7",
+      "waze": "waze://?ll=34°48'34.1,31°53'37.7&navigate=yes"
+    },
+    {
+      "id": "810",
+      "name": "רמת גן",
+      "city": "רמת גן",
+      "address": "קניון איילון",
+      "lat": "34°49'44.3",
+      "lng": "32°06'01.2",
+      "waze": "waze://?ll=34°49'44.3,32°06'01.2&navigate=yes"
+    },
+    {
+      "id": "806",
+      "name": "רמת השרון",
+      "city": "רמת השרון",
+      "address": "סוקולוב 30, פינת הנרייטה סולד",
+      "lat": "34°50'20.2",
+      "lng": "32°08'28.9",
+      "waze": "waze://?ll=34°50'20.2,32°08'28.9&navigate=yes"
+    },
+    {
+      "id": "807",
+      "name": "רמת ישי",
+      "city": "רמת ישי",
+      "address": "סטריט מול, רמת ישי",
+      "lat": "35°10'33.1",
+      "lng": "32°42'27.9",
+      "waze": "waze://?ll=35°10'33.1,32°42'27.9&navigate=yes"
+    },
+    {
+      "id": "812",
+      "name": "רעננה",
+      "city": "רעננה",
+      "address": "התעשיה 19",
+      "lat": "34°52'40.3",
+      "lng": "32°11'46.5",
+      "waze": "waze://?ll=34°52'40.3,32°11'46.5&navigate=yes"
+    },
+    {
+      "id": "820",
+      "name": "תל אביב (תחנה מרכזית)",
+      "city": "תל אביב",
+      "address": "תחנה מרכזית חדשה",
+      "lat": "34°46'54.1",
+      "lng": "32°03'21.7",
+      "waze": "waze://?ll=34°46'54.1,32°03'21.7&navigate=yes"
+    },
+    {
+      "id": "816",
+      "name": "תל אביב דיזינגוף",
+      "city": "תל אביב",
+      "address": "דיזינגוף 50",
+      "lat": "34°46'39.3",
+      "lng": "32°04'31.3",
+      "waze": "waze://?ll=34°46'39.3,32°04'31.3&navigate=yes"
+    },
+    {
+      "id": "817",
+      "name": "תל אביב עזריאלי",
+      "city": "תל אביב",
+      "address": "קניון עזריאלי",
+      "lat": "34°47'39.8",
+      "lng": "32°04'26.7",
+      "waze": "waze://?ll=34°47'39.8,32°04'26.7&navigate=yes"
+    }
+  ],
+  "exclusions": {
+    "801": "invalid-DMS-coordinate-order; no conversion or axis swap",
+    "803": "invalid-DMS-coordinate-order; no conversion or axis swap",
+    "804": "invalid-DMS-coordinate-order; no conversion or axis swap",
+    "806": "invalid-DMS-coordinate-order; no conversion or axis swap",
+    "807": "invalid-DMS-coordinate-order; no conversion or axis swap",
+    "809": "invalid-DMS-coordinate-order; no conversion or axis swap",
+    "810": "invalid-DMS-coordinate-order; no conversion or axis swap",
+    "811": "invalid-DMS-coordinate-order; no conversion or axis swap",
+    "812": "invalid-DMS-coordinate-order; no conversion or axis swap",
+    "813": "invalid-DMS-coordinate-order; no conversion or axis swap",
+    "814": "outlet-pending-eligibility-review",
+    "815": "invalid-DMS-coordinate-order; no conversion or axis swap",
+    "816": "invalid-DMS-coordinate-order; no conversion or axis swap",
+    "817": "invalid-DMS-coordinate-order; no conversion or axis swap",
+    "818": "invalid-DMS-coordinate-order; no conversion or axis swap",
+    "819": "invalid-DMS-coordinate-order; no conversion or axis swap",
+    "820": "invalid-DMS-coordinate-order; no conversion or axis swap",
+    "821": "invalid-DMS-coordinate-order; no conversion or axis swap",
+    "822": "invalid-DMS-coordinate-order; no conversion or axis swap",
+    "824": "invalid-DMS-coordinate-order; no conversion or axis swap",
+    "825": "invalid-DMS-coordinate-order; no conversion or axis swap",
+    "827": "invalid-DMS-coordinate-order; no conversion or axis swap",
+    "828": "invalid-DMS-coordinate-order; no conversion or axis swap",
+    "829": "invalid-DMS-coordinate-order; no conversion or axis swap",
+    "830": "invalid-DMS-coordinate-order; no conversion or axis swap",
+    "831": "invalid-DMS-coordinate-order; no conversion or axis swap",
+    "832": "outlet-pending-eligibility-review",
+    "833": "invalid-DMS-coordinate-order; no conversion or axis swap",
+    "834": "invalid-DMS-coordinate-order; no conversion or axis swap",
+    "836": "invalid-DMS-coordinate-order; no conversion or axis swap",
+    "837": "invalid-DMS-coordinate-order; no conversion or axis swap",
+    "838": "invalid-DMS-coordinate-order; no conversion or axis swap",
+    "839": "invalid-DMS-coordinate-order; no conversion or axis swap",
+    "840": "invalid-DMS-coordinate-order; no conversion or axis swap",
+    "841": "invalid-DMS-coordinate-order; no conversion or axis swap",
+    "842": "invalid-DMS-coordinate-order; no conversion or axis swap",
+    "844": "invalid-DMS-coordinate-order; no conversion or axis swap",
+    "845": "invalid-DMS-coordinate-order; no conversion or axis swap",
+    "849": "venue-not-independently-corroborated-in-this-round"
+  },
+  "corroboration": [
+    {
+      "id": "846",
+      "referenceId": "vardinon-2",
+      "referenceName": "הרצליה - קניון שבעת הכוכבים",
+      "referenceAddress": "שבעת הכוכבים 8",
+      "sourceUrl": "https://www.vardinon.co.il/stores?brand=%D7%95%D7%A8%D7%93%D7%99%D7%A0%D7%95%D7%9F",
+      "coordinateSourceUrl": "https://www.vardinon.co.il/stores?brand=%D7%95%D7%A8%D7%93%D7%99%D7%A0%D7%95%D7%9F",
+      "distanceMeters": 10
+    }
+  ]
+}

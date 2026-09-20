@@ -24,6 +24,8 @@ const aliases = [
   ["סולתם", "SOLTAM"],
   ["אופטיקנה", "OPTICANA"],
   ["ACE", "אייס"],
+  ["מגה ספורט", "MEGA SPORT"],
+  ["ריקושט", "RIKOSHET"],
   ["קסטרו", "CASTRO"],
 ];
 const normalize = (name) =>

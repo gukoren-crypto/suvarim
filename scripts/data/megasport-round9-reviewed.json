@@ -1,0 +1,1318 @@
+{
+  "sourceUrl": "https://www.megasport.co.il/pages/store-locator",
+  "checkedAt": "2026-09-20",
+  "rawCount": 76,
+  "examined": 65,
+  "reviewed": [
+    {
+      "id": "bbdc0a93c416",
+      "name": "מגה ספורט מלחה - ירושלים",
+      "city": "ירושלים",
+      "address": "קניון מלחה, ירושלים",
+      "lat": 31.7511389,
+      "lng": 35.1871734,
+      "links": [
+        "https://ul.waze.com/ul?place=ChIJj1Mig47XAhURoucyBD1paW4&ll=31.75113890%2C35.18717340&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=31.751139,35.187173&navigate=yes&zoom=17"
+      ],
+      "destination": "https://ul.waze.com/ul?place=ChIJj1Mig47XAhURoucyBD1paW4&ll=31.75113890%2C35.18717340&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location"
+    },
+    {
+      "id": "e839a5a5d599",
+      "name": "מגה ספורט - רחובות",
+      "city": "רחובות",
+      "address": "קניון רחובות, רח בילו 2 קומה ב",
+      "lat": 31.893764,
+      "lng": 34.806807,
+      "links": [
+        "https://ul.waze.com/ul?ll=31.89376400%2C34.80680700&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=31.893764,34.806807&navigate=yes&zoom=17"
+      ],
+      "destination": "https://ul.waze.com/ul?ll=31.89376400%2C34.80680700&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location"
+    },
+    {
+      "id": "a4800a573ae5",
+      "name": "מגה ספורט - נוף הגליל",
+      "city": "נוף הגליל",
+      "address": "דרך העמק 41",
+      "lat": 32.6929587,
+      "lng": 35.3050046,
+      "links": [
+        "https://ul.waze.com/ul?ll=32.69295870%2C35.30500460&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=32.6929587,35.3050046&navigate=yes&zoom=17"
+      ],
+      "destination": "https://ul.waze.com/ul?ll=32.69295870%2C35.30500460&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location"
+    },
+    {
+      "id": "129212242d84",
+      "name": "מגה ספורט גראנד קניון - חיפה",
+      "city": "חיפה",
+      "address": "גראנד קניון, דרך שמחה גולן 54",
+      "lat": 32.7899284,
+      "lng": 35.0085247,
+      "links": [
+        "https://ul.waze.com/ul?place=ChIJ7VZbNve6HRURhnAfqfYt_JI&ll=32.78992840%2C35.00852470&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=32.789928,35.008525&navigate=yes&zoom=17"
+      ],
+      "destination": "https://ul.waze.com/ul?place=ChIJ7VZbNve6HRURhnAfqfYt_JI&ll=32.78992840%2C35.00852470&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location"
+    },
+    {
+      "id": "31d8dfd3e35c",
+      "name": "מגה ספורט - יהוד",
+      "city": "יהוד",
+      "address": "אלטלף 4",
+      "lat": 32.0257483,
+      "lng": 34.9013557,
+      "links": [
+        "https://ul.waze.com/ul?place=ChIJMdO0G241HRUR6NzF8jHxSxk&ll=32.02574830%2C34.90135570&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=32.025748,34.901356&navigate=yes&zoom=17"
+      ],
+      "destination": "https://ul.waze.com/ul?place=ChIJMdO0G241HRUR6NzF8jHxSxk&ll=32.02574830%2C34.90135570&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location"
+    },
+    {
+      "id": "e17b9568730d",
+      "name": "מגה ספורט - הרצליה",
+      "city": "הרצליה",
+      "address": "קניון שבעת הכוכבים",
+      "lat": 32.1648349,
+      "lng": 34.8240096,
+      "links": [
+        "https://ul.waze.com/ul?place=ChIJvzRWhWRIHRUR4FYRjweAoV0&ll=32.16483490%2C34.82400960&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=32.164835,34.824010&navigate=yes&zoom=17"
+      ],
+      "destination": "https://ul.waze.com/ul?place=ChIJvzRWhWRIHRUR4FYRjweAoV0&ll=32.16483490%2C34.82400960&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location"
+    },
+    {
+      "id": "e0de989f8c96",
+      "name": "מגה ספורט - כרמיאל",
+      "city": "כרמיאל",
+      "address": "מעלה כמון 2",
+      "lat": 32.927011,
+      "lng": 35.322649,
+      "links": [
+        "https://ul.waze.com/ul?ll=32.92701100%2C35.32264900&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=32.927011,35.322649&navigate=yes&zoom=17"
+      ],
+      "destination": "https://ul.waze.com/ul?ll=32.92701100%2C35.32264900&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location"
+    },
+    {
+      "id": "916ffb30069d",
+      "name": "מגה ספורט צומת סילבר - אשקלון",
+      "city": "אשקלון",
+      "address": "צומת סילבר מתחם פאוור סנטר",
+      "lat": 31.67491,
+      "lng": 34.606547,
+      "links": [
+        "https://ul.waze.com/ul?ll=31.67491000%2C34.60654700&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=31.67491,34.606547&navigate=yes&zoom=17"
+      ],
+      "destination": "https://ul.waze.com/ul?ll=31.67491000%2C34.60654700&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location"
+    },
+    {
+      "id": "7a4f0117c7a6",
+      "name": "מגה ספורט ארנה - נהריה",
+      "city": "נהריה",
+      "address": "שדרות הנשיא בן צבי 1",
+      "lat": 33.0052741,
+      "lng": 35.099971,
+      "links": [
+        "https://ul.waze.com/ul?place=ChIJIdOV217OHRURK9ROJN09o2k&ll=33.00527410%2C35.09997100&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=33.005274,35.099971&navigate=yes&zoom=17"
+      ],
+      "destination": "https://ul.waze.com/ul?place=ChIJIdOV217OHRURK9ROJN09o2k&ll=33.00527410%2C35.09997100&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location"
+    },
+    {
+      "id": "79df4b264e54",
+      "name": "מגה ספורט - עכו",
+      "city": "עכו",
+      "address": "החרושת 2",
+      "lat": 32.9233803,
+      "lng": 35.0813753,
+      "links": [
+        "https://ul.waze.com/ul?place=ChIJURVyaFPIHRURPBan8sBsBAU&ll=32.92338030%2C35.08137530&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=32.923380,35.081375&navigate=yes&zoom=17"
+      ],
+      "destination": "https://ul.waze.com/ul?place=ChIJURVyaFPIHRURPBan8sBsBAU&ll=32.92338030%2C35.08137530&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location"
+    },
+    {
+      "id": "ad48f0507317",
+      "name": "מגה ספורט - מודיעין",
+      "city": "מודיעין",
+      "address": "מתחם ישפרו סנטר",
+      "lat": 31.890508,
+      "lng": 34.962691,
+      "links": [
+        "https://ul.waze.com/ul?ll=31.89050800%2C34.96269100&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=31.890508,34.962691&navigate=yes&zoom=17"
+      ],
+      "destination": "https://ul.waze.com/ul?ll=31.89050800%2C34.96269100&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location"
+    },
+    {
+      "id": "68db1dc4a700",
+      "name": "מגה ספורט ביג טבריה",
+      "city": "טבריה",
+      "address": "יהודה הלוי 1, ביג פאשיין",
+      "lat": 32.790537,
+      "lng": 35.533934,
+      "links": [
+        "https://ul.waze.com/ul?place=ChIJ9_4PzE8-HBURPtARNFb5a-I&ll=32.79053700%2C35.53393400&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=32.790537,35.533934&navigate=yes&zoom=17"
+      ],
+      "destination": "https://ul.waze.com/ul?place=ChIJ9_4PzE8-HBURPtARNFb5a-I&ll=32.79053700%2C35.53393400&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location"
+    },
+    {
+      "id": "4b966d942649",
+      "name": "מגה ספורט פתח תקווה",
+      "city": "פתח תקווה",
+      "address": "הקניון הגדול, דבוטינסקי 72-74",
+      "lat": 32.0937749,
+      "lng": 34.8660508,
+      "links": [
+        "https://ul.waze.com/ul?place=ChIJvxd2OgM2HRUR2rcKoN8HuOU&ll=32.09377490%2C34.86605080&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=32.093775,34.866051&navigate=yes&zoom=17"
+      ],
+      "destination": "https://ul.waze.com/ul?place=ChIJvxd2OgM2HRUR2rcKoN8HuOU&ll=32.09377490%2C34.86605080&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location"
+    },
+    {
+      "id": "6308763bb1f0",
+      "name": "מגה ספורט עזריאלי - תל אביב",
+      "city": "ת\"א",
+      "address": "קניון עזריאלי",
+      "lat": 32.0741627,
+      "lng": 34.7915232,
+      "links": [
+        "https://ul.waze.com/ul?place=ChIJNVjNaZlLHRUROUHpDvTCut0&ll=32.07416270%2C34.79152320&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=32.074163,34.791523&navigate=yes&zoom=17"
+      ],
+      "destination": "https://ul.waze.com/ul?place=ChIJNVjNaZlLHRUROUHpDvTCut0&ll=32.07416270%2C34.79152320&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location"
+    },
+    {
+      "id": "6237ebbf2b64",
+      "name": "מגה ספורט שרונים - הוד השרון",
+      "city": "הוד השרון",
+      "address": "הירקון 2 א.ת נווה נאמן,קניון שרונים",
+      "lat": 32.1330324,
+      "lng": 34.9021597,
+      "links": [
+        "https://ul.waze.com/ul?place=ChIJ-bjmXp83HRUReea00zF4kVU&ll=32.13303240%2C34.90215970&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=32.133032,34.902160&navigate=yes&zoom=17"
+      ],
+      "destination": "https://ul.waze.com/ul?place=ChIJ-bjmXp83HRUReea00zF4kVU&ll=32.13303240%2C34.90215970&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location"
+    },
+    {
+      "id": "ff6e4dfd06d5",
+      "name": "מגה ביג אשדוד",
+      "city": "אשדוד",
+      "address": "דרך הרכבת 1 מרכז ביג פאשן",
+      "lat": 31.7759975,
+      "lng": 34.66441,
+      "links": [
+        "https://ul.waze.com/ul?place=ChIJJb1Ml8KiAhURH7rFazSYJiQ&ll=31.77599750%2C34.66441000&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=31.775997,34.664410&navigate=yes&zoom=17"
+      ],
+      "destination": "https://ul.waze.com/ul?place=ChIJJb1Ml8KiAhURH7rFazSYJiQ&ll=31.77599750%2C34.66441000&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location"
+    },
+    {
+      "id": "2028d10c7749",
+      "name": "מגה ספורט חדרה",
+      "city": "חדרה",
+      "address": "קניון מול החוף שכטמן 10, VILLAGE",
+      "lat": 32.4424186,
+      "lng": 34.8949194,
+      "links": [
+        "https://ul.waze.com/ul?place=ChIJIYHVLeUSHRURQBENgwKNY9U&ll=32.44241860%2C34.89491940&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=32.442419,34.894919&navigate=yes&zoom=17"
+      ],
+      "destination": "https://ul.waze.com/ul?place=ChIJIYHVLeUSHRURQBENgwKNY9U&ll=32.44241860%2C34.89491940&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location"
+    },
+    {
+      "id": "88e76e2ded51",
+      "name": "מגה ספורט מבקיעים - אשקלון",
+      "city": "אשקלון",
+      "address": "גלובוס סנטר, צומת מבקיעים",
+      "lat": 31.627497,
+      "lng": 34.581837,
+      "links": [
+        "https://ul.waze.com/ul?venue_id=22675772.226626651.450944&overview=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=31.627497,34.581837&navigate=yes&zoom=17"
+      ],
+      "destination": "https://www.waze.com/ul?ll=31.627497,34.581837&navigate=yes&zoom=17"
+    },
+    {
+      "id": "0ccde6fb8075",
+      "name": "מגה ספורט אייס מול אילת",
+      "city": "אילת",
+      "address": "קאמפן 8",
+      "lat": 29.554104,
+      "lng": 34.9656096,
+      "links": [
+        "https://ul.waze.com/ul?place=ChIJa8gS7SJxABURLr61MWSjv8Q&ll=29.55410400%2C34.96560960&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=29.554104,34.965610&navigate=yes&zoom=17"
+      ],
+      "destination": "https://ul.waze.com/ul?place=ChIJa8gS7SJxABURLr61MWSjv8Q&ll=29.55410400%2C34.96560960&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location"
+    },
+    {
+      "id": "4b86dd142f65",
+      "name": "מגה ספורט רמת ישי",
+      "city": "רמת ישי",
+      "address": "קניון סטריט מול, אקליפטוס 3",
+      "lat": 32.707439,
+      "lng": 35.1738001,
+      "links": [
+        "https://ul.waze.com/ul?place=ChIJE18pMLKzHRURq_8HB84SvZs&ll=32.70743900%2C35.17380010&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=32.707439,35.173800&navigate=yes&zoom=17"
+      ],
+      "destination": "https://ul.waze.com/ul?place=ChIJE18pMLKzHRURq_8HB84SvZs&ll=32.70743900%2C35.17380010&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location"
+    },
+    {
+      "id": "e77b6ee4a046",
+      "name": "מגה ספורט ביג אילת",
+      "city": "אילת",
+      "address": "מתחם ביג, הסתת 20",
+      "lat": 29.5662399,
+      "lng": 34.9589141,
+      "links": [
+        "https://ul.waze.com/ul?place=ChIJiTrZYKhvABUR7YsT-nKsPDY&ll=29.56623990%2C34.95891410&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=29.566240,34.958914&navigate=yes&zoom=17"
+      ],
+      "destination": "https://ul.waze.com/ul?place=ChIJiTrZYKhvABUR7YsT-nKsPDY&ll=29.56623990%2C34.95891410&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location"
+    },
+    {
+      "id": "ea0ad120df96",
+      "name": "מגה ספורט גירון - אשקלון",
+      "city": "אשקלון",
+      "address": "שדרות בן גוריון 21",
+      "lat": 31.664538,
+      "lng": 34.565516,
+      "links": [
+        "https://ul.waze.com/ul?venue_id=22675773.226561118.3498&overview=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=31.664538,34.565516&navigate=yes&zoom=17"
+      ],
+      "destination": "https://www.waze.com/ul?ll=31.664538,34.565516&navigate=yes&zoom=17"
+    },
+    {
+      "id": "ab2742214394",
+      "name": "מגה ספורט הנגב - באר שבע",
+      "city": "באר שבע",
+      "address": "קניון הנגב",
+      "lat": 31.243815,
+      "lng": 34.795059,
+      "links": [
+        "https://ul.waze.com/ul?venue_id=22806840.228068404.2626&overview=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=31.243815,34.795059&navigate=yes&zoom=17"
+      ],
+      "destination": "https://www.waze.com/ul?ll=31.243815,34.795059&navigate=yes&zoom=17"
+    },
+    {
+      "id": "555a941f9743",
+      "name": "מגה ספורט קרית אונו",
+      "city": "קרית אונו",
+      "address": "קניון קרית אונו",
+      "lat": 32.055506,
+      "lng": 34.864252,
+      "links": [
+        "https://ul.waze.com/ul?place=ChIJ-bGHbVA1HRURIz2zdZsZbFI&ll=32.05550600%2C34.86425200&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=32.055506,34.864252&navigate=yes&zoom=17"
+      ],
+      "destination": "https://ul.waze.com/ul?place=ChIJ-bGHbVA1HRURIz2zdZsZbFI&ll=32.05550600%2C34.86425200&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location"
+    },
+    {
+      "id": "e03796aac993",
+      "name": "מגה ספורט ראשונים - ראשון לציון",
+      "city": "ראשון לציון",
+      "address": "שדרות נים 2",
+      "lat": 31.949427,
+      "lng": 34.803046,
+      "links": [
+        "https://ul.waze.com/ul?place=ChIJW1bw3jC1AhURnTh-n0AbD90&ll=31.94942700%2C34.80304600&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=31.949427,34.803046&navigate=yes&zoom=17"
+      ],
+      "destination": "https://ul.waze.com/ul?place=ChIJW1bw3jC1AhURnTh-n0AbD90&ll=31.94942700%2C34.80304600&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location"
+    },
+    {
+      "id": "07bd83cc6df0",
+      "name": "מגה ספורט עזריאלי מודיעין",
+      "city": "מודיעין מכבים רעות",
+      "address": "קניון עזריאלי מודיעין, לב העיר 2",
+      "lat": 31.8996612,
+      "lng": 35.0076632,
+      "links": [
+        "https://ul.waze.com/ul?place=ChIJPwbxKenNAhUR_3rmGPfVxzw&ll=31.89966120%2C35.00766320&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=31.899661,35.007663&navigate=yes&zoom=17"
+      ],
+      "destination": "https://ul.waze.com/ul?place=ChIJPwbxKenNAhUR_3rmGPfVxzw&ll=31.89966120%2C35.00766320&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location"
+    },
+    {
+      "id": "d1c7ba83b87e",
+      "name": "מגה ספורט קריית עקרון - רחובות",
+      "city": "קריית עקרון - רחובות",
+      "address": "בילו סנטר",
+      "lat": 31.864789,
+      "lng": 34.81596,
+      "links": [
+        "https://ul.waze.com/ul?venue_id=22806847.228199538.383163&overview=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=31.864789,34.815960&navigate=yes&zoom=17"
+      ],
+      "destination": "https://www.waze.com/ul?ll=31.864789,34.815960&navigate=yes&zoom=17"
+    },
+    {
+      "id": "5ff26419063a",
+      "name": "מגה ספורט עזריאלי חולון",
+      "city": "חולון",
+      "address": "גולדה מאיר 7",
+      "lat": 32.0125644,
+      "lng": 34.7790833,
+      "links": [
+        "https://ul.waze.com/ul?place=ChIJbR77_qG0AhURLtTrxikbaLc&ll=32.01256440%2C34.77908330&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=32.012564,34.779083&navigate=yes&zoom=17"
+      ],
+      "destination": "https://ul.waze.com/ul?place=ChIJbR77_qG0AhURLtTrxikbaLc&ll=32.01256440%2C34.77908330&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location"
+    },
+    {
+      "id": "0fdce6c03e5d",
+      "name": "מגה ספורט נתניה - עיר ימים",
+      "city": "נתניה",
+      "address": "בני ברמן 2, פולג",
+      "lat": 32.2793161,
+      "lng": 34.8461338,
+      "links": [
+        "https://ul.waze.com/ul?place=ChIJ59Ynfc5BHRURcyIU3Bgu1Vk&ll=32.27931610%2C34.84613380&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=32.279316,34.846134&navigate=yes&zoom=17"
+      ],
+      "destination": "https://ul.waze.com/ul?place=ChIJ59Ynfc5BHRURcyIU3Bgu1Vk&ll=32.27931610%2C34.84613380&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location"
+    },
+    {
+      "id": "b1cb175d122a",
+      "name": "מגה ספורט דיזנגוף סנטר - תל אביב",
+      "city": "ת\"א",
+      "address": "דיזינגוף סנטר",
+      "lat": 32.0749554,
+      "lng": 34.7754305,
+      "links": [
+        "https://ul.waze.com/ul?place=ChIJcQQMaIBLHRURO9OEwcs5lx0&ll=32.07495540%2C34.77543050&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=32.074955,34.775430&navigate=yes&zoom=17"
+      ],
+      "destination": "https://ul.waze.com/ul?place=ChIJcQQMaIBLHRURO9OEwcs5lx0&ll=32.07495540%2C34.77543050&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "bbdc0a93c416",
+      "supportingBranchId": "soltam-51",
+      "name": "ירושלים",
+      "address": "קניון מלחה, אגודת ספורט ביתר 1",
+      "sourceUrl": "https://soltam.co.il/stores-list/",
+      "distanceMeters": 43,
+      "reason": "Same specifically named venue or exact address and city; corroboration only, own destination retained."
+    },
+    {
+      "id": "e839a5a5d599",
+      "supportingBranchId": "steimatzky-97",
+      "name": "קניון רחובות",
+      "address": "ביל\"ו 2",
+      "sourceUrl": "https://www.steimatzky.co.il/storelocator",
+      "distanceMeters": 11,
+      "reason": "Same specifically named venue or exact address and city; corroboration only, own destination retained."
+    },
+    {
+      "id": "a4800a573ae5",
+      "supportingBranchId": "laline-29",
+      "name": "נצרת דודג",
+      "address": "דרך העמק 41, נצרת עילית",
+      "sourceUrl": "https://www.laline.co.il/pages/branches",
+      "distanceMeters": 74,
+      "reason": "Same specifically named venue or exact address and city; corroboration only, own destination retained."
+    },
+    {
+      "id": "129212242d84",
+      "supportingBranchId": "footlocker-ce2d48ff0795",
+      "name": "גרנד קניון חיפה",
+      "address": "דרך שמחה גולן 54, חיפה",
+      "sourceUrl": "https://footlocker.co.il/pages/branches",
+      "distanceMeters": 51,
+      "reason": "Same specifically named venue or exact address and city; corroboration only, own destination retained."
+    },
+    {
+      "id": "31d8dfd3e35c",
+      "supportingBranchId": "footlocker-89a7759fcf42",
+      "name": "ביג יהוד",
+      "address": "אלטלף 4, יהוד",
+      "sourceUrl": "https://footlocker.co.il/pages/branches",
+      "distanceMeters": 64,
+      "reason": "Same specifically named venue or exact address and city; corroboration only, own destination retained."
+    },
+    {
+      "id": "e17b9568730d",
+      "supportingBranchId": "steimatzky-64",
+      "name": "ק.שבעת הכוכבים",
+      "address": "שדרות הכוכבים 8",
+      "sourceUrl": "https://www.steimatzky.co.il/storelocator",
+      "distanceMeters": 23,
+      "reason": "Same specifically named venue or exact address and city; corroboration only, own destination retained."
+    },
+    {
+      "id": "e0de989f8c96",
+      "supportingBranchId": "american-eagle-cbb93b3dc8a5",
+      "name": "ביג כרמיאל",
+      "address": "Maaleh Camon 2, כרמיאל",
+      "sourceUrl": "https://storelocations.ae.com/il/north-district/karmiel/33020-maaleh-camon-2.html",
+      "distanceMeters": 13,
+      "reason": "Same specifically named venue or exact address and city; corroboration only, own destination retained."
+    },
+    {
+      "id": "916ffb30069d",
+      "supportingBranchId": "soltam-32",
+      "name": "אשקלון",
+      "address": "שער אשקלון, צומת סילבר",
+      "sourceUrl": "https://soltam.co.il/stores-list/",
+      "distanceMeters": 22,
+      "reason": "Same specifically named venue or exact address and city; corroboration only, own destination retained."
+    },
+    {
+      "id": "7a4f0117c7a6",
+      "supportingBranchId": "steimatzky-327",
+      "name": "קניון ארנה נהריה",
+      "address": "שד' בן צבי 1",
+      "sourceUrl": "https://www.steimatzky.co.il/storelocator",
+      "distanceMeters": 33,
+      "reason": "Same specifically named venue or exact address and city; corroboration only, own destination retained."
+    },
+    {
+      "id": "79df4b264e54",
+      "supportingBranchId": "castro-4116",
+      "name": "עזריאלי עכו - נשים גברים וילדים",
+      "address": "קניון עזריאלי, החרושת 2, עכו",
+      "sourceUrl": "https://www.castro.com/stores",
+      "distanceMeters": 16,
+      "reason": "Same specifically named venue or exact address and city; corroboration only, own destination retained."
+    },
+    {
+      "id": "ad48f0507317",
+      "supportingBranchId": "polgat-488",
+      "name": "פולגת ישפרו סנטר מודיעין",
+      "address": "שד' המלאכות",
+      "sourceUrl": "https://www.golfgroup.co.il/branches",
+      "distanceMeters": 64,
+      "reason": "Same specifically named venue or exact address and city; corroboration only, own destination retained."
+    },
+    {
+      "id": "68db1dc4a700",
+      "supportingBranchId": "footlocker-25452c1aef38",
+      "name": "טבריה",
+      "address": "יהודה הלוי 1, טבריה",
+      "sourceUrl": "https://footlocker.co.il/pages/branches",
+      "distanceMeters": 15,
+      "reason": "Same specifically named venue or exact address and city; corroboration only, own destination retained."
+    },
+    {
+      "id": "4b966d942649",
+      "supportingBranchId": "american-eagle-f27051bb4dbc",
+      "name": "הקניון הגדול",
+      "address": "Jebotinski 72, פתח תקווה",
+      "sourceUrl": "https://storelocations.ae.com/il/center-district/petah-tikva/33009-jebotinski-72.html",
+      "distanceMeters": 39,
+      "reason": "Same specifically named venue or exact address and city; corroboration only, own destination retained."
+    },
+    {
+      "id": "6308763bb1f0",
+      "supportingBranchId": "kravitz-loc_vmq77g8m",
+      "name": "קרביץ עזריאלי תל אביב",
+      "address": "רחוב מנחם בגין 132",
+      "sourceUrl": "https://www.kravitz.co.il/pages/%D7%A7%D7%A0%D7%99%D7%95%D7%9F-%D7%A2%D7%96%D7%A8%D7%99%D7%90%D7%9C%D7%99-%D7%AA%D7%9C-%D7%90%D7%91%D7%99%D7%91",
+      "distanceMeters": 29,
+      "reason": "Same specifically named venue or exact address and city; corroboration only, own destination retained."
+    },
+    {
+      "id": "6237ebbf2b64",
+      "supportingBranchId": "steimatzky-346",
+      "name": "השרונים",
+      "address": "הרקון 2",
+      "sourceUrl": "https://www.steimatzky.co.il/storelocator",
+      "distanceMeters": 71,
+      "reason": "Same specifically named venue or exact address and city; corroboration only, own destination retained."
+    },
+    {
+      "id": "ff6e4dfd06d5",
+      "supportingBranchId": "footlocker-d0bcc22e371c",
+      "name": "אשדוד ביג",
+      "address": "דרך הרכבת 1, אשדוד",
+      "sourceUrl": "https://footlocker.co.il/pages/branches",
+      "distanceMeters": 53,
+      "reason": "Same specifically named venue or exact address and city; corroboration only, own destination retained."
+    },
+    {
+      "id": "2028d10c7749",
+      "supportingBranchId": "castro-4166",
+      "name": "מול החוף וילג' - נשים, גברים, ילדים ו - HOME",
+      "address": "שכטמן 10, חדרה",
+      "sourceUrl": "https://www.castro.com/stores",
+      "distanceMeters": 98,
+      "reason": "Same specifically named venue or exact address and city; corroboration only, own destination retained."
+    },
+    {
+      "id": "88e76e2ded51",
+      "supportingBranchId": "foxhome-42d53293386f",
+      "name": "אשקלון",
+      "address": "גלובוס סנטר אשקלון, אשקלון",
+      "sourceUrl": "https://www.foxhome.co.il/pages/branches",
+      "distanceMeters": 157,
+      "reason": "Same specifically named venue or exact address and city; corroboration only, own destination retained."
+    },
+    {
+      "id": "0ccde6fb8075",
+      "supportingBranchId": "laline-130",
+      "name": "פארק הקרח אילת",
+      "address": "רחוב קאופמן פינת המלאכים, אילת",
+      "sourceUrl": "https://www.laline.co.il/pages/branches",
+      "distanceMeters": 7,
+      "reason": "Same specifically named venue or exact address and city; corroboration only, own destination retained."
+    },
+    {
+      "id": "4b86dd142f65",
+      "supportingBranchId": "footlocker-1c8d19cda320",
+      "name": "סטריט מול",
+      "address": "אקליפטוס 3, רמת ישי",
+      "sourceUrl": "https://footlocker.co.il/pages/branches",
+      "distanceMeters": 11,
+      "reason": "Same specifically named venue or exact address and city; corroboration only, own destination retained."
+    },
+    {
+      "id": "e77b6ee4a046",
+      "supportingBranchId": "american-eagle-cab5b88c6169",
+      "name": "ביג אילת",
+      "address": "Ha-Satat 20, אילת",
+      "sourceUrl": "https://storelocations.ae.com/il/south-district/eilat/33024-ha-satat-20.html",
+      "distanceMeters": 49,
+      "reason": "Same specifically named venue or exact address and city; corroboration only, own destination retained."
+    },
+    {
+      "id": "ea0ad120df96",
+      "supportingBranchId": "soltam-33",
+      "name": "אשקלון",
+      "address": "שד' דוד בן גוריון 21, קניון גירון",
+      "sourceUrl": "https://soltam.co.il/stores-list/",
+      "distanceMeters": 17,
+      "reason": "Same specifically named venue or exact address and city; corroboration only, own destination retained."
+    },
+    {
+      "id": "ab2742214394",
+      "supportingBranchId": "steimatzky-54",
+      "name": "קניון הנגב",
+      "address": "שד' יצחק רגר 2",
+      "sourceUrl": "https://www.steimatzky.co.il/storelocator",
+      "distanceMeters": 10,
+      "reason": "Same specifically named venue or exact address and city; corroboration only, own destination retained."
+    },
+    {
+      "id": "555a941f9743",
+      "supportingBranchId": "polgat-479",
+      "name": "פולגת קניון קרית אונו",
+      "address": "קניון קרית אונו,שלמה המלך 37",
+      "sourceUrl": "https://www.golfgroup.co.il/branches",
+      "distanceMeters": 46,
+      "reason": "Same specifically named venue or exact address and city; corroboration only, own destination retained."
+    },
+    {
+      "id": "e03796aac993",
+      "supportingBranchId": "vardinon-54",
+      "name": "ראשון לציון - קניון עזריאלי ראשונים",
+      "address": "שדרות נים 2",
+      "sourceUrl": "https://www.vardinon.co.il/stores?brand=%D7%95%D7%A8%D7%93%D7%99%D7%A0%D7%95%D7%9F",
+      "distanceMeters": 3,
+      "reason": "Same specifically named venue or exact address and city; corroboration only, own destination retained."
+    },
+    {
+      "id": "07bd83cc6df0",
+      "supportingBranchId": "footlocker-0ab79dd54442",
+      "name": "קניון מודיעין",
+      "address": "לב העיר 2, מודיעין",
+      "sourceUrl": "https://footlocker.co.il/pages/branches",
+      "distanceMeters": 0,
+      "reason": "Same specifically named venue or exact address and city; corroboration only, own destination retained."
+    },
+    {
+      "id": "d1c7ba83b87e",
+      "supportingBranchId": "footlocker-c98e551efbe1",
+      "name": "ביל\"ו סנטר",
+      "address": "בילו סנטר, קרית עקרון",
+      "sourceUrl": "https://footlocker.co.il/pages/branches",
+      "distanceMeters": 64,
+      "reason": "Same specifically named venue or exact address and city; corroboration only, own destination retained."
+    },
+    {
+      "id": "5ff26419063a",
+      "supportingBranchId": "laline-107",
+      "name": "חולון",
+      "address": "קניון חולון - רח' גולדה מאיר 7",
+      "sourceUrl": "https://www.laline.co.il/pages/branches",
+      "distanceMeters": 0,
+      "reason": "Same specifically named venue or exact address and city; corroboration only, own destination retained."
+    },
+    {
+      "id": "0fdce6c03e5d",
+      "supportingBranchId": "vardinon-72",
+      "name": "נתניה - קניון עיר ימים",
+      "address": "בני ברמן 2",
+      "sourceUrl": "https://www.vardinon.co.il/stores?brand=%D7%95%D7%A8%D7%93%D7%99%D7%A0%D7%95%D7%9F",
+      "distanceMeters": 17,
+      "reason": "Same specifically named venue or exact address and city; corroboration only, own destination retained."
+    },
+    {
+      "id": "b1cb175d122a",
+      "supportingBranchId": "american-eagle-b0ef799b5828",
+      "name": "דיזנגוף סנטר",
+      "address": "Dizingoff 50, תל אביב",
+      "sourceUrl": "https://storelocations.ae.com/il/tel-aviv-district/tel-aviv/33010-dizingoff-50.html",
+      "distanceMeters": 18,
+      "reason": "Same specifically named venue or exact address and city; corroboration only, own destination retained."
+    }
+  ],
+  "skipped": [
+    {
+      "id": "d0bbf2da47da",
+      "name": "מגה ספורט חוצות המפרץ - חיפה",
+      "city": "חיפה",
+      "address": "חוצות המפרץ, צומת וולקן",
+      "lat": 32.79835919,
+      "lng": 35.04522475,
+      "links": [
+        "https://ul.waze.com/ul?ll=32.79835919%2C35.04522475&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=32.79835919,35.04522475&navigate=yes&zoom=17"
+      ],
+      "destination": "https://ul.waze.com/ul?ll=32.79835919%2C35.04522475&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+      "reason": "source-coordinate-conflicts-with-named-venue"
+    },
+    {
+      "id": "a0eede41e78e",
+      "name": "מגה ספורט ירכא",
+      "city": "ירכא",
+      "address": "אלתאח'ים 46 (טרמינל 2 ), א.ת, מיי בייבי",
+      "lat": 32.946154,
+      "lng": 35.172793,
+      "links": [
+        "https://ul.waze.com/ul?venue_id=23069001.230493407.6042&overview=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=32.946154,35.172793&navigate=yes&zoom=17"
+      ],
+      "destination": "https://www.waze.com/ul?ll=32.946154,35.172793&navigate=yes&zoom=17",
+      "reason": "specific-venue-or-address-needs-further-review"
+    },
+    {
+      "id": "9e3f353d6405",
+      "name": "מגה ספורט בילו - רחובות",
+      "city": "רחובות",
+      "address": "צומת בי\"לו",
+      "lat": 31.864789,
+      "lng": 34.81596,
+      "links": [
+        "https://ul.waze.com/ul?venue_id=22806847.228199538.383163&overview=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=31.864789,34.815960&navigate=yes&zoom=17"
+      ],
+      "destination": "https://www.waze.com/ul?ll=31.864789,34.815960&navigate=yes&zoom=17",
+      "reason": "duplicate-destination-retained-clearer-bilu-centre-record"
+    },
+    {
+      "id": "a912bdf90c60",
+      "name": "מגה ספורט - רמת גן",
+      "city": "בני ברק - רמת גן",
+      "address": "מבצע קדש 56 בני ברק",
+      "lat": 32.0999025,
+      "lng": 34.8284371,
+      "links": [
+        "https://ul.waze.com/ul?ll=32.09990250%2C34.82843710&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=32.0999025,34.8284371&navigate=yes&zoom=17"
+      ],
+      "destination": "https://ul.waze.com/ul?ll=32.09990250%2C34.82843710&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+      "reason": "specific-venue-or-address-needs-further-review"
+    },
+    {
+      "id": "89e22729cbbb",
+      "name": "מגה ספורט - תל-חנן/נשר",
+      "city": "נשר",
+      "address": "בר יהודה 147",
+      "lat": 32.77866,
+      "lng": 35.040363,
+      "links": [
+        "https://ul.waze.com/ul?venue_id=22937928.229641422.265826&overview=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=32.778660,35.040363&navigate=yes&zoom=17"
+      ],
+      "destination": "https://www.waze.com/ul?ll=32.778660,35.040363&navigate=yes&zoom=17",
+      "reason": "specific-venue-or-address-needs-further-review"
+    },
+    {
+      "id": "afb6c5e873d9",
+      "name": "מגה ספורט - ראשון לציון מערב",
+      "city": "ראשון לציון",
+      "address": "הלחי 4, מתחם הום סנטר-מערב",
+      "lat": 31.987185,
+      "lng": 34.765838,
+      "links": [
+        "https://ul.waze.com/ul?place=ChIJmeBbxEK0AhUR2k-vovHrzxo&ll=31.98718500%2C34.76583800&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=31.987185,34.765838&navigate=yes&zoom=17"
+      ],
+      "destination": "https://ul.waze.com/ul?place=ChIJmeBbxEK0AhUR2k-vovHrzxo&ll=31.98718500%2C34.76583800&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+      "reason": "specific-venue-or-address-needs-further-review"
+    },
+    {
+      "id": "01f33a4d9042",
+      "name": "מגה ספורט אילת - אזור תעשיה",
+      "city": "אילת",
+      "address": "חטיבת גולני 40 א.ת צפוני מרכז one",
+      "lat": 29.5656075,
+      "lng": 34.9565082,
+      "links": [
+        "https://ul.waze.com/ul?ll=29.56560750%2C34.95650820&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=29.5656075,34.9565082&navigate=yes&zoom=17"
+      ],
+      "destination": "https://ul.waze.com/ul?ll=29.56560750%2C34.95650820&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+      "reason": "specific-venue-or-address-needs-further-review"
+    },
+    {
+      "id": "f512cb6a4e99",
+      "name": "מגה ספורט - כפר סבא",
+      "city": "כפר סבא",
+      "address": "מתחם G ויצמן 301",
+      "lat": 32.1720743,
+      "lng": 34.9284373,
+      "links": [
+        "https://ul.waze.com/ul?place=ChIJDdmch705HRURqEAujIoQgCc&ll=32.17207430%2C34.92843730&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=32.172074,34.928437&navigate=yes&zoom=17"
+      ],
+      "destination": "https://ul.waze.com/ul?place=ChIJDdmch705HRURqEAujIoQgCc&ll=32.17207430%2C34.92843730&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+      "reason": "street-number-discrepancy-needs-review"
+    },
+    {
+      "id": "ba3123412ca6",
+      "name": "מגה ספורט - באר שבע",
+      "city": "באר שבע",
+      "address": "מתחם one plaza רח' נפחא 25",
+      "lat": 31.247155,
+      "lng": 34.812512,
+      "links": [
+        "https://ul.waze.com/ul?venue_id=22806840.228133941.285183&overview=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=31.247155,34.812512&navigate=yes&zoom=17"
+      ],
+      "destination": "https://www.waze.com/ul?ll=31.247155,34.812512&navigate=yes&zoom=17",
+      "reason": "specific-venue-or-address-needs-further-review"
+    },
+    {
+      "id": "e1a99d34137a",
+      "name": "ביג פאשן גלילות",
+      "city": "רמת השרון",
+      "address": "מתחם ביג פאשן גלילות כביש החוף",
+      "lat": 32.1486544,
+      "lng": 34.8057079,
+      "links": [
+        "https://ul.waze.com/ul?place=ChIJlZ1ye0JJHRURVTgoAA3Mjcc&ll=32.14865440%2C34.80570790&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=32.145149,34.803249&navigate=yes&zoom=17"
+      ],
+      "destination": "https://ul.waze.com/ul?place=ChIJlZ1ye0JJHRURVTgoAA3Mjcc&ll=32.14865440%2C34.80570790&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+      "reason": "conflicting-explicit-navigation-destinations"
+    },
+    {
+      "id": "9fcd4ec1ef19",
+      "name": "מגה ספורט - חולון",
+      "city": "חולון",
+      "address": "המכתש 6",
+      "lat": 32.0260067,
+      "lng": 34.795226,
+      "links": [
+        "https://ul.waze.com/ul?ll=32.02600670%2C34.79522600&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=32.145149,34.803249&navigate=yes&zoom=17"
+      ],
+      "destination": "https://ul.waze.com/ul?ll=32.02600670%2C34.79522600&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+      "reason": "conflicting-explicit-navigation-destinations"
+    },
+    {
+      "id": "b5915fdf4325",
+      "name": "מגה ספורט - קרית גת",
+      "city": "קרית גת",
+      "address": "דרך הדרום 3",
+      "lat": 31.6029107,
+      "lng": 34.7713236,
+      "links": [
+        "https://ul.waze.com/ul?place=ChIJSyod4nyRAhURxNOaiqWu2Aw&ll=31.60291070%2C34.77132360&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=32.145149,34.803249&navigate=yes&zoom=17"
+      ],
+      "destination": "https://ul.waze.com/ul?place=ChIJSyod4nyRAhURxNOaiqWu2Aw&ll=31.60291070%2C34.77132360&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+      "reason": "conflicting-explicit-navigation-destinations"
+    },
+    {
+      "id": "754b9499d528",
+      "name": "מגה ספורט - בית שמש",
+      "city": "בית שמש",
+      "address": "קניון ביג פאשן, יגאל אלון 1",
+      "lat": 31.7561863,
+      "lng": 34.9908329,
+      "links": [
+        "https://ul.waze.com/ul?place=ChIJeejY_FnEAhURqud_9EQG8Ks&ll=31.75618630%2C34.99083290&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=31.756186,34.990833&navigate=yes&zoom=17"
+      ],
+      "destination": "https://ul.waze.com/ul?place=ChIJeejY_FnEAhURqud_9EQG8Ks&ll=31.75618630%2C34.99083290&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+      "reason": "specific-venue-or-address-needs-further-review"
+    },
+    {
+      "id": "818b4aea643a",
+      "name": "מגה ספורט - רמלה",
+      "city": "רמלה",
+      "address": "דויד רזיאל פינת שמשון",
+      "lat": 31.9257367,
+      "lng": 34.8638844,
+      "links": [
+        "https://ul.waze.com/ul?place=ChIJu393IADKAhURiYsXAFnkT4U&ll=31.92573670%2C34.86388440&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=31.925597,34.863935&navigate=yes&zoom=17"
+      ],
+      "destination": "https://ul.waze.com/ul?place=ChIJu393IADKAhURiYsXAFnkT4U&ll=31.92573670%2C34.86388440&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+      "reason": "specific-venue-or-address-needs-further-review"
+    },
+    {
+      "id": "a1bee6c7838d",
+      "name": "מגה ספורט - נמל תל אביב",
+      "city": "תל אביב",
+      "address": "יורדי הסירה 1",
+      "lat": 32.098037,
+      "lng": 34.773827,
+      "links": [
+        "https://ul.waze.com/ul?ll=32.09803700%2C34.77382700&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=32.098037,34.773827&navigate=yes&zoom=17"
+      ],
+      "destination": "https://ul.waze.com/ul?ll=32.09803700%2C34.77382700&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+      "reason": "specific-venue-or-address-needs-further-review"
+    },
+    {
+      "id": "1ea3d49bd104",
+      "name": "מגה ספורט אילת - טיילת נפטון",
+      "city": "אילת",
+      "address": "טיילת נפטון, החוף הצפוני אילת",
+      "lat": 29.5503815,
+      "lng": 34.9563352,
+      "links": [
+        "https://ul.waze.com/ul?place=ChIJDXBjyfBxABURvVJia4KTTCM&ll=29.55038150%2C34.95633520&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=29.550382,34.956335&navigate=yes&zoom=17"
+      ],
+      "destination": "https://ul.waze.com/ul?place=ChIJDXBjyfBxABURvVJia4KTTCM&ll=29.55038150%2C34.95633520&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+      "reason": "specific-venue-or-address-needs-further-review"
+    },
+    {
+      "id": "a270a911bd8c",
+      "name": "מגה ספורט - נתניה",
+      "city": "נתניה",
+      "address": "מתחם רוגובין פדרמן רח' המחקר 3",
+      "lat": 32.2906217,
+      "lng": 34.8616633,
+      "links": [
+        "https://ul.waze.com/ul?place=ChIJu9PLgXhAHRURQEkmNUZub5U&ll=32.29062170%2C34.86166330&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=32.290622,34.861663&navigate=yes&zoom=17"
+      ],
+      "destination": "https://ul.waze.com/ul?place=ChIJu9PLgXhAHRURQEkmNUZub5U&ll=32.29062170%2C34.86166330&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+      "reason": "specific-venue-or-address-needs-further-review"
+    },
+    {
+      "id": "a47586e355d9",
+      "name": "מגה ספורט כנרת",
+      "city": "צומת צמח",
+      "address": "מתחם מול כנרת",
+      "lat": 32.7034988,
+      "lng": 35.5848842,
+      "links": [
+        "https://ul.waze.com/ul?place=ChIJRxQe9pRqHBURMhfjlzC3J9s&ll=32.70349880%2C35.58488420&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=32.703499,35.584884&navigate=yes&zoom=17"
+      ],
+      "destination": "https://ul.waze.com/ul?place=ChIJRxQe9pRqHBURMhfjlzC3J9s&ll=32.70349880%2C35.58488420&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+      "reason": "specific-venue-or-address-needs-further-review"
+    },
+    {
+      "id": "343395fbd04a",
+      "name": "מגה ספורט רגבה",
+      "city": "כביש עכו נהריה",
+      "address": "מרכז ביג",
+      "lat": 32.975602,
+      "lng": 35.094297,
+      "links": [
+        "https://ul.waze.com/ul?venue_id=23003466.229969122.67204&overview=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=32.975602,35.094297&navigate=yes&zoom=17"
+      ],
+      "destination": "https://www.waze.com/ul?ll=32.975602,35.094297&navigate=yes&zoom=17",
+      "reason": "specific-venue-or-address-needs-further-review"
+    },
+    {
+      "id": "e609a51873a2",
+      "name": "מגה ספורט עפולה",
+      "city": "עפולה",
+      "address": "מתחם G בעמק, שדרות רבין 18",
+      "lat": 32.619671,
+      "lng": 35.312449,
+      "links": [
+        "https://ul.waze.com/ul?venue_id=23134534.231410878.284234&overview=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=32.619671,35.312449&navigate=yes&zoom=17"
+      ],
+      "destination": "https://www.waze.com/ul?ll=32.619671,35.312449&navigate=yes&zoom=17",
+      "reason": "source-coordinate-conflicts-with-named-venue"
+    },
+    {
+      "id": "2bca94142174",
+      "name": "מגה ספורט גליל עליון - קרית שמונה",
+      "city": "גליל עליון - קרית שמונה",
+      "address": "מתחם ביג, קרית שמונה",
+      "lat": 33.1924362,
+      "lng": 35.5712509,
+      "links": [
+        "https://ul.waze.com/ul?place=ChIJq6pW3aWiHhURpmDJspX25T4&ll=33.19243620%2C35.57125090&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=33.192436,35.571251&navigate=yes&zoom=17"
+      ],
+      "destination": "https://ul.waze.com/ul?place=ChIJq6pW3aWiHhURpmDJspX25T4&ll=33.19243620%2C35.57125090&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+      "reason": "specific-venue-or-address-needs-further-review"
+    },
+    {
+      "id": "a94e119ebea4",
+      "name": "מגה ספורט סטאר סנטר - אשדוד",
+      "city": "אשדוד",
+      "address": "ז'בוטינסקי 44 סטאר סנטר",
+      "lat": 31.809916,
+      "lng": 34.657172,
+      "links": [
+        "https://ul.waze.com/ul?venue_id=22741310.227150957.2011801&overview=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=31.809916,34.657172&navigate=yes&zoom=17"
+      ],
+      "destination": "https://www.waze.com/ul?ll=31.809916,34.657172&navigate=yes&zoom=17",
+      "reason": "street-number-discrepancy-needs-review"
+    },
+    {
+      "id": "d40cfc761684",
+      "name": "מגה ספורט קניון רננים - רעננה",
+      "city": "רעננה",
+      "address": "המלאכה 20, קניון רננים",
+      "lat": 32.1974322,
+      "lng": 34.8782996,
+      "links": [
+        "https://ul.waze.com/ul?place=ChIJq7F20mM4HRURlnpKzIe-m8Y&ll=32.19743220%2C34.87829960&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=32.197432,34.878300&navigate=yes&zoom=17"
+      ],
+      "destination": "https://ul.waze.com/ul?place=ChIJq7F20mM4HRURlnpKzIe-m8Y&ll=32.19743220%2C34.87829960&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+      "reason": "street-number-discrepancy-needs-review"
+    },
+    {
+      "id": "d3a3ff2507f0",
+      "name": "מגה ספורט עין שמר",
+      "city": "צומת כרכור",
+      "address": "מתחם אלון עין שמר",
+      "lat": 32.145149,
+      "lng": 34.803249,
+      "links": [
+        "https://ul.waze.com/ul?venue_id=22937925.229313711.230704&overview=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=32.145149,34.803249&navigate=yes&zoom=17"
+      ],
+      "destination": "https://www.waze.com/ul?ll=32.145149,34.803249&navigate=yes&zoom=17",
+      "reason": "source-coordinate-conflicts-with-named-venue"
+    },
+    {
+      "id": "2af8145240c3",
+      "name": "מגה ספורט נס ציונה",
+      "city": "נס ציונה",
+      "address": "הפטיש 6, ישפרו סנטר",
+      "lat": 31.9211545,
+      "lng": 34.7927939,
+      "links": [
+        "https://ul.waze.com/ul?place=ChIJByQRLMK2AhURcVfo8NKbfsM&ll=31.92115450%2C34.79279390&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=31.921155,34.792794&navigate=yes&zoom=17"
+      ],
+      "destination": "https://ul.waze.com/ul?place=ChIJByQRLMK2AhURcVfo8NKbfsM&ll=31.92115450%2C34.79279390&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+      "reason": "specific-venue-or-address-needs-further-review"
+    },
+    {
+      "id": "e467f12e88db",
+      "name": "מגה ספורט ראש פינה",
+      "city": "צומת ראש פינה",
+      "address": "מתחם שופינה, דרך הגליל רח' התפוח",
+      "lat": 32.9703636,
+      "lng": 35.5510635,
+      "links": [
+        "https://ul.waze.com/ul?place=ChIJNzBrG28jHBURK9toZnavq0g&ll=32.97036360%2C35.55106350&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=32.970364,35.551063&navigate=yes&zoom=17"
+      ],
+      "destination": "https://ul.waze.com/ul?place=ChIJNzBrG28jHBURK9toZnavq0g&ll=32.97036360%2C35.55106350&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+      "reason": "specific-venue-or-address-needs-further-review"
+    },
+    {
+      "id": "61281d52bdd8",
+      "name": "מגה ספורט נתיבות",
+      "city": "נתיבות",
+      "address": "מרכז מסחרי גלובוס סנטר. בעלי המלאכה 5",
+      "lat": 31.4175875,
+      "lng": 34.594735,
+      "links": [
+        "https://ul.waze.com/ul?place=ChIJdZU5wGZ_AhUReu78KLgoYvI&ll=31.41758750%2C34.59473500&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=31.417587,34.594735&navigate=yes&zoom=17"
+      ],
+      "destination": "https://ul.waze.com/ul?place=ChIJdZU5wGZ_AhUReu78KLgoYvI&ll=31.41758750%2C34.59473500&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+      "reason": "street-number-discrepancy-needs-review"
+    },
+    {
+      "id": "05a23292176e",
+      "name": "מגה ספורט שדרות",
+      "city": "שדרות",
+      "address": "מתחם מול 7",
+      "lat": 31.5262127,
+      "lng": 34.6017973,
+      "links": [
+        "https://ul.waze.com/ul?place=ChIJ0zGv9LyBAhUR0ALquz150DM&ll=31.52621270%2C34.60179730&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=31.526213,34.601797&navigate=yes&zoom=17"
+      ],
+      "destination": "https://ul.waze.com/ul?place=ChIJ0zGv9LyBAhUR0ALquz150DM&ll=31.52621270%2C34.60179730&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+      "reason": "specific-venue-or-address-needs-further-review"
+    },
+    {
+      "id": "a04d0b4677d5",
+      "name": "מגה ספורט ערד",
+      "city": "ערד",
+      "address": "מרכז צים",
+      "lat": 31.2476538,
+      "lng": 35.2002939,
+      "links": [
+        "https://ul.waze.com/ul?place=ChIJ-dD-fR9VAhURJLQb-FbH2WU&ll=31.24765380%2C35.20029390&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=31.247654,35.200294&navigate=yes&zoom=17"
+      ],
+      "destination": "https://ul.waze.com/ul?place=ChIJ-dD-fR9VAhURJLQb-FbH2WU&ll=31.24765380%2C35.20029390&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+      "reason": "specific-venue-or-address-needs-further-review"
+    },
+    {
+      "id": "e336009163cd",
+      "name": "מגה ספורט דימונה",
+      "city": "דימונה",
+      "address": "פרץ סנטר",
+      "lat": 31.060144,
+      "lng": 35.020152,
+      "links": [
+        "https://ul.waze.com/ul?venue_id=22937911.229510178.495889&overview=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=31.060144,35.020152&navigate=yes&zoom=17"
+      ],
+      "destination": "https://www.waze.com/ul?ll=31.060144,35.020152&navigate=yes&zoom=17",
+      "reason": "specific-venue-or-address-needs-further-review"
+    },
+    {
+      "id": "6603b8253ec8",
+      "name": "מגה ספורט בת ים",
+      "city": "בת ים",
+      "address": "הרב ניסנבאום 9",
+      "lat": 32.007477,
+      "lng": 34.749649,
+      "links": [
+        "https://www.waze.com/en/live-map/directions/%D7%91%D7%AA-%D7%99%D7%9D?place=16803.9",
+        "https://www.waze.com/ul?ll=32.007477,34.749649&navigate=yes&zoom=17"
+      ],
+      "destination": "https://www.waze.com/ul?ll=32.007477,34.749649&navigate=yes&zoom=17",
+      "reason": "specific-venue-or-address-needs-further-review"
+    },
+    {
+      "id": "015a9adfca0e",
+      "name": "מגה ספורט צמח",
+      "city": "עמק הירדן",
+      "address": "מול כנרת, ד.נ. 1510501 צמח",
+      "lat": 32.7034988,
+      "lng": 35.5848842,
+      "links": [
+        "https://ul.waze.com/ul?place=ChIJRxQe9pRqHBURMhfjlzC3J9s&ll=32.70349880%2C35.58488420&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=32.703499,35.584884&navigate=yes&zoom=17"
+      ],
+      "destination": "https://ul.waze.com/ul?place=ChIJRxQe9pRqHBURMhfjlzC3J9s&ll=32.70349880%2C35.58488420&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+      "reason": "duplicate-unreviewed-tzemach-record"
+    },
+    {
+      "id": "3f182fe2b35f",
+      "name": "מגה ספורט ביג גדרה",
+      "city": "גדרה",
+      "address": "אברהם דורון, גדרה",
+      "lat": 31.797792,
+      "lng": 34.767792,
+      "links": [
+        "https://ul.waze.com/ul?venue_id=22806846.227871852.2087452&overview=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=31.797792,34.767792&navigate=yes&zoom=17"
+      ],
+      "destination": "https://www.waze.com/ul?ll=31.797792,34.767792&navigate=yes&zoom=17",
+      "reason": "specific-venue-or-address-needs-further-review"
+    },
+    {
+      "id": "76828fb40d17",
+      "name": "מגה ספורט מגדל העמק",
+      "city": "מגדל העמק",
+      "address": "7555, מגדל העמק",
+      "lat": 32.6866557,
+      "lng": 35.2347031,
+      "links": [
+        "https://ul.waze.com/ul?place=ChIJC48J_QVNHBURbwY02PkcXU4&ll=32.68665570%2C35.23470310&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=32.686656,35.234703&navigate=yes&zoom=17"
+      ],
+      "destination": "https://ul.waze.com/ul?place=ChIJC48J_QVNHBURbwY02PkcXU4&ll=32.68665570%2C35.23470310&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+      "reason": "specific-venue-or-address-needs-further-review"
+    },
+    {
+      "id": "608788310243",
+      "name": "מגה ספורט - גרנד קניון באר שבע",
+      "city": "באר שבע",
+      "address": "מתחם ביג פאשן גלילות כביגרנד קניון, באר שבעש החוף",
+      "lat": 31.250341,
+      "lng": 34.771936,
+      "links": [
+        "https://ul.waze.com/ul?venue_id=22806841.227871797.16794&overview=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=31.250341,34.771936&navigate=yes&zoom=17"
+      ],
+      "destination": "https://www.waze.com/ul?ll=31.250341,34.771936&navigate=yes&zoom=17",
+      "reason": "malformed-address-mixes-distinct-cities"
+    }
+  ],
+  "excluded": [
+    {
+      "id": "acb99f57cb74",
+      "name": "מגה ספורט עודפים מודיעין",
+      "city": "מודיעין",
+      "address": "שד' המלאכות 121, מתחם מגה אור",
+      "lat": 31.889132,
+      "lng": 34.963009,
+      "links": [
+        "https://ul.waze.com/ul?venue_id=22937919.229117045.629671&overview=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=31.889132,34.963009&navigate=yes&zoom=17"
+      ],
+      "destination": "https://www.waze.com/ul?ll=31.889132,34.963009&navigate=yes&zoom=17",
+      "reason": "outlet-channel-needs-separate-review"
+    },
+    {
+      "id": "b1c4cc2de9dc",
+      "name": "מגה ספורט עודפים רמת גן",
+      "city": "רמת גן",
+      "address": "ששת הימים 14, בני ברק -מול קניון איילון",
+      "lat": 32.0974845,
+      "lng": 34.8245391,
+      "links": [
+        "https://ul.waze.com/ul?place=ChIJ99HCb4dJHRURGv7iofijzco&ll=32.09748450%2C34.82453910&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=32.097485,34.824539&navigate=yes&zoom=17"
+      ],
+      "destination": "https://ul.waze.com/ul?place=ChIJ99HCb4dJHRURGv7iofijzco&ll=32.09748450%2C34.82453910&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+      "reason": "outlet-channel-needs-separate-review"
+    },
+    {
+      "id": "8bf37e4ddb24",
+      "name": "מגה ספורט עודפים בית שאן",
+      "city": "בית שאן",
+      "address": "העמל 7 צים סנטר",
+      "lat": 32.511018,
+      "lng": 35.501257,
+      "links": [
+        "https://ul.waze.com/ul?venue_id=23265605.232656051.284518&overview=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=32.511018,35.501257&navigate=yes&zoom=17"
+      ],
+      "destination": "https://www.waze.com/ul?ll=32.511018,35.501257&navigate=yes&zoom=17",
+      "reason": "outlet-channel-needs-separate-review"
+    },
+    {
+      "id": "6f1723fed7ea",
+      "name": "מגה ספורט עודפים חולון",
+      "city": "חולון",
+      "address": "רח' המלאכה פינת המשביר",
+      "lat": 32.015748,
+      "lng": 34.801148,
+      "links": [
+        "https://ul.waze.com/ul?venue_id=22806848.228068482.126212&overview=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=32.015748,34.801148&navigate=yes&zoom=17"
+      ],
+      "destination": "https://www.waze.com/ul?ll=32.015748,34.801148&navigate=yes&zoom=17",
+      "reason": "outlet-channel-needs-separate-review"
+    },
+    {
+      "id": "3315d90eb2ab",
+      "name": "מגה ספורט עודפים כנות",
+      "city": "א.ת כנות",
+      "address": "רח' אדום 35",
+      "lat": 31.8036206,
+      "lng": 34.7607016,
+      "links": [
+        "https://ul.waze.com/ul?place=ChIJJ7vDx_C7AhURF5Q-kbTJqwU&ll=31.80362060%2C34.76070160&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=31.803621,34.760702&navigate=yes&zoom=17"
+      ],
+      "destination": "https://ul.waze.com/ul?place=ChIJJ7vDx_C7AhURF5Q-kbTJqwU&ll=31.80362060%2C34.76070160&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+      "reason": "outlet-channel-needs-separate-review"
+    },
+    {
+      "id": "1e3dd69ab8c5",
+      "name": "מגה ספורט עודפים בארות יצחק",
+      "city": "בארות יצחק",
+      "address": "מרכז מסחרי בארות יצחק",
+      "lat": 32.046573,
+      "lng": 34.909197,
+      "links": [
+        "https://ul.waze.com/ul?venue_id=22872384.228789381.164210&overview=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=32.046573,34.909197&navigate=yes&zoom=17"
+      ],
+      "destination": "https://www.waze.com/ul?ll=32.046573,34.909197&navigate=yes&zoom=17",
+      "reason": "outlet-channel-needs-separate-review"
+    },
+    {
+      "id": "f64b659db5f7",
+      "name": "מגה ספורט עודפים קרית שמונה",
+      "city": "קריית שמונה",
+      "address": "מתחם מבנה",
+      "lat": 33.207933,
+      "lng": 35.570246,
+      "links": [
+        "https://ul.waze.com/ul?place=ChIJCy-U0J-9HhURfY9EBbgwf18&ll=33.20793300%2C35.57024600&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=33.207933,35.570246&navigate=yes&zoom=17"
+      ],
+      "destination": "https://ul.waze.com/ul?place=ChIJCy-U0J-9HhURfY9EBbgwf18&ll=33.20793300%2C35.57024600&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+      "reason": "outlet-channel-needs-separate-review"
+    },
+    {
+      "id": "0eb2d2940df5",
+      "name": "מגה ספורט עודפים ירושלים",
+      "city": "ירושלים",
+      "address": "התנופה 38",
+      "lat": 31.7510719,
+      "lng": 35.2142849,
+      "links": [
+        "https://ul.waze.com/ul?place=EiBIYVRudWZhIFN0IDM2LCBKZXJ1c2FsZW0sIElzcmFlbCIwEi4KFAoSCad89v3h1wIVETod5Km5b73GECQqFAoSCd-N8HIeKAMVEfjOVP0YdKij&ll=31.75107190%2C35.21428490&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=31.751072,35.214285&navigate=yes&zoom=17"
+      ],
+      "destination": "https://ul.waze.com/ul?place=EiBIYVRudWZhIFN0IDM2LCBKZXJ1c2FsZW0sIElzcmFlbCIwEi4KFAoSCad89v3h1wIVETod5Km5b73GECQqFAoSCd-N8HIeKAMVEfjOVP0YdKij&ll=31.75107190%2C35.21428490&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+      "reason": "outlet-channel-needs-separate-review"
+    },
+    {
+      "id": "0ce1c22ef738",
+      "name": "מרלו\"ג לאיסוף עצמי בתיאום בלבד - רמלה",
+      "city": "רמלה",
+      "address": "הר הגלבוע 1",
+      "lat": 31.9173644,
+      "lng": 34.8901302,
+      "links": [
+        "https://ul.waze.com/ul?place=ChIJR09jVSfKAhURe-tcXYuOivQ&ll=31.91736440%2C34.89013020&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=31.917364,34.890130&navigate=yes&zoom=17"
+      ],
+      "destination": "https://ul.waze.com/ul?place=ChIJR09jVSfKAhURe-tcXYuOivQ&ll=31.91736440%2C34.89013020&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+      "reason": "warehouse-appointment-pickup-not-retail"
+    },
+    {
+      "id": "36228db122ab",
+      "name": "מגה ספורט עודפים נתניה",
+      "city": "נתניה",
+      "address": "הגביש 10 ( בית גביש )",
+      "lat": 32.289756,
+      "lng": 34.862745,
+      "links": [
+        "https://ul.waze.com/ul?venue_id=22872387.228461725.2040938&overview=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=32.289756,34.862745&navigate=yes&zoom=17"
+      ],
+      "destination": "https://www.waze.com/ul?ll=32.289756,34.862745&navigate=yes&zoom=17",
+      "reason": "outlet-channel-needs-separate-review"
+    },
+    {
+      "id": "59bb0c181440",
+      "name": "מגה ספורט עודפים עין המפרץ",
+      "city": "עין המפרץ",
+      "address": "מראה המפרץ 1, עין המפרץ",
+      "lat": 31.961464,
+      "lng": 34.778358,
+      "links": [
+        "https://ul.waze.com/ul?utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
+        "https://www.waze.com/ul?ll=31.961464,34.778358&navigate=yes&zoom=17"
+      ],
+      "destination": "https://www.waze.com/ul?ll=31.961464,34.778358&navigate=yes&zoom=17",
+      "reason": "outlet-channel-needs-separate-review"
+    }
+  ]
+}

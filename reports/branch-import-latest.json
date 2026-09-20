@@ -1,87 +1,195 @@
 {
-  "checkedAt": "2026-09-20T17:47:25.774Z",
+  "checkedAt": "2026-09-20T20:21:05.710Z",
   "files": [
-    "candidates/ace-round8.json",
-    "candidates/opticana-round8.json"
+    "candidates/megasport-round9.json",
+    "candidates/rikushet-round9.json"
   ],
   "added": [
     {
-      "id": "ace-29",
-      "store": "ACE",
-      "name": "אשקלון מבקיעים",
-      "city": "אשקלון"
+      "id": "megasport-07bd83cc6df0",
+      "store": "מגה ספורט",
+      "name": "מגה ספורט עזריאלי מודיעין",
+      "city": "מודיעין מכבים רעות"
     },
     {
-      "id": "ace-41",
-      "store": "ACE",
-      "name": "ראשון לציון, מתחם G",
-      "city": "ראשון לציון"
+      "id": "megasport-0ccde6fb8075",
+      "store": "מגה ספורט",
+      "name": "מגה ספורט אייס מול אילת",
+      "city": "אילת"
     },
     {
-      "id": "ace-43",
-      "store": "ACE",
-      "name": "רגבה, מתחם ביג",
-      "city": "רגבה"
+      "id": "megasport-0fdce6c03e5d",
+      "store": "מגה ספורט",
+      "name": "מגה ספורט נתניה - עיר ימים",
+      "city": "נתניה"
     },
     {
-      "id": "ace-44",
-      "store": "ACE",
-      "name": "אשדוד, סטאר סנטר",
-      "city": "אשדוד"
+      "id": "megasport-129212242d84",
+      "store": "מגה ספורט",
+      "name": "מגה ספורט גראנד קניון - חיפה",
+      "city": "חיפה"
     },
     {
-      "id": "ace-50",
-      "store": "ACE",
-      "name": "יהוד, מתחם ביג",
+      "id": "megasport-2028d10c7749",
+      "store": "מגה ספורט",
+      "name": "מגה ספורט חדרה",
+      "city": "חדרה"
+    },
+    {
+      "id": "megasport-31d8dfd3e35c",
+      "store": "מגה ספורט",
+      "name": "מגה ספורט - יהוד",
       "city": "יהוד"
     },
     {
-      "id": "ace-52",
-      "store": "ACE",
-      "name": "חיפה, חוצות המפרץ",
-      "city": "חיפה"
+      "id": "megasport-4b86dd142f65",
+      "store": "מגה ספורט",
+      "name": "מגה ספורט רמת ישי",
+      "city": "רמת ישי"
     },
     {
-      "id": "ace-75",
-      "store": "ACE",
-      "name": "נתניה, פולג",
-      "city": "נתניה"
+      "id": "megasport-4b966d942649",
+      "store": "מגה ספורט",
+      "name": "מגה ספורט פתח תקווה",
+      "city": "פתח תקווה"
     },
     {
-      "id": "opticana-13",
-      "store": "אופטיקנה",
-      "name": "רחובות - קניון רחובות",
-      "city": "רחובות"
+      "id": "megasport-555a941f9743",
+      "store": "מגה ספורט",
+      "name": "מגה ספורט קרית אונו",
+      "city": "קרית אונו"
     },
     {
-      "id": "opticana-19",
-      "store": "אופטיקנה",
-      "name": "באר שבע - קניון הנגב",
+      "id": "megasport-5ff26419063a",
+      "store": "מגה ספורט",
+      "name": "מגה ספורט עזריאלי חולון",
+      "city": "חולון"
+    },
+    {
+      "id": "megasport-6237ebbf2b64",
+      "store": "מגה ספורט",
+      "name": "מגה ספורט שרונים - הוד השרון",
+      "city": "הוד השרון"
+    },
+    {
+      "id": "megasport-6308763bb1f0",
+      "store": "מגה ספורט",
+      "name": "מגה ספורט עזריאלי - תל אביב",
+      "city": "ת\"א"
+    },
+    {
+      "id": "megasport-68db1dc4a700",
+      "store": "מגה ספורט",
+      "name": "מגה ספורט ביג טבריה",
+      "city": "טבריה"
+    },
+    {
+      "id": "megasport-79df4b264e54",
+      "store": "מגה ספורט",
+      "name": "מגה ספורט - עכו",
+      "city": "עכו"
+    },
+    {
+      "id": "megasport-7a4f0117c7a6",
+      "store": "מגה ספורט",
+      "name": "מגה ספורט ארנה - נהריה",
+      "city": "נהריה"
+    },
+    {
+      "id": "megasport-88e76e2ded51",
+      "store": "מגה ספורט",
+      "name": "מגה ספורט מבקיעים - אשקלון",
+      "city": "אשקלון"
+    },
+    {
+      "id": "megasport-916ffb30069d",
+      "store": "מגה ספורט",
+      "name": "מגה ספורט צומת סילבר - אשקלון",
+      "city": "אשקלון"
+    },
+    {
+      "id": "megasport-a4800a573ae5",
+      "store": "מגה ספורט",
+      "name": "מגה ספורט - נוף הגליל",
+      "city": "נוף הגליל"
+    },
+    {
+      "id": "megasport-ab2742214394",
+      "store": "מגה ספורט",
+      "name": "מגה ספורט הנגב - באר שבע",
       "city": "באר שבע"
     },
     {
-      "id": "opticana-25",
-      "store": "אופטיקנה",
-      "name": "חיפה - גרנד קניון",
-      "city": "חיפה"
+      "id": "megasport-ad48f0507317",
+      "store": "מגה ספורט",
+      "name": "מגה ספורט - מודיעין",
+      "city": "מודיעין"
     },
     {
-      "id": "opticana-44",
-      "store": "אופטיקנה",
-      "name": "נתניה - קניון עופר השרון",
-      "city": "נתניה"
+      "id": "megasport-b1cb175d122a",
+      "store": "מגה ספורט",
+      "name": "מגה ספורט דיזנגוף סנטר - תל אביב",
+      "city": "ת\"א"
     },
     {
-      "id": "opticana-6",
-      "store": "אופטיקנה",
-      "name": "ירושלים - קניון עזריאלי מלחה",
+      "id": "megasport-bbdc0a93c416",
+      "store": "מגה ספורט",
+      "name": "מגה ספורט מלחה - ירושלים",
       "city": "ירושלים"
     },
     {
-      "id": "opticana-75",
-      "store": "אופטיקנה",
-      "name": "אילת - קניון מול הים",
+      "id": "megasport-d1c7ba83b87e",
+      "store": "מגה ספורט",
+      "name": "מגה ספורט קריית עקרון - רחובות",
+      "city": "קריית עקרון - רחובות"
+    },
+    {
+      "id": "megasport-e03796aac993",
+      "store": "מגה ספורט",
+      "name": "מגה ספורט ראשונים - ראשון לציון",
+      "city": "ראשון לציון"
+    },
+    {
+      "id": "megasport-e0de989f8c96",
+      "store": "מגה ספורט",
+      "name": "מגה ספורט - כרמיאל",
+      "city": "כרמיאל"
+    },
+    {
+      "id": "megasport-e17b9568730d",
+      "store": "מגה ספורט",
+      "name": "מגה ספורט - הרצליה",
+      "city": "הרצליה"
+    },
+    {
+      "id": "megasport-e77b6ee4a046",
+      "store": "מגה ספורט",
+      "name": "מגה ספורט ביג אילת",
       "city": "אילת"
+    },
+    {
+      "id": "megasport-e839a5a5d599",
+      "store": "מגה ספורט",
+      "name": "מגה ספורט - רחובות",
+      "city": "רחובות"
+    },
+    {
+      "id": "megasport-ea0ad120df96",
+      "store": "מגה ספורט",
+      "name": "מגה ספורט גירון - אשקלון",
+      "city": "אשקלון"
+    },
+    {
+      "id": "megasport-ff6e4dfd06d5",
+      "store": "מגה ספורט",
+      "name": "מגה ביג אשדוד",
+      "city": "אשדוד"
+    },
+    {
+      "id": "rikushet-846",
+      "store": "ריקושט",
+      "name": "הרצליה - שבעת הכוכבים",
+      "city": "הרצליה"
     }
   ],
   "updated": [],
@@ -90,15 +198,15 @@
   "retained": [],
   "chains": [
     {
-      "store": "ACE",
-      "examined": 21,
-      "included": 7,
+      "store": "מגה ספורט",
+      "examined": 65,
+      "included": 30,
       "retained": 0
     },
     {
-      "store": "אופטיקנה",
-      "examined": 14,
-      "included": 6,
+      "store": "ריקושט",
+      "examined": 38,
+      "included": 1,
       "retained": 0
     }
   ]

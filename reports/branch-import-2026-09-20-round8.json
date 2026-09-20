@@ -1,0 +1,105 @@
+{
+  "checkedAt": "2026-09-20T17:47:25.774Z",
+  "files": [
+    "candidates/ace-round8.json",
+    "candidates/opticana-round8.json"
+  ],
+  "added": [
+    {
+      "id": "ace-29",
+      "store": "ACE",
+      "name": "אשקלון מבקיעים",
+      "city": "אשקלון"
+    },
+    {
+      "id": "ace-41",
+      "store": "ACE",
+      "name": "ראשון לציון, מתחם G",
+      "city": "ראשון לציון"
+    },
+    {
+      "id": "ace-43",
+      "store": "ACE",
+      "name": "רגבה, מתחם ביג",
+      "city": "רגבה"
+    },
+    {
+      "id": "ace-44",
+      "store": "ACE",
+      "name": "אשדוד, סטאר סנטר",
+      "city": "אשדוד"
+    },
+    {
+      "id": "ace-50",
+      "store": "ACE",
+      "name": "יהוד, מתחם ביג",
+      "city": "יהוד"
+    },
+    {
+      "id": "ace-52",
+      "store": "ACE",
+      "name": "חיפה, חוצות המפרץ",
+      "city": "חיפה"
+    },
+    {
+      "id": "ace-75",
+      "store": "ACE",
+      "name": "נתניה, פולג",
+      "city": "נתניה"
+    },
+    {
+      "id": "opticana-13",
+      "store": "אופטיקנה",
+      "name": "רחובות - קניון רחובות",
+      "city": "רחובות"
+    },
+    {
+      "id": "opticana-19",
+      "store": "אופטיקנה",
+      "name": "באר שבע - קניון הנגב",
+      "city": "באר שבע"
+    },
+    {
+      "id": "opticana-25",
+      "store": "אופטיקנה",
+      "name": "חיפה - גרנד קניון",
+      "city": "חיפה"
+    },
+    {
+      "id": "opticana-44",
+      "store": "אופטיקנה",
+      "name": "נתניה - קניון עופר השרון",
+      "city": "נתניה"
+    },
+    {
+      "id": "opticana-6",
+      "store": "אופטיקנה",
+      "name": "ירושלים - קניון עזריאלי מלחה",
+      "city": "ירושלים"
+    },
+    {
+      "id": "opticana-75",
+      "store": "אופטיקנה",
+      "name": "אילת - קניון מול הים",
+      "city": "אילת"
+    }
+  ],
+  "updated": [],
+  "duplicates": [],
+  "reviewRequired": [],
+  "retained": [],
+  "chains": [
+    {
+      "store": "ACE",
+      "examined": 21,
+      "included": 7,
+      "retained": 0
+    },
+    {
+      "store": "אופטיקנה",
+      "examined": 14,
+      "included": 6,
+      "retained": 0
+    }
+  ]
+}

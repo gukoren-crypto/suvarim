@@ -5672,6 +5672,507 @@
         }
       ],
       "retainedFromPrevious": 0
+    },
+    {
+      "store": "מגה ספורט",
+      "aliases": [
+        "מגה ספורט",
+        "MEGA SPORT",
+        "Mega Sport"
+      ],
+      "sourceUrl": "https://www.megasport.co.il/pages/store-locator",
+      "checkedAt": "2026-09-20",
+      "examined": 65,
+      "included": 30,
+      "coverage": "partial",
+      "note": "חנויות מגה ספורט רגילות בלבד; עודפים ומרלוג הוחרגו. יעדי ניווט מפורשים של הסניף עם התאמת מתחם או כתובת. כפילויות ויעדים חשודים נשארו לבירור. אין ערבוב עם קידס או אונליין ואין הוכחת זכאות לשובר.",
+      "skipped": [
+        {
+          "officialId": "d0bbf2da47da",
+          "name": "מגה ספורט חוצות המפרץ - חיפה",
+          "city": "חיפה",
+          "address": "חוצות המפרץ, צומת וולקן",
+          "reason": "source-coordinate-conflicts-with-named-venue"
+        },
+        {
+          "officialId": "a0eede41e78e",
+          "name": "מגה ספורט ירכא",
+          "city": "ירכא",
+          "address": "אלתאח'ים 46 (טרמינל 2 ), א.ת, מיי בייבי",
+          "reason": "specific-venue-or-address-needs-further-review"
+        },
+        {
+          "officialId": "9e3f353d6405",
+          "name": "מגה ספורט בילו - רחובות",
+          "city": "רחובות",
+          "address": "צומת בי\"לו",
+          "reason": "duplicate-destination-retained-clearer-bilu-centre-record"
+        },
+        {
+          "officialId": "a912bdf90c60",
+          "name": "מגה ספורט - רמת גן",
+          "city": "בני ברק - רמת גן",
+          "address": "מבצע קדש 56 בני ברק",
+          "reason": "specific-venue-or-address-needs-further-review"
+        },
+        {
+          "officialId": "89e22729cbbb",
+          "name": "מגה ספורט - תל-חנן/נשר",
+          "city": "נשר",
+          "address": "בר יהודה 147",
+          "reason": "specific-venue-or-address-needs-further-review"
+        },
+        {
+          "officialId": "afb6c5e873d9",
+          "name": "מגה ספורט - ראשון לציון מערב",
+          "city": "ראשון לציון",
+          "address": "הלחי 4, מתחם הום סנטר-מערב",
+          "reason": "specific-venue-or-address-needs-further-review"
+        },
+        {
+          "officialId": "01f33a4d9042",
+          "name": "מגה ספורט אילת - אזור תעשיה",
+          "city": "אילת",
+          "address": "חטיבת גולני 40 א.ת צפוני מרכז one",
+          "reason": "specific-venue-or-address-needs-further-review"
+        },
+        {
+          "officialId": "f512cb6a4e99",
+          "name": "מגה ספורט - כפר סבא",
+          "city": "כפר סבא",
+          "address": "מתחם G ויצמן 301",
+          "reason": "street-number-discrepancy-needs-review"
+        },
+        {
+          "officialId": "ba3123412ca6",
+          "name": "מגה ספורט - באר שבע",
+          "city": "באר שבע",
+          "address": "מתחם one plaza רח' נפחא 25",
+          "reason": "specific-venue-or-address-needs-further-review"
+        },
+        {
+          "officialId": "e1a99d34137a",
+          "name": "ביג פאשן גלילות",
+          "city": "רמת השרון",
+          "address": "מתחם ביג פאשן גלילות כביש החוף",
+          "reason": "conflicting-explicit-navigation-destinations"
+        },
+        {
+          "officialId": "9fcd4ec1ef19",
+          "name": "מגה ספורט - חולון",
+          "city": "חולון",
+          "address": "המכתש 6",
+          "reason": "conflicting-explicit-navigation-destinations"
+        },
+        {
+          "officialId": "b5915fdf4325",
+          "name": "מגה ספורט - קרית גת",
+          "city": "קרית גת",
+          "address": "דרך הדרום 3",
+          "reason": "conflicting-explicit-navigation-destinations"
+        },
+        {
+          "officialId": "754b9499d528",
+          "name": "מגה ספורט - בית שמש",
+          "city": "בית שמש",
+          "address": "קניון ביג פאשן, יגאל אלון 1",
+          "reason": "specific-venue-or-address-needs-further-review"
+        },
+        {
+          "officialId": "818b4aea643a",
+          "name": "מגה ספורט - רמלה",
+          "city": "רמלה",
+          "address": "דויד רזיאל פינת שמשון",
+          "reason": "specific-venue-or-address-needs-further-review"
+        },
+        {
+          "officialId": "a1bee6c7838d",
+          "name": "מגה ספורט - נמל תל אביב",
+          "city": "תל אביב",
+          "address": "יורדי הסירה 1",
+          "reason": "specific-venue-or-address-needs-further-review"
+        },
+        {
+          "officialId": "1ea3d49bd104",
+          "name": "מגה ספורט אילת - טיילת נפטון",
+          "city": "אילת",
+          "address": "טיילת נפטון, החוף הצפוני אילת",
+          "reason": "specific-venue-or-address-needs-further-review"
+        },
+        {
+          "officialId": "a270a911bd8c",
+          "name": "מגה ספורט - נתניה",
+          "city": "נתניה",
+          "address": "מתחם רוגובין פדרמן רח' המחקר 3",
+          "reason": "specific-venue-or-address-needs-further-review"
+        },
+        {
+          "officialId": "a47586e355d9",
+          "name": "מגה ספורט כנרת",
+          "city": "צומת צמח",
+          "address": "מתחם מול כנרת",
+          "reason": "specific-venue-or-address-needs-further-review"
+        },
+        {
+          "officialId": "343395fbd04a",
+          "name": "מגה ספורט רגבה",
+          "city": "כביש עכו נהריה",
+          "address": "מרכז ביג",
+          "reason": "specific-venue-or-address-needs-further-review"
+        },
+        {
+          "officialId": "e609a51873a2",
+          "name": "מגה ספורט עפולה",
+          "city": "עפולה",
+          "address": "מתחם G בעמק, שדרות רבין 18",
+          "reason": "source-coordinate-conflicts-with-named-venue"
+        },
+        {
+          "officialId": "2bca94142174",
+          "name": "מגה ספורט גליל עליון - קרית שמונה",
+          "city": "גליל עליון - קרית שמונה",
+          "address": "מתחם ביג, קרית שמונה",
+          "reason": "specific-venue-or-address-needs-further-review"
+        },
+        {
+          "officialId": "a94e119ebea4",
+          "name": "מגה ספורט סטאר סנטר - אשדוד",
+          "city": "אשדוד",
+          "address": "ז'בוטינסקי 44 סטאר סנטר",
+          "reason": "street-number-discrepancy-needs-review"
+        },
+        {
+          "officialId": "d40cfc761684",
+          "name": "מגה ספורט קניון רננים - רעננה",
+          "city": "רעננה",
+          "address": "המלאכה 20, קניון רננים",
+          "reason": "street-number-discrepancy-needs-review"
+        },
+        {
+          "officialId": "d3a3ff2507f0",
+          "name": "מגה ספורט עין שמר",
+          "city": "צומת כרכור",
+          "address": "מתחם אלון עין שמר",
+          "reason": "source-coordinate-conflicts-with-named-venue"
+        },
+        {
+          "officialId": "2af8145240c3",
+          "name": "מגה ספורט נס ציונה",
+          "city": "נס ציונה",
+          "address": "הפטיש 6, ישפרו סנטר",
+          "reason": "specific-venue-or-address-needs-further-review"
+        },
+        {
+          "officialId": "e467f12e88db",
+          "name": "מגה ספורט ראש פינה",
+          "city": "צומת ראש פינה",
+          "address": "מתחם שופינה, דרך הגליל רח' התפוח",
+          "reason": "specific-venue-or-address-needs-further-review"
+        },
+        {
+          "officialId": "61281d52bdd8",
+          "name": "מגה ספורט נתיבות",
+          "city": "נתיבות",
+          "address": "מרכז מסחרי גלובוס סנטר. בעלי המלאכה 5",
+          "reason": "street-number-discrepancy-needs-review"
+        },
+        {
+          "officialId": "05a23292176e",
+          "name": "מגה ספורט שדרות",
+          "city": "שדרות",
+          "address": "מתחם מול 7",
+          "reason": "specific-venue-or-address-needs-further-review"
+        },
+        {
+          "officialId": "a04d0b4677d5",
+          "name": "מגה ספורט ערד",
+          "city": "ערד",
+          "address": "מרכז צים",
+          "reason": "specific-venue-or-address-needs-further-review"
+        },
+        {
+          "officialId": "e336009163cd",
+          "name": "מגה ספורט דימונה",
+          "city": "דימונה",
+          "address": "פרץ סנטר",
+          "reason": "specific-venue-or-address-needs-further-review"
+        },
+        {
+          "officialId": "6603b8253ec8",
+          "name": "מגה ספורט בת ים",
+          "city": "בת ים",
+          "address": "הרב ניסנבאום 9",
+          "reason": "specific-venue-or-address-needs-further-review"
+        },
+        {
+          "officialId": "015a9adfca0e",
+          "name": "מגה ספורט צמח",
+          "city": "עמק הירדן",
+          "address": "מול כנרת, ד.נ. 1510501 צמח",
+          "reason": "duplicate-unreviewed-tzemach-record"
+        },
+        {
+          "officialId": "3f182fe2b35f",
+          "name": "מגה ספורט ביג גדרה",
+          "city": "גדרה",
+          "address": "אברהם דורון, גדרה",
+          "reason": "specific-venue-or-address-needs-further-review"
+        },
+        {
+          "officialId": "76828fb40d17",
+          "name": "מגה ספורט מגדל העמק",
+          "city": "מגדל העמק",
+          "address": "7555, מגדל העמק",
+          "reason": "specific-venue-or-address-needs-further-review"
+        },
+        {
+          "officialId": "608788310243",
+          "name": "מגה ספורט - גרנד קניון באר שבע",
+          "city": "באר שבע",
+          "address": "מתחם ביג פאשן גלילות כביגרנד קניון, באר שבעש החוף",
+          "reason": "malformed-address-mixes-distinct-cities"
+        }
+      ],
+      "retainedFromPrevious": 0
+    },
+    {
+      "store": "ריקושט",
+      "aliases": [
+        "ריקושט",
+        "RIKUSHET",
+        "Rikushet"
+      ],
+      "sourceUrl": "https://www.rikushet.co.il/storelocator",
+      "checkedAt": "2026-09-20",
+      "examined": 38,
+      "included": 1,
+      "coverage": "partial",
+      "note": "נבדקו40 רשומות רשמיות;2 סניפי עודפים הופרדו מהיקף38 חנויות רגילות. נכללו רק יעדי Waze עשרוניים מפורשים התואמים לשדות הסניף ולמתחם שאומת. מרבית יעדי המקור רשומים במעלות/דקות/שניות בסדר צירים הפוך ולא תוקנו. עודפים ומיקום ללא הצלבה נשארו לבירור.",
+      "skipped": [
+        {
+          "officialId": "801",
+          "name": "חדרה",
+          "city": "חדרה",
+          "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+        },
+        {
+          "officialId": "849",
+          "name": "אור עקיבא - חדש!",
+          "city": "אור עקיבא",
+          "reason": "venue-not-independently-corroborated-in-this-round"
+        },
+        {
+          "officialId": "845",
+          "name": "אילת",
+          "city": "אילת",
+          "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+        },
+        {
+          "officialId": "836",
+          "name": "אשדוד ביג",
+          "city": "אשדוד",
+          "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+        },
+        {
+          "officialId": "840",
+          "name": "אשקלון",
+          "city": "אשקלון",
+          "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+        },
+        {
+          "officialId": "842",
+          "name": "באר שבע ביג",
+          "city": "באר שבע",
+          "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+        },
+        {
+          "officialId": "827",
+          "name": "בית שאן",
+          "city": "בית שאן",
+          "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+        },
+        {
+          "officialId": "819",
+          "name": "בית שמש",
+          "city": "בית שמש",
+          "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+        },
+        {
+          "officialId": "824",
+          "name": "בת ים",
+          "city": "בת ים",
+          "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+        },
+        {
+          "officialId": "813",
+          "name": "גבעתיים",
+          "city": "גבעתיים",
+          "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+        },
+        {
+          "officialId": "844",
+          "name": "דימונה",
+          "city": "דימונה",
+          "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+        },
+        {
+          "officialId": "825",
+          "name": "חולון",
+          "city": "חולון",
+          "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+        },
+        {
+          "officialId": "809",
+          "name": "חיפה - עופר גרנד קניון",
+          "city": "חיפה",
+          "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+        },
+        {
+          "officialId": "834",
+          "name": "טבריה",
+          "city": "טבריה",
+          "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+        },
+        {
+          "officialId": "837",
+          "name": "ירושלים (תלפיות)",
+          "city": "ירושלים",
+          "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+        },
+        {
+          "officialId": "838",
+          "name": "ירושלים מלחה",
+          "city": "ירושלים",
+          "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+        },
+        {
+          "officialId": "804",
+          "name": "כפר סבא G",
+          "city": "כפר סבא",
+          "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+        },
+        {
+          "officialId": "833",
+          "name": "כרמיאל",
+          "city": "כרמיאל",
+          "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+        },
+        {
+          "officialId": "830",
+          "name": "מודיעין",
+          "city": "מודיעין",
+          "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+        },
+        {
+          "officialId": "821",
+          "name": "נוף הגליל - נצרת",
+          "city": "נוף הגליל - נצרת",
+          "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+        },
+        {
+          "officialId": "841",
+          "name": "נתיבות",
+          "city": "נתיבות",
+          "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+        },
+        {
+          "officialId": "803",
+          "name": "נתניה- עיר ימים",
+          "city": "נתניה",
+          "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+        },
+        {
+          "officialId": "815",
+          "name": "עפולה",
+          "city": "עפולה",
+          "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+        },
+        {
+          "officialId": "811",
+          "name": "פתח תקווה",
+          "city": "פתח תקווה",
+          "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+        },
+        {
+          "officialId": "822",
+          "name": "קריון",
+          "city": "קריית ביאליק",
+          "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+        },
+        {
+          "officialId": "818",
+          "name": "קרית אונו",
+          "city": "קרית אונו",
+          "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+        },
+        {
+          "officialId": "839",
+          "name": "ראש פינה",
+          "city": "ראש פינה",
+          "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+        },
+        {
+          "officialId": "828",
+          "name": "ראשונים",
+          "city": "ראשון לציון",
+          "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+        },
+        {
+          "officialId": "829",
+          "name": "רגבה",
+          "city": "רגבה",
+          "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+        },
+        {
+          "officialId": "831",
+          "name": "רחובות",
+          "city": "רחובות",
+          "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+        },
+        {
+          "officialId": "810",
+          "name": "רמת גן",
+          "city": "רמת גן",
+          "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+        },
+        {
+          "officialId": "806",
+          "name": "רמת השרון",
+          "city": "רמת השרון",
+          "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+        },
+        {
+          "officialId": "807",
+          "name": "רמת ישי",
+          "city": "רמת ישי",
+          "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+        },
+        {
+          "officialId": "812",
+          "name": "רעננה",
+          "city": "רעננה",
+          "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+        },
+        {
+          "officialId": "820",
+          "name": "תל אביב (תחנה מרכזית)",
+          "city": "תל אביב",
+          "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+        },
+        {
+          "officialId": "816",
+          "name": "תל אביב דיזינגוף",
+          "city": "תל אביב",
+          "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+        },
+        {
+          "officialId": "817",
+          "name": "תל אביב עזריאלי",
+          "city": "תל אביב",
+          "reason": "invalid-DMS-coordinate-order; no conversion or axis swap"
+        }
+      ],
+      "retainedFromPrevious": 0
     }
   ]
 }
